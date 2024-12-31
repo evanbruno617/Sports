@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+809,1B,2B,Stolen Base 2B,663609,Luken Baker,650633,Michael King,680977,Brendan Donovan,R,Kyle Higashioka,543309,0,0,1,False,2024-08-29,Stolen,2B

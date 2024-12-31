@@ -1,0 +1,54 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,542340,Jonathan Villar,519393,Marcus Walden,596105,Dwight Smith Jr.,R,Blake Swihart,596119,0,4,5,True,2019-04-15,Stolen,2B,2019,2020,27.0
+1,1B,,Caught Stealing 2B,430945,Adam Jones,519144,Rick Porcello,572233,Christian Walker,R,Blake Swihart,596119,1,1,3,False,2019-04-05,Caught,2B,2019,2020,27.0
+2,1B,2B,Stolen Base 2B,543760,Marcus Semien,598264,Matt Barnes,657656,Ramón Laureano,R,Blake Swihart,596119,3,3,8,False,2019-04-03,Stolen,2B,2019,2020,27.0
+3,1B,2B,Stolen Base 2B,542340,Jonathan Villar,519393,Marcus Walden,596105,Dwight Smith Jr.,R,Blake Swihart,596119,0,4,5,True,2019-04-15,Stolen,2B,2019,2020,27.0
+4,1B,,Caught Stealing 2B,430945,Adam Jones,519144,Rick Porcello,572233,Christian Walker,R,Blake Swihart,596119,1,1,3,False,2019-04-05,Caught,2B,2019,2020,27.0
+5,1B,2B,Stolen Base 2B,543760,Marcus Semien,598264,Matt Barnes,657656,Ramón Laureano,R,Blake Swihart,596119,3,3,8,False,2019-04-03,Stolen,2B,2019,2020,27.0
+6,1B,2B,Stolen Base 2B,542340,Jonathan Villar,519393,Marcus Walden,596105,Dwight Smith Jr.,R,Blake Swihart,596119,0,4,5,True,2019-04-15,Stolen,2B,2019,2020,27.0
+7,1B,,Caught Stealing 2B,430945,Adam Jones,519144,Rick Porcello,572233,Christian Walker,R,Blake Swihart,596119,1,1,3,False,2019-04-05,Caught,2B,2019,2020,27.0
+8,1B,2B,Stolen Base 2B,543760,Marcus Semien,598264,Matt Barnes,657656,Ramón Laureano,R,Blake Swihart,596119,3,3,8,False,2019-04-03,Stolen,2B,2019,2020,27.0
+9,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017,27.9
+10,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017,27.9
+11,1B,2B,Stolen Base 2B,434658,Rajai Davis,598264,Matt Barnes,596019,Francisco Lindor,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Stolen,2B,2016,2017,27.9
+12,2B,,Caught Stealing 3B,434658,Rajai Davis,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017,27.9
+13,1B,2B,Caught Stealing 3B,596019,Francisco Lindor,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017,27.9
+14,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017,27.9
+15,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017,27.9
+16,1B,2B,Stolen Base 2B,434658,Rajai Davis,598264,Matt Barnes,596019,Francisco Lindor,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Stolen,2B,2016,2017,27.9
+17,2B,,Caught Stealing 3B,434658,Rajai Davis,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017,27.9
+18,1B,2B,Caught Stealing 3B,596019,Francisco Lindor,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017,27.9
+19,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017,27.9
+20,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017,27.9
+21,1B,2B,Stolen Base 2B,434658,Rajai Davis,598264,Matt Barnes,596019,Francisco Lindor,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Stolen,2B,2016,2017,27.9
+22,2B,,Caught Stealing 3B,434658,Rajai Davis,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017,27.9
+23,1B,2B,Caught Stealing 3B,596019,Francisco Lindor,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017,27.9
+24,1B,,Caught Stealing 2B,514888,Jose Altuve,523260,Joe Kelly,472528,Luis Valbuena,R,Blake Swihart,596119,1,0,3,False,2015-07-22,Caught,2B,2015,2016,28.0
+25,1B,,Caught Stealing 2B,452678,Asdrúbal Cabrera,475416,Justin Masterson,429713,Grady Sizemore,R,Blake Swihart,596119,0,0,1,False,2015-06-28,Caught,2B,2015,2016,28.0
+26,1B,,Caught Stealing 2B,523253,Logan Forsythe,519144,Rick Porcello,452678,Asdrúbal Cabrera,R,Blake Swihart,596119,1,3,4,False,2015-06-26,Caught,2B,2015,2016,28.0
+27,2B,3B,Stolen Base 3B,456665,Steve Pearce,518927,Tommy Layne,475247,Ryan Flaherty,L,Blake Swihart,596119,4,6,6,True,2015-06-25,Stolen,3B,2015,2016,28.0
+28,1B,2B,Stolen Base 2B,457727,Cameron Maybin,444520,Craig Breslow,455976,Nick Markakis,L,Blake Swihart,596119,5,2,8,False,2015-06-17,Stolen,2B,2015,2016,28.0
+29,1B,2B,Stolen Base 2B,607680,Kevin Pillar,593958,Eduardo Rodriguez,408314,José Reyes,L,Blake Swihart,596119,0,0,3,True,2015-06-14,Stolen,2B,2015,2016,28.0
+30,1B,,Caught Stealing 2B,408314,José Reyes,523260,Joe Kelly,430832,José Bautista,R,Blake Swihart,596119,0,0,1,True,2015-06-12,Caught,2B,2015,2016,28.0
+31,1B,2B,Stolen Base 2B,543305,Aaron Hicks,547749,Junichi Tazawa,116338,Torii Hunter,R,Blake Swihart,596119,4,4,7,True,2015-06-04,Stolen,2B,2015,2016,28.0
+32,1B,2B,Stolen Base 2B,592696,Eddie Rosario,519144,Rick Porcello,500871,Eduardo Escobar,R,Blake Swihart,596119,0,0,2,True,2015-06-03,Stolen,2B,2015,2016,28.0
+33,1B,2B,Stolen Base 2B,592261,Delino DeShields,523260,Joe Kelly,425783,Shin-Soo Choo,R,Blake Swihart,596119,0,1,1,False,2015-05-31,Stolen,2B,2015,2016,28.0
+34,1B,,Caught Stealing 2B,547982,Leonys Martin,453214,Steven Wright,425783,Shin-Soo Choo,R,Blake Swihart,596119,3,2,6,False,2015-05-29,Caught,2B,2015,2016,28.0
+35,1B,,Caught Stealing 2B,500871,Eduardo Escobar,519144,Rick Porcello,592696,Eddie Rosario,R,Blake Swihart,596119,6,4,6,False,2015-05-27,Caught,2B,2015,2016,28.0
+36,1B,2B,Stolen Base 2B,592696,Eddie Rosario,598264,Matt Barnes,116338,Torii Hunter,R,Blake Swihart,596119,7,2,5,False,2015-05-25,Stolen,2B,2015,2016,28.0
+37,1B,2B,Stolen Base 2B,543305,Aaron Hicks,518927,Tommy Layne,572821,Brian Dozier,L,Blake Swihart,596119,7,2,7,False,2015-05-25,Stolen,2B,2015,2016,28.0
+38,1B,2B,Stolen Base 2B,430947,Erick Aybar,519144,Rick Porcello,545361,Mike Trout,R,Blake Swihart,596119,1,0,3,True,2015-05-22,Stolen,2B,2015,2016,28.0
+39,3B,,Caught Stealing Home,459964,Matt Joyce,519144,Rick Porcello,543213,Johnny Giavotella,R,Blake Swihart,596119,1,2,4,True,2015-05-22,Caught,Home,2015,2016,28.0
+40,2B,3B,Stolen Base 3B,545361,Mike Trout,519144,Rick Porcello,594777,Kole Calhoun,R,Blake Swihart,596119,3,5,5,True,2015-05-22,Stolen,3B,2015,2016,28.0
+41,2B,3B,Stolen Base 3B,592261,Delino DeShields,547749,Junichi Tazawa,134181,Adrian Beltré,R,Blake Swihart,596119,1,2,8,True,2015-05-20,Stolen,3B,2015,2016,28.0
+42,1B,2B,Stolen Base 2B,489267,Adam Rosales,547749,Junichi Tazawa,134181,Adrian Beltré,R,Blake Swihart,596119,1,2,8,True,2015-05-20,Stolen,2B,2015,2016,28.0
+43,1B,,Caught Stealing 2B,448605,Justin Ruggiano,468396,Alexi Ogando,429664,Robinson Canó,R,Blake Swihart,596119,3,0,7,False,2015-05-17,Caught,2B,2015,2016,28.0
+44,1B,2B,Stolen Base 2B,592192,Mark Canha,598264,Matt Barnes,519299,Eric Sogard,R,Blake Swihart,596119,4,4,10,False,2015-05-11,Stolen,2B,2015,2016,28.0
+45,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,523260,Joe Kelly,607680,Kevin Pillar,R,Blake Swihart,596119,1,0,1,False,2015-05-09,Stolen,2B,2015,2016,28.0
+46,2B,3B,Stolen Base 3B,581527,Devon Travis,523260,Joe Kelly,429665,Edwin Encarnación,R,Blake Swihart,596119,5,0,4,False,2015-05-09,Stolen,3B,2015,2016,28.0
+47,1B,2B,Stolen Base 2B,430832,José Bautista,523260,Joe Kelly,429665,Edwin Encarnación,R,Blake Swihart,596119,5,0,4,False,2015-05-09,Stolen,2B,2015,2016,28.0
+48,1B,,Caught Stealing 2B,595281,Kevin Kiermaier,475416,Justin Masterson,523253,Logan Forsythe,R,Blake Swihart,596119,0,0,1,True,2015-05-06,Caught,2B,2015,2016,28.0
+49,1B,2B,Stolen Base 2B,430203,David DeJesus,519144,Rick Porcello,452678,Asdrúbal Cabrera,R,Blake Swihart,596119,0,0,2,True,2015-05-05,Stolen,2B,2015,2016,28.0
+50,1B,2B,Stolen Base 2B,458731,Brett Gardner,523260,Joe Kelly,121347,Alex Rodriguez,R,Blake Swihart,596119,0,5,4,True,2015-05-03,Stolen,2B,2015,2016,28.0
+51,1B,2B,Stolen Base 2B,458731,Brett Gardner,648737,Dalier Hinojosa,407893,Mark Teixeira,R,Blake Swihart,596119,5,8,8,True,2015-05-03,Stolen,2B,2015,2016,28.0
+52,1B,2B,Stolen Base 2B,453056,Jacoby Ellsbury,489119,Wade Miley,121347,Alex Rodriguez,L,Blake Swihart,596119,0,0,1,True,2015-05-02,Stolen,2B,2015,2016,28.0

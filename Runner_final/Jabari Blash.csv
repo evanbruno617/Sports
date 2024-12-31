@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1208,1B,,Caught Stealing 2B,518466,Jabari Blash,621389,Ty Blach,605486,Cory Spangenberg,L,Nick Hundley,460026,1,0,4,False,2017-08-30,Caught,2B
+1286,1B,2B,Stolen Base 2B,518466,Jabari Blash,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,2B
+3383,1B,,Caught Stealing 2B,518466,Jabari Blash,520980,Pedro Báez,622534,Manuel Margot,R,Yasmani Grandal,518735,2,3,7,False,2017-05-05,Caught,2B
+5198,1B,2B,Stolen Base 2B,518466,Jabari Blash,605200,Zach Davies,519083,Derek Norris,R,Martín Maldonado,455117,1,1,4,False,2016-08-02,Stolen,2B
+1163,1B,2B,Stolen Base 2B,518466,Jabari Blash,605200,Zach Davies,519083,Derek Norris,R,Martín Maldonado,455117,1,1,4,False,2016-08-02,Stolen,2B
+580,1B,,Caught Stealing 2B,518466,Jabari Blash,621389,Ty Blach,605486,Cory Spangenberg,L,Nick Hundley,460026,1,0,4,False,2017-08-30,Caught,2B
+658,1B,2B,Stolen Base 2B,518466,Jabari Blash,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,2B
+2755,1B,,Caught Stealing 2B,518466,Jabari Blash,520980,Pedro Báez,622534,Manuel Margot,R,Yasmani Grandal,518735,2,3,7,False,2017-05-05,Caught,2B
+4570,1B,2B,Stolen Base 2B,518466,Jabari Blash,605200,Zach Davies,519083,Derek Norris,R,Martín Maldonado,455117,1,1,4,False,2016-08-02,Stolen,2B

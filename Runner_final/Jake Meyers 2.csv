@@ -1,0 +1,34 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+115,1B,2B,Stolen Base 2B,676694,Jake Meyers,502171,Alex Cobb,514888,Jose Altuve,R,Max Stassi,545358,1,0,5,True,2021-09-23,Stolen,2B
+240,1B,2B,Stolen Base 2B,676694,Jake Meyers,657248,Glenn Otto,455117,Martín Maldonado,R,Yohel Pozo,650968,0,3,4,True,2021-09-16,Stolen,2B
+800,1B,2B,Stolen Base 2B,676694,Jake Meyers,622608,Antonio Senzatela,622100,Taylor Jones,R,Elias Díaz,553869,2,1,6,False,2021-08-11,Stolen,2B
+1456,1B,,Caught Stealing 2B,676694,Jake Meyers,668909,Gavin Williams,455117,Martín Maldonado,R,Cam Gallagher,595956,0,0,3,False,2023-08-01,Caught,2B
+2011,1B,2B,Stolen Base 2B,676694,Jake Meyers,607536,Kyle Freeland,666197,Grae Kessinger,L,Elias Díaz,553869,3,0,6,False,2023-07-04,Stolen,2B
+2195,1B,2B,Stolen Base 2B,676694,Jake Meyers,664062,Tony Gonsolin,455117,Martín Maldonado,R,Will Smith,669257,1,4,5,True,2023-06-25,Stolen,2B
+2510,1B,2B,Stolen Base 2B,676694,Jake Meyers,663658,Thaddeus Ward,455117,Martín Maldonado,R,Keibert Ruiz,660688,5,1,8,False,2023-06-13,Stolen,2B
+2568,1B,2B,Stolen Base 2B,676694,Jake Meyers,682120,Tim Herrin,455117,Martín Maldonado,L,Mike Zunino,572287,3,5,8,True,2023-06-10,Stolen,2B
+3318,1B,2B,Stolen Base 2B,676694,Jake Meyers,660271,Shohei Ohtani,455117,Martín Maldonado,R,Matt Thaiss,642136,1,2,5,True,2023-05-09,Stolen,2B
+38,1B,,Caught Stealing 2B,676694,Jake Meyers,650671,José Quijada,686676,Korey Lee,L,Max Stassi,545358,7,1,7,True,2022-07-13,Caught,2B
+2039,1B,2B,Stolen Base 2B,676694,Jake Meyers,502171,Alex Cobb,514888,Jose Altuve,R,Max Stassi,545358,1,0,5,True,2021-09-23,Stolen,2B
+2164,1B,2B,Stolen Base 2B,676694,Jake Meyers,657248,Glenn Otto,455117,Martín Maldonado,R,Yohel Pozo,650968,0,3,4,True,2021-09-16,Stolen,2B
+2724,1B,2B,Stolen Base 2B,676694,Jake Meyers,622608,Antonio Senzatela,622100,Taylor Jones,R,Elias Díaz,553869,2,1,6,False,2021-08-11,Stolen,2B
+193,1B,2B,Stolen Base 2B,676694,Jake Meyers,670871,Guillo Zuñiga,643289,Mauricio Dubón,R,Logan O'Hoppe,681351,8,2,6,False,2024-09-21,Stolen,2B
+589,1B,2B,Stolen Base 2B,676694,Jake Meyers,656756,Jordan Montgomery,643289,Mauricio Dubón,L,Adrian Del Castillo,680728,4,0,6,False,2024-09-06,Stolen,2B
+1192,1B,2B,Stolen Base 2B,676694,Jake Meyers,664076,Garrett Cleavinger,643289,Mauricio Dubón,L,Ben Rortvedt,666163,1,2,10,True,2024-08-14,Stolen,2B
+1492,1B,2B,Stolen Base 2B,676694,Jake Meyers,687330,Kevin Kelly,643289,Mauricio Dubón,R,Alex Jackson,656577,2,2,6,False,2024-08-02,Stolen,2B
+2314,1B,2B,Stolen Base 2B,676694,Jake Meyers,663372,Ryan Feltner,572138,Jon Singleton,R,Jacob Stallings,607732,1,0,4,False,2024-06-26,Stolen,2B
+2315,1B,,Caught Stealing 2B,676694,Jake Meyers,663372,Ryan Feltner,572138,Jon Singleton,R,Jacob Stallings,607732,2,0,6,False,2024-06-26,Caught,2B
+2698,1B,2B,Stolen Base 2B,676694,Jake Meyers,690986,Kyle Harrison,547989,José Abreu,L,Patrick Bailey,672275,0,0,5,True,2024-06-10,Stolen,2B
+2719,1B,2B,Stolen Base 2B,676694,Jake Meyers,663776,Patrick Sandoval,676801,Chas McCormick,L,Logan O'Hoppe,681351,1,3,4,True,2024-06-09,Stolen,2B
+2889,1B,2B,Stolen Base 2B,676694,Jake Meyers,680573,Simeon Woods Richardson,605170,Victor Caratini,R,Ryan Jeffers,680777,3,2,4,False,2024-06-02,Stolen,2B
+2953,1B,,Caught Stealing 2B,676694,Jake Meyers,669302,Logan Gilbert,605170,Victor Caratini,R,Cal Raleigh,663728,0,2,4,True,2024-05-30,Caught,2B
+2960,1B,2B,Stolen Base 2B,676694,Jake Meyers,669923,George Kirby,572138,Jon Singleton,R,Mitch Garver,641598,0,1,4,True,2024-05-29,Stolen,2B
+3356,1B,2B,Stolen Base 2B,676694,Jake Meyers,687765,Mitch Spence,514888,Jose Altuve,R,Shea Langeliers,669127,5,2,7,False,2024-05-13,Stolen,2B
+3556,1B,2B,Stolen Base 2B,676694,Jake Meyers,642048,Tayler Saucedo,514888,Jose Altuve,L,Cal Raleigh,663728,4,3,7,False,2024-05-05,Stolen,2B
+4380,1B,,Caught Stealing 2B,676694,Jake Meyers,643338,Chad Green,676801,Chas McCormick,R,Alejandro Kirk,672386,1,2,9,False,2024-04-02,Caught,2B
+5870,1B,,Caught Stealing 2B,676694,Jake Meyers,668909,Gavin Williams,455117,Martín Maldonado,R,Cam Gallagher,595956,0,0,3,False,2023-08-01,Caught,2B
+6425,1B,2B,Stolen Base 2B,676694,Jake Meyers,607536,Kyle Freeland,666197,Grae Kessinger,L,Elias Díaz,553869,3,0,6,False,2023-07-04,Stolen,2B
+6609,1B,2B,Stolen Base 2B,676694,Jake Meyers,664062,Tony Gonsolin,455117,Martín Maldonado,R,Will Smith,669257,1,4,5,True,2023-06-25,Stolen,2B
+6924,1B,2B,Stolen Base 2B,676694,Jake Meyers,663658,Thaddeus Ward,455117,Martín Maldonado,R,Keibert Ruiz,660688,5,1,8,False,2023-06-13,Stolen,2B
+6982,1B,2B,Stolen Base 2B,676694,Jake Meyers,682120,Tim Herrin,455117,Martín Maldonado,L,Mike Zunino,572287,3,5,8,True,2023-06-10,Stolen,2B
+7732,1B,2B,Stolen Base 2B,676694,Jake Meyers,660271,Shohei Ohtani,455117,Martín Maldonado,R,Matt Thaiss,642136,1,2,5,True,2023-05-09,Stolen,2B

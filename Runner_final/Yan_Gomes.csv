@@ -1,0 +1,384 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,665926,Andrés Giménez,501789,Will Harris,453943,Todd Frazier,R,Yan Gomes,543228,1,3,9,True,2020-09-24,Stolen,2B,2020,2021,29.1
+1,1B,2B,Stolen Base 2B,656509,Monte Harrison,453286,Max Scherzer,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,6,False,2020-09-20,Stolen,2B,2020,2021,29.1
+2,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571578,Patrick Corbin,446481,Sean Rodríguez,L,Yan Gomes,543228,4,2,4,False,2020-09-19,Stolen,2B,2020,2021,29.1
+3,1B,2B,Stolen Base 2B,621446,Lewis Brinson,640448,Kyle Finnegan,572816,Corey Dickerson,R,Yan Gomes,543228,7,3,7,False,2020-09-19,Stolen,2B,2020,2021,29.1
+4,1B,2B,Stolen Base 2B,516782,Starling Marte,607200,Erick Fedde,542583,Jesús Aguilar,R,Yan Gomes,543228,0,0,1,False,2020-09-18,Stolen,2B,2020,2021,29.1
+5,2B,3B,Stolen Base 3B,516782,Starling Marte,607200,Erick Fedde,459964,Matt Joyce,R,Yan Gomes,543228,0,0,1,False,2020-09-18,Stolen,3B,2020,2021,29.1
+6,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,607200,Erick Fedde,572816,Corey Dickerson,R,Yan Gomes,543228,0,2,3,False,2020-09-18,Caught,2B,2020,2021,29.1
+7,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608723,Austin Voth,668227,Randy Arozarena,R,Yan Gomes,543228,1,0,3,False,2020-09-16,Stolen,2B,2020,2021,29.1
+8,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,571578,Patrick Corbin,542303,Marcell Ozuna,L,Yan Gomes,543228,0,1,1,True,2020-09-12,Stolen,2B,2020,2021,29.1
+9,1B,2B,Stolen Base 2B,645277,Ozzie Albies,571578,Patrick Corbin,660670,Ronald Acuña Jr.,L,Yan Gomes,543228,0,1,2,True,2020-09-12,Stolen,2B,2020,2021,29.1
+10,1B,2B,Stolen Base 2B,645277,Ozzie Albies,640448,Kyle Finnegan,542255,Ender Inciarte,R,Yan Gomes,543228,7,7,11,True,2020-09-11,Stolen,2B,2020,2021,29.1
+11,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,608723,Austin Voth,518692,Freddie Freeman,R,Yan Gomes,543228,5,2,4,True,2020-09-10,Stolen,2B,2020,2021,29.1
+12,1B,2B,Stolen Base 2B,547180,Bryce Harper,571578,Patrick Corbin,592663,J.T. Realmuto,L,Yan Gomes,543228,0,0,1,False,2020-09-01,Stolen,2B,2020,2021,29.1
+13,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,608723,Austin Voth,598265,Jackie Bradley Jr.,R,Yan Gomes,543228,3,0,1,False,2020-08-30,Stolen,2B,2020,2021,29.1
+14,1B,2B,Stolen Base 2B,542340,Jonathan Villar,608723,Austin Voth,500743,Miguel Rojas,R,Yan Gomes,543228,0,0,3,True,2020-08-24,Stolen,2B,2020,2021,29.1
+15,1B,,Caught Stealing 2B,542340,Jonathan Villar,640444,Wil Crowe,459964,Matt Joyce,R,Yan Gomes,543228,0,1,3,False,2020-08-22,Caught,2B,2020,2021,29.1
+16,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,640448,Kyle Finnegan,593643,Hanser Alberto,R,Yan Gomes,543228,6,3,6,False,2020-08-15,Stolen,2B,2020,2021,29.1
+17,1B,2B,Stolen Base 2B,665926,Andrés Giménez,593833,Wander Suero,621512,Tomás Nido,R,Yan Gomes,543228,7,2,7,False,2020-08-13,Stolen,2B,2020,2021,29.1
+18,1B,,Caught Stealing 2B,542340,Jonathan Villar,640444,Wil Crowe,459964,Matt Joyce,R,Yan Gomes,543228,0,1,3,False,2020-07-31,Caught,2B,2020,2021,29.1
+19,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,3B,2020,2021,29.1
+20,1B,2B,Stolen Base 2B,624415,Cavan Biggio,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,2B,2020,2021,29.1
+21,1B,2B,Stolen Base 2B,665926,Andrés Giménez,501789,Will Harris,453943,Todd Frazier,R,Yan Gomes,543228,1,3,9,True,2020-09-24,Stolen,2B,2020,2021,29.1
+22,1B,2B,Stolen Base 2B,656509,Monte Harrison,453286,Max Scherzer,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,6,False,2020-09-20,Stolen,2B,2020,2021,29.1
+23,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571578,Patrick Corbin,446481,Sean Rodríguez,L,Yan Gomes,543228,4,2,4,False,2020-09-19,Stolen,2B,2020,2021,29.1
+24,1B,2B,Stolen Base 2B,621446,Lewis Brinson,640448,Kyle Finnegan,572816,Corey Dickerson,R,Yan Gomes,543228,7,3,7,False,2020-09-19,Stolen,2B,2020,2021,29.1
+25,1B,2B,Stolen Base 2B,516782,Starling Marte,607200,Erick Fedde,542583,Jesús Aguilar,R,Yan Gomes,543228,0,0,1,False,2020-09-18,Stolen,2B,2020,2021,29.1
+26,2B,3B,Stolen Base 3B,516782,Starling Marte,607200,Erick Fedde,459964,Matt Joyce,R,Yan Gomes,543228,0,0,1,False,2020-09-18,Stolen,3B,2020,2021,29.1
+27,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,607200,Erick Fedde,572816,Corey Dickerson,R,Yan Gomes,543228,0,2,3,False,2020-09-18,Caught,2B,2020,2021,29.1
+28,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608723,Austin Voth,668227,Randy Arozarena,R,Yan Gomes,543228,1,0,3,False,2020-09-16,Stolen,2B,2020,2021,29.1
+29,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,571578,Patrick Corbin,542303,Marcell Ozuna,L,Yan Gomes,543228,0,1,1,True,2020-09-12,Stolen,2B,2020,2021,29.1
+30,1B,2B,Stolen Base 2B,645277,Ozzie Albies,571578,Patrick Corbin,660670,Ronald Acuña Jr.,L,Yan Gomes,543228,0,1,2,True,2020-09-12,Stolen,2B,2020,2021,29.1
+31,1B,2B,Stolen Base 2B,645277,Ozzie Albies,640448,Kyle Finnegan,542255,Ender Inciarte,R,Yan Gomes,543228,7,7,11,True,2020-09-11,Stolen,2B,2020,2021,29.1
+32,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,608723,Austin Voth,518692,Freddie Freeman,R,Yan Gomes,543228,5,2,4,True,2020-09-10,Stolen,2B,2020,2021,29.1
+33,1B,2B,Stolen Base 2B,547180,Bryce Harper,571578,Patrick Corbin,592663,J.T. Realmuto,L,Yan Gomes,543228,0,0,1,False,2020-09-01,Stolen,2B,2020,2021,29.1
+34,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,608723,Austin Voth,598265,Jackie Bradley Jr.,R,Yan Gomes,543228,3,0,1,False,2020-08-30,Stolen,2B,2020,2021,29.1
+35,1B,2B,Stolen Base 2B,542340,Jonathan Villar,608723,Austin Voth,500743,Miguel Rojas,R,Yan Gomes,543228,0,0,3,True,2020-08-24,Stolen,2B,2020,2021,29.1
+36,1B,,Caught Stealing 2B,542340,Jonathan Villar,640444,Wil Crowe,459964,Matt Joyce,R,Yan Gomes,543228,0,1,3,False,2020-08-22,Caught,2B,2020,2021,29.1
+37,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,640448,Kyle Finnegan,593643,Hanser Alberto,R,Yan Gomes,543228,6,3,6,False,2020-08-15,Stolen,2B,2020,2021,29.1
+38,1B,2B,Stolen Base 2B,665926,Andrés Giménez,593833,Wander Suero,621512,Tomás Nido,R,Yan Gomes,543228,7,2,7,False,2020-08-13,Stolen,2B,2020,2021,29.1
+39,1B,,Caught Stealing 2B,542340,Jonathan Villar,640444,Wil Crowe,459964,Matt Joyce,R,Yan Gomes,543228,0,1,3,False,2020-07-31,Caught,2B,2020,2021,29.1
+40,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,3B,2020,2021,29.1
+41,1B,2B,Stolen Base 2B,624415,Cavan Biggio,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,2B,2020,2021,29.1
+42,1B,2B,Stolen Base 2B,665926,Andrés Giménez,501789,Will Harris,453943,Todd Frazier,R,Yan Gomes,543228,1,3,9,True,2020-09-24,Stolen,2B,2020,2021,29.1
+43,1B,2B,Stolen Base 2B,656509,Monte Harrison,453286,Max Scherzer,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,6,False,2020-09-20,Stolen,2B,2020,2021,29.1
+44,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571578,Patrick Corbin,446481,Sean Rodríguez,L,Yan Gomes,543228,4,2,4,False,2020-09-19,Stolen,2B,2020,2021,29.1
+45,1B,2B,Stolen Base 2B,621446,Lewis Brinson,640448,Kyle Finnegan,572816,Corey Dickerson,R,Yan Gomes,543228,7,3,7,False,2020-09-19,Stolen,2B,2020,2021,29.1
+46,1B,2B,Stolen Base 2B,516782,Starling Marte,607200,Erick Fedde,542583,Jesús Aguilar,R,Yan Gomes,543228,0,0,1,False,2020-09-18,Stolen,2B,2020,2021,29.1
+47,2B,3B,Stolen Base 3B,516782,Starling Marte,607200,Erick Fedde,459964,Matt Joyce,R,Yan Gomes,543228,0,0,1,False,2020-09-18,Stolen,3B,2020,2021,29.1
+48,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,607200,Erick Fedde,572816,Corey Dickerson,R,Yan Gomes,543228,0,2,3,False,2020-09-18,Caught,2B,2020,2021,29.1
+49,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608723,Austin Voth,668227,Randy Arozarena,R,Yan Gomes,543228,1,0,3,False,2020-09-16,Stolen,2B,2020,2021,29.1
+50,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,571578,Patrick Corbin,542303,Marcell Ozuna,L,Yan Gomes,543228,0,1,1,True,2020-09-12,Stolen,2B,2020,2021,29.1
+51,1B,2B,Stolen Base 2B,645277,Ozzie Albies,571578,Patrick Corbin,660670,Ronald Acuña Jr.,L,Yan Gomes,543228,0,1,2,True,2020-09-12,Stolen,2B,2020,2021,29.1
+52,1B,2B,Stolen Base 2B,645277,Ozzie Albies,640448,Kyle Finnegan,542255,Ender Inciarte,R,Yan Gomes,543228,7,7,11,True,2020-09-11,Stolen,2B,2020,2021,29.1
+53,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,608723,Austin Voth,518692,Freddie Freeman,R,Yan Gomes,543228,5,2,4,True,2020-09-10,Stolen,2B,2020,2021,29.1
+54,1B,2B,Stolen Base 2B,547180,Bryce Harper,571578,Patrick Corbin,592663,J.T. Realmuto,L,Yan Gomes,543228,0,0,1,False,2020-09-01,Stolen,2B,2020,2021,29.1
+55,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,608723,Austin Voth,598265,Jackie Bradley Jr.,R,Yan Gomes,543228,3,0,1,False,2020-08-30,Stolen,2B,2020,2021,29.1
+56,1B,2B,Stolen Base 2B,542340,Jonathan Villar,608723,Austin Voth,500743,Miguel Rojas,R,Yan Gomes,543228,0,0,3,True,2020-08-24,Stolen,2B,2020,2021,29.1
+57,1B,,Caught Stealing 2B,542340,Jonathan Villar,640444,Wil Crowe,459964,Matt Joyce,R,Yan Gomes,543228,0,1,3,False,2020-08-22,Caught,2B,2020,2021,29.1
+58,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,640448,Kyle Finnegan,593643,Hanser Alberto,R,Yan Gomes,543228,6,3,6,False,2020-08-15,Stolen,2B,2020,2021,29.1
+59,1B,2B,Stolen Base 2B,665926,Andrés Giménez,593833,Wander Suero,621512,Tomás Nido,R,Yan Gomes,543228,7,2,7,False,2020-08-13,Stolen,2B,2020,2021,29.1
+60,1B,,Caught Stealing 2B,542340,Jonathan Villar,640444,Wil Crowe,459964,Matt Joyce,R,Yan Gomes,543228,0,1,3,False,2020-07-31,Caught,2B,2020,2021,29.1
+61,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,3B,2020,2021,29.1
+62,1B,2B,Stolen Base 2B,624415,Cavan Biggio,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,2B,2020,2021,29.1
+63,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,640455,Sean Manaea,641531,Hunter Dozier,L,Yan Gomes,543228,2,5,4,False,2021-09-15,Stolen,2B,2021,2022,29.3
+64,1B,2B,Stolen Base 2B,641829,Jason Martin,621076,James Kaprielian,660634,Yonny Hernández,R,Yan Gomes,543228,0,3,4,True,2021-09-12,Stolen,2B,2021,2022,29.3
+65,1B,2B,Stolen Base 2B,660634,Yonny Hernández,641726,Daulton Jefferies,665750,Leody Taveras,R,Yan Gomes,543228,1,4,6,True,2021-09-12,Stolen,2B,2021,2022,29.3
+66,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,642152,Lou Trivino,666969,Adolis García,R,Yan Gomes,543228,3,4,9,True,2021-09-12,Stolen,2B,2021,2022,29.3
+67,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,489265,Sergio Romo,650968,Yohel Pozo,R,Yan Gomes,543228,6,5,8,True,2021-09-11,Stolen,2B,2021,2022,29.3
+68,1B,2B,Stolen Base 2B,544725,Leury García,500610,Deolis Guerra,683734,Andrew Vaughn,R,Yan Gomes,543228,3,6,9,True,2021-09-07,Stolen,2B,2021,2022,29.3
+69,1B,,Caught Stealing 2B,642180,Tyler Wade,621112,Paul Blackburn,518934,DJ LeMahieu,R,Yan Gomes,543228,0,0,3,True,2021-08-29,Caught,2B,2021,2022,29.3
+70,1B,2B,Stolen Base 2B,641343,Jake Bauers,500610,Deolis Guerra,641487,J.P. Crawford,R,Yan Gomes,543228,3,5,9,True,2021-08-23,Stolen,2B,2021,2022,29.3
+71,1B,2B,Stolen Base 2B,514917,César Hernández,593423,Frankie Montas,547989,José Abreu,R,Yan Gomes,543228,0,0,1,False,2021-08-16,Stolen,2B,2021,2022,29.3
+72,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,433589,Yusmeiro Petit,571718,Brian Goodwin,R,Yan Gomes,543228,3,2,6,False,2021-08-16,Stolen,2B,2021,2022,29.3
+73,1B,2B,Stolen Base 2B,571718,Brian Goodwin,500610,Deolis Guerra,641313,Tim Anderson,R,Yan Gomes,543228,5,2,8,False,2021-08-16,Stolen,2B,2021,2022,29.3
+74,1B,2B,Stolen Base 2B,518586,Charlie Culberson,489265,Sergio Romo,666969,Adolis García,R,Yan Gomes,543228,6,4,6,False,2021-08-13,Stolen,2B,2021,2022,29.3
+75,1B,,Caught Stealing 2B,623912,Harold Ramírez,593423,Frankie Montas,640458,Óscar Mercado,R,Yan Gomes,543228,2,0,1,False,2021-08-11,Caught,2B,2021,2022,29.3
+76,2B,3B,Stolen Base 3B,640458,Óscar Mercado,518617,Jake Diekman,680911,Owen Miller,L,Yan Gomes,543228,3,2,7,False,2021-08-11,Stolen,3B,2021,2022,29.3
+77,1B,2B,Stolen Base 2B,665926,Andrés Giménez,518617,Jake Diekman,680911,Owen Miller,L,Yan Gomes,543228,3,2,7,False,2021-08-11,Stolen,2B,2021,2022,29.3
+78,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,640448,Kyle Finnegan,630105,Jake Cronenworth,R,Yan Gomes,543228,7,8,4,False,2021-07-08,Stolen,2B,2021,2022,29.3
+79,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,607200,Erick Fedde,630105,Jake Cronenworth,R,Yan Gomes,543228,0,0,3,False,2021-07-06,Stolen,2B,2021,2022,29.3
+80,1B,,Caught Stealing 2B,502054,Tommy Pham,640448,Kyle Finnegan,665487,Fernando Tatis Jr.,R,Yan Gomes,543228,6,4,6,False,2021-07-06,Caught,2B,2021,2022,29.3
+81,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,452657,Jon Lester,592518,Manny Machado,L,Yan Gomes,543228,0,1,1,False,2021-07-05,Stolen,2B,2021,2022,29.3
+82,1B,2B,Stolen Base 2B,666158,Gavin Lux,641851,Kyle McGowin,621035,Chris Taylor,R,Yan Gomes,543228,3,5,9,True,2021-07-03,Stolen,2B,2021,2022,29.3
+83,1B,2B,Stolen Base 2B,622534,Manuel Margot,452657,Jon Lester,668227,Randy Arozarena,L,Yan Gomes,543228,0,1,1,True,2021-06-30,Stolen,2B,2021,2022,29.3
+84,1B,2B,Stolen Base 2B,677551,Wander Franco,452657,Jon Lester,596847,Ji Man Choi,L,Yan Gomes,543228,2,2,3,True,2021-06-30,Stolen,2B,2021,2022,29.3
+85,1B,2B,Stolen Base 2B,670712,Mike Brosseau,452657,Jon Lester,621433,Brett Phillips,L,Yan Gomes,543228,6,4,4,True,2021-06-30,Stolen,2B,2021,2022,29.3
+86,1B,2B,Stolen Base 2B,516782,Starling Marte,452657,Jon Lester,643265,Garrett Cooper,L,Yan Gomes,543228,0,0,1,False,2021-06-25,Stolen,2B,2021,2022,29.3
+87,1B,2B,Stolen Base 2B,542932,Jon Berti,502179,Paolo Espino,665862,Jazz Chisholm Jr.,R,Yan Gomes,543228,9,2,5,False,2021-06-25,Stolen,2B,2021,2022,29.3
+88,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,605452,Joe Ross,542583,Jesús Aguilar,R,Yan Gomes,543228,0,1,1,False,2021-06-24,Caught,2B,2021,2022,29.3
+89,1B,,Caught Stealing 2B,592863,Mason Williams,607200,Erick Fedde,664192,Joey Lucchesi,R,Yan Gomes,543228,0,0,3,True,2021-06-18,Caught,2B,2021,2022,29.3
+90,1B,,Caught Stealing 2B,641645,Luis Guillorme,607200,Erick Fedde,621512,Tomás Nido,R,Yan Gomes,543228,0,0,5,True,2021-06-18,Caught,2B,2021,2022,29.3
+91,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502179,Paolo Espino,595943,Phillip Evans,R,Yan Gomes,543228,1,0,4,True,2021-06-16,Stolen,2B,2021,2022,29.3
+92,2B,3B,Stolen Base 3B,543063,Brandon Crawford,641851,Kyle McGowin,643565,Mike Tauchman,R,Yan Gomes,543228,0,1,4,True,2021-06-11,Stolen,3B,2021,2022,29.3
+93,1B,2B,Stolen Base 2B,668227,Randy Arozarena,571578,Patrick Corbin,642336,Francisco Mejía,L,Yan Gomes,543228,3,2,1,False,2021-06-09,Stolen,2B,2021,2022,29.3
+94,1B,2B,Stolen Base 2B,670764,Taylor Walls,571578,Patrick Corbin,621433,Brett Phillips,L,Yan Gomes,543228,3,3,4,False,2021-06-09,Stolen,2B,2021,2022,29.3
+95,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,543272,Brad Hand,650490,Yandy Díaz,L,Yan Gomes,543228,5,5,9,False,2021-06-09,Stolen,2B,2021,2022,29.3
+96,1B,,Caught Stealing 2B,621563,Joey Wendle,452657,Jon Lester,572287,Mike Zunino,L,Yan Gomes,543228,1,0,2,False,2021-06-08,Caught,2B,2021,2022,29.3
+97,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,452657,Jon Lester,518692,Freddie Freeman,L,Yan Gomes,543228,0,0,1,False,2021-06-02,Caught,2B,2021,2022,29.3
+98,1B,2B,Stolen Base 2B,645277,Ozzie Albies,452657,Jon Lester,663586,Austin Riley,L,Yan Gomes,543228,0,0,1,False,2021-06-02,Stolen,2B,2021,2022,29.3
+99,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,544931,Stephen Strasburg,518692,Freddie Freeman,R,Yan Gomes,543228,0,1,1,False,2021-06-01,Stolen,2B,2021,2022,29.3
+100,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,543339,Daniel Hudson,645277,Ozzie Albies,R,Yan Gomes,543228,4,9,7,False,2021-06-01,Stolen,3B,2021,2022,29.3
+101,1B,,Caught Stealing 2B,456715,Lorenzo Cain,452657,Jon Lester,649966,Luis Urías,L,Yan Gomes,543228,0,0,2,True,2021-05-29,Caught,2B,2021,2022,29.3
+102,1B,2B,Stolen Base 2B,649966,Luis Urías,452657,Jon Lester,669374,Keston Hiura,L,Yan Gomes,543228,1,1,4,True,2021-05-29,Stolen,2B,2021,2022,29.3
+103,1B,,Caught Stealing 2B,571657,Kyle Farmer,453286,Max Scherzer,607468,Alex Blandino,R,Yan Gomes,543228,0,2,7,True,2021-05-25,Caught,2B,2021,2022,29.3
+104,1B,2B,Stolen Base 2B,592178,Kris Bryant,543272,Brad Hand,622110,Matt Duffy,L,Yan Gomes,543228,3,4,9,False,2021-05-19,Stolen,2B,2021,2022,29.3
+105,1B,,Caught Stealing 2B,575929,Willson Contreras,571578,Patrick Corbin,592178,Kris Bryant,L,Yan Gomes,543228,2,0,3,False,2021-05-18,Caught,2B,2021,2022,29.3
+106,1B,,Caught Stealing 2B,595879,Javier Báez,608723,Austin Voth,622110,Matt Duffy,R,Yan Gomes,543228,5,3,7,False,2021-05-18,Caught,2B,2021,2022,29.3
+107,1B,2B,Stolen Base 2B,519299,Eric Sogard,663432,Tanner Rainey,592178,Kris Bryant,R,Yan Gomes,543228,6,3,7,False,2021-05-17,Stolen,2B,2021,2022,29.3
+108,1B,2B,Stolen Base 2B,547180,Bryce Harper,571578,Patrick Corbin,664761,Alec Bohm,L,Yan Gomes,543228,0,1,1,True,2021-05-13,Stolen,2B,2021,2022,29.3
+109,3B,score,Stolen Base Home,457705,Andrew McCutchen,571578,Patrick Corbin,664761,Alec Bohm,L,Yan Gomes,543228,0,1,1,True,2021-05-13,Stolen,Home,2021,2022,29.3
+110,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,605452,Joe Ross,519317,Giancarlo Stanton,R,Yan Gomes,543228,1,0,5,False,2021-05-09,Stolen,2B,2021,2022,29.3
+111,1B,,Caught Stealing 2B,621020,Dansby Swanson,452657,Jon Lester,501303,Ehire Adrianza,L,Yan Gomes,543228,0,0,2,True,2021-05-06,Caught,2B,2021,2022,29.3
+112,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,452657,Jon Lester,645277,Ozzie Albies,L,Yan Gomes,543228,0,0,4,True,2021-05-06,Stolen,2B,2021,2022,29.3
+113,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,607200,Erick Fedde,518692,Freddie Freeman,R,Yan Gomes,543228,0,0,3,True,2021-05-05,Stolen,2B,2021,2022,29.3
+114,1B,2B,Stolen Base 2B,542932,Jon Berti,453286,Max Scherzer,643265,Garrett Cooper,R,Yan Gomes,543228,3,0,6,True,2021-05-02,Stolen,2B,2021,2022,29.3
+115,1B,,Caught Stealing 2B,656509,Monte Harrison,453286,Max Scherzer,594807,Adam Duvall,R,Yan Gomes,543228,3,0,8,True,2021-05-02,Caught,2B,2021,2022,29.3
+116,1B,2B,Stolen Base 2B,543760,Marcus Semien,607200,Erick Fedde,605412,Joe Panik,R,Yan Gomes,543228,0,0,2,False,2021-04-28,Stolen,2B,2021,2022,29.3
+117,1B,,Caught Stealing 2B,607043,Brandon Nimmo,608723,Austin Voth,596019,Francisco Lindor,R,Yan Gomes,543228,4,0,7,False,2021-04-25,Caught,2B,2021,2022,29.3
+118,1B,,Caught Stealing 2B,670084,Nick Heath,608723,Austin Voth,594777,Kole Calhoun,R,Yan Gomes,543228,1,2,7,True,2021-04-18,Caught,2B,2021,2022,29.3
+119,1B,,Caught Stealing 2B,641796,Tim Locastro,607200,Erick Fedde,594777,Kole Calhoun,R,Yan Gomes,543228,1,1,3,True,2021-04-17,Caught,2B,2021,2022,29.3
+120,1B,2B,Stolen Base 2B,605113,Nick Ahmed,571578,Patrick Corbin,656976,Pavin Smith,L,Yan Gomes,543228,0,2,1,True,2021-04-15,Stolen,2B,2021,2022,29.3
+121,1B,2B,Stolen Base 2B,669242,Tommy Edman,607200,Erick Fedde,502671,Paul Goldschmidt,R,Yan Gomes,543228,1,1,3,False,2021-04-12,Stolen,2B,2021,2022,29.3
+122,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,640455,Sean Manaea,641531,Hunter Dozier,L,Yan Gomes,543228,2,5,4,False,2021-09-15,Stolen,2B,2021,2022,29.3
+123,1B,2B,Stolen Base 2B,641829,Jason Martin,621076,James Kaprielian,660634,Yonny Hernández,R,Yan Gomes,543228,0,3,4,True,2021-09-12,Stolen,2B,2021,2022,29.3
+124,1B,2B,Stolen Base 2B,660634,Yonny Hernández,641726,Daulton Jefferies,665750,Leody Taveras,R,Yan Gomes,543228,1,4,6,True,2021-09-12,Stolen,2B,2021,2022,29.3
+125,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,642152,Lou Trivino,666969,Adolis García,R,Yan Gomes,543228,3,4,9,True,2021-09-12,Stolen,2B,2021,2022,29.3
+126,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,489265,Sergio Romo,650968,Yohel Pozo,R,Yan Gomes,543228,6,5,8,True,2021-09-11,Stolen,2B,2021,2022,29.3
+127,1B,2B,Stolen Base 2B,544725,Leury García,500610,Deolis Guerra,683734,Andrew Vaughn,R,Yan Gomes,543228,3,6,9,True,2021-09-07,Stolen,2B,2021,2022,29.3
+128,1B,,Caught Stealing 2B,642180,Tyler Wade,621112,Paul Blackburn,518934,DJ LeMahieu,R,Yan Gomes,543228,0,0,3,True,2021-08-29,Caught,2B,2021,2022,29.3
+129,1B,2B,Stolen Base 2B,641343,Jake Bauers,500610,Deolis Guerra,641487,J.P. Crawford,R,Yan Gomes,543228,3,5,9,True,2021-08-23,Stolen,2B,2021,2022,29.3
+130,1B,2B,Stolen Base 2B,514917,César Hernández,593423,Frankie Montas,547989,José Abreu,R,Yan Gomes,543228,0,0,1,False,2021-08-16,Stolen,2B,2021,2022,29.3
+131,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,433589,Yusmeiro Petit,571718,Brian Goodwin,R,Yan Gomes,543228,3,2,6,False,2021-08-16,Stolen,2B,2021,2022,29.3
+132,1B,2B,Stolen Base 2B,571718,Brian Goodwin,500610,Deolis Guerra,641313,Tim Anderson,R,Yan Gomes,543228,5,2,8,False,2021-08-16,Stolen,2B,2021,2022,29.3
+133,1B,2B,Stolen Base 2B,518586,Charlie Culberson,489265,Sergio Romo,666969,Adolis García,R,Yan Gomes,543228,6,4,6,False,2021-08-13,Stolen,2B,2021,2022,29.3
+134,1B,,Caught Stealing 2B,623912,Harold Ramírez,593423,Frankie Montas,640458,Óscar Mercado,R,Yan Gomes,543228,2,0,1,False,2021-08-11,Caught,2B,2021,2022,29.3
+135,2B,3B,Stolen Base 3B,640458,Óscar Mercado,518617,Jake Diekman,680911,Owen Miller,L,Yan Gomes,543228,3,2,7,False,2021-08-11,Stolen,3B,2021,2022,29.3
+136,1B,2B,Stolen Base 2B,665926,Andrés Giménez,518617,Jake Diekman,680911,Owen Miller,L,Yan Gomes,543228,3,2,7,False,2021-08-11,Stolen,2B,2021,2022,29.3
+137,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,640448,Kyle Finnegan,630105,Jake Cronenworth,R,Yan Gomes,543228,7,8,4,False,2021-07-08,Stolen,2B,2021,2022,29.3
+138,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,607200,Erick Fedde,630105,Jake Cronenworth,R,Yan Gomes,543228,0,0,3,False,2021-07-06,Stolen,2B,2021,2022,29.3
+139,1B,,Caught Stealing 2B,502054,Tommy Pham,640448,Kyle Finnegan,665487,Fernando Tatis Jr.,R,Yan Gomes,543228,6,4,6,False,2021-07-06,Caught,2B,2021,2022,29.3
+140,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,452657,Jon Lester,592518,Manny Machado,L,Yan Gomes,543228,0,1,1,False,2021-07-05,Stolen,2B,2021,2022,29.3
+141,1B,2B,Stolen Base 2B,666158,Gavin Lux,641851,Kyle McGowin,621035,Chris Taylor,R,Yan Gomes,543228,3,5,9,True,2021-07-03,Stolen,2B,2021,2022,29.3
+142,1B,2B,Stolen Base 2B,622534,Manuel Margot,452657,Jon Lester,668227,Randy Arozarena,L,Yan Gomes,543228,0,1,1,True,2021-06-30,Stolen,2B,2021,2022,29.3
+143,1B,2B,Stolen Base 2B,677551,Wander Franco,452657,Jon Lester,596847,Ji Man Choi,L,Yan Gomes,543228,2,2,3,True,2021-06-30,Stolen,2B,2021,2022,29.3
+144,1B,2B,Stolen Base 2B,670712,Mike Brosseau,452657,Jon Lester,621433,Brett Phillips,L,Yan Gomes,543228,6,4,4,True,2021-06-30,Stolen,2B,2021,2022,29.3
+145,1B,2B,Stolen Base 2B,516782,Starling Marte,452657,Jon Lester,643265,Garrett Cooper,L,Yan Gomes,543228,0,0,1,False,2021-06-25,Stolen,2B,2021,2022,29.3
+146,1B,2B,Stolen Base 2B,542932,Jon Berti,502179,Paolo Espino,665862,Jazz Chisholm Jr.,R,Yan Gomes,543228,9,2,5,False,2021-06-25,Stolen,2B,2021,2022,29.3
+147,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,605452,Joe Ross,542583,Jesús Aguilar,R,Yan Gomes,543228,0,1,1,False,2021-06-24,Caught,2B,2021,2022,29.3
+148,1B,,Caught Stealing 2B,592863,Mason Williams,607200,Erick Fedde,664192,Joey Lucchesi,R,Yan Gomes,543228,0,0,3,True,2021-06-18,Caught,2B,2021,2022,29.3
+149,1B,,Caught Stealing 2B,641645,Luis Guillorme,607200,Erick Fedde,621512,Tomás Nido,R,Yan Gomes,543228,0,0,5,True,2021-06-18,Caught,2B,2021,2022,29.3
+150,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502179,Paolo Espino,595943,Phillip Evans,R,Yan Gomes,543228,1,0,4,True,2021-06-16,Stolen,2B,2021,2022,29.3
+151,2B,3B,Stolen Base 3B,543063,Brandon Crawford,641851,Kyle McGowin,643565,Mike Tauchman,R,Yan Gomes,543228,0,1,4,True,2021-06-11,Stolen,3B,2021,2022,29.3
+152,1B,2B,Stolen Base 2B,668227,Randy Arozarena,571578,Patrick Corbin,642336,Francisco Mejía,L,Yan Gomes,543228,3,2,1,False,2021-06-09,Stolen,2B,2021,2022,29.3
+153,1B,2B,Stolen Base 2B,670764,Taylor Walls,571578,Patrick Corbin,621433,Brett Phillips,L,Yan Gomes,543228,3,3,4,False,2021-06-09,Stolen,2B,2021,2022,29.3
+154,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,543272,Brad Hand,650490,Yandy Díaz,L,Yan Gomes,543228,5,5,9,False,2021-06-09,Stolen,2B,2021,2022,29.3
+155,1B,,Caught Stealing 2B,621563,Joey Wendle,452657,Jon Lester,572287,Mike Zunino,L,Yan Gomes,543228,1,0,2,False,2021-06-08,Caught,2B,2021,2022,29.3
+156,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,452657,Jon Lester,518692,Freddie Freeman,L,Yan Gomes,543228,0,0,1,False,2021-06-02,Caught,2B,2021,2022,29.3
+157,1B,2B,Stolen Base 2B,645277,Ozzie Albies,452657,Jon Lester,663586,Austin Riley,L,Yan Gomes,543228,0,0,1,False,2021-06-02,Stolen,2B,2021,2022,29.3
+158,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,544931,Stephen Strasburg,518692,Freddie Freeman,R,Yan Gomes,543228,0,1,1,False,2021-06-01,Stolen,2B,2021,2022,29.3
+159,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,543339,Daniel Hudson,645277,Ozzie Albies,R,Yan Gomes,543228,4,9,7,False,2021-06-01,Stolen,3B,2021,2022,29.3
+160,1B,,Caught Stealing 2B,456715,Lorenzo Cain,452657,Jon Lester,649966,Luis Urías,L,Yan Gomes,543228,0,0,2,True,2021-05-29,Caught,2B,2021,2022,29.3
+161,1B,2B,Stolen Base 2B,649966,Luis Urías,452657,Jon Lester,669374,Keston Hiura,L,Yan Gomes,543228,1,1,4,True,2021-05-29,Stolen,2B,2021,2022,29.3
+162,1B,,Caught Stealing 2B,571657,Kyle Farmer,453286,Max Scherzer,607468,Alex Blandino,R,Yan Gomes,543228,0,2,7,True,2021-05-25,Caught,2B,2021,2022,29.3
+163,1B,2B,Stolen Base 2B,592178,Kris Bryant,543272,Brad Hand,622110,Matt Duffy,L,Yan Gomes,543228,3,4,9,False,2021-05-19,Stolen,2B,2021,2022,29.3
+164,1B,,Caught Stealing 2B,575929,Willson Contreras,571578,Patrick Corbin,592178,Kris Bryant,L,Yan Gomes,543228,2,0,3,False,2021-05-18,Caught,2B,2021,2022,29.3
+165,1B,,Caught Stealing 2B,595879,Javier Báez,608723,Austin Voth,622110,Matt Duffy,R,Yan Gomes,543228,5,3,7,False,2021-05-18,Caught,2B,2021,2022,29.3
+166,1B,2B,Stolen Base 2B,519299,Eric Sogard,663432,Tanner Rainey,592178,Kris Bryant,R,Yan Gomes,543228,6,3,7,False,2021-05-17,Stolen,2B,2021,2022,29.3
+167,1B,2B,Stolen Base 2B,547180,Bryce Harper,571578,Patrick Corbin,664761,Alec Bohm,L,Yan Gomes,543228,0,1,1,True,2021-05-13,Stolen,2B,2021,2022,29.3
+168,3B,score,Stolen Base Home,457705,Andrew McCutchen,571578,Patrick Corbin,664761,Alec Bohm,L,Yan Gomes,543228,0,1,1,True,2021-05-13,Stolen,Home,2021,2022,29.3
+169,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,605452,Joe Ross,519317,Giancarlo Stanton,R,Yan Gomes,543228,1,0,5,False,2021-05-09,Stolen,2B,2021,2022,29.3
+170,1B,,Caught Stealing 2B,621020,Dansby Swanson,452657,Jon Lester,501303,Ehire Adrianza,L,Yan Gomes,543228,0,0,2,True,2021-05-06,Caught,2B,2021,2022,29.3
+171,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,452657,Jon Lester,645277,Ozzie Albies,L,Yan Gomes,543228,0,0,4,True,2021-05-06,Stolen,2B,2021,2022,29.3
+172,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,607200,Erick Fedde,518692,Freddie Freeman,R,Yan Gomes,543228,0,0,3,True,2021-05-05,Stolen,2B,2021,2022,29.3
+173,1B,2B,Stolen Base 2B,542932,Jon Berti,453286,Max Scherzer,643265,Garrett Cooper,R,Yan Gomes,543228,3,0,6,True,2021-05-02,Stolen,2B,2021,2022,29.3
+174,1B,,Caught Stealing 2B,656509,Monte Harrison,453286,Max Scherzer,594807,Adam Duvall,R,Yan Gomes,543228,3,0,8,True,2021-05-02,Caught,2B,2021,2022,29.3
+175,1B,2B,Stolen Base 2B,543760,Marcus Semien,607200,Erick Fedde,605412,Joe Panik,R,Yan Gomes,543228,0,0,2,False,2021-04-28,Stolen,2B,2021,2022,29.3
+176,1B,,Caught Stealing 2B,607043,Brandon Nimmo,608723,Austin Voth,596019,Francisco Lindor,R,Yan Gomes,543228,4,0,7,False,2021-04-25,Caught,2B,2021,2022,29.3
+177,1B,,Caught Stealing 2B,670084,Nick Heath,608723,Austin Voth,594777,Kole Calhoun,R,Yan Gomes,543228,1,2,7,True,2021-04-18,Caught,2B,2021,2022,29.3
+178,1B,,Caught Stealing 2B,641796,Tim Locastro,607200,Erick Fedde,594777,Kole Calhoun,R,Yan Gomes,543228,1,1,3,True,2021-04-17,Caught,2B,2021,2022,29.3
+179,1B,2B,Stolen Base 2B,605113,Nick Ahmed,571578,Patrick Corbin,656976,Pavin Smith,L,Yan Gomes,543228,0,2,1,True,2021-04-15,Stolen,2B,2021,2022,29.3
+180,1B,2B,Stolen Base 2B,669242,Tommy Edman,607200,Erick Fedde,502671,Paul Goldschmidt,R,Yan Gomes,543228,1,1,3,False,2021-04-12,Stolen,2B,2021,2022,29.3
+181,1B,,Caught Stealing 2B,669003,Garrett Mitchell,640470,Adbert Alzolay,605170,Victor Caratini,R,Yan Gomes,543228,3,2,8,False,2023-09-29,Caught,2B,2023,2024,28.9
+182,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,665871,Javier Assad,645277,Ozzie Albies,R,Yan Gomes,543228,5,1,4,False,2023-09-28,Caught,2B,2023,2024,28.9
+183,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,657240,Julian Merryweather,645277,Ozzie Albies,R,Yan Gomes,543228,3,3,8,False,2023-09-27,Stolen,2B,2023,2024,28.9
+184,1B,,Caught Stealing 2B,645277,Ozzie Albies,657240,Julian Merryweather,663586,Austin Riley,R,Yan Gomes,543228,3,3,8,False,2023-09-27,Caught,2B,2023,2024,28.9
+185,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,694037,Daniel Palencia,645277,Ozzie Albies,R,Yan Gomes,543228,6,5,10,False,2023-09-27,Stolen,2B,2023,2024,28.9
+186,1B,2B,Stolen Base 2B,657088,Forrest Wall,592767,Drew Smyly,671739,Michael Harris II,L,Yan Gomes,543228,5,6,8,False,2023-09-26,Stolen,2B,2023,2024,28.9
+187,1B,,Caught Stealing 2B,686668,Brenton Doyle,621016,Jose Cuas,663898,Brendan Rodgers,R,Yan Gomes,543228,4,3,8,True,2023-09-24,Caught,2B,2023,2024,28.9
+188,1B,2B,Stolen Base 2B,686668,Brenton Doyle,665871,Javier Assad,453568,Charlie Blackmon,R,Yan Gomes,543228,1,3,4,True,2023-09-23,Stolen,2B,2023,2024,28.9
+189,2B,3B,Stolen Base 3B,669261,Jack Suwinski,543294,Kyle Hendricks,669707,Jared Triolo,R,Yan Gomes,543228,0,3,5,True,2023-09-21,Stolen,3B,2023,2024,28.9
+190,1B,2B,Stolen Base 2B,609280,Miguel Andujar,543294,Kyle Hendricks,669707,Jared Triolo,R,Yan Gomes,543228,0,3,5,True,2023-09-21,Stolen,2B,2023,2024,28.9
+191,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,543294,Kyle Hendricks,606466,Ketel Marte,R,Yan Gomes,543228,2,3,5,False,2023-09-16,Stolen,2B,2023,2024,28.9
+192,1B,,Caught Stealing 2B,672515,Gabriel Moreno,657240,Julian Merryweather,682998,Corbin Carroll,R,Yan Gomes,543228,3,3,9,False,2023-09-16,Caught,2B,2023,2024,28.9
+193,2B,3B,Stolen Base 3B,502054,Tommy Pham,543294,Kyle Hendricks,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,5,2,6,True,2023-09-10,Stolen,3B,2023,2024,28.9
+194,1B,,Caught Stealing 2B,672695,Geraldo Perdomo,643410,Mark Leiter Jr.,682998,Corbin Carroll,R,Yan Gomes,543228,5,2,7,True,2023-09-10,Caught,2B,2023,2024,28.9
+195,1B,2B,Stolen Base 2B,691783,Jordan Lawlar,657006,Justin Steele,572233,Christian Walker,L,Yan Gomes,543228,0,0,1,True,2023-09-09,Stolen,2B,2023,2024,28.9
+196,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657006,Justin Steele,656896,Emmanuel Rivera,L,Yan Gomes,543228,1,0,5,True,2023-09-09,Stolen,2B,2023,2024,28.9
+197,1B,2B,Stolen Base 2B,682998,Corbin Carroll,640470,Adbert Alzolay,607054,Jace Peterson,R,Yan Gomes,543228,1,1,9,True,2023-09-09,Stolen,2B,2023,2024,28.9
+198,2B,,Caught Stealing 3B,502054,Tommy Pham,694037,Daniel Palencia,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,1,3,10,True,2023-09-09,Caught,3B,2023,2024,28.9
+199,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,1,True,2023-09-08,Stolen,2B,2023,2024,28.9
+200,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,6,True,2023-09-08,Stolen,2B,2023,2024,28.9
+201,1B,2B,Stolen Base 2B,682998,Corbin Carroll,643410,Mark Leiter Jr.,606466,Ketel Marte,R,Yan Gomes,543228,0,1,8,True,2023-09-08,Stolen,2B,2023,2024,28.9
+202,1B,2B,Stolen Base 2B,677950,Alek Thomas,640470,Adbert Alzolay,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,0,1,9,True,2023-09-08,Stolen,2B,2023,2024,28.9
+203,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,665871,Javier Assad,656976,Pavin Smith,R,Yan Gomes,543228,0,1,2,True,2023-09-07,Stolen,2B,2023,2024,28.9
+204,1B,2B,Stolen Base 2B,677950,Alek Thomas,624522,Keegan Thompson,672515,Gabriel Moreno,R,Yan Gomes,543228,1,5,8,True,2023-09-07,Stolen,2B,2023,2024,28.9
+205,1B,2B,Stolen Base 2B,682998,Corbin Carroll,669713,Hayden Wesneski,606466,Ketel Marte,R,Yan Gomes,543228,1,6,9,True,2023-09-07,Stolen,2B,2023,2024,28.9
+206,1B,,Caught Stealing 2B,664056,Harrison Bader,592791,Jameson Taillon,605361,Nick Martini,R,Yan Gomes,543228,4,3,5,False,2023-09-03,Caught,2B,2023,2024,28.9
+207,1B,,Caught Stealing 2B,670770,TJ Friedl,665871,Javier Assad,682829,Elly De La Cruz,R,Yan Gomes,543228,0,0,6,False,2023-09-02,Caught,2B,2023,2024,28.9
+208,2B,3B,Stolen Base 3B,664056,Harrison Bader,643410,Mark Leiter Jr.,670770,TJ Friedl,R,Yan Gomes,543228,0,1,9,False,2023-09-02,Stolen,3B,2023,2024,28.9
+209,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,640470,Adbert Alzolay,666181,Will Benson,R,Yan Gomes,543228,2,2,9,False,2023-09-01,Stolen,2B,2023,2024,28.9
+210,1B,2B,Stolen Base 2B,661388,William Contreras,543294,Kyle Hendricks,467793,Carlos Santana,R,Yan Gomes,543228,2,1,5,True,2023-08-30,Stolen,2B,2023,2024,28.9
+211,1B,2B,Stolen Base 2B,686217,Sal Frelick,643410,Mark Leiter Jr.,642715,Willy Adames,R,Yan Gomes,543228,2,1,8,True,2023-08-30,Stolen,2B,2023,2024,28.9
+212,1B,,Caught Stealing 2B,592885,Christian Yelich,657240,Julian Merryweather,592192,Mark Canha,R,Yan Gomes,543228,1,0,8,True,2023-08-29,Caught,2B,2023,2024,28.9
+213,1B,2B,Stolen Base 2B,669261,Jack Suwinski,665871,Javier Assad,663845,Alfonso Rivas III,R,Yan Gomes,543228,1,1,2,False,2023-08-27,Stolen,2B,2023,2024,28.9
+214,1B,2B,Stolen Base 2B,641943,Joshua Palacios,665871,Javier Assad,669261,Jack Suwinski,R,Yan Gomes,543228,1,3,4,False,2023-08-27,Stolen,2B,2023,2024,28.9
+215,1B,,Caught Stealing 2B,663647,Ke'Bryan Hayes,543294,Kyle Hendricks,668804,Bryan Reynolds,R,Yan Gomes,543228,2,0,2,False,2023-08-25,Caught,2B,2023,2024,28.9
+216,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,657006,Justin Steele,663647,Ke'Bryan Hayes,L,Yan Gomes,543228,1,3,2,False,2023-08-24,Stolen,2B,2023,2024,28.9
+217,1B,2B,Stolen Base 2B,656716,Zach McKinstry,640470,Adbert Alzolay,628451,Andy Ibáñez,R,Yan Gomes,543228,4,6,9,False,2023-08-23,Stolen,2B,2023,2024,28.9
+218,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657006,Justin Steele,686681,Michael Massey,L,Yan Gomes,543228,6,1,6,True,2023-08-19,Stolen,2B,2023,2024,28.9
+219,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657240,Julian Merryweather,686681,Michael Massey,R,Yan Gomes,543228,6,3,7,True,2023-08-19,Stolen,2B,2023,2024,28.9
+220,2B,,Caught Stealing 3B,669004,MJ Melendez,592791,Jameson Taillon,666023,Freddy Fermin,R,Yan Gomes,543228,0,0,2,True,2023-08-18,Caught,3B,2023,2024,28.9
+221,1B,2B,Stolen Base 2B,671221,Drew Waters,592791,Jameson Taillon,676369,Nelson Velázquez,R,Yan Gomes,543228,0,0,3,True,2023-08-18,Stolen,2B,2023,2024,28.9
+222,1B,2B,Stolen Base 2B,621545,Zach Remillard,543294,Kyle Hendricks,462101,Elvis Andrus,R,Yan Gomes,543228,2,3,2,True,2023-08-15,Stolen,2B,2023,2024,28.9
+223,1B,2B,Stolen Base 2B,462101,Elvis Andrus,640470,Adbert Alzolay,643217,Andrew Benintendi,R,Yan Gomes,543228,3,5,9,True,2023-08-15,Stolen,2B,2023,2024,28.9
+224,1B,,Caught Stealing 2B,665489,Vladimir Guerrero Jr.,621016,Jose Cuas,656305,Matt Chapman,R,Yan Gomes,543228,4,4,7,False,2023-08-12,Caught,2B,2023,2024,28.9
+225,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,665871,Javier Assad,645277,Ozzie Albies,R,Yan Gomes,543228,0,0,1,True,2023-08-05,Stolen,2B,2023,2024,28.9
+226,1B,2B,Stolen Base 2B,645277,Ozzie Albies,605242,Michael Fulmer,663586,Austin Riley,R,Yan Gomes,543228,6,2,5,True,2023-08-05,Stolen,2B,2023,2024,28.9
+227,1B,2B,Stolen Base 2B,641584,Jake Fraley,592791,Jameson Taillon,668715,Spencer Steer,R,Yan Gomes,543228,0,1,1,True,2023-08-03,Stolen,2B,2023,2024,28.9
+228,1B,2B,Stolen Base 2B,680574,Matt McLain,592791,Jameson Taillon,668715,Spencer Steer,R,Yan Gomes,543228,1,1,3,True,2023-08-03,Stolen,2B,2023,2024,28.9
+229,1B,2B,Stolen Base 2B,641584,Jake Fraley,573186,Marcus Stroman,668715,Spencer Steer,R,Yan Gomes,543228,1,4,3,True,2023-07-31,Stolen,2B,2023,2024,28.9
+230,1B,2B,Stolen Base 2B,670770,TJ Friedl,665871,Javier Assad,680574,Matt McLain,R,Yan Gomes,543228,4,6,4,True,2023-07-31,Stolen,2B,2023,2024,28.9
+231,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,573186,Marcus Stroman,641313,Tim Anderson,R,Yan Gomes,543228,3,2,2,False,2023-07-26,Stolen,2B,2023,2024,28.9
+232,1B,2B,Stolen Base 2B,693049,Oscar Colás,573186,Marcus Stroman,643217,Andrew Benintendi,R,Yan Gomes,543228,4,2,4,False,2023-07-26,Stolen,2B,2023,2024,28.9
+233,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,573186,Marcus Stroman,502671,Paul Goldschmidt,R,Yan Gomes,543228,0,3,4,True,2023-07-20,Stolen,2B,2023,2024,28.9
+234,1B,2B,Stolen Base 2B,682928,CJ Abrams,592767,Drew Smyly,657041,Lane Thomas,L,Yan Gomes,543228,0,0,1,True,2023-07-17,Stolen,2B,2023,2024,28.9
+235,1B,2B,Stolen Base 2B,669743,Alex Call,592767,Drew Smyly,682928,CJ Abrams,L,Yan Gomes,543228,1,5,6,True,2023-07-17,Stolen,2B,2023,2024,28.9
+236,1B,2B,Stolen Base 2B,680911,Owen Miller,573186,Marcus Stroman,605119,Brian Anderson,R,Yan Gomes,543228,0,1,2,False,2023-07-06,Stolen,2B,2023,2024,28.9
+237,1B,2B,Stolen Base 2B,606132,Raimel Tapia,573186,Marcus Stroman,605119,Brian Anderson,R,Yan Gomes,543228,0,1,5,False,2023-07-06,Stolen,2B,2023,2024,28.9
+238,1B,2B,Stolen Base 2B,592885,Christian Yelich,643410,Mark Leiter Jr.,642715,Willy Adames,R,Yan Gomes,543228,5,3,7,False,2023-07-06,Stolen,2B,2023,2024,28.9
+239,1B,2B,Stolen Base 2B,663330,Jahmai Jones,657006,Justin Steele,663368,Blake Perkins,L,Yan Gomes,543228,2,1,6,False,2023-07-05,Stolen,2B,2023,2024,28.9
+240,1B,2B,Stolen Base 2B,665926,Andrés Giménez,592791,Jameson Taillon,608070,José Ramírez,R,Yan Gomes,543228,0,0,1,True,2023-07-02,Stolen,2B,2023,2024,28.9
+241,1B,2B,Stolen Base 2B,681807,David Fry,592791,Jameson Taillon,664702,Myles Straw,R,Yan Gomes,543228,0,3,4,True,2023-07-02,Stolen,2B,2023,2024,28.9
+242,1B,,Caught Stealing 2B,672356,Gabriel Arias,640470,Adbert Alzolay,605137,Josh Bell,R,Yan Gomes,543228,6,8,10,True,2023-07-02,Caught,2B,2023,2024,28.9
+243,1B,2B,Stolen Base 2B,669242,Tommy Edman,573186,Marcus Stroman,680977,Brendan Donovan,R,Yan Gomes,543228,4,4,4,False,2023-06-25,Stolen,2B,2023,2024,28.9
+244,2B,,Caught Stealing 3B,656582,Connor Joe,592767,Drew Smyly,467793,Carlos Santana,L,Yan Gomes,543228,1,5,5,True,2023-06-14,Caught,3B,2023,2024,28.9
+245,2B,3B,Stolen Base 3B,687263,Zach Neto,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,3B,2023,2024,28.9
+246,1B,2B,Stolen Base 2B,621493,Taylor Ward,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,2B,2023,2024,28.9
+247,1B,2B,Stolen Base 2B,670764,Taylor Walls,643410,Mark Leiter Jr.,642350,Jose Siri,R,Yan Gomes,543228,3,4,8,True,2023-05-31,Stolen,2B,2023,2024,28.9
+248,1B,2B,Stolen Base 2B,622534,Manuel Margot,657240,Julian Merryweather,664040,Brandon Lowe,R,Yan Gomes,543228,3,4,9,True,2023-05-31,Stolen,2B,2023,2024,28.9
+249,1B,2B,Stolen Base 2B,677551,Wander Franco,543294,Kyle Hendricks,668227,Randy Arozarena,R,Yan Gomes,543228,0,0,1,True,2023-05-30,Stolen,2B,2023,2024,28.9
+250,1B,2B,Stolen Base 2B,666139,Josh Lowe,543294,Kyle Hendricks,677551,Wander Franco,R,Yan Gomes,543228,1,0,3,True,2023-05-30,Stolen,2B,2023,2024,28.9
+251,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,592767,Drew Smyly,669222,Nick Senzel,L,Yan Gomes,543228,0,1,2,True,2023-05-28,Stolen,3B,2023,2024,28.9
+252,1B,2B,Stolen Base 2B,680574,Matt McLain,592767,Drew Smyly,668715,Spencer Steer,L,Yan Gomes,543228,3,3,5,True,2023-05-28,Stolen,2B,2023,2024,28.9
+253,1B,2B,Stolen Base 2B,670770,TJ Friedl,592791,Jameson Taillon,680574,Matt McLain,R,Yan Gomes,543228,4,3,5,True,2023-05-27,Stolen,2B,2023,2024,28.9
+254,1B,2B,Stolen Base 2B,641584,Jake Fraley,657240,Julian Merryweather,663886,Tyler Stephenson,R,Yan Gomes,543228,4,8,7,True,2023-05-27,Stolen,2B,2023,2024,28.9
+255,2B,,Caught Stealing 3B,641584,Jake Fraley,657240,Julian Merryweather,668715,Spencer Steer,R,Yan Gomes,543228,4,8,7,True,2023-05-27,Caught,3B,2023,2024,28.9
+256,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,676714,Brandon Hughes,680574,Matt McLain,L,Yan Gomes,543228,5,8,8,True,2023-05-27,Stolen,3B,2023,2024,28.9
+257,1B,2B,Stolen Base 2B,516782,Starling Marte,543294,Kyle Hendricks,596129,Daniel Vogelbach,R,Yan Gomes,543228,1,4,3,True,2023-05-25,Stolen,2B,2023,2024,28.9
+258,2B,3B,Stolen Base 3B,643446,Jeff McNeil,676714,Brandon Hughes,683146,Brett Baty,L,Yan Gomes,543228,1,5,5,True,2023-05-25,Stolen,3B,2023,2024,28.9
+259,1B,2B,Stolen Base 2B,624413,Pete Alonso,676714,Brandon Hughes,683146,Brett Baty,L,Yan Gomes,543228,1,5,5,True,2023-05-25,Stolen,2B,2023,2024,28.9
+260,1B,2B,Stolen Base 2B,663743,Nick Fortes,657006,Justin Steele,650559,Bryan De La Cruz,L,Yan Gomes,543228,2,2,4,False,2023-04-30,Stolen,2B,2023,2024,28.9
+261,1B,,Caught Stealing 2B,542932,Jon Berti,657006,Justin Steele,660821,Jesús Sánchez,L,Yan Gomes,543228,3,2,5,False,2023-04-30,Caught,2B,2023,2024,28.9
+262,1B,2B,Stolen Base 2B,660821,Jesús Sánchez,573186,Marcus Stroman,663743,Nick Fortes,R,Yan Gomes,543228,0,1,3,False,2023-04-28,Stolen,2B,2023,2024,28.9
+263,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,573186,Marcus Stroman,643265,Garrett Cooper,R,Yan Gomes,543228,1,1,6,False,2023-04-28,Stolen,2B,2023,2024,28.9
+264,2B,3B,Stolen Base 3B,665862,Jazz Chisholm Jr.,573186,Marcus Stroman,643265,Garrett Cooper,R,Yan Gomes,543228,1,1,6,False,2023-04-28,Stolen,3B,2023,2024,28.9
+265,1B,2B,Stolen Base 2B,640492,José Azocar,592767,Drew Smyly,665487,Fernando Tatis Jr.,L,Yan Gomes,543228,0,0,3,True,2023-04-26,Stolen,2B,2023,2024,28.9
+266,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,543592,Austin Nola,L,Yan Gomes,543228,0,2,4,True,2023-04-26,Stolen,2B,2023,2024,28.9
+267,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,657240,Julian Merryweather,664954,Brett Sullivan,R,Yan Gomes,543228,3,4,9,True,2023-04-26,Stolen,2B,2023,2024,28.9
+268,1B,,Caught Stealing 2B,665487,Fernando Tatis Jr.,657006,Justin Steele,665742,Juan Soto,L,Yan Gomes,543228,0,0,1,True,2023-04-25,Caught,2B,2023,2024,28.9
+269,1B,,Caught Stealing 2B,543939,Kolten Wong,605242,Michael Fulmer,669450,Cooper Hummel,R,Yan Gomes,543228,2,2,9,True,2023-04-10,Caught,2B,2023,2024,28.9
+270,1B,,Caught Stealing 2B,641584,Jake Fraley,669713,Hayden Wesneski,663886,Tyler Stephenson,R,Yan Gomes,543228,1,1,1,False,2023-04-04,Caught,2B,2023,2024,28.9
+271,1B,,Caught Stealing 2B,669003,Garrett Mitchell,640470,Adbert Alzolay,605170,Victor Caratini,R,Yan Gomes,543228,3,2,8,False,2023-09-29,Caught,2B,2023,2024,28.9
+272,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,665871,Javier Assad,645277,Ozzie Albies,R,Yan Gomes,543228,5,1,4,False,2023-09-28,Caught,2B,2023,2024,28.9
+273,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,657240,Julian Merryweather,645277,Ozzie Albies,R,Yan Gomes,543228,3,3,8,False,2023-09-27,Stolen,2B,2023,2024,28.9
+274,1B,,Caught Stealing 2B,645277,Ozzie Albies,657240,Julian Merryweather,663586,Austin Riley,R,Yan Gomes,543228,3,3,8,False,2023-09-27,Caught,2B,2023,2024,28.9
+275,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,694037,Daniel Palencia,645277,Ozzie Albies,R,Yan Gomes,543228,6,5,10,False,2023-09-27,Stolen,2B,2023,2024,28.9
+276,1B,2B,Stolen Base 2B,657088,Forrest Wall,592767,Drew Smyly,671739,Michael Harris II,L,Yan Gomes,543228,5,6,8,False,2023-09-26,Stolen,2B,2023,2024,28.9
+277,1B,,Caught Stealing 2B,686668,Brenton Doyle,621016,Jose Cuas,663898,Brendan Rodgers,R,Yan Gomes,543228,4,3,8,True,2023-09-24,Caught,2B,2023,2024,28.9
+278,1B,2B,Stolen Base 2B,686668,Brenton Doyle,665871,Javier Assad,453568,Charlie Blackmon,R,Yan Gomes,543228,1,3,4,True,2023-09-23,Stolen,2B,2023,2024,28.9
+279,2B,3B,Stolen Base 3B,669261,Jack Suwinski,543294,Kyle Hendricks,669707,Jared Triolo,R,Yan Gomes,543228,0,3,5,True,2023-09-21,Stolen,3B,2023,2024,28.9
+280,1B,2B,Stolen Base 2B,609280,Miguel Andujar,543294,Kyle Hendricks,669707,Jared Triolo,R,Yan Gomes,543228,0,3,5,True,2023-09-21,Stolen,2B,2023,2024,28.9
+281,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,543294,Kyle Hendricks,606466,Ketel Marte,R,Yan Gomes,543228,2,3,5,False,2023-09-16,Stolen,2B,2023,2024,28.9
+282,1B,,Caught Stealing 2B,672515,Gabriel Moreno,657240,Julian Merryweather,682998,Corbin Carroll,R,Yan Gomes,543228,3,3,9,False,2023-09-16,Caught,2B,2023,2024,28.9
+283,2B,3B,Stolen Base 3B,502054,Tommy Pham,543294,Kyle Hendricks,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,5,2,6,True,2023-09-10,Stolen,3B,2023,2024,28.9
+284,1B,,Caught Stealing 2B,672695,Geraldo Perdomo,643410,Mark Leiter Jr.,682998,Corbin Carroll,R,Yan Gomes,543228,5,2,7,True,2023-09-10,Caught,2B,2023,2024,28.9
+285,1B,2B,Stolen Base 2B,691783,Jordan Lawlar,657006,Justin Steele,572233,Christian Walker,L,Yan Gomes,543228,0,0,1,True,2023-09-09,Stolen,2B,2023,2024,28.9
+286,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657006,Justin Steele,656896,Emmanuel Rivera,L,Yan Gomes,543228,1,0,5,True,2023-09-09,Stolen,2B,2023,2024,28.9
+287,1B,2B,Stolen Base 2B,682998,Corbin Carroll,640470,Adbert Alzolay,607054,Jace Peterson,R,Yan Gomes,543228,1,1,9,True,2023-09-09,Stolen,2B,2023,2024,28.9
+288,2B,,Caught Stealing 3B,502054,Tommy Pham,694037,Daniel Palencia,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,1,3,10,True,2023-09-09,Caught,3B,2023,2024,28.9
+289,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,1,True,2023-09-08,Stolen,2B,2023,2024,28.9
+290,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,6,True,2023-09-08,Stolen,2B,2023,2024,28.9
+291,1B,2B,Stolen Base 2B,682998,Corbin Carroll,643410,Mark Leiter Jr.,606466,Ketel Marte,R,Yan Gomes,543228,0,1,8,True,2023-09-08,Stolen,2B,2023,2024,28.9
+292,1B,2B,Stolen Base 2B,677950,Alek Thomas,640470,Adbert Alzolay,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,0,1,9,True,2023-09-08,Stolen,2B,2023,2024,28.9
+293,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,665871,Javier Assad,656976,Pavin Smith,R,Yan Gomes,543228,0,1,2,True,2023-09-07,Stolen,2B,2023,2024,28.9
+294,1B,2B,Stolen Base 2B,677950,Alek Thomas,624522,Keegan Thompson,672515,Gabriel Moreno,R,Yan Gomes,543228,1,5,8,True,2023-09-07,Stolen,2B,2023,2024,28.9
+295,1B,2B,Stolen Base 2B,682998,Corbin Carroll,669713,Hayden Wesneski,606466,Ketel Marte,R,Yan Gomes,543228,1,6,9,True,2023-09-07,Stolen,2B,2023,2024,28.9
+296,1B,,Caught Stealing 2B,664056,Harrison Bader,592791,Jameson Taillon,605361,Nick Martini,R,Yan Gomes,543228,4,3,5,False,2023-09-03,Caught,2B,2023,2024,28.9
+297,1B,,Caught Stealing 2B,670770,TJ Friedl,665871,Javier Assad,682829,Elly De La Cruz,R,Yan Gomes,543228,0,0,6,False,2023-09-02,Caught,2B,2023,2024,28.9
+298,2B,3B,Stolen Base 3B,664056,Harrison Bader,643410,Mark Leiter Jr.,670770,TJ Friedl,R,Yan Gomes,543228,0,1,9,False,2023-09-02,Stolen,3B,2023,2024,28.9
+299,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,640470,Adbert Alzolay,666181,Will Benson,R,Yan Gomes,543228,2,2,9,False,2023-09-01,Stolen,2B,2023,2024,28.9
+300,1B,2B,Stolen Base 2B,661388,William Contreras,543294,Kyle Hendricks,467793,Carlos Santana,R,Yan Gomes,543228,2,1,5,True,2023-08-30,Stolen,2B,2023,2024,28.9
+301,1B,2B,Stolen Base 2B,686217,Sal Frelick,643410,Mark Leiter Jr.,642715,Willy Adames,R,Yan Gomes,543228,2,1,8,True,2023-08-30,Stolen,2B,2023,2024,28.9
+302,1B,,Caught Stealing 2B,592885,Christian Yelich,657240,Julian Merryweather,592192,Mark Canha,R,Yan Gomes,543228,1,0,8,True,2023-08-29,Caught,2B,2023,2024,28.9
+303,1B,2B,Stolen Base 2B,669261,Jack Suwinski,665871,Javier Assad,663845,Alfonso Rivas III,R,Yan Gomes,543228,1,1,2,False,2023-08-27,Stolen,2B,2023,2024,28.9
+304,1B,2B,Stolen Base 2B,641943,Joshua Palacios,665871,Javier Assad,669261,Jack Suwinski,R,Yan Gomes,543228,1,3,4,False,2023-08-27,Stolen,2B,2023,2024,28.9
+305,1B,,Caught Stealing 2B,663647,Ke'Bryan Hayes,543294,Kyle Hendricks,668804,Bryan Reynolds,R,Yan Gomes,543228,2,0,2,False,2023-08-25,Caught,2B,2023,2024,28.9
+306,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,657006,Justin Steele,663647,Ke'Bryan Hayes,L,Yan Gomes,543228,1,3,2,False,2023-08-24,Stolen,2B,2023,2024,28.9
+307,1B,2B,Stolen Base 2B,656716,Zach McKinstry,640470,Adbert Alzolay,628451,Andy Ibáñez,R,Yan Gomes,543228,4,6,9,False,2023-08-23,Stolen,2B,2023,2024,28.9
+308,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657006,Justin Steele,686681,Michael Massey,L,Yan Gomes,543228,6,1,6,True,2023-08-19,Stolen,2B,2023,2024,28.9
+309,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657240,Julian Merryweather,686681,Michael Massey,R,Yan Gomes,543228,6,3,7,True,2023-08-19,Stolen,2B,2023,2024,28.9
+310,2B,,Caught Stealing 3B,669004,MJ Melendez,592791,Jameson Taillon,666023,Freddy Fermin,R,Yan Gomes,543228,0,0,2,True,2023-08-18,Caught,3B,2023,2024,28.9
+311,1B,2B,Stolen Base 2B,671221,Drew Waters,592791,Jameson Taillon,676369,Nelson Velázquez,R,Yan Gomes,543228,0,0,3,True,2023-08-18,Stolen,2B,2023,2024,28.9
+312,1B,2B,Stolen Base 2B,621545,Zach Remillard,543294,Kyle Hendricks,462101,Elvis Andrus,R,Yan Gomes,543228,2,3,2,True,2023-08-15,Stolen,2B,2023,2024,28.9
+313,1B,2B,Stolen Base 2B,462101,Elvis Andrus,640470,Adbert Alzolay,643217,Andrew Benintendi,R,Yan Gomes,543228,3,5,9,True,2023-08-15,Stolen,2B,2023,2024,28.9
+314,1B,,Caught Stealing 2B,665489,Vladimir Guerrero Jr.,621016,Jose Cuas,656305,Matt Chapman,R,Yan Gomes,543228,4,4,7,False,2023-08-12,Caught,2B,2023,2024,28.9
+315,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,665871,Javier Assad,645277,Ozzie Albies,R,Yan Gomes,543228,0,0,1,True,2023-08-05,Stolen,2B,2023,2024,28.9
+316,1B,2B,Stolen Base 2B,645277,Ozzie Albies,605242,Michael Fulmer,663586,Austin Riley,R,Yan Gomes,543228,6,2,5,True,2023-08-05,Stolen,2B,2023,2024,28.9
+317,1B,2B,Stolen Base 2B,641584,Jake Fraley,592791,Jameson Taillon,668715,Spencer Steer,R,Yan Gomes,543228,0,1,1,True,2023-08-03,Stolen,2B,2023,2024,28.9
+318,1B,2B,Stolen Base 2B,680574,Matt McLain,592791,Jameson Taillon,668715,Spencer Steer,R,Yan Gomes,543228,1,1,3,True,2023-08-03,Stolen,2B,2023,2024,28.9
+319,1B,2B,Stolen Base 2B,641584,Jake Fraley,573186,Marcus Stroman,668715,Spencer Steer,R,Yan Gomes,543228,1,4,3,True,2023-07-31,Stolen,2B,2023,2024,28.9
+320,1B,2B,Stolen Base 2B,670770,TJ Friedl,665871,Javier Assad,680574,Matt McLain,R,Yan Gomes,543228,4,6,4,True,2023-07-31,Stolen,2B,2023,2024,28.9
+321,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,573186,Marcus Stroman,641313,Tim Anderson,R,Yan Gomes,543228,3,2,2,False,2023-07-26,Stolen,2B,2023,2024,28.9
+322,1B,2B,Stolen Base 2B,693049,Oscar Colás,573186,Marcus Stroman,643217,Andrew Benintendi,R,Yan Gomes,543228,4,2,4,False,2023-07-26,Stolen,2B,2023,2024,28.9
+323,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,573186,Marcus Stroman,502671,Paul Goldschmidt,R,Yan Gomes,543228,0,3,4,True,2023-07-20,Stolen,2B,2023,2024,28.9
+324,1B,2B,Stolen Base 2B,682928,CJ Abrams,592767,Drew Smyly,657041,Lane Thomas,L,Yan Gomes,543228,0,0,1,True,2023-07-17,Stolen,2B,2023,2024,28.9
+325,1B,2B,Stolen Base 2B,669743,Alex Call,592767,Drew Smyly,682928,CJ Abrams,L,Yan Gomes,543228,1,5,6,True,2023-07-17,Stolen,2B,2023,2024,28.9
+326,1B,2B,Stolen Base 2B,680911,Owen Miller,573186,Marcus Stroman,605119,Brian Anderson,R,Yan Gomes,543228,0,1,2,False,2023-07-06,Stolen,2B,2023,2024,28.9
+327,1B,2B,Stolen Base 2B,606132,Raimel Tapia,573186,Marcus Stroman,605119,Brian Anderson,R,Yan Gomes,543228,0,1,5,False,2023-07-06,Stolen,2B,2023,2024,28.9
+328,1B,2B,Stolen Base 2B,592885,Christian Yelich,643410,Mark Leiter Jr.,642715,Willy Adames,R,Yan Gomes,543228,5,3,7,False,2023-07-06,Stolen,2B,2023,2024,28.9
+329,1B,2B,Stolen Base 2B,663330,Jahmai Jones,657006,Justin Steele,663368,Blake Perkins,L,Yan Gomes,543228,2,1,6,False,2023-07-05,Stolen,2B,2023,2024,28.9
+330,1B,2B,Stolen Base 2B,665926,Andrés Giménez,592791,Jameson Taillon,608070,José Ramírez,R,Yan Gomes,543228,0,0,1,True,2023-07-02,Stolen,2B,2023,2024,28.9
+331,1B,2B,Stolen Base 2B,681807,David Fry,592791,Jameson Taillon,664702,Myles Straw,R,Yan Gomes,543228,0,3,4,True,2023-07-02,Stolen,2B,2023,2024,28.9
+332,1B,,Caught Stealing 2B,672356,Gabriel Arias,640470,Adbert Alzolay,605137,Josh Bell,R,Yan Gomes,543228,6,8,10,True,2023-07-02,Caught,2B,2023,2024,28.9
+333,1B,2B,Stolen Base 2B,669242,Tommy Edman,573186,Marcus Stroman,680977,Brendan Donovan,R,Yan Gomes,543228,4,4,4,False,2023-06-25,Stolen,2B,2023,2024,28.9
+334,2B,,Caught Stealing 3B,656582,Connor Joe,592767,Drew Smyly,467793,Carlos Santana,L,Yan Gomes,543228,1,5,5,True,2023-06-14,Caught,3B,2023,2024,28.9
+335,2B,3B,Stolen Base 3B,687263,Zach Neto,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,3B,2023,2024,28.9
+336,1B,2B,Stolen Base 2B,621493,Taylor Ward,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,2B,2023,2024,28.9
+337,1B,2B,Stolen Base 2B,670764,Taylor Walls,643410,Mark Leiter Jr.,642350,Jose Siri,R,Yan Gomes,543228,3,4,8,True,2023-05-31,Stolen,2B,2023,2024,28.9
+338,1B,2B,Stolen Base 2B,622534,Manuel Margot,657240,Julian Merryweather,664040,Brandon Lowe,R,Yan Gomes,543228,3,4,9,True,2023-05-31,Stolen,2B,2023,2024,28.9
+339,1B,2B,Stolen Base 2B,677551,Wander Franco,543294,Kyle Hendricks,668227,Randy Arozarena,R,Yan Gomes,543228,0,0,1,True,2023-05-30,Stolen,2B,2023,2024,28.9
+340,1B,2B,Stolen Base 2B,666139,Josh Lowe,543294,Kyle Hendricks,677551,Wander Franco,R,Yan Gomes,543228,1,0,3,True,2023-05-30,Stolen,2B,2023,2024,28.9
+341,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,592767,Drew Smyly,669222,Nick Senzel,L,Yan Gomes,543228,0,1,2,True,2023-05-28,Stolen,3B,2023,2024,28.9
+342,1B,2B,Stolen Base 2B,680574,Matt McLain,592767,Drew Smyly,668715,Spencer Steer,L,Yan Gomes,543228,3,3,5,True,2023-05-28,Stolen,2B,2023,2024,28.9
+343,1B,2B,Stolen Base 2B,670770,TJ Friedl,592791,Jameson Taillon,680574,Matt McLain,R,Yan Gomes,543228,4,3,5,True,2023-05-27,Stolen,2B,2023,2024,28.9
+344,1B,2B,Stolen Base 2B,641584,Jake Fraley,657240,Julian Merryweather,663886,Tyler Stephenson,R,Yan Gomes,543228,4,8,7,True,2023-05-27,Stolen,2B,2023,2024,28.9
+345,2B,,Caught Stealing 3B,641584,Jake Fraley,657240,Julian Merryweather,668715,Spencer Steer,R,Yan Gomes,543228,4,8,7,True,2023-05-27,Caught,3B,2023,2024,28.9
+346,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,676714,Brandon Hughes,680574,Matt McLain,L,Yan Gomes,543228,5,8,8,True,2023-05-27,Stolen,3B,2023,2024,28.9
+347,1B,2B,Stolen Base 2B,516782,Starling Marte,543294,Kyle Hendricks,596129,Daniel Vogelbach,R,Yan Gomes,543228,1,4,3,True,2023-05-25,Stolen,2B,2023,2024,28.9
+348,2B,3B,Stolen Base 3B,643446,Jeff McNeil,676714,Brandon Hughes,683146,Brett Baty,L,Yan Gomes,543228,1,5,5,True,2023-05-25,Stolen,3B,2023,2024,28.9
+349,1B,2B,Stolen Base 2B,624413,Pete Alonso,676714,Brandon Hughes,683146,Brett Baty,L,Yan Gomes,543228,1,5,5,True,2023-05-25,Stolen,2B,2023,2024,28.9
+350,1B,2B,Stolen Base 2B,663743,Nick Fortes,657006,Justin Steele,650559,Bryan De La Cruz,L,Yan Gomes,543228,2,2,4,False,2023-04-30,Stolen,2B,2023,2024,28.9
+351,1B,,Caught Stealing 2B,542932,Jon Berti,657006,Justin Steele,660821,Jesús Sánchez,L,Yan Gomes,543228,3,2,5,False,2023-04-30,Caught,2B,2023,2024,28.9
+352,1B,2B,Stolen Base 2B,660821,Jesús Sánchez,573186,Marcus Stroman,663743,Nick Fortes,R,Yan Gomes,543228,0,1,3,False,2023-04-28,Stolen,2B,2023,2024,28.9
+353,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,573186,Marcus Stroman,643265,Garrett Cooper,R,Yan Gomes,543228,1,1,6,False,2023-04-28,Stolen,2B,2023,2024,28.9
+354,2B,3B,Stolen Base 3B,665862,Jazz Chisholm Jr.,573186,Marcus Stroman,643265,Garrett Cooper,R,Yan Gomes,543228,1,1,6,False,2023-04-28,Stolen,3B,2023,2024,28.9
+355,1B,2B,Stolen Base 2B,640492,José Azocar,592767,Drew Smyly,665487,Fernando Tatis Jr.,L,Yan Gomes,543228,0,0,3,True,2023-04-26,Stolen,2B,2023,2024,28.9
+356,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,543592,Austin Nola,L,Yan Gomes,543228,0,2,4,True,2023-04-26,Stolen,2B,2023,2024,28.9
+357,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,657240,Julian Merryweather,664954,Brett Sullivan,R,Yan Gomes,543228,3,4,9,True,2023-04-26,Stolen,2B,2023,2024,28.9
+358,1B,,Caught Stealing 2B,665487,Fernando Tatis Jr.,657006,Justin Steele,665742,Juan Soto,L,Yan Gomes,543228,0,0,1,True,2023-04-25,Caught,2B,2023,2024,28.9
+359,1B,,Caught Stealing 2B,543939,Kolten Wong,605242,Michael Fulmer,669450,Cooper Hummel,R,Yan Gomes,543228,2,2,9,True,2023-04-10,Caught,2B,2023,2024,28.9
+360,1B,,Caught Stealing 2B,641584,Jake Fraley,669713,Hayden Wesneski,663886,Tyler Stephenson,R,Yan Gomes,543228,1,1,1,False,2023-04-04,Caught,2B,2023,2024,28.9
+361,1B,2B,Stolen Base 2B,622761,Jorge Mateo,592716,Adrian Sampson,656775,Cedric Mullins,R,Yan Gomes,543228,2,3,4,True,2022-07-12,Stolen,2B,2022,2023,29.2
+362,1B,2B,Stolen Base 2B,656775,Cedric Mullins,664123,Scott Effross,641820,Trey Mancini,R,Yan Gomes,543228,2,4,7,True,2022-07-12,Stolen,2B,2022,2023,29.2
+363,1B,2B,Stolen Base 2B,656775,Cedric Mullins,664161,Matt Swarmer,641820,Trey Mancini,R,Yan Gomes,543228,2,4,9,True,2022-07-12,Stolen,2B,2022,2023,29.2
+364,1B,,Caught Stealing 2B,666158,Gavin Lux,573186,Marcus Stroman,641355,Cody Bellinger,R,Yan Gomes,543228,0,0,2,False,2022-07-09,Caught,2B,2022,2023,29.2
+365,1B,2B,Stolen Base 2B,641355,Cody Bellinger,502085,David Robertson,666158,Gavin Lux,R,Yan Gomes,543228,2,3,9,False,2022-07-08,Stolen,2B,2022,2023,29.2
+366,1B,2B,Stolen Base 2B,543939,Kolten Wong,455119,Chris Martin,553882,Omar Narváez,R,Yan Gomes,543228,1,0,7,False,2022-07-06,Stolen,2B,2022,2023,29.2
+367,1B,2B,Stolen Base 2B,592885,Christian Yelich,543294,Kyle Hendricks,642133,Rowdy Tellez,R,Yan Gomes,543228,2,0,1,False,2022-07-05,Stolen,2B,2022,2023,29.2
+368,1B,2B,Stolen Base 2B,607054,Jace Peterson,543294,Kyle Hendricks,641505,Jonathan Davis,R,Yan Gomes,543228,2,0,2,False,2022-07-05,Stolen,2B,2022,2023,29.2
+369,1B,,Caught Stealing 2B,614173,Franchy Cordero,643410,Mark Leiter Jr.,608700,Kevin Plawecki,R,Yan Gomes,543228,0,0,2,True,2022-07-02,Caught,2B,2022,2023,29.2
+370,1B,,Caught Stealing 2B,571657,Kyle Farmer,543294,Kyle Hendricks,519058,Mike Moustakas,R,Yan Gomes,543228,1,0,2,True,2022-06-30,Caught,2B,2022,2023,29.2
+371,1B,,Caught Stealing 2B,680977,Brendan Donovan,664161,Matt Swarmer,502671,Paul Goldschmidt,R,Yan Gomes,543228,5,5,5,False,2022-06-26,Caught,2B,2022,2023,29.2
+372,1B,2B,Stolen Base 2B,621020,Dansby Swanson,543294,Kyle Hendricks,621566,Matt Olson,R,Yan Gomes,543228,0,0,1,True,2022-06-19,Stolen,2B,2022,2023,29.2
+373,2B,3B,Stolen Base 3B,621020,Dansby Swanson,543294,Kyle Hendricks,663586,Austin Riley,R,Yan Gomes,543228,0,5,5,True,2022-06-19,Stolen,3B,2022,2023,29.2
+374,1B,2B,Stolen Base 2B,664983,Jake McCarthy,592858,Rowan Wick,662139,Daulton Varsho,R,Yan Gomes,543228,4,7,10,True,2022-05-21,Stolen,2B,2022,2023,29.2
+375,1B,2B,Stolen Base 2B,668942,Josh Rojas,664123,Scott Effross,444482,David Peralta,R,Yan Gomes,543228,1,3,6,True,2022-05-19,Stolen,2B,2022,2023,29.2
+376,1B,,Caught Stealing 2B,640492,José Azocar,543294,Kyle Hendricks,630105,Jake Cronenworth,R,Yan Gomes,543228,0,1,3,False,2022-05-09,Caught,2B,2022,2023,29.2
+377,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,657006,Justin Steele,642133,Rowdy Tellez,L,Yan Gomes,543228,3,1,3,False,2022-04-30,Stolen,2B,2022,2023,29.2
+378,2B,3B,Stolen Base 3B,621028,Kevin Newman,592767,Drew Smyly,547379,Roberto Pérez,L,Yan Gomes,543228,0,2,2,True,2022-04-22,Stolen,3B,2022,2023,29.2
+379,1B,2B,Stolen Base 2B,642165,Josh VanMeter,592767,Drew Smyly,547379,Roberto Pérez,L,Yan Gomes,543228,0,2,2,True,2022-04-22,Stolen,2B,2022,2023,29.2
+380,1B,,Caught Stealing 2B,663647,Ke'Bryan Hayes,624522,Keegan Thompson,596129,Daniel Vogelbach,R,Yan Gomes,543228,2,4,8,True,2022-04-22,Caught,2B,2022,2023,29.2
+381,2B,3B,Stolen Base 3B,668227,Randy Arozarena,573186,Marcus Stroman,596847,Ji Man Choi,R,Yan Gomes,543228,0,2,1,True,2022-04-20,Stolen,3B,2022,2023,29.2
+382,1B,2B,Stolen Base 2B,670764,Taylor Walls,573186,Marcus Stroman,677551,Wander Franco,R,Yan Gomes,543228,2,5,4,True,2022-04-20,Stolen,2B,2022,2023,29.2

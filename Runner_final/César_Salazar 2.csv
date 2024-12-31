@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,686823,Will Brennan,656232,Brandon Bielak,664702,Myles Straw,R,César Salazar,663967,2,0,2,False,2023-06-11,Stolen,2B,2023,2024,28.2
+1,1B,,Caught Stealing 2B,647304,Josh Naylor,656232,Brandon Bielak,605137,Josh Bell,R,César Salazar,663967,2,0,3,False,2023-06-11,Caught,2B,2023,2024,28.2
+2,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,592773,Ryne Stanek,683734,Andrew Vaughn,R,César Salazar,663967,1,1,7,False,2023-05-13,Stolen,2B,2023,2024,28.2
+3,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,664299,Cristian Javier,663586,Austin Riley,R,César Salazar,663967,0,0,1,False,2023-04-23,Stolen,2B,2023,2024,28.2
+4,2B,3B,Stolen Base 3B,663647,Ke'Bryan Hayes,664299,Cristian Javier,675986,Canaan Smith-Njigba,R,César Salazar,663967,4,2,6,False,2023-04-11,Stolen,3B,2023,2024,28.2
+5,1B,2B,Stolen Base 2B,656716,Zach McKinstry,664299,Cristian Javier,668952,Ryan Kreidler,R,César Salazar,663967,2,0,3,True,2023-04-05,Stolen,2B,2023,2024,28.2
+6,1B,2B,Stolen Base 2B,682985,Riley Greene,664299,Cristian Javier,663837,Matt Vierling,R,César Salazar,663967,2,1,3,True,2023-04-05,Stolen,2B,2023,2024,28.2
+7,1B,2B,Stolen Base 2B,606992,Eric Haase,664299,Cristian Javier,665155,Nick Maton,R,César Salazar,663967,4,1,5,True,2023-04-05,Stolen,2B,2023,2024,28.2
+8,1B,2B,Stolen Base 2B,663837,Matt Vierling,664299,Cristian Javier,640457,Austin Meadows,R,César Salazar,663967,4,1,6,True,2023-04-05,Stolen,2B,2023,2024,28.2
+9,1B,2B,Stolen Base 2B,686823,Will Brennan,656232,Brandon Bielak,664702,Myles Straw,R,César Salazar,663967,2,0,2,False,2023-06-11,Stolen,2B,2023,2024,28.2
+10,1B,,Caught Stealing 2B,647304,Josh Naylor,656232,Brandon Bielak,605137,Josh Bell,R,César Salazar,663967,2,0,3,False,2023-06-11,Caught,2B,2023,2024,28.2
+11,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,592773,Ryne Stanek,683734,Andrew Vaughn,R,César Salazar,663967,1,1,7,False,2023-05-13,Stolen,2B,2023,2024,28.2
+12,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,664299,Cristian Javier,663586,Austin Riley,R,César Salazar,663967,0,0,1,False,2023-04-23,Stolen,2B,2023,2024,28.2
+13,2B,3B,Stolen Base 3B,663647,Ke'Bryan Hayes,664299,Cristian Javier,675986,Canaan Smith-Njigba,R,César Salazar,663967,4,2,6,False,2023-04-11,Stolen,3B,2023,2024,28.2
+14,1B,2B,Stolen Base 2B,656716,Zach McKinstry,664299,Cristian Javier,668952,Ryan Kreidler,R,César Salazar,663967,2,0,3,True,2023-04-05,Stolen,2B,2023,2024,28.2
+15,1B,2B,Stolen Base 2B,682985,Riley Greene,664299,Cristian Javier,663837,Matt Vierling,R,César Salazar,663967,2,1,3,True,2023-04-05,Stolen,2B,2023,2024,28.2
+16,1B,2B,Stolen Base 2B,606992,Eric Haase,664299,Cristian Javier,665155,Nick Maton,R,César Salazar,663967,4,1,5,True,2023-04-05,Stolen,2B,2023,2024,28.2
+17,1B,2B,Stolen Base 2B,663837,Matt Vierling,664299,Cristian Javier,640457,Austin Meadows,R,César Salazar,663967,4,1,6,True,2023-04-05,Stolen,2B,2023,2024,28.2

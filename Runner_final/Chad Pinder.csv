@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+205,1B,2B,Stolen Base 2B,640461,Chad Pinder,660761,José Suarez,501981,Khris Davis,L,Max Stassi,545358,0,3,6,True,2021-09-18,Stolen,2B
+1146,1B,2B,Stolen Base 2B,640461,Chad Pinder,663776,Patrick Sandoval,669221,Sean Murphy,L,Chad Wallach,595453,1,2,5,False,2022-05-15,Stolen,2B
+1712,1B,2B,Stolen Base 2B,640461,Chad Pinder,643256,Adam Cimber,664913,Seth Brown,R,Zack Collins,641470,2,1,6,True,2022-04-15,Stolen,2B
+2129,1B,2B,Stolen Base 2B,640461,Chad Pinder,660761,José Suarez,501981,Khris Davis,L,Max Stassi,545358,0,3,6,True,2021-09-18,Stolen,2B
+6,1B,,Caught Stealing 2B,640461,Chad Pinder,453281,Wade LeBlanc,518960,Jonathan Lucroy,L,Mike Zunino,572287,1,0,3,True,2018-05-03,Caught,2B
+837,1B,2B,Stolen Base 2B,640461,Chad Pinder,434671,Aníbal Sánchez,656305,Matt Chapman,R,John Hicks,543308,0,0,2,True,2017-09-20,Stolen,2B
+1413,1B,,Caught Stealing 2B,640461,Chad Pinder,502748,Brad Peacock,621471,Boog Powell,R,Juan Centeno,518542,0,2,2,True,2017-08-20,Caught,2B
+3346,1B,2B,Stolen Base 2B,640461,Chad Pinder,596057,Daniel Norris,434658,Rajai Davis,L,James McCann,543510,4,1,4,False,2017-05-07,Stolen,2B
+209,1B,2B,Stolen Base 2B,640461,Chad Pinder,434671,Aníbal Sánchez,656305,Matt Chapman,R,John Hicks,543308,0,0,2,True,2017-09-20,Stolen,2B
+785,1B,,Caught Stealing 2B,640461,Chad Pinder,502748,Brad Peacock,621471,Boog Powell,R,Juan Centeno,518542,0,2,2,True,2017-08-20,Caught,2B
+2718,1B,2B,Stolen Base 2B,640461,Chad Pinder,596057,Daniel Norris,434658,Rajai Davis,L,James McCann,543510,4,1,4,False,2017-05-07,Stolen,2B

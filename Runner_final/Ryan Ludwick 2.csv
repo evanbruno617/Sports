@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2304,1B,,Caught Stealing 2B,407886,Ryan Ludwick,434538,Francisco Liriano,550298,Yorman Rodriguez,L,Chris Stewart,455755,4,4,5,False,2014-09-27,Caught,2B
+4077,1B,,Caught Stealing 2B,407886,Ryan Ludwick,430912,Matt Cain,446359,Zack Cozart,R,Héctor Sánchez,516949,1,0,7,True,2014-06-28,Caught,2B
+60,1B,,Caught Stealing 2B,407886,Ryan Ludwick,434538,Francisco Liriano,550298,Yorman Rodriguez,L,Chris Stewart,455755,4,4,5,False,2014-09-27,Caught,2B
+1833,1B,,Caught Stealing 2B,407886,Ryan Ludwick,430912,Matt Cain,446359,Zack Cozart,R,Héctor Sánchez,516949,1,0,7,True,2014-06-28,Caught,2B

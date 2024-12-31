@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1849,1B,2B,Stolen Base 2B,701778,Jace Avina,517008,Alex Colomé,699130,Jadher Areinamo,R,Elias Díaz,553869,6,8,8,True,2022-04-04,Stolen,2B

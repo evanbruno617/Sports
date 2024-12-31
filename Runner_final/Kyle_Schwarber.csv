@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,501571,Juan Lagares,452657,Jon Lester,527038,Wilmer Flores,L,Kyle Schwarber,656941,0,1,1,False,2017-06-13,Stolen,2B,2017,2018,28.5
+1,1B,2B,Stolen Base 2B,621035,Chris Taylor,444468,Héctor Rondón,624577,Yasiel Puig,R,Kyle Schwarber,656941,9,4,7,False,2017-05-28,Stolen,2B,2017,2018,28.5
+2,1B,2B,Stolen Base 2B,501571,Juan Lagares,452657,Jon Lester,527038,Wilmer Flores,L,Kyle Schwarber,656941,0,1,1,False,2017-06-13,Stolen,2B,2017,2018,28.5
+3,1B,2B,Stolen Base 2B,621035,Chris Taylor,444468,Héctor Rondón,624577,Yasiel Puig,R,Kyle Schwarber,656941,9,4,7,False,2017-05-28,Stolen,2B,2017,2018,28.5
+4,1B,2B,Stolen Base 2B,435401,Skip Schumaker,543294,Kyle Hendricks,571466,Tucker Barnhart,R,Kyle Schwarber,656941,5,1,6,False,2015-07-22,Stolen,2B,2015,2016,28.9
+5,1B,2B,Stolen Base 2B,453943,Todd Frazier,434628,Jason Hammel,457803,Jay Bruce,R,Kyle Schwarber,656941,2,1,5,False,2015-07-21,Stolen,2B,2015,2016,28.9
+6,1B,2B,Stolen Base 2B,458015,Joey Votto,467008,Pedro Strop,453943,Todd Frazier,R,Kyle Schwarber,656941,4,2,7,False,2015-07-21,Stolen,2B,2015,2016,28.9
+7,1B,2B,Stolen Base 2B,455976,Nick Markakis,543294,Kyle Hendricks,430637,Kelly Johnson,R,Kyle Schwarber,656941,1,0,1,False,2015-07-17,Stolen,2B,2015,2016,28.9
+8,1B,2B,Stolen Base 2B,543401,Jason Kipnis,453562,Jake Arrieta,488726,Michael Brantley,R,Kyle Schwarber,656941,0,0,3,True,2015-06-16,Stolen,2B,2015,2016,28.9
+9,1B,2B,Stolen Base 2B,543401,Jason Kipnis,453562,Jake Arrieta,596019,Francisco Lindor,R,Kyle Schwarber,656941,0,4,5,True,2015-06-16,Stolen,2B,2015,2016,28.9
+10,1B,2B,Stolen Base 2B,596019,Francisco Lindor,453562,Jake Arrieta,467793,Carlos Santana,R,Kyle Schwarber,656941,0,4,5,True,2015-06-16,Stolen,2B,2015,2016,28.9
+11,2B,,Caught Stealing 3B,488726,Michael Brantley,429719,Edwin Jackson,467793,Carlos Santana,R,Kyle Schwarber,656941,0,5,7,True,2015-06-16,Caught,3B,2015,2016,28.9
+12,1B,,Caught Stealing 2B,571875,Jake Lamb,518585,Fernando Cruz,444482,David Peralta,R,Kyle Schwarber,656941,4,2,6,False,2015-04-04,Caught,2B,2015,2016,28.9

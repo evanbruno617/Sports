@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1094,1B,2B,Stolen Base 2B,669023,Jeter Downs,519242,Chris Sale,657041,Lane Thomas,L,Connor Wong,657136,0,1,3,False,2023-08-17,Stolen,2B
+1382,1B,2B,Stolen Base 2B,669023,Jeter Downs,571882,Derek Law,660688,Keibert Ruiz,R,Tyler Stephenson,663886,3,6,8,True,2023-08-05,Stolen,2B
+5508,1B,2B,Stolen Base 2B,669023,Jeter Downs,519242,Chris Sale,657041,Lane Thomas,L,Connor Wong,657136,0,1,3,False,2023-08-17,Stolen,2B
+5796,1B,2B,Stolen Base 2B,669023,Jeter Downs,571882,Derek Law,660688,Keibert Ruiz,R,Tyler Stephenson,663886,3,6,8,True,2023-08-05,Stolen,2B

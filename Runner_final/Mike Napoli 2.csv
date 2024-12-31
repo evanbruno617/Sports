@@ -1,0 +1,41 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1295,1B,,Caught Stealing 2B,435063,Mike Napoli,543056,Danny Coulombe,596059,Rougned Odor,L,Dustin Garneau,572863,8,3,8,True,2017-08-26,Caught,2B
+1334,1B,2B,Stolen Base 2B,435063,Mike Napoli,501625,Jose Alvarez,596059,Rougned Odor,L,Juan Graterol,492802,0,3,9,True,2017-08-24,Stolen,2B
+2454,1B,,Caught Stealing 2B,435063,Mike Napoli,491624,César Valdez,455139,Robinson Chirinos,R,Luke Maile,571912,7,4,6,False,2017-06-22,Caught,2B
+4208,1B,2B,Stolen Base 2B,435063,Mike Napoli,573668,Juan Minaya,608070,José Ramírez,R,Kevan Smith,607345,4,4,5,False,2016-09-23,Stolen,2B
+4963,1B,2B,Caught Stealing 3B,435063,Mike Napoli,533167,Matt Shoemaker,608070,José Ramírez,R,Jett Bandy,542908,4,1,3,False,2016-08-13,Caught,3B
+5153,1B,,Caught Stealing 2B,435063,Mike Napoli,501381,Michael Pineda,608070,José Ramírez,R,Gary Sánchez,596142,1,0,2,True,2016-08-05,Caught,2B
+5174,1B,2B,Stolen Base 2B,435063,Mike Napoli,502327,Héctor Santiago,467793,Carlos Santana,L,Kurt Suzuki,435559,1,0,1,False,2016-08-04,Stolen,2B
+5953,1B,2B,Stolen Base 2B,435063,Mike Napoli,605483,Blake Snell,608070,José Ramírez,L,Hank Conger,474233,2,0,4,False,2016-06-21,Stolen,2B
+6405,2B,3B,Stolen Base 3B,435063,Mike Napoli,434622,Ubaldo Jiménez,346874,Juan Uribe,R,Caleb Joseph,543376,2,0,1,False,2016-05-28,Stolen,3B
+6462,1B,2B,Stolen Base 2B,435063,Mike Napoli,543359,Dan Jennings,467793,Carlos Santana,L,Alex Avila,488671,2,6,9,True,2016-05-24,Stolen,2B
+162,1B,2B,Stolen Base 2B,435063,Mike Napoli,458677,Justin Wilson,605141,Mookie Betts,L,Brian McCann,435263,4,6,6,False,2015-07-12,Stolen,2B
+472,3B,score,Caught Stealing 2B,435063,Mike Napoli,517008,Alex Colomé,598265,Jackie Bradley Jr.,R,Curt Casali,592200,1,3,4,True,2015-06-26,Caught,2B
+474,1B,2B,Stolen Base 2B,435063,Mike Napoli,517008,Alex Colomé,457477,Alejandro De Aza,R,Curt Casali,592200,1,3,6,True,2015-06-26,Stolen,2B
+1311,3B,,Caught Stealing Home,435063,Mike Napoli,457918,J.A. Happ,593428,Xander Bogaerts,L,Mike Zunino,572287,0,1,4,True,2015-05-15,Caught,Home
+2076,1B,2B,Stolen Base 2B,435063,Mike Napoli,595441,Matt Tracy,467055,Pablo Sandoval,L,John Ryan Murphy,571974,4,8,9,True,2015-04-11,Stolen,2B
+2785,1B,2B,Stolen Base 2B,435063,Mike Napoli,571901,Aaron Loup,501800,Allen Craig,L,Dioner Navarro,425900,3,6,8,False,2014-09-05,Stolen,2B
+4228,3B,score,Stolen Base Home,435063,Mike Napoli,543548,Tommy Milone,424325,David Ross,L,Stephen Vogt,519390,1,4,3,True,2014-06-22,Stolen,Home
+4499,1B,2B,Stolen Base 2B,435063,Mike Napoli,457435,Phil Coke,150229,A.J. Pierzynski,L,Alex Avila,488671,3,2,8,True,2014-06-08,Stolen,2B
+5433,1B,,Caught Stealing 2B,435063,Mike Napoli,502011,Preston Claiborne,150229,A.J. Pierzynski,R,Brian McCann,435263,4,1,7,False,2014-04-23,Caught,2B
+541,1B,2B,Stolen Base 2B,435063,Mike Napoli,571901,Aaron Loup,501800,Allen Craig,L,Dioner Navarro,425900,3,6,8,False,2014-09-05,Stolen,2B
+1984,3B,score,Stolen Base Home,435063,Mike Napoli,543548,Tommy Milone,424325,David Ross,L,Stephen Vogt,519390,1,4,3,True,2014-06-22,Stolen,Home
+2255,1B,2B,Stolen Base 2B,435063,Mike Napoli,457435,Phil Coke,150229,A.J. Pierzynski,L,Alex Avila,488671,3,2,8,True,2014-06-08,Stolen,2B
+3189,1B,,Caught Stealing 2B,435063,Mike Napoli,502011,Preston Claiborne,150229,A.J. Pierzynski,R,Brian McCann,435263,4,1,7,False,2014-04-23,Caught,2B
+173,1B,2B,Stolen Base 2B,435063,Mike Napoli,573668,Juan Minaya,608070,José Ramírez,R,Kevan Smith,607345,4,4,5,False,2016-09-23,Stolen,2B
+928,1B,2B,Caught Stealing 3B,435063,Mike Napoli,533167,Matt Shoemaker,608070,José Ramírez,R,Jett Bandy,542908,4,1,3,False,2016-08-13,Caught,3B
+1118,1B,,Caught Stealing 2B,435063,Mike Napoli,501381,Michael Pineda,608070,José Ramírez,R,Gary Sánchez,596142,1,0,2,True,2016-08-05,Caught,2B
+1139,1B,2B,Stolen Base 2B,435063,Mike Napoli,502327,Héctor Santiago,467793,Carlos Santana,L,Kurt Suzuki,435559,1,0,1,False,2016-08-04,Stolen,2B
+1918,1B,2B,Stolen Base 2B,435063,Mike Napoli,605483,Blake Snell,608070,José Ramírez,L,Hank Conger,474233,2,0,4,False,2016-06-21,Stolen,2B
+2370,2B,3B,Stolen Base 3B,435063,Mike Napoli,434622,Ubaldo Jiménez,346874,Juan Uribe,R,Caleb Joseph,543376,2,0,1,False,2016-05-28,Stolen,3B
+2427,1B,2B,Stolen Base 2B,435063,Mike Napoli,543359,Dan Jennings,467793,Carlos Santana,L,Alex Avila,488671,2,6,9,True,2016-05-24,Stolen,2B
+667,1B,,Caught Stealing 2B,435063,Mike Napoli,543056,Danny Coulombe,596059,Rougned Odor,L,Dustin Garneau,572863,8,3,8,True,2017-08-26,Caught,2B
+706,1B,2B,Stolen Base 2B,435063,Mike Napoli,501625,Jose Alvarez,596059,Rougned Odor,L,Juan Graterol,492802,0,3,9,True,2017-08-24,Stolen,2B
+1826,1B,,Caught Stealing 2B,435063,Mike Napoli,491624,César Valdez,455139,Robinson Chirinos,R,Luke Maile,571912,7,4,6,False,2017-06-22,Caught,2B
+3580,1B,2B,Stolen Base 2B,435063,Mike Napoli,573668,Juan Minaya,608070,José Ramírez,R,Kevan Smith,607345,4,4,5,False,2016-09-23,Stolen,2B
+4335,1B,2B,Caught Stealing 3B,435063,Mike Napoli,533167,Matt Shoemaker,608070,José Ramírez,R,Jett Bandy,542908,4,1,3,False,2016-08-13,Caught,3B
+4525,1B,,Caught Stealing 2B,435063,Mike Napoli,501381,Michael Pineda,608070,José Ramírez,R,Gary Sánchez,596142,1,0,2,True,2016-08-05,Caught,2B
+4546,1B,2B,Stolen Base 2B,435063,Mike Napoli,502327,Héctor Santiago,467793,Carlos Santana,L,Kurt Suzuki,435559,1,0,1,False,2016-08-04,Stolen,2B
+5325,1B,2B,Stolen Base 2B,435063,Mike Napoli,605483,Blake Snell,608070,José Ramírez,L,Hank Conger,474233,2,0,4,False,2016-06-21,Stolen,2B
+5777,2B,3B,Stolen Base 3B,435063,Mike Napoli,434622,Ubaldo Jiménez,346874,Juan Uribe,R,Caleb Joseph,543376,2,0,1,False,2016-05-28,Stolen,3B
+5834,1B,2B,Stolen Base 2B,435063,Mike Napoli,543359,Dan Jennings,467793,Carlos Santana,L,Alex Avila,488671,2,6,9,True,2016-05-24,Stolen,2B

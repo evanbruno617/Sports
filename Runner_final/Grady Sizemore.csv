@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+331,1B,,Caught Stealing 2B,429713,Grady Sizemore,547888,Masahiro Tanaka,542994,Joey Butler,R,Brian McCann,435263,0,3,5,True,2015-07-03,Caught,2B
+355,1B,2B,Stolen Base 2B,429713,Grady Sizemore,446372,Corey Kluber,523253,Logan Forsythe,R,Yan Gomes,543228,2,0,1,False,2015-07-02,Stolen,2B
+3493,2B,,Caught Stealing 3B,429713,Grady Sizemore,446321,Ross Detwiler,573131,Darin Ruf,L,Wilson Ramos,467092,1,5,5,True,2014-07-31,Caught,3B
+3597,2B,3B,Stolen Base 3B,429713,Grady Sizemore,489119,Wade Miley,276519,Jimmy Rollins,L,Miguel Montero,471083,2,0,2,False,2014-07-25,Stolen,3B
+4662,1B,2B,Stolen Base 2B,429713,Grady Sizemore,543606,Jake Odorizzi,598265,Jackie Bradley Jr.,R,José Molina,150040,3,0,4,False,2014-05-31,Stolen,2B
+4759,2B,3B,Stolen Base 3B,429713,Grady Sizemore,421685,Aaron Harang,424325,David Ross,R,Gerald Laird,408042,2,2,4,True,2014-05-27,Stolen,3B
+4878,1B,2B,Stolen Base 2B,429713,Grady Sizemore,571800,Drew Hutchison,430404,Jonny Gomes,R,Dioner Navarro,425900,0,0,1,False,2014-05-21,Stolen,2B
+5504,1B,2B,Stolen Base 2B,429713,Grady Sizemore,434622,Ubaldo Jiménez,456030,Dustin Pedroia,R,Matt Wieters,446308,0,3,1,False,2014-04-20,Stolen,2B
+5901,2B,3B,Stolen Base 3B,429713,Grady Sizemore,462136,Marco Estrada,593428,Xander Bogaerts,R,Jonathan Lucroy,518960,1,2,2,False,2014-04-04,Stolen,3B
+1249,2B,,Caught Stealing 3B,429713,Grady Sizemore,446321,Ross Detwiler,573131,Darin Ruf,L,Wilson Ramos,467092,1,5,5,True,2014-07-31,Caught,3B
+1353,2B,3B,Stolen Base 3B,429713,Grady Sizemore,489119,Wade Miley,276519,Jimmy Rollins,L,Miguel Montero,471083,2,0,2,False,2014-07-25,Stolen,3B
+2418,1B,2B,Stolen Base 2B,429713,Grady Sizemore,543606,Jake Odorizzi,598265,Jackie Bradley Jr.,R,José Molina,150040,3,0,4,False,2014-05-31,Stolen,2B
+2515,2B,3B,Stolen Base 3B,429713,Grady Sizemore,421685,Aaron Harang,424325,David Ross,R,Gerald Laird,408042,2,2,4,True,2014-05-27,Stolen,3B
+2634,1B,2B,Stolen Base 2B,429713,Grady Sizemore,571800,Drew Hutchison,430404,Jonny Gomes,R,Dioner Navarro,425900,0,0,1,False,2014-05-21,Stolen,2B
+3260,1B,2B,Stolen Base 2B,429713,Grady Sizemore,434622,Ubaldo Jiménez,456030,Dustin Pedroia,R,Matt Wieters,446308,0,3,1,False,2014-04-20,Stolen,2B
+3657,2B,3B,Stolen Base 3B,429713,Grady Sizemore,462136,Marco Estrada,593428,Xander Bogaerts,R,Jonathan Lucroy,518960,1,2,2,False,2014-04-04,Stolen,3B

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1569,1B,,Caught Stealing 2B,596012,Kevin Kramer,502188,Jeff Samardzija,607732,Jacob Stallings,R,Buster Posey,457763,0,3,6,True,2019-09-12,Caught,2B
+4412,1B,,Caught Stealing 2B,596012,Kevin Kramer,502188,Jeff Samardzija,607732,Jacob Stallings,R,Buster Posey,457763,0,3,6,True,2019-09-12,Caught,2B
+6336,1B,,Caught Stealing 2B,596012,Kevin Kramer,502188,Jeff Samardzija,607732,Jacob Stallings,R,Buster Posey,457763,0,3,6,True,2019-09-12,Caught,2B

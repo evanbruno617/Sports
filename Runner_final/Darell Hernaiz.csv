@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1412,1B,,Caught Stealing 2B,687231,Darell Hernaiz,641771,Chad Kuhl,680474,Max Schuemann,R,Chuckie Robinson,642020,3,1,6,False,2024-08-05,Caught,2B
+3798,1B,2B,Stolen Base 2B,687231,Darell Hernaiz,641482,Nestor Cortes,663527,Tyler Nevin,L,Jose Trevino,624431,1,3,5,True,2024-04-25,Stolen,2B

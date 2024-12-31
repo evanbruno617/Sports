@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1352,1B,,Caught Stealing 2B,502117,Kristopher Negrón,659275,Dinelson Lamet,592626,Joc Pederson,R,Francisco Mejía,642336,3,3,4,True,2019-09-25,Caught,2B
+2299,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,571656,Buck Farmer,664238,Dylan Moore,R,John Hicks,543308,2,2,7,False,2019-07-26,Stolen,2B
+4195,1B,,Caught Stealing 2B,502117,Kristopher Negrón,659275,Dinelson Lamet,592626,Joc Pederson,R,Francisco Mejía,642336,3,3,4,True,2019-09-25,Caught,2B
+5142,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,571656,Buck Farmer,664238,Dylan Moore,R,John Hicks,543308,2,2,7,False,2019-07-26,Stolen,2B
+6119,1B,,Caught Stealing 2B,502117,Kristopher Negrón,659275,Dinelson Lamet,592626,Joc Pederson,R,Francisco Mejía,642336,3,3,4,True,2019-09-25,Caught,2B
+7066,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,571656,Buck Farmer,664238,Dylan Moore,R,John Hicks,543308,2,2,7,False,2019-07-26,Stolen,2B
+932,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,571704,Ken Giles,571466,Tucker Barnhart,R,Carlos Ruiz,434563,0,2,8,True,2015-06-03,Stolen,2B
+1542,2B,3B,Stolen Base 3B,502117,Kristopher Negrón,455374,Antonio Bastardo,519023,Devin Mesoraco,L,Francisco Cervelli,465041,1,4,9,True,2015-05-05,Stolen,3B
+2415,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,543779,Kevin Siegrist,453943,Todd Frazier,L,A.J. Pierzynski,150229,2,3,8,True,2014-09-21,Stolen,2B
+2754,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,518716,Dillon Gee,544371,Donald Lutz,R,Travis d'Arnaud,518595,0,1,2,False,2014-09-06,Stolen,2B
+2969,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,453562,Jake Arrieta,435401,Skip Schumaker,R,John Baker,434633,0,0,2,False,2014-08-28,Stolen,2B
+3247,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,519168,Anthony Ranaudo,519023,Devin Mesoraco,R,Dan Butler,576788,0,2,1,False,2014-08-13,Stolen,2B
+3452,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,545363,Jacob Turner,446359,Zack Cozart,R,Jeff Mathis,425772,0,3,4,True,2014-08-03,Stolen,2B
+171,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,543779,Kevin Siegrist,453943,Todd Frazier,L,A.J. Pierzynski,150229,2,3,8,True,2014-09-21,Stolen,2B
+510,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,518716,Dillon Gee,544371,Donald Lutz,R,Travis d'Arnaud,518595,0,1,2,False,2014-09-06,Stolen,2B
+725,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,453562,Jake Arrieta,435401,Skip Schumaker,R,John Baker,434633,0,0,2,False,2014-08-28,Stolen,2B
+1003,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,519168,Anthony Ranaudo,519023,Devin Mesoraco,R,Dan Butler,576788,0,2,1,False,2014-08-13,Stolen,2B
+1208,1B,2B,Stolen Base 2B,502117,Kristopher Negrón,545363,Jacob Turner,446359,Zack Cozart,R,Jeff Mathis,425772,0,3,4,True,2014-08-03,Stolen,2B

@@ -1,0 +1,76 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+674,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,547888,Masahiro Tanaka,607257,Raffy Lopez,R,Austin Romine,519222,2,0,5,True,2017-09-29,Stolen,2B
+1186,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,592332,Kevin Gausman,456665,Steve Pearce,R,Caleb Joseph,543376,0,0,1,True,2017-09-01,Stolen,2B
+1298,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,595928,John Curtiss,518626,Josh Donaldson,R,Mitch Garver,641598,9,7,8,False,2017-08-26,Stolen,2B
+1700,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,606965,Chris Devenski,456665,Steve Pearce,R,Brian McCann,435263,3,3,8,True,2017-08-05,Stolen,2B
+1720,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502748,Brad Peacock,608701,Rob Refsnyder,R,Brian McCann,435263,3,2,4,True,2017-08-04,Stolen,2B
+2231,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,547888,Masahiro Tanaka,446381,Darwin Barney,R,Gary Sánchez,596142,2,1,7,True,2017-07-03,Stolen,2B
+2306,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,607680,Kevin Pillar,R,Caleb Joseph,543376,0,1,5,False,2017-06-29,Stolen,2B
+2848,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,476589,Adam Warren,571912,Luke Maile,R,Austin Romine,519222,0,3,7,False,2017-06-03,Stolen,2B
+3262,2B,3B,Stolen Base 3B,485567,Ezequiel Carrera,466948,Jean Machi,430832,José Bautista,R,Carlos Ruiz,434563,4,0,7,False,2017-05-12,Stolen,3B
+3668,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,445926,Jesse Chavez,430832,José Bautista,R,Juan Graterol,492802,5,8,13,True,2017-04-21,Stolen,2B
+4065,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,518626,Josh Donaldson,R,Matt Wieters,446308,0,0,1,False,2016-09-29,Stolen,2B
+4089,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,501957,Chris Tillman,518626,Josh Donaldson,R,Matt Wieters,446308,2,0,3,False,2016-09-28,Caught,2B
+4745,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,572990,Pat Light,430832,José Bautista,R,Kurt Suzuki,435559,7,5,6,False,2016-08-26,Stolen,2B
+5759,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502083,Zach McAllister,581527,Devon Travis,R,Chris Gimenez,460269,0,1,1,False,2016-07-02,Stolen,2B
+5818,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B
+6155,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B
+6418,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,518886,Craig Kimbrel,431145,Russell Martin,R,Christian Vázquez,543877,9,9,9,False,2016-05-28,Stolen,2B
+6915,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,543606,Jake Odorizzi,431145,Russell Martin,R,Hank Conger,474233,0,1,5,True,2016-05-01,Caught,2B
+7080,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,518626,Josh Donaldson,R,Josh Phegley,572033,5,2,4,False,2016-04-23,Stolen,2B
+7170,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,571710,Mychal Givens,430832,José Bautista,R,Matt Wieters,446308,3,4,9,True,2016-04-19,Stolen,2B
+7460,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,457711,Sean O'Sullivan,446381,Darwin Barney,R,Sandy León,506702,2,0,4,False,2016-04-02,Caught,2B
+7479,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543726,Robbie Ross Jr.,446381,Darwin Barney,L,Sandy León,506702,2,2,7,False,2016-04-01,Stolen,2B
+516,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,544993,Steve Geltz,431145,Russell Martin,R,Curt Casali,592200,0,0,11,True,2015-06-24,Caught,2B
+826,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,516589,André Rienzo,493128,Munenori Kawasaki,R,J.T. Realmuto,592663,8,2,5,False,2015-06-08,Stolen,2B
+1335,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,433584,Roberto Hernandez,581527,Devon Travis,R,Jason Castro,488771,1,3,3,True,2015-05-14,Stolen,2B
+2590,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543766,Bryan Shaw,488671,Alex Avila,R,Yan Gomes,543228,5,4,8,False,2014-09-13,Stolen,2B
+2683,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,516969,Kelvin Herrera,488671,Alex Avila,R,Salvador Perez,521692,4,2,8,False,2014-09-09,Stolen,2B
+2925,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,434658,Rajai Davis,R,Adrian Nieto,543589,0,2,4,True,2014-08-30,Stolen,2B
+2926,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,434658,Rajai Davis,R,Adrian Nieto,543589,0,5,6,True,2014-08-30,Stolen,2B
+2937,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,453222,Scott Carroll,435079,Ian Kinsler,R,Tyler Flowers,452095,1,6,4,True,2014-08-29,Stolen,2B
+3225,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,592238,Brandon Cumpton,488671,Alex Avila,R,Chris Stewart,455755,5,0,8,False,2014-08-14,Stolen,2B
+3310,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,592717,Aaron Sanchez,461865,Andrew Romine,R,Josh Thole,489365,4,5,8,True,2014-08-10,Caught,2B
+3342,2B,3B,Stolen Base 3B,485567,Ezequiel Carrera,571901,Aaron Loup,553993,Eugenio Suárez,L,Dioner Navarro,425900,2,2,10,True,2014-08-09,Stolen,3B
+346,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543766,Bryan Shaw,488671,Alex Avila,R,Yan Gomes,543228,5,4,8,False,2014-09-13,Stolen,2B
+439,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,516969,Kelvin Herrera,488671,Alex Avila,R,Salvador Perez,521692,4,2,8,False,2014-09-09,Stolen,2B
+681,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,434658,Rajai Davis,R,Adrian Nieto,543589,0,2,4,True,2014-08-30,Stolen,2B
+682,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,434658,Rajai Davis,R,Adrian Nieto,543589,0,5,6,True,2014-08-30,Stolen,2B
+693,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,453222,Scott Carroll,435079,Ian Kinsler,R,Tyler Flowers,452095,1,6,4,True,2014-08-29,Stolen,2B
+981,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,592238,Brandon Cumpton,488671,Alex Avila,R,Chris Stewart,455755,5,0,8,False,2014-08-14,Stolen,2B
+1066,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,592717,Aaron Sanchez,461865,Andrew Romine,R,Josh Thole,489365,4,5,8,True,2014-08-10,Caught,2B
+1098,2B,3B,Stolen Base 3B,485567,Ezequiel Carrera,571901,Aaron Loup,553993,Eugenio Suárez,L,Dioner Navarro,425900,2,2,10,True,2014-08-09,Stolen,3B
+30,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,518626,Josh Donaldson,R,Matt Wieters,446308,0,0,1,False,2016-09-29,Stolen,2B
+54,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,501957,Chris Tillman,518626,Josh Donaldson,R,Matt Wieters,446308,2,0,3,False,2016-09-28,Caught,2B
+710,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,572990,Pat Light,430832,José Bautista,R,Kurt Suzuki,435559,7,5,6,False,2016-08-26,Stolen,2B
+1724,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502083,Zach McAllister,581527,Devon Travis,R,Chris Gimenez,460269,0,1,1,False,2016-07-02,Stolen,2B
+1783,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B
+2120,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B
+2383,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,518886,Craig Kimbrel,431145,Russell Martin,R,Christian Vázquez,543877,9,9,9,False,2016-05-28,Stolen,2B
+2880,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,543606,Jake Odorizzi,431145,Russell Martin,R,Hank Conger,474233,0,1,5,True,2016-05-01,Caught,2B
+3045,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,518626,Josh Donaldson,R,Josh Phegley,572033,5,2,4,False,2016-04-23,Stolen,2B
+3135,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,571710,Mychal Givens,430832,José Bautista,R,Matt Wieters,446308,3,4,9,True,2016-04-19,Stolen,2B
+3425,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,457711,Sean O'Sullivan,446381,Darwin Barney,R,Sandy León,506702,2,0,4,False,2016-04-02,Caught,2B
+3444,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543726,Robbie Ross Jr.,446381,Darwin Barney,L,Sandy León,506702,2,2,7,False,2016-04-01,Stolen,2B
+46,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,547888,Masahiro Tanaka,607257,Raffy Lopez,R,Austin Romine,519222,2,0,5,True,2017-09-29,Stolen,2B
+558,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,592332,Kevin Gausman,456665,Steve Pearce,R,Caleb Joseph,543376,0,0,1,True,2017-09-01,Stolen,2B
+670,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,595928,John Curtiss,518626,Josh Donaldson,R,Mitch Garver,641598,9,7,8,False,2017-08-26,Stolen,2B
+1072,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,606965,Chris Devenski,456665,Steve Pearce,R,Brian McCann,435263,3,3,8,True,2017-08-05,Stolen,2B
+1092,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502748,Brad Peacock,608701,Rob Refsnyder,R,Brian McCann,435263,3,2,4,True,2017-08-04,Stolen,2B
+1603,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,547888,Masahiro Tanaka,446381,Darwin Barney,R,Gary Sánchez,596142,2,1,7,True,2017-07-03,Stolen,2B
+1678,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,607680,Kevin Pillar,R,Caleb Joseph,543376,0,1,5,False,2017-06-29,Stolen,2B
+2220,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,476589,Adam Warren,571912,Luke Maile,R,Austin Romine,519222,0,3,7,False,2017-06-03,Stolen,2B
+2634,2B,3B,Stolen Base 3B,485567,Ezequiel Carrera,466948,Jean Machi,430832,José Bautista,R,Carlos Ruiz,434563,4,0,7,False,2017-05-12,Stolen,3B
+3040,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,445926,Jesse Chavez,430832,José Bautista,R,Juan Graterol,492802,5,8,13,True,2017-04-21,Stolen,2B
+3437,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,518626,Josh Donaldson,R,Matt Wieters,446308,0,0,1,False,2016-09-29,Stolen,2B
+3461,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,501957,Chris Tillman,518626,Josh Donaldson,R,Matt Wieters,446308,2,0,3,False,2016-09-28,Caught,2B
+4117,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,572990,Pat Light,430832,José Bautista,R,Kurt Suzuki,435559,7,5,6,False,2016-08-26,Stolen,2B
+5131,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502083,Zach McAllister,581527,Devon Travis,R,Chris Gimenez,460269,0,1,1,False,2016-07-02,Stolen,2B
+5190,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B
+5527,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B
+5790,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,518886,Craig Kimbrel,431145,Russell Martin,R,Christian Vázquez,543877,9,9,9,False,2016-05-28,Stolen,2B
+6287,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,543606,Jake Odorizzi,431145,Russell Martin,R,Hank Conger,474233,0,1,5,True,2016-05-01,Caught,2B
+6452,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,518626,Josh Donaldson,R,Josh Phegley,572033,5,2,4,False,2016-04-23,Stolen,2B
+6542,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,571710,Mychal Givens,430832,José Bautista,R,Matt Wieters,446308,3,4,9,True,2016-04-19,Stolen,2B
+6832,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,457711,Sean O'Sullivan,446381,Darwin Barney,R,Sandy León,506702,2,0,4,False,2016-04-02,Caught,2B
+6851,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543726,Robbie Ross Jr.,446381,Darwin Barney,L,Sandy León,506702,2,2,7,False,2016-04-01,Stolen,2B

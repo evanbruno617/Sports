@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+636,1B,2B,Stolen Base 2B,571681,Rey Fuentes,596001,Jakob Junis,444482,David Peralta,R,Cam Gallagher,595956,1,1,5,True,2017-09-30,Stolen,2B
+1349,1B,2B,Stolen Base 2B,571681,Rey Fuentes,519294,Josh Smoker,543302,Chris Herrmann,L,Kevin Plawecki,608700,1,3,6,True,2017-08-24,Stolen,2B
+2382,2B,3B,Stolen Base 3B,571681,Rey Fuentes,605388,Adam Morgan,425844,Zack Greinke,L,Andrew Knapp,595284,6,1,5,False,2017-06-26,Stolen,3B
+2534,1B,,Caught Stealing 2B,571681,Rey Fuentes,276542,Joaquín Benoit,605113,Nick Ahmed,R,Cameron Rupp,519237,4,3,8,True,2017-06-18,Caught,2B
+3029,1B,2B,Stolen Base 2B,571681,Rey Fuentes,592229,Dylan Covey,502671,Paul Goldschmidt,R,Kevan Smith,607345,1,0,1,False,2017-05-23,Stolen,2B
+6307,1B,,Caught Stealing 2B,571681,Rey Fuentes,471911,Carlos Carrasco,502481,Jarrod Dyson,R,Yan Gomes,543228,0,0,2,True,2016-06-02,Caught,2B
+7370,1B,,Caught Stealing 2B,571681,Rey Fuentes,429722,Ervin Santana,444876,Alcides Escobar,R,Kurt Suzuki,435559,2,1,2,False,2016-04-08,Caught,2B
+2272,1B,,Caught Stealing 2B,571681,Rey Fuentes,471911,Carlos Carrasco,502481,Jarrod Dyson,R,Yan Gomes,543228,0,0,2,True,2016-06-02,Caught,2B
+3335,1B,,Caught Stealing 2B,571681,Rey Fuentes,429722,Ervin Santana,444876,Alcides Escobar,R,Kurt Suzuki,435559,2,1,2,False,2016-04-08,Caught,2B
+8,1B,2B,Stolen Base 2B,571681,Rey Fuentes,596001,Jakob Junis,444482,David Peralta,R,Cam Gallagher,595956,1,1,5,True,2017-09-30,Stolen,2B
+721,1B,2B,Stolen Base 2B,571681,Rey Fuentes,519294,Josh Smoker,543302,Chris Herrmann,L,Kevin Plawecki,608700,1,3,6,True,2017-08-24,Stolen,2B
+1754,2B,3B,Stolen Base 3B,571681,Rey Fuentes,605388,Adam Morgan,425844,Zack Greinke,L,Andrew Knapp,595284,6,1,5,False,2017-06-26,Stolen,3B
+1906,1B,,Caught Stealing 2B,571681,Rey Fuentes,276542,Joaquín Benoit,605113,Nick Ahmed,R,Cameron Rupp,519237,4,3,8,True,2017-06-18,Caught,2B
+2401,1B,2B,Stolen Base 2B,571681,Rey Fuentes,592229,Dylan Covey,502671,Paul Goldschmidt,R,Kevan Smith,607345,1,0,1,False,2017-05-23,Stolen,2B
+5679,1B,,Caught Stealing 2B,571681,Rey Fuentes,471911,Carlos Carrasco,502481,Jarrod Dyson,R,Yan Gomes,543228,0,0,2,True,2016-06-02,Caught,2B
+6742,1B,,Caught Stealing 2B,571681,Rey Fuentes,429722,Ervin Santana,444876,Alcides Escobar,R,Kurt Suzuki,435559,2,1,2,False,2016-04-08,Caught,2B

@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1324,1B,2B,Stolen Base 2B,663616,Trevor Larnach,656302,Dylan Cease,596146,Max Kepler,R,Zack Collins,641470,3,0,3,False,2021-07-05,Stolen,2B
+2583,1B,2B,Stolen Base 2B,663616,Trevor Larnach,669952,Mitch White,650489,Willi Castro,R,Alejandro Kirk,672386,3,9,9,True,2023-06-10,Stolen,2B
+3504,1B,,Caught Stealing 2B,663616,Trevor Larnach,656629,Michael Kopech,669304,Jose Miranda,R,Seby Zavala,664874,0,0,4,True,2023-05-02,Caught,2B
+3248,1B,2B,Stolen Base 2B,663616,Trevor Larnach,656302,Dylan Cease,596146,Max Kepler,R,Zack Collins,641470,3,0,3,False,2021-07-05,Stolen,2B
+770,1B,,Caught Stealing 2B,663616,Trevor Larnach,592332,Kevin Gausman,670242,Matt Wallner,R,Alejandro Kirk,672386,0,0,4,False,2024-08-30,Caught,2B
+1416,1B,2B,Stolen Base 2B,663616,Trevor Larnach,543294,Kyle Hendricks,670242,Matt Wallner,R,Miguel Amaya,665804,0,0,1,True,2024-08-05,Stolen,2B
+1534,1B,2B,Stolen Base 2B,663616,Trevor Larnach,622663,Luis Severino,596146,Max Kepler,R,Francisco Alvarez,682626,2,3,3,True,2024-07-31,Stolen,2B
+2232,1B,2B,Stolen Base 2B,663616,Trevor Larnach,676092,Collin Snider,621043,Carlos Correa,R,Cal Raleigh,663728,1,5,7,True,2024-06-29,Stolen,2B
+2800,1B,2B,Stolen Base 2B,663616,Trevor Larnach,573186,Marcus Stroman,621043,Carlos Correa,R,Austin Wells,669224,2,2,3,True,2024-06-06,Stolen,2B
+6997,1B,2B,Stolen Base 2B,663616,Trevor Larnach,669952,Mitch White,650489,Willi Castro,R,Alejandro Kirk,672386,3,9,9,True,2023-06-10,Stolen,2B
+7918,1B,,Caught Stealing 2B,663616,Trevor Larnach,656629,Michael Kopech,669304,Jose Miranda,R,Seby Zavala,664874,0,0,4,True,2023-05-02,Caught,2B

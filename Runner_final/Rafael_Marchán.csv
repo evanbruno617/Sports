@@ -1,0 +1,25 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y
+0,0,0,0,1B,2B,Stolen Base 2B,542340,Jonathan Villar,593576,Héctor Neris,543768,Travis Shaw,R,Rafael Marchán,665561,8,7,7,True,2020-09-18,Stolen,2B,2020,2021,27.3,2021,27.3,2021,27.3,2021,27.3
+1,1,1,1,1B,,Caught Stealing 2B,643565,Mike Tauchman,665759,Ramón Rosso,640449,Clint Frazier,R,Rafael Marchán,665561,1,2,8,False,2020-07-20,Caught,2B,2020,2021,27.3,2021,27.3,2021,27.3,2021,27.3
+2,2,2,2,1B,2B,Stolen Base 2B,542340,Jonathan Villar,593576,Héctor Neris,543768,Travis Shaw,R,Rafael Marchán,665561,8,7,7,True,2020-09-18,Stolen,2B,2020,2021,27.3,2021,27.3,2021,27.3,2021,27.3
+3,3,3,3,1B,,Caught Stealing 2B,643565,Mike Tauchman,665759,Ramón Rosso,640449,Clint Frazier,R,Rafael Marchán,665561,1,2,8,False,2020-07-20,Caught,2B,2020,2021,27.3,2021,27.3,2021,27.3,2021,27.3
+4,4,4,4,1B,2B,Stolen Base 2B,542340,Jonathan Villar,593576,Héctor Neris,543768,Travis Shaw,R,Rafael Marchán,665561,8,7,7,True,2020-09-18,Stolen,2B,2020,2021,27.3,2021,27.3,2021,27.3,2021,27.3
+5,5,5,5,1B,,Caught Stealing 2B,643565,Mike Tauchman,665759,Ramón Rosso,640449,Clint Frazier,R,Rafael Marchán,665561,1,2,8,False,2020-07-20,Caught,2B,2020,2021,27.3,2021,27.3,2021,27.3,2021,27.3
+6,6,6,6,1B,,Caught Stealing 2B,621446,Lewis Brinson,502043,Kyle Gibson,605412,Joe Panik,R,Rafael Marchán,665561,3,2,4,False,2021-09-03,Caught,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+7,7,7,7,1B,2B,Stolen Base 2B,665742,Juan Soto,656322,Sam Coonrod,605137,Josh Bell,R,Rafael Marchán,665561,6,3,7,False,2021-09-02,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+8,8,8,8,1B,2B,Stolen Base 2B,665742,Juan Soto,656322,Sam Coonrod,605137,Josh Bell,R,Rafael Marchán,665561,6,3,7,False,2021-09-01,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+9,9,9,9,1B,,Caught Stealing 2B,665742,Juan Soto,593576,Héctor Neris,543281,Josh Harrison,R,Rafael Marchán,665561,4,7,6,True,2021-07-29,Caught,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+10,10,10,10,1B,,Caught Stealing 2B,665742,Juan Soto,593576,Héctor Neris,543281,Josh Harrison,R,Rafael Marchán,665561,4,7,6,True,2021-07-28,Caught,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+11,11,11,11,1B,2B,Stolen Base 2B,474832,Brandon Belt,624133,Ranger Suárez,543063,Brandon Crawford,L,Rafael Marchán,665561,6,6,5,False,2021-06-19,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+12,12,12,12,1B,2B,Stolen Base 2B,645277,Ozzie Albies,593576,Héctor Neris,663586,Austin Riley,R,Rafael Marchán,665561,1,1,9,True,2021-06-10,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+13,13,13,13,1B,2B,Stolen Base 2B,542454,Danny Santana,675921,Spencer Howard,666915,Bobby Dalbec,R,Rafael Marchán,665561,0,0,2,True,2021-05-22,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+14,14,14,14,1B,2B,Stolen Base 2B,669289,Santiago Espinal,571735,David Hale,643376,Danny Jansen,R,Rafael Marchán,665561,8,3,5,False,2021-05-16,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+15,15,15,15,1B,,Caught Stealing 2B,621446,Lewis Brinson,502043,Kyle Gibson,605412,Joe Panik,R,Rafael Marchán,665561,3,2,4,False,2021-09-03,Caught,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+16,16,16,16,1B,2B,Stolen Base 2B,665742,Juan Soto,656322,Sam Coonrod,605137,Josh Bell,R,Rafael Marchán,665561,6,3,7,False,2021-09-02,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+17,17,17,17,1B,2B,Stolen Base 2B,665742,Juan Soto,656322,Sam Coonrod,605137,Josh Bell,R,Rafael Marchán,665561,6,3,7,False,2021-09-01,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+18,18,18,18,1B,,Caught Stealing 2B,665742,Juan Soto,593576,Héctor Neris,543281,Josh Harrison,R,Rafael Marchán,665561,4,7,6,True,2021-07-29,Caught,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+19,19,19,19,1B,,Caught Stealing 2B,665742,Juan Soto,593576,Héctor Neris,543281,Josh Harrison,R,Rafael Marchán,665561,4,7,6,True,2021-07-28,Caught,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+20,20,20,20,1B,2B,Stolen Base 2B,474832,Brandon Belt,624133,Ranger Suárez,543063,Brandon Crawford,L,Rafael Marchán,665561,6,6,5,False,2021-06-19,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+21,21,21,21,1B,2B,Stolen Base 2B,645277,Ozzie Albies,593576,Héctor Neris,663586,Austin Riley,R,Rafael Marchán,665561,1,1,9,True,2021-06-10,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+22,22,22,22,1B,2B,Stolen Base 2B,542454,Danny Santana,675921,Spencer Howard,666915,Bobby Dalbec,R,Rafael Marchán,665561,0,0,2,True,2021-05-22,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8
+23,23,23,23,1B,2B,Stolen Base 2B,669289,Santiago Espinal,571735,David Hale,643376,Danny Jansen,R,Rafael Marchán,665561,8,3,5,False,2021-05-16,Stolen,2B,2021,2022,26.8,2022,26.8,2022,26.8,2022,26.8

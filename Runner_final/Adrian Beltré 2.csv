@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2691,1B,2B,Stolen Base 2B,134181,Adrian Beltré,458006,Matt Albers,596059,Rougned Odor,R,Jose Lobaton,446653,3,1,7,True,2017-06-10,Stolen,2B
+4436,1B,2B,Stolen Base 2B,134181,Adrian Beltré,450308,Jered Weaver,608577,Nomar Mazara,R,Carlos Pérez,542208,2,1,4,True,2016-09-11,Stolen,2B
+4936,1B,,Caught Stealing 2B,134181,Adrian Beltré,605242,Michael Fulmer,518960,Jonathan Lucroy,R,James McCann,543510,0,0,2,False,2016-08-14,Caught,2B
+1843,1B,2B,Stolen Base 2B,134181,Adrian Beltré,502624,Chase Anderson,425783,Shin-Soo Choo,R,Tuffy Gosewisch,488912,1,1,4,True,2015-04-21,Stolen,2B
+4091,1B,,Caught Stealing 2B,134181,Adrian Beltré,461833,Phil Hughes,430906,Donnie Murphy,R,Kurt Suzuki,435559,2,0,4,False,2014-06-28,Caught,2B
+4155,1B,2B,Stolen Base 2B,134181,Adrian Beltré,456379,Al Alburquerque,425567,Alex Rios,R,Bryan Holaday,592407,5,7,7,False,2014-06-25,Stolen,2B
+1847,1B,,Caught Stealing 2B,134181,Adrian Beltré,461833,Phil Hughes,430906,Donnie Murphy,R,Kurt Suzuki,435559,2,0,4,False,2014-06-28,Caught,2B
+1911,1B,2B,Stolen Base 2B,134181,Adrian Beltré,456379,Al Alburquerque,425567,Alex Rios,R,Bryan Holaday,592407,5,7,7,False,2014-06-25,Stolen,2B
+401,1B,2B,Stolen Base 2B,134181,Adrian Beltré,450308,Jered Weaver,608577,Nomar Mazara,R,Carlos Pérez,542208,2,1,4,True,2016-09-11,Stolen,2B
+901,1B,,Caught Stealing 2B,134181,Adrian Beltré,605242,Michael Fulmer,518960,Jonathan Lucroy,R,James McCann,543510,0,0,2,False,2016-08-14,Caught,2B
+2063,1B,2B,Stolen Base 2B,134181,Adrian Beltré,458006,Matt Albers,596059,Rougned Odor,R,Jose Lobaton,446653,3,1,7,True,2017-06-10,Stolen,2B
+3808,1B,2B,Stolen Base 2B,134181,Adrian Beltré,450308,Jered Weaver,608577,Nomar Mazara,R,Carlos Pérez,542208,2,1,4,True,2016-09-11,Stolen,2B
+4308,1B,,Caught Stealing 2B,134181,Adrian Beltré,605242,Michael Fulmer,518960,Jonathan Lucroy,R,James McCann,543510,0,0,2,False,2016-08-14,Caught,2B

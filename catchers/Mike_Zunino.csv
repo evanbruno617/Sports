@@ -1,0 +1,20 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,88,1B,2B,Stolen Base 2B,543281,Josh Harrison,542888,Shawn Armstrong,664901,Danny Mendick,R,Mike Zunino,572287,0,6,3,True,2022-06-05,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+1,89,1B,2B,Stolen Base 2B,669701,Josh Smith,642232,Ryan Yarbrough,642201,Eli White,L,Mike Zunino,572287,0,0,3,False,2022-05-31,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+2,90,1B,2B,Stolen Base 2B,642201,Eli White,642232,Ryan Yarbrough,543760,Marcus Semien,L,Mike Zunino,572287,3,0,5,False,2022-05-31,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+3,91,2B,,Caught Stealing 3B,642201,Eli White,642232,Ryan Yarbrough,543760,Marcus Semien,L,Mike Zunino,572287,3,0,5,False,2022-05-31,Caught,3B,2022,2023,29.4,2023, 76.6, 0.65
+4,92,1B,2B,Stolen Base 2B,666969,Adolis García,542888,Shawn Armstrong,641680,Jonah Heim,R,Mike Zunino,572287,3,0,8,False,2022-05-31,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+5,93,2B,3B,Stolen Base 3B,650402,Gleyber Torres,621363,Colin Poche,543305,Aaron Hicks,L,Mike Zunino,572287,4,2,8,True,2022-05-29,Stolen,3B,2022,2023,29.4,2023, 76.6, 0.65
+6,94,1B,2B,Stolen Base 2B,592450,Aaron Judge,657044,Ryan Thompson,650402,Gleyber Torres,R,Mike Zunino,572287,0,1,6,True,2022-05-26,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+7,95,1B,2B,Stolen Base 2B,656775,Cedric Mullins,446372,Corey Kluber,641820,Trey Mancini,R,Mike Zunino,572287,0,4,1,False,2022-05-22,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+8,96,2B,3B,Stolen Base 3B,623205,Andrew Velazquez,446372,Corey Kluber,669016,Brandon Marsh,R,Mike Zunino,572287,4,0,2,False,2022-05-10,Stolen,3B,2022,2023,29.4,2023, 76.6, 0.65
+9,97,2B,,Caught Stealing 3B,624428,Adam Frazier,656876,Drew Rasmussen,641487,J.P. Crawford,R,Mike Zunino,572287,0,0,1,False,2022-05-07,Caught,3B,2022,2023,29.4,2023, 76.6, 0.65
+10,98,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,656876,Drew Rasmussen,663728,Cal Raleigh,R,Mike Zunino,572287,0,1,3,False,2022-05-07,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+11,99,1B,2B,Stolen Base 2B,664238,Dylan Moore,663556,Shane McClanahan,647351,Abraham Toro,L,Mike Zunino,572287,0,0,3,False,2022-05-05,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+12,100,1B,2B,Stolen Base 2B,664913,Seth Brown,656876,Drew Rasmussen,640461,Chad Pinder,R,Mike Zunino,572287,1,1,2,False,2022-05-02,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+13,101,1B,2B,Stolen Base 2B,596115,Trevor Story,592094,Jason Adam,646240,Rafael Devers,R,Mike Zunino,572287,0,0,5,True,2022-04-23,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+14,102,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,446372,Corey Kluber,543768,Travis Shaw,R,Mike Zunino,572287,1,4,3,True,2022-04-22,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+15,103,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,657044,Ryan Thompson,547989,José Abreu,R,Mike Zunino,572287,2,2,6,False,2022-04-16,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+16,104,1B,2B,Stolen Base 2B,572039,Stephen Piscotty,605538,Matt Wisler,641914,Sheldon Neuse,R,Mike Zunino,572287,6,4,6,True,2022-04-12,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65
+17,105,1B,,Caught Stealing 2B,669720,Austin Hays,446372,Corey Kluber,622761,Jorge Mateo,R,Mike Zunino,572287,0,0,2,True,2022-04-10,Caught,2B,2022,2023,29.4,2023, 76.6, 0.65
+18,106,1B,2B,Stolen Base 2B,656775,Cedric Mullins,446372,Corey Kluber,623993,Anthony Santander,R,Mike Zunino,572287,4,0,3,True,2022-04-10,Stolen,2B,2022,2023,29.4,2023, 76.6, 0.65

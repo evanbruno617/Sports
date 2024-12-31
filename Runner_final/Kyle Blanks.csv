@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1569,1B,2B,Stolen Base 2B,452035,Kyle Blanks,543243,Sonny Gray,451713,Carlos Peguero,R,Stephen Vogt,519390,0,0,4,False,2015-05-03,Stolen,2B

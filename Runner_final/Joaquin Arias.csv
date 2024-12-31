@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1664,1B,2B,Stolen Base 2B,435078,Joaquin Arias,477132,Clayton Kershaw,518516,Madison Bumgarner,L,A.J. Ellis,454560,1,2,5,True,2015-04-28,Stolen,2B
+3901,1B,2B,Stolen Base 2B,435078,Joaquin Arias,445926,Jesse Chavez,605412,Joe Panik,R,Stephen Vogt,519390,0,0,3,True,2014-07-07,Stolen,2B
+1657,1B,2B,Stolen Base 2B,435078,Joaquin Arias,445926,Jesse Chavez,605412,Joe Panik,R,Stephen Vogt,519390,0,0,3,True,2014-07-07,Stolen,2B

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2174,1B,2B,Stolen Base 2B,607287,Ruben Sosa,543169,Brian Flynn,545350,Jake Marisnick,L,J.C. Boscan,400268,1,1,7,False,2015-04-04,Stolen,2B
+2217,1B,2B,Stolen Base 2B,607287,Ruben Sosa,623204,Daniel Minor,545337,Nolan Fontana,R,Tyler Heineman,623168,2,7,8,True,2015-04-02,Stolen,2B
+2245,1B,2B,Stolen Base 2B,607287,Ruben Sosa,657081,Paul Voelker,488771,Jason Castro,R,James McCann,543510,3,2,8,False,2015-04-01,Stolen,2B
+1,1B,2B,Stolen Base 2B,607287,Ruben Sosa,657081,Paul Voelker,488771,Jason Castro,R,James McCann,543510,3,2,8,False,2015-04-01,Stolen,2B

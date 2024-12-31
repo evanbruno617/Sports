@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2585,1B,2B,Stolen Base 2B,605508,Charles Tilson,518886,Craig Kimbrel,660162,Yoán Moncada,R,Willson Contreras,575929,3,6,9,False,2019-07-06,Stolen,2B
+3522,1B,2B,Stolen Base 2B,605508,Charles Tilson,573186,Marcus Stroman,641313,Tim Anderson,R,Luke Maile,571912,0,2,4,True,2019-05-11,Stolen,2B
+3573,1B,2B,Stolen Base 2B,605508,Charles Tilson,669456,Shane Bieber,570560,Yolmer Sánchez,R,Kevin Plawecki,608700,0,0,2,True,2019-05-08,Stolen,2B
+3601,1B,2B,Stolen Base 2B,605508,Charles Tilson,622446,Jefry Rodriguez,641313,Tim Anderson,R,Roberto Pérez,547379,0,0,2,True,2019-05-07,Stolen,2B
+5428,1B,2B,Stolen Base 2B,605508,Charles Tilson,518886,Craig Kimbrel,660162,Yoán Moncada,R,Willson Contreras,575929,3,6,9,False,2019-07-06,Stolen,2B
+6365,1B,2B,Stolen Base 2B,605508,Charles Tilson,573186,Marcus Stroman,641313,Tim Anderson,R,Luke Maile,571912,0,2,4,True,2019-05-11,Stolen,2B
+6416,1B,2B,Stolen Base 2B,605508,Charles Tilson,669456,Shane Bieber,570560,Yolmer Sánchez,R,Kevin Plawecki,608700,0,0,2,True,2019-05-08,Stolen,2B
+6444,1B,2B,Stolen Base 2B,605508,Charles Tilson,622446,Jefry Rodriguez,641313,Tim Anderson,R,Roberto Pérez,547379,0,0,2,True,2019-05-07,Stolen,2B
+7352,1B,2B,Stolen Base 2B,605508,Charles Tilson,518886,Craig Kimbrel,660162,Yoán Moncada,R,Willson Contreras,575929,3,6,9,False,2019-07-06,Stolen,2B
+8289,1B,2B,Stolen Base 2B,605508,Charles Tilson,573186,Marcus Stroman,641313,Tim Anderson,R,Luke Maile,571912,0,2,4,True,2019-05-11,Stolen,2B
+8340,1B,2B,Stolen Base 2B,605508,Charles Tilson,669456,Shane Bieber,570560,Yolmer Sánchez,R,Kevin Plawecki,608700,0,0,2,True,2019-05-08,Stolen,2B
+8368,1B,2B,Stolen Base 2B,605508,Charles Tilson,622446,Jefry Rodriguez,641313,Tim Anderson,R,Roberto Pérez,547379,0,0,2,True,2019-05-07,Stolen,2B

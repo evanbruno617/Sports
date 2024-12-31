@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+379,1B,,Caught Stealing 2B,605244,Aramis Garcia,628708,Yunior Marte,621011,Max Schrock,R,Curt Casali,592200,0,7,3,True,2022-06-26,Caught,2B

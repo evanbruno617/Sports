@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+170,1B,,Caught Stealing 2B,605346,Jack López,681293,Spencer Arrighetti,621493,Taylor Ward,R,Victor Caratini,605170,0,0,3,True,2024-09-22,Caught,2B

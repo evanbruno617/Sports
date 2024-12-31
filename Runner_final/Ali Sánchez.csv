@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+806,3B,score,Stolen Base Home,645305,Ali Sánchez,687134,Bradley Blalock,660821,Jesús Sánchez,R,Drew Romo,691011,2,4,4,True,2024-08-29,Stolen,Home
+807,1B,2B,Stolen Base 2B,645305,Ali Sánchez,656234,Jake Bird,681393,Connor Norby,R,Drew Romo,691011,6,11,6,True,2024-08-29,Stolen,2B
+1538,3B,,Caught Stealing Home,645305,Ali Sánchez,670955,Edwin Uceta,681146,Jonah Bride,R,Alex Jackson,656577,2,6,7,True,2024-07-31,Caught,Home

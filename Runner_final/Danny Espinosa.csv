@@ -1,0 +1,67 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1896,1B,2B,Stolen Base 2B,457787,Danny Espinosa,518886,Craig Kimbrel,429664,Robinson Canó,R,Christian Vázquez,543877,4,4,10,False,2017-07-25,Stolen,2B
+2406,1B,2B,Stolen Base 2B,457787,Danny Espinosa,456034,David Price,472528,Luis Valbuena,L,Christian Vázquez,543877,1,1,4,True,2017-06-24,Stolen,2B
+2407,1B,,Caught Stealing 2B,457787,Danny Espinosa,456034,David Price,458913,Eric Young Jr.,L,Christian Vázquez,543877,1,3,6,True,2017-06-24,Caught,2B
+2680,1B,2B,Stolen Base 2B,457787,Danny Espinosa,606965,Chris Devenski,592743,Andrelton Simmons,R,Brian McCann,435263,2,1,8,True,2017-06-10,Stolen,2B
+3068,1B,2B,Stolen Base 2B,457787,Danny Espinosa,543548,Tommy Milone,455117,Martín Maldonado,L,Kevin Plawecki,608700,0,5,1,True,2017-05-21,Stolen,2B
+3070,1B,,Caught Stealing 2B,457787,Danny Espinosa,570663,Hansel Robles,472528,Luis Valbuena,R,Kevin Plawecki,608700,5,9,7,True,2017-05-21,Caught,2B
+4550,2B,3B,Stolen Base 3B,457787,Danny Espinosa,605152,Jed Bradley,453286,Max Scherzer,L,Anthony Recker,489232,5,1,4,False,2016-09-05,Stolen,3B
+4858,1B,2B,Stolen Base 2B,457787,Danny Espinosa,527054,Julio Teheran,543699,Tanner Roark,R,Tyler Flowers,452095,0,1,5,True,2016-08-19,Stolen,2B
+5487,1B,2B,Stolen Base 2B,457787,Danny Espinosa,501593,Luis Avilán,519208,Clint Robinson,L,Yasmani Grandal,518735,7,1,6,False,2016-07-20,Stolen,2B
+5561,1B,,Caught Stealing 2B,457787,Danny Espinosa,641771,Chad Kuhl,453286,Max Scherzer,R,Erik Kratz,456124,0,1,6,False,2016-07-17,Caught,2B
+5584,2B,3B,Stolen Base 3B,457787,Danny Espinosa,543037,Gerrit Cole,543699,Tanner Roark,R,Eric Fryer,518700,2,0,2,False,2016-07-16,Stolen,3B
+5623,2B,3B,Stolen Base 3B,457787,Danny Espinosa,571927,Steven Matz,607208,Trea Turner,L,Travis d'Arnaud,518595,1,2,2,True,2016-07-10,Stolen,3B
+5854,1B,2B,Stolen Base 2B,457787,Danny Espinosa,592789,Noah Syndergaard,605452,Joe Ross,R,Travis d'Arnaud,518595,5,4,3,False,2016-06-27,Stolen,2B
+6063,1B,2B,Stolen Base 2B,457787,Danny Espinosa,502239,Trevor Cahill,572191,Michael A. Taylor,R,David Ross,424325,4,4,12,False,2016-06-15,Stolen,2B
+6362,1B,2B,Stolen Base 2B,457787,Danny Espinosa,593576,Héctor Neris,519184,Ben Revere,R,Carlos Ruiz,434563,2,1,8,True,2016-05-30,Stolen,2B
+7050,1B,2B,Stolen Base 2B,457787,Danny Espinosa,543859,Michael Tonkin,424144,Oliver Pérez,R,John Ryan Murphy,571974,5,5,15,False,2016-04-24,Stolen,2B
+279,1B,2B,Stolen Base 2B,457787,Danny Espinosa,502004,George Kontos,435622,Ian Desmond,R,Andrew Susac,572180,2,1,6,False,2015-07-05,Stolen,2B
+482,1B,2B,Stolen Base 2B,457787,Danny Espinosa,542587,Elvis Araujo,462564,Dan Uggla,L,Cameron Rupp,519237,2,5,9,True,2015-06-26,Stolen,2B
+606,1B,2B,Stolen Base 2B,457787,Danny Espinosa,150359,A.J. Burnett,489138,Tyler Moore,R,Francisco Cervelli,465041,3,1,5,False,2015-06-19,Stolen,2B
+712,1B,,Caught Stealing 2B,457787,Danny Espinosa,543380,Taylor Jungmann,519208,Clint Robinson,R,Martín Maldonado,455117,0,1,3,True,2015-06-14,Caught,2B
+916,1B,,Caught Stealing 2B,457787,Danny Espinosa,453562,Jake Arrieta,475582,Ryan Zimmerman,R,David Ross,424325,0,2,4,False,2015-06-04,Caught,2B
+2002,1B,2B,Caught Stealing 3B,457787,Danny Espinosa,475416,Justin Masterson,572191,Michael A. Taylor,R,Ryan Hanigan,452672,0,1,2,True,2015-04-14,Caught,3B
+2822,1B,2B,Stolen Base 2B,457787,Danny Espinosa,445276,Kenley Jansen,519306,Steven Souza Jr.,R,Tim Federowicz,543148,2,2,9,True,2014-09-03,Stolen,2B
+3635,2B,3B,Stolen Base 3B,457787,Danny Espinosa,407822,Jorge De La Rosa,544931,Stephen Strasburg,L,Michael McKenry,502374,3,1,5,True,2014-07-23,Stolen,3B
+4241,1B,,Caught Stealing 2B,457787,Danny Espinosa,429722,Ervin Santana,506702,Sandy León,R,Evan Gattis,594828,2,0,4,False,2014-06-22,Caught,2B
+4288,1B,2B,Stolen Base 2B,457787,Danny Espinosa,501985,Mike Minor,446653,Jose Lobaton,L,Evan Gattis,594828,1,2,4,False,2014-06-20,Stolen,2B
+4609,1B,2B,Stolen Base 2B,457787,Danny Espinosa,150359,A.J. Burnett,544931,Stephen Strasburg,R,Carlos Ruiz,434563,5,2,6,False,2014-06-04,Stolen,2B
+5270,1B,2B,Stolen Base 2B,457787,Danny Espinosa,424324,Cliff Lee,489138,Tyler Moore,L,Carlos Ruiz,434563,3,2,7,True,2014-05-02,Stolen,2B
+5301,1B,2B,Stolen Base 2B,457787,Danny Espinosa,519085,Brett Oberholtzer,506702,Sandy León,L,Jason Castro,488771,0,0,2,True,2014-04-30,Stolen,2B
+5445,1B,2B,Stolen Base 2B,457787,Danny Espinosa,450308,Jered Weaver,446653,Jose Lobaton,R,Chris Iannetta,455104,0,0,2,False,2014-04-23,Stolen,2B
+5761,1B,2B,Stolen Base 2B,457787,Danny Espinosa,445197,Mike Dunn,489138,Tyler Moore,L,Jeff Mathis,425772,2,1,7,False,2014-04-10,Stolen,2B
+578,1B,2B,Stolen Base 2B,457787,Danny Espinosa,445276,Kenley Jansen,519306,Steven Souza Jr.,R,Tim Federowicz,543148,2,2,9,True,2014-09-03,Stolen,2B
+1391,2B,3B,Stolen Base 3B,457787,Danny Espinosa,407822,Jorge De La Rosa,544931,Stephen Strasburg,L,Michael McKenry,502374,3,1,5,True,2014-07-23,Stolen,3B
+1997,1B,,Caught Stealing 2B,457787,Danny Espinosa,429722,Ervin Santana,506702,Sandy León,R,Evan Gattis,594828,2,0,4,False,2014-06-22,Caught,2B
+2044,1B,2B,Stolen Base 2B,457787,Danny Espinosa,501985,Mike Minor,446653,Jose Lobaton,L,Evan Gattis,594828,1,2,4,False,2014-06-20,Stolen,2B
+2365,1B,2B,Stolen Base 2B,457787,Danny Espinosa,150359,A.J. Burnett,544931,Stephen Strasburg,R,Carlos Ruiz,434563,5,2,6,False,2014-06-04,Stolen,2B
+3026,1B,2B,Stolen Base 2B,457787,Danny Espinosa,424324,Cliff Lee,489138,Tyler Moore,L,Carlos Ruiz,434563,3,2,7,True,2014-05-02,Stolen,2B
+3057,1B,2B,Stolen Base 2B,457787,Danny Espinosa,519085,Brett Oberholtzer,506702,Sandy León,L,Jason Castro,488771,0,0,2,True,2014-04-30,Stolen,2B
+3201,1B,2B,Stolen Base 2B,457787,Danny Espinosa,450308,Jered Weaver,446653,Jose Lobaton,R,Chris Iannetta,455104,0,0,2,False,2014-04-23,Stolen,2B
+3517,1B,2B,Stolen Base 2B,457787,Danny Espinosa,445197,Mike Dunn,489138,Tyler Moore,L,Jeff Mathis,425772,2,1,7,False,2014-04-10,Stolen,2B
+515,2B,3B,Stolen Base 3B,457787,Danny Espinosa,605152,Jed Bradley,453286,Max Scherzer,L,Anthony Recker,489232,5,1,4,False,2016-09-05,Stolen,3B
+823,1B,2B,Stolen Base 2B,457787,Danny Espinosa,527054,Julio Teheran,543699,Tanner Roark,R,Tyler Flowers,452095,0,1,5,True,2016-08-19,Stolen,2B
+1452,1B,2B,Stolen Base 2B,457787,Danny Espinosa,501593,Luis Avilán,519208,Clint Robinson,L,Yasmani Grandal,518735,7,1,6,False,2016-07-20,Stolen,2B
+1526,1B,,Caught Stealing 2B,457787,Danny Espinosa,641771,Chad Kuhl,453286,Max Scherzer,R,Erik Kratz,456124,0,1,6,False,2016-07-17,Caught,2B
+1549,2B,3B,Stolen Base 3B,457787,Danny Espinosa,543037,Gerrit Cole,543699,Tanner Roark,R,Eric Fryer,518700,2,0,2,False,2016-07-16,Stolen,3B
+1588,2B,3B,Stolen Base 3B,457787,Danny Espinosa,571927,Steven Matz,607208,Trea Turner,L,Travis d'Arnaud,518595,1,2,2,True,2016-07-10,Stolen,3B
+1819,1B,2B,Stolen Base 2B,457787,Danny Espinosa,592789,Noah Syndergaard,605452,Joe Ross,R,Travis d'Arnaud,518595,5,4,3,False,2016-06-27,Stolen,2B
+2028,1B,2B,Stolen Base 2B,457787,Danny Espinosa,502239,Trevor Cahill,572191,Michael A. Taylor,R,David Ross,424325,4,4,12,False,2016-06-15,Stolen,2B
+2327,1B,2B,Stolen Base 2B,457787,Danny Espinosa,593576,Héctor Neris,519184,Ben Revere,R,Carlos Ruiz,434563,2,1,8,True,2016-05-30,Stolen,2B
+3015,1B,2B,Stolen Base 2B,457787,Danny Espinosa,543859,Michael Tonkin,424144,Oliver Pérez,R,John Ryan Murphy,571974,5,5,15,False,2016-04-24,Stolen,2B
+1268,1B,2B,Stolen Base 2B,457787,Danny Espinosa,518886,Craig Kimbrel,429664,Robinson Canó,R,Christian Vázquez,543877,4,4,10,False,2017-07-25,Stolen,2B
+1778,1B,2B,Stolen Base 2B,457787,Danny Espinosa,456034,David Price,472528,Luis Valbuena,L,Christian Vázquez,543877,1,1,4,True,2017-06-24,Stolen,2B
+1779,1B,,Caught Stealing 2B,457787,Danny Espinosa,456034,David Price,458913,Eric Young Jr.,L,Christian Vázquez,543877,1,3,6,True,2017-06-24,Caught,2B
+2052,1B,2B,Stolen Base 2B,457787,Danny Espinosa,606965,Chris Devenski,592743,Andrelton Simmons,R,Brian McCann,435263,2,1,8,True,2017-06-10,Stolen,2B
+2440,1B,2B,Stolen Base 2B,457787,Danny Espinosa,543548,Tommy Milone,455117,Martín Maldonado,L,Kevin Plawecki,608700,0,5,1,True,2017-05-21,Stolen,2B
+2442,1B,,Caught Stealing 2B,457787,Danny Espinosa,570663,Hansel Robles,472528,Luis Valbuena,R,Kevin Plawecki,608700,5,9,7,True,2017-05-21,Caught,2B
+3922,2B,3B,Stolen Base 3B,457787,Danny Espinosa,605152,Jed Bradley,453286,Max Scherzer,L,Anthony Recker,489232,5,1,4,False,2016-09-05,Stolen,3B
+4230,1B,2B,Stolen Base 2B,457787,Danny Espinosa,527054,Julio Teheran,543699,Tanner Roark,R,Tyler Flowers,452095,0,1,5,True,2016-08-19,Stolen,2B
+4859,1B,2B,Stolen Base 2B,457787,Danny Espinosa,501593,Luis Avilán,519208,Clint Robinson,L,Yasmani Grandal,518735,7,1,6,False,2016-07-20,Stolen,2B
+4933,1B,,Caught Stealing 2B,457787,Danny Espinosa,641771,Chad Kuhl,453286,Max Scherzer,R,Erik Kratz,456124,0,1,6,False,2016-07-17,Caught,2B
+4956,2B,3B,Stolen Base 3B,457787,Danny Espinosa,543037,Gerrit Cole,543699,Tanner Roark,R,Eric Fryer,518700,2,0,2,False,2016-07-16,Stolen,3B
+4995,2B,3B,Stolen Base 3B,457787,Danny Espinosa,571927,Steven Matz,607208,Trea Turner,L,Travis d'Arnaud,518595,1,2,2,True,2016-07-10,Stolen,3B
+5226,1B,2B,Stolen Base 2B,457787,Danny Espinosa,592789,Noah Syndergaard,605452,Joe Ross,R,Travis d'Arnaud,518595,5,4,3,False,2016-06-27,Stolen,2B
+5435,1B,2B,Stolen Base 2B,457787,Danny Espinosa,502239,Trevor Cahill,572191,Michael A. Taylor,R,David Ross,424325,4,4,12,False,2016-06-15,Stolen,2B
+5734,1B,2B,Stolen Base 2B,457787,Danny Espinosa,593576,Héctor Neris,519184,Ben Revere,R,Carlos Ruiz,434563,2,1,8,True,2016-05-30,Stolen,2B
+6422,1B,2B,Stolen Base 2B,457787,Danny Espinosa,543859,Michael Tonkin,424144,Oliver Pérez,R,John Ryan Murphy,571974,5,5,15,False,2016-04-24,Stolen,2B

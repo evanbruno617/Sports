@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1922,1B,,Caught Stealing 2B,462564,Dan Uggla,421685,Aaron Harang,446653,Jose Lobaton,R,Cameron Rupp,519237,3,3,6,False,2015-04-18,Caught,2B

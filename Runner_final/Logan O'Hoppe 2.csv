@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+663,1B,,Caught Stealing 2B,681351,Logan O'Hoppe,680570,Grayson Rodriguez,683021,Michael Stefanic,R,James McCann,543510,0,0,2,False,2023-09-04,Caught,2B
+1593,1B,,Caught Stealing 2B,681351,Logan O'Hoppe,674370,Osvaldo Bido,592273,Brandon Drury,R,Kyle McCann,668832,0,0,2,False,2024-07-28,Caught,2B
+1755,1B,2B,Stolen Base 2B,681351,Logan O'Hoppe,682243,Bryce Miller,666160,Mickey Moniak,R,Cal Raleigh,663728,1,0,7,True,2024-07-22,Stolen,2B
+1979,1B,,Caught Stealing 2B,681351,Logan O'Hoppe,547179,Michael Lorenzen,592273,Brandon Drury,R,Jonah Heim,641680,0,0,2,False,2024-07-10,Caught,2B
+2328,1B,,Caught Stealing 2B,681351,Logan O'Hoppe,656794,Sean Newcomb,687263,Zach Neto,L,Shea Langeliers,669127,7,3,7,False,2024-06-25,Caught,2B
+2722,1B,2B,Stolen Base 2B,681351,Logan O'Hoppe,661527,Seth Martinez,687263,Zach Neto,R,Yainer Diaz,673237,4,7,6,False,2024-06-09,Stolen,2B
+5077,1B,,Caught Stealing 2B,681351,Logan O'Hoppe,680570,Grayson Rodriguez,683021,Michael Stefanic,R,James McCann,543510,0,0,2,False,2023-09-04,Caught,2B

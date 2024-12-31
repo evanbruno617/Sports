@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+705,1B,,Caught Stealing 2B,595238,Jacob Hannemann,608665,Kendall Graveman,592325,Ben Gamel,R,Bruce Maxwell,622194,1,0,3,True,2017-09-27,Caught,2B
+77,1B,,Caught Stealing 2B,595238,Jacob Hannemann,608665,Kendall Graveman,592325,Ben Gamel,R,Bruce Maxwell,622194,1,0,3,True,2017-09-27,Caught,2B

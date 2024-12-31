@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+40,1B,,Caught Stealing 2B,605361,Nick Martini,672710,Roansy Contreras,642727,Sergio Alcántara,R,Michael Pérez,605421,0,0,2,True,2021-09-29,Caught,2B
+1964,1B,,Caught Stealing 2B,605361,Nick Martini,672710,Roansy Contreras,642727,Sergio Alcántara,R,Michael Pérez,605421,0,0,2,True,2021-09-29,Caught,2B
+2081,1B,,Caught Stealing 2B,605361,Nick Martini,656412,Alex Faedo,663886,Tyler Stephenson,R,Carson Kelly,608348,0,0,2,False,2024-07-06,Caught,2B
+2289,1B,2B,Stolen Base 2B,605361,Nick Martini,571945,Miles Mikolas,669289,Santiago Espinal,R,Pedro Pagés,686780,0,1,1,True,2024-06-27,Stolen,2B
+4366,1B,,Caught Stealing 2B,605361,Nick Martini,656793,Nick Nelson,663886,Tyler Stephenson,R,J.T. Realmuto,592663,1,4,9,True,2024-04-03,Caught,2B

@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,44,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,669456,Shane Bieber,650489,Willi Castro,R,Sandy León,506702,0,1,2,False,2022-07-06,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66
+1,45,1B,2B,Stolen Base 2B,665019,Kody Clemens,669456,Shane Bieber,571466,Tucker Barnhart,R,Sandy León,506702,2,1,2,False,2022-07-06,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66
+2,46,1B,2B,Stolen Base 2B,543257,Robbie Grossman,663986,Trevor Stephan,408234,Miguel Cabrera,R,Sandy León,506702,3,3,5,False,2022-07-04,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66
+3,47,2B,,Caught Stealing 3B,600869,Jeimer Candelario,668676,Zach Plesac,543257,Robbie Grossman,R,Sandy León,506702,2,0,1,False,2022-07-04,Caught,3B,2022,2023,29.4,2023, 78.4, 0.66
+4,48,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,656529,Sam Hentges,571466,Tucker Barnhart,L,Sandy León,506702,2,1,7,False,2022-07-04,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66
+5,49,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,663474,Triston McKenzie,518626,Josh Donaldson,R,Sandy León,506702,1,0,6,True,2022-07-03,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66
+6,50,2B,3B,Stolen Base 3B,518934,DJ LeMahieu,621593,Anthony Castro,650402,Gleyber Torres,R,Sandy León,506702,4,11,8,True,2022-07-02,Stolen,3B,2022,2023,29.4,2023, 78.4, 0.66
+7,51,1B,2B,Stolen Base 2B,592450,Aaron Judge,621593,Anthony Castro,650402,Gleyber Torres,R,Sandy León,506702,4,11,8,True,2022-07-02,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66
+8,52,2B,3B,Stolen Base 3B,518934,DJ LeMahieu,621593,Anthony Castro,650402,Gleyber Torres,R,Sandy León,506702,4,11,8,True,2022-07-01,Stolen,3B,2022,2023,29.4,2023, 78.4, 0.66
+9,53,1B,2B,Stolen Base 2B,592450,Aaron Judge,621593,Anthony Castro,650402,Gleyber Torres,R,Sandy León,506702,4,11,8,True,2022-07-01,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66
+10,54,1B,,Caught Stealing 2B,650333,Luis Arraez,669456,Shane Bieber,621043,Carlos Correa,R,Sandy León,506702,0,0,1,True,2022-06-30,Caught,2B,2022,2023,29.4,2023, 78.4, 0.66
+11,55,1B,2B,Stolen Base 2B,543257,Robbie Grossman,663986,Trevor Stephan,408234,Miguel Cabrera,R,Sandy León,506702,3,3,5,False,2022-05-27,Stolen,2B,2022,2023,29.4,2023, 78.4, 0.66

@@ -1,0 +1,38 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2494,1B,2B,Stolen Base 2B,448602,Mark Reynolds,502188,Jeff Samardzija,547172,Tony Wolters,R,Buster Posey,457763,0,12,3,False,2019-07-15,Stolen,2B
+3562,1B,2B,Stolen Base 2B,448602,Mark Reynolds,502188,Jeff Samardzija,547172,Tony Wolters,R,Buster Posey,457763,0,12,3,False,2019-05-08,Stolen,2B
+3923,1B,2B,Stolen Base 2B,448602,Mark Reynolds,676606,Nick Margevicius,606132,Raimel Tapia,L,Francisco Mejía,642336,0,5,3,True,2019-04-16,Stolen,2B
+5337,1B,2B,Stolen Base 2B,448602,Mark Reynolds,502188,Jeff Samardzija,547172,Tony Wolters,R,Buster Posey,457763,0,12,3,False,2019-07-15,Stolen,2B
+6405,1B,2B,Stolen Base 2B,448602,Mark Reynolds,502188,Jeff Samardzija,547172,Tony Wolters,R,Buster Posey,457763,0,12,3,False,2019-05-08,Stolen,2B
+6766,1B,2B,Stolen Base 2B,448602,Mark Reynolds,676606,Nick Margevicius,606132,Raimel Tapia,L,Francisco Mejía,642336,0,5,3,True,2019-04-16,Stolen,2B
+7261,1B,2B,Stolen Base 2B,448602,Mark Reynolds,502188,Jeff Samardzija,547172,Tony Wolters,R,Buster Posey,457763,0,12,3,False,2019-07-15,Stolen,2B
+8329,1B,2B,Stolen Base 2B,448602,Mark Reynolds,502188,Jeff Samardzija,547172,Tony Wolters,R,Buster Posey,457763,0,12,3,False,2019-05-08,Stolen,2B
+8690,1B,2B,Stolen Base 2B,448602,Mark Reynolds,676606,Nick Margevicius,606132,Raimel Tapia,L,Francisco Mejía,642336,0,5,3,True,2019-04-16,Stolen,2B
+1842,2B,3B,Stolen Base 3B,448602,Mark Reynolds,543699,Tanner Roark,471865,Carlos González,R,Matt Wieters,446308,0,4,5,True,2017-07-29,Stolen,3B
+3272,1B,2B,Stolen Base 2B,448602,Mark Reynolds,547943,Hyun Jin Ryu,435622,Ian Desmond,L,Austin Barnes,605131,5,0,2,False,2017-05-11,Stolen,2B
+4004,1B,,Caught Stealing 2B,448602,Mark Reynolds,453172,Jared Hughes,547172,Tony Wolters,R,Jett Bandy,542908,5,6,9,True,2017-04-03,Caught,2B
+5074,1B,2B,Stolen Base 2B,448602,Mark Reynolds,430935,Cole Hamels,430605,Ryan Raburn,L,Jonathan Lucroy,518960,2,0,6,False,2016-08-08,Stolen,2B
+5378,1B,,Caught Stealing 2B,448602,Mark Reynolds,451596,Yovani Gallardo,460026,Nick Hundley,R,Matt Wieters,446308,1,1,5,True,2016-07-25,Caught,2B
+6076,1B,,Caught Stealing 2B,448602,Mark Reynolds,543135,Nathan Eovaldi,460026,Nick Hundley,R,Brian McCann,435263,4,0,4,False,2016-06-14,Caught,2B
+801,1B,2B,Stolen Base 2B,448602,Mark Reynolds,407822,Jorge De La Rosa,445055,Jon Jay,L,Michael McKenry,502374,0,0,2,True,2015-06-09,Stolen,2B
+1029,2B,,Caught Stealing 3B,448602,Mark Reynolds,502211,Mike Bolsinger,488721,Peter Bourjos,R,Austin Barnes,605131,2,0,6,False,2015-05-29,Caught,3B
+1642,1B,2B,Stolen Base 2B,448602,Mark Reynolds,518603,Justin De Fratus,445055,Jon Jay,R,Cameron Rupp,519237,7,3,6,False,2015-04-30,Stolen,2B
+4203,1B,2B,Stolen Base 2B,448602,Mark Reynolds,461829,Gio González,516416,Jean Segura,L,Jose Lobaton,446653,0,3,4,False,2014-06-23,Stolen,2B
+4224,1B,2B,Stolen Base 2B,448602,Mark Reynolds,434665,Nick Masset,516416,Jean Segura,R,Wilin Rosario,501647,3,5,8,True,2014-06-22,Stolen,2B
+4571,1B,2B,Stolen Base 2B,448602,Mark Reynolds,573204,Caleb Thielbar,407489,Lyle Overbay,L,Josmil Pinto,500887,4,5,6,True,2014-06-05,Stolen,2B
+5782,1B,2B,Stolen Base 2B,448602,Mark Reynolds,455374,Antonio Bastardo,571697,Scooter Gennett,L,Carlos Ruiz,434563,4,4,8,True,2014-04-09,Stolen,2B
+5844,2B,3B,Stolen Base 3B,448602,Mark Reynolds,452657,Jon Lester,460576,Carlos Gómez,L,David Ross,424325,0,3,7,True,2014-04-06,Stolen,3B
+1959,1B,2B,Stolen Base 2B,448602,Mark Reynolds,461829,Gio González,516416,Jean Segura,L,Jose Lobaton,446653,0,3,4,False,2014-06-23,Stolen,2B
+1980,1B,2B,Stolen Base 2B,448602,Mark Reynolds,434665,Nick Masset,516416,Jean Segura,R,Wilin Rosario,501647,3,5,8,True,2014-06-22,Stolen,2B
+2327,1B,2B,Stolen Base 2B,448602,Mark Reynolds,573204,Caleb Thielbar,407489,Lyle Overbay,L,Josmil Pinto,500887,4,5,6,True,2014-06-05,Stolen,2B
+3538,1B,2B,Stolen Base 2B,448602,Mark Reynolds,455374,Antonio Bastardo,571697,Scooter Gennett,L,Carlos Ruiz,434563,4,4,8,True,2014-04-09,Stolen,2B
+3600,2B,3B,Stolen Base 3B,448602,Mark Reynolds,452657,Jon Lester,460576,Carlos Gómez,L,David Ross,424325,0,3,7,True,2014-04-06,Stolen,3B
+1039,1B,2B,Stolen Base 2B,448602,Mark Reynolds,430935,Cole Hamels,430605,Ryan Raburn,L,Jonathan Lucroy,518960,2,0,6,False,2016-08-08,Stolen,2B
+1343,1B,,Caught Stealing 2B,448602,Mark Reynolds,451596,Yovani Gallardo,460026,Nick Hundley,R,Matt Wieters,446308,1,1,5,True,2016-07-25,Caught,2B
+2041,1B,,Caught Stealing 2B,448602,Mark Reynolds,543135,Nathan Eovaldi,460026,Nick Hundley,R,Brian McCann,435263,4,0,4,False,2016-06-14,Caught,2B
+1214,2B,3B,Stolen Base 3B,448602,Mark Reynolds,543699,Tanner Roark,471865,Carlos González,R,Matt Wieters,446308,0,4,5,True,2017-07-29,Stolen,3B
+2644,1B,2B,Stolen Base 2B,448602,Mark Reynolds,547943,Hyun Jin Ryu,435622,Ian Desmond,L,Austin Barnes,605131,5,0,2,False,2017-05-11,Stolen,2B
+3376,1B,,Caught Stealing 2B,448602,Mark Reynolds,453172,Jared Hughes,547172,Tony Wolters,R,Jett Bandy,542908,5,6,9,True,2017-04-03,Caught,2B
+4446,1B,2B,Stolen Base 2B,448602,Mark Reynolds,430935,Cole Hamels,430605,Ryan Raburn,L,Jonathan Lucroy,518960,2,0,6,False,2016-08-08,Stolen,2B
+4750,1B,,Caught Stealing 2B,448602,Mark Reynolds,451596,Yovani Gallardo,460026,Nick Hundley,R,Matt Wieters,446308,1,1,5,True,2016-07-25,Caught,2B
+5448,1B,,Caught Stealing 2B,448602,Mark Reynolds,543135,Nathan Eovaldi,460026,Nick Hundley,R,Brian McCann,435263,4,0,4,False,2016-06-14,Caught,2B

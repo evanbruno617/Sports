@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+7464,1B,,Caught Stealing 2B,542999,Tony Campana,519151,Ryan Pressly,446653,Jose Lobaton,R,John Ryan Murphy,571974,5,8,6,False,2016-04-02,Caught,2B
+2383,1B,,Caught Stealing 2B,542999,Tony Campana,543243,Sonny Gray,519068,Efren Navarro,R,Geovany Soto,434567,0,2,7,True,2014-09-23,Caught,2B
+5421,1B,2B,Stolen Base 2B,542999,Tony Campana,449079,Wesley Wright,425496,Cody Ross,L,Welington Castillo,456078,2,5,9,True,2014-04-24,Stolen,2B
+5564,1B,2B,Stolen Base 2B,542999,Tony Campana,519437,Chris Withrow,425496,Cody Ross,R,Tim Federowicz,543148,1,1,9,True,2014-04-18,Stolen,2B
+5687,1B,2B,Stolen Base 2B,542999,Tony Campana,453198,Chris Perez,431094,Aaron Hill,R,Tim Federowicz,543148,6,8,8,False,2014-04-13,Stolen,2B
+5749,1B,,Caught Stealing 2B,542999,Tony Campana,285064,Ryan Vogelsong,445988,Martín Prado,R,Buster Posey,457763,0,0,1,True,2014-04-10,Caught,2B
+5751,1B,2B,Stolen Base 2B,542999,Tony Campana,433589,Yusmeiro Petit,431094,Aaron Hill,R,Buster Posey,457763,5,6,10,True,2014-04-10,Stolen,2B
+139,1B,,Caught Stealing 2B,542999,Tony Campana,543243,Sonny Gray,519068,Efren Navarro,R,Geovany Soto,434567,0,2,7,True,2014-09-23,Caught,2B
+3177,1B,2B,Stolen Base 2B,542999,Tony Campana,449079,Wesley Wright,425496,Cody Ross,L,Welington Castillo,456078,2,5,9,True,2014-04-24,Stolen,2B
+3320,1B,2B,Stolen Base 2B,542999,Tony Campana,519437,Chris Withrow,425496,Cody Ross,R,Tim Federowicz,543148,1,1,9,True,2014-04-18,Stolen,2B
+3443,1B,2B,Stolen Base 2B,542999,Tony Campana,453198,Chris Perez,431094,Aaron Hill,R,Tim Federowicz,543148,6,8,8,False,2014-04-13,Stolen,2B
+3505,1B,,Caught Stealing 2B,542999,Tony Campana,285064,Ryan Vogelsong,445988,Martín Prado,R,Buster Posey,457763,0,0,1,True,2014-04-10,Caught,2B
+3507,1B,2B,Stolen Base 2B,542999,Tony Campana,433589,Yusmeiro Petit,431094,Aaron Hill,R,Buster Posey,457763,5,6,10,True,2014-04-10,Stolen,2B
+3429,1B,,Caught Stealing 2B,542999,Tony Campana,519151,Ryan Pressly,446653,Jose Lobaton,R,John Ryan Murphy,571974,5,8,6,False,2016-04-02,Caught,2B
+6836,1B,,Caught Stealing 2B,542999,Tony Campana,519151,Ryan Pressly,446653,Jose Lobaton,R,John Ryan Murphy,571974,5,8,6,False,2016-04-02,Caught,2B

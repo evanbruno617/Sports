@@ -1,0 +1,34 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,542364,Rafael Ortega,434672,Chris Smith,594777,Kole Calhoun,R,Matt McBride,473724,8,2,5,False,2016-09-28,Stolen,2B,2016,2018,27.9
+1,1B,2B,Stolen Base 2B,596847,Ji Man Choi,446099,John Axford,543068,C.J. Cron,R,Matt McBride,473724,8,6,8,False,2016-09-28,Stolen,2B,2016,2018,27.9
+2,1B,2B,Stolen Base 2B,592261,Delino DeShields,593417,Raúl Alcántara,608577,Nomar Mazara,R,Matt McBride,473724,0,0,1,True,2016-09-24,Stolen,2B,2016,2018,27.9
+3,1B,2B,Stolen Base 2B,596059,Rougned Odor,446099,John Axford,462101,Elvis Andrus,R,Matt McBride,473724,5,6,7,False,2016-07-25,Stolen,2B,2016,2018,27.9
+4,1B,2B,Stolen Base 2B,621043,Carlos Correa,592614,Dillon Overton,472528,Luis Valbuena,L,Matt McBride,473724,0,0,1,True,2016-07-19,Stolen,2B,2016,2018,27.9
+5,1B,2B,Stolen Base 2B,594828,Evan Gattis,640455,Sean Manaea,519445,Danny Worth,L,Matt McBride,473724,0,0,2,False,2016-07-10,Stolen,2B,2016,2018,27.9
+6,1B,2B,Stolen Base 2B,460576,Carlos Gómez,425492,Ryan Madson,472528,Luis Valbuena,R,Matt McBride,473724,0,1,9,False,2016-07-10,Stolen,2B,2016,2018,27.9
+7,1B,2B,Stolen Base 2B,545350,Jake Marisnick,521230,Liam Hendriks,543807,George Springer,R,Matt McBride,473724,1,1,10,False,2016-07-10,Stolen,2B,2016,2018,27.9
+8,1B,2B,Stolen Base 2B,547982,Leonys Martin,594943,Zach Neal,452234,Seth Smith,R,Matt McBride,473724,3,1,3,False,2016-05-25,Stolen,2B,2016,2018,27.9
+9,1B,2B,Stolen Base 2B,593643,Hanser Alberto,534910,Jesse Hahn,435622,Ian Desmond,R,Matt McBride,473724,3,3,7,True,2016-05-17,Stolen,2B,2016,2018,27.9
+10,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,592811,Andrew Triggs,474233,Hank Conger,R,Matt McBride,473724,4,0,6,False,2016-05-14,Stolen,2B,2016,2018,27.9
+11,1B,2B,Stolen Base 2B,542364,Rafael Ortega,434672,Chris Smith,594777,Kole Calhoun,R,Matt McBride,473724,8,2,5,False,2016-09-28,Stolen,2B,2016,2018,27.9
+12,1B,2B,Stolen Base 2B,596847,Ji Man Choi,446099,John Axford,543068,C.J. Cron,R,Matt McBride,473724,8,6,8,False,2016-09-28,Stolen,2B,2016,2018,27.9
+13,1B,2B,Stolen Base 2B,592261,Delino DeShields,593417,Raúl Alcántara,608577,Nomar Mazara,R,Matt McBride,473724,0,0,1,True,2016-09-24,Stolen,2B,2016,2018,27.9
+14,1B,2B,Stolen Base 2B,596059,Rougned Odor,446099,John Axford,462101,Elvis Andrus,R,Matt McBride,473724,5,6,7,False,2016-07-25,Stolen,2B,2016,2018,27.9
+15,1B,2B,Stolen Base 2B,621043,Carlos Correa,592614,Dillon Overton,472528,Luis Valbuena,L,Matt McBride,473724,0,0,1,True,2016-07-19,Stolen,2B,2016,2018,27.9
+16,1B,2B,Stolen Base 2B,594828,Evan Gattis,640455,Sean Manaea,519445,Danny Worth,L,Matt McBride,473724,0,0,2,False,2016-07-10,Stolen,2B,2016,2018,27.9
+17,1B,2B,Stolen Base 2B,460576,Carlos Gómez,425492,Ryan Madson,472528,Luis Valbuena,R,Matt McBride,473724,0,1,9,False,2016-07-10,Stolen,2B,2016,2018,27.9
+18,1B,2B,Stolen Base 2B,545350,Jake Marisnick,521230,Liam Hendriks,543807,George Springer,R,Matt McBride,473724,1,1,10,False,2016-07-10,Stolen,2B,2016,2018,27.9
+19,1B,2B,Stolen Base 2B,547982,Leonys Martin,594943,Zach Neal,452234,Seth Smith,R,Matt McBride,473724,3,1,3,False,2016-05-25,Stolen,2B,2016,2018,27.9
+20,1B,2B,Stolen Base 2B,593643,Hanser Alberto,534910,Jesse Hahn,435622,Ian Desmond,R,Matt McBride,473724,3,3,7,True,2016-05-17,Stolen,2B,2016,2018,27.9
+21,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,592811,Andrew Triggs,474233,Hank Conger,R,Matt McBride,473724,4,0,6,False,2016-05-14,Stolen,2B,2016,2018,27.9
+22,1B,2B,Stolen Base 2B,542364,Rafael Ortega,434672,Chris Smith,594777,Kole Calhoun,R,Matt McBride,473724,8,2,5,False,2016-09-28,Stolen,2B,2016,2018,27.9
+23,1B,2B,Stolen Base 2B,596847,Ji Man Choi,446099,John Axford,543068,C.J. Cron,R,Matt McBride,473724,8,6,8,False,2016-09-28,Stolen,2B,2016,2018,27.9
+24,1B,2B,Stolen Base 2B,592261,Delino DeShields,593417,Raúl Alcántara,608577,Nomar Mazara,R,Matt McBride,473724,0,0,1,True,2016-09-24,Stolen,2B,2016,2018,27.9
+25,1B,2B,Stolen Base 2B,596059,Rougned Odor,446099,John Axford,462101,Elvis Andrus,R,Matt McBride,473724,5,6,7,False,2016-07-25,Stolen,2B,2016,2018,27.9
+26,1B,2B,Stolen Base 2B,621043,Carlos Correa,592614,Dillon Overton,472528,Luis Valbuena,L,Matt McBride,473724,0,0,1,True,2016-07-19,Stolen,2B,2016,2018,27.9
+27,1B,2B,Stolen Base 2B,594828,Evan Gattis,640455,Sean Manaea,519445,Danny Worth,L,Matt McBride,473724,0,0,2,False,2016-07-10,Stolen,2B,2016,2018,27.9
+28,1B,2B,Stolen Base 2B,460576,Carlos Gómez,425492,Ryan Madson,472528,Luis Valbuena,R,Matt McBride,473724,0,1,9,False,2016-07-10,Stolen,2B,2016,2018,27.9
+29,1B,2B,Stolen Base 2B,545350,Jake Marisnick,521230,Liam Hendriks,543807,George Springer,R,Matt McBride,473724,1,1,10,False,2016-07-10,Stolen,2B,2016,2018,27.9
+30,1B,2B,Stolen Base 2B,547982,Leonys Martin,594943,Zach Neal,452234,Seth Smith,R,Matt McBride,473724,3,1,3,False,2016-05-25,Stolen,2B,2016,2018,27.9
+31,1B,2B,Stolen Base 2B,593643,Hanser Alberto,534910,Jesse Hahn,435622,Ian Desmond,R,Matt McBride,473724,3,3,7,True,2016-05-17,Stolen,2B,2016,2018,27.9
+32,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,592811,Andrew Triggs,474233,Hank Conger,R,Matt McBride,473724,4,0,6,False,2016-05-14,Stolen,2B,2016,2018,27.9

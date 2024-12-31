@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+546,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,657024,Erik Swanson,670032,Nicky Lopez,R,Cal Raleigh,663728,4,6,7,True,2021-08-26,Stolen,2B
+623,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,621219,Alec Mills,670032,Nicky Lopez,R,Austin Romine,519222,0,5,4,True,2021-08-22,Stolen,2B
+2683,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,663658,Thaddeus Ward,668942,Josh Rojas,R,Keibert Ruiz,660688,5,10,8,True,2023-06-06,Stolen,2B
+2470,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,657024,Erik Swanson,670032,Nicky Lopez,R,Cal Raleigh,663728,4,6,7,True,2021-08-26,Stolen,2B
+2547,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,621219,Alec Mills,670032,Nicky Lopez,R,Austin Romine,519222,0,5,4,True,2021-08-22,Stolen,2B
+1453,2B,3B,Stolen Base 3B,656896,Emmanuel Rivera,608331,Max Fried,665506,Cristian Pache,L,Sean Murphy,669221,0,1,4,True,2024-08-04,Stolen,3B
+4059,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,676254,Ryan Walker,663743,Nick Fortes,R,Tom Murphy,608596,3,2,6,False,2024-04-16,Stolen,2B
+7097,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,663658,Thaddeus Ward,668942,Josh Rojas,R,Keibert Ruiz,660688,5,10,8,True,2023-06-06,Stolen,2B

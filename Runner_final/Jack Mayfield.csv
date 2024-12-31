@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+102,1B,2B,Stolen Base 2B,608686,Jack Mayfield,669302,Logan Gilbert,670351,Jose Rojas,R,Tom Murphy,608596,2,4,6,False,2021-09-24,Stolen,2B
+362,1B,2B,Stolen Base 2B,608686,Jack Mayfield,605483,Blake Snell,666176,Jo Adell,L,Austin Nola,543592,0,2,7,True,2021-09-07,Stolen,2B
+864,1B,2B,Stolen Base 2B,608686,Jack Mayfield,595014,Blake Treinen,664058,David Fletcher,R,Austin Barnes,605131,2,2,8,True,2021-08-06,Stolen,2B
+866,1B,2B,Caught Stealing Home,608686,Jack Mayfield,660813,Brusdar Graterol,664058,David Fletcher,R,Austin Barnes,605131,2,4,10,True,2021-08-06,Caught,Home
+1216,1B,2B,Stolen Base 2B,608686,Jack Mayfield,663556,Shane McClanahan,669016,Brandon Marsh,L,Francisco Mejía,642336,0,1,3,False,2022-05-11,Stolen,2B
+2026,1B,2B,Stolen Base 2B,608686,Jack Mayfield,669302,Logan Gilbert,670351,Jose Rojas,R,Tom Murphy,608596,2,4,6,False,2021-09-24,Stolen,2B
+2286,1B,2B,Stolen Base 2B,608686,Jack Mayfield,605483,Blake Snell,666176,Jo Adell,L,Austin Nola,543592,0,2,7,True,2021-09-07,Stolen,2B
+2788,1B,2B,Stolen Base 2B,608686,Jack Mayfield,595014,Blake Treinen,664058,David Fletcher,R,Austin Barnes,605131,2,2,8,True,2021-08-06,Stolen,2B
+2790,1B,2B,Caught Stealing Home,608686,Jack Mayfield,660813,Brusdar Graterol,664058,David Fletcher,R,Austin Barnes,605131,2,4,10,True,2021-08-06,Caught,Home

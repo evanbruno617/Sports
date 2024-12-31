@@ -1,0 +1,38 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,596295,Austin Gomber,457759,Justin Turner,L,Brian Serven,661531,0,0,1,False,2023-06-14,Stolen,2B,2023,2024,27.3
+1,2B,,Caught Stealing 3B,665926,Andrés Giménez,608566,Germán Márquez,686823,Will Brennan,R,Brian Serven,661531,2,0,2,False,2023-04-26,Caught,3B,2023,2024,27.3
+2,2B,3B,Stolen Base 3B,680757,Steven Kwan,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,3B,2023,2024,27.3
+3,1B,2B,Stolen Base 2B,642708,Amed Rosario,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,2B,2023,2024,27.3
+4,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,1,0,2,False,2023-04-23,Stolen,2B,2023,2024,27.3
+5,2B,,Caught Stealing 3B,592663,J.T. Realmuto,570632,José Ureña,665019,Kody Clemens,R,Brian Serven,661531,1,0,2,False,2023-04-23,Caught,3B,2023,2024,27.3
+6,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,4,3,4,False,2023-04-23,Stolen,2B,2023,2024,27.3
+7,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,596295,Austin Gomber,457759,Justin Turner,L,Brian Serven,661531,0,0,1,False,2023-06-14,Stolen,2B,2023,2024,27.3
+8,2B,,Caught Stealing 3B,665926,Andrés Giménez,608566,Germán Márquez,686823,Will Brennan,R,Brian Serven,661531,2,0,2,False,2023-04-26,Caught,3B,2023,2024,27.3
+9,2B,3B,Stolen Base 3B,680757,Steven Kwan,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,3B,2023,2024,27.3
+10,1B,2B,Stolen Base 2B,642708,Amed Rosario,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,2B,2023,2024,27.3
+11,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,1,0,2,False,2023-04-23,Stolen,2B,2023,2024,27.3
+12,2B,,Caught Stealing 3B,592663,J.T. Realmuto,570632,José Ureña,665019,Kody Clemens,R,Brian Serven,661531,1,0,2,False,2023-04-23,Caught,3B,2023,2024,27.3
+13,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,4,3,4,False,2023-04-23,Stolen,2B,2023,2024,27.3
+14,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,607536,Kyle Freeland,663757,Trent Grisham,L,Brian Serven,661531,3,0,3,True,2022-07-14,Stolen,3B,2022,2023,27.1
+15,1B,2B,Stolen Base 2B,663757,Trent Grisham,607536,Kyle Freeland,673490,Ha-Seong Kim,L,Brian Serven,661531,3,1,3,True,2022-07-14,Stolen,2B,2022,2023,27.1
+16,2B,,Caught Stealing 3B,665923,Esteury Ruiz,656458,Lucas Gilbreath,673490,Ha-Seong Kim,L,Brian Serven,661531,5,3,8,True,2022-07-12,Caught,3B,2022,2023,27.1
+17,1B,,Caught Stealing 2B,677950,Alek Thomas,641771,Chad Kuhl,572233,Christian Walker,R,Brian Serven,661531,1,1,1,False,2022-07-08,Caught,2B,2022,2023,27.1
+18,1B,2B,Stolen Base 2B,668942,Josh Rojas,517008,Alex Colomé,656669,Jordan Luplow,R,Brian Serven,661531,5,6,9,False,2022-07-08,Stolen,2B,2022,2023,27.1
+19,1B,2B,Stolen Base 2B,641355,Cody Bellinger,570632,José Ureña,605131,Austin Barnes,R,Brian Serven,661531,0,0,5,False,2022-07-06,Stolen,2B,2022,2023,27.1
+20,1B,2B,Stolen Base 2B,542932,Jon Berti,663372,Ryan Feltner,643265,Garrett Cooper,R,Brian Serven,661531,0,3,3,False,2022-06-21,Stolen,2B,2022,2023,27.1
+21,1B,2B,Stolen Base 2B,663743,Nick Fortes,663372,Ryan Feltner,542932,Jon Berti,R,Brian Serven,661531,5,4,4,False,2022-06-21,Stolen,2B,2022,2023,27.1
+22,1B,2B,Stolen Base 2B,642708,Amed Rosario,641771,Chad Kuhl,608070,José Ramírez,R,Brian Serven,661531,0,3,2,True,2022-06-16,Stolen,2B,2022,2023,27.1
+23,1B,2B,Stolen Base 2B,608070,José Ramírez,622608,Antonio Senzatela,660757,Oscar Gonzalez,R,Brian Serven,661531,1,2,6,True,2022-06-14,Stolen,2B,2022,2023,27.1
+24,2B,,Caught Stealing 3B,608070,José Ramírez,596112,Robert Stephenson,676391,Ernie Clement,R,Brian Serven,661531,3,4,10,True,2022-06-14,Caught,3B,2022,2023,27.1
+25,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,468504,Jhoulys Chacín,621020,Dansby Swanson,R,Brian Serven,661531,3,6,4,True,2022-06-05,Stolen,2B,2022,2023,27.1
+26,1B,2B,Stolen Base 2B,621020,Dansby Swanson,596295,Austin Gomber,542303,Marcell Ozuna,L,Brian Serven,661531,0,0,1,True,2022-06-02,Stolen,2B,2022,2023,27.1
+27,1B,2B,Stolen Base 2B,542932,Jon Berti,596112,Robert Stephenson,663743,Nick Fortes,R,Brian Serven,661531,10,7,6,True,2022-06-01,Stolen,2B,2022,2023,27.1
+28,2B,3B,Stolen Base 3B,542932,Jon Berti,453268,Daniel Bard,624585,Jorge Soler,R,Brian Serven,661531,11,11,10,True,2022-06-01,Stolen,3B,2022,2023,27.1
+29,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,453268,Daniel Bard,650559,Bryan De La Cruz,R,Brian Serven,661531,11,12,10,True,2022-06-01,Stolen,2B,2022,2023,27.1
+30,1B,2B,Stolen Base 2B,542932,Jon Berti,596112,Robert Stephenson,663743,Nick Fortes,R,Brian Serven,661531,10,7,6,True,2022-05-31,Stolen,2B,2022,2023,27.1
+31,2B,3B,Stolen Base 3B,542932,Jon Berti,453268,Daniel Bard,624585,Jorge Soler,R,Brian Serven,661531,11,11,10,True,2022-05-31,Stolen,3B,2022,2023,27.1
+32,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,453268,Daniel Bard,650559,Bryan De La Cruz,R,Brian Serven,661531,11,12,10,True,2022-05-31,Stolen,2B,2022,2023,27.1
+33,1B,2B,Stolen Base 2B,645302,Victor Robles,641771,Chad Kuhl,514917,César Hernández,R,Brian Serven,661531,1,2,5,False,2022-05-28,Stolen,2B,2022,2023,27.1
+34,2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,641755,Tyler Kinley,514917,César Hernández,R,Brian Serven,661531,2,3,7,False,2022-05-28,Stolen,3B,2022,2023,27.1
+35,1B,2B,Stolen Base 2B,669261,Jack Suwinski,623485,Ashton Goudeau,668751,Cal Mitchell,R,Brian Serven,661531,10,5,8,False,2022-05-25,Stolen,2B,2022,2023,27.1
+36,1B,,Caught Stealing 2B,605204,J.D. Davis,664875,Justin Lawrence,621512,Tomás Nido,R,Brian Serven,661531,4,3,6,True,2022-05-21,Caught,2B,2022,2023,27.1

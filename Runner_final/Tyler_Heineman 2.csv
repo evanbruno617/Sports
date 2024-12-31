@@ -1,0 +1,80 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y
+0,0,1B,2B,Stolen Base 2B,543333,Eric Hosmer,453265,Tony Watson,502054,Tommy Pham,L,Tyler Heineman,623168,2,5,9,True,2020-09-26,Stolen,2B,2020,2021,26.0,2021,26.0
+1,1,2B,3B,Stolen Base 3B,641658,Garrett Hampson,592332,Kevin Gausman,607680,Kevin Pillar,R,Tyler Heineman,623168,3,2,4,True,2020-09-24,Stolen,3B,2020,2021,26.0,2021,26.0
+2,2,1B,2B,Stolen Base 2B,606132,Raimel Tapia,592332,Kevin Gausman,607680,Kevin Pillar,R,Tyler Heineman,623168,3,2,4,True,2020-09-24,Stolen,2B,2020,2021,26.0,2021,26.0
+3,3,1B,2B,Stolen Base 2B,641658,Garrett Hampson,592332,Kevin Gausman,656541,Sam Hilliard,R,Tyler Heineman,623168,3,2,6,True,2020-09-24,Stolen,2B,2020,2021,26.0,2021,26.0
+4,4,1B,,Caught Stealing 2B,453568,Charlie Blackmon,643511,Tyler Rogers,658069,Joshua Fuentes,R,Tyler Heineman,623168,4,4,9,True,2020-09-24,Caught,2B,2020,2021,26.0,2021,26.0
+5,5,1B,,Caught Stealing 2B,666176,Jo Adell,502239,Trevor Cahill,621532,Anthony Bemboom,R,Tyler Heineman,623168,1,4,4,False,2020-08-18,Caught,2B,2020,2021,26.0,2021,26.0
+6,6,1B,,Caught Stealing 2B,664702,Myles Straw,605446,Dereck Rodríguez,543807,George Springer,R,Tyler Heineman,623168,0,1,5,False,2020-08-12,Caught,2B,2020,2021,26.0,2021,26.0
+7,7,2B,,Caught Stealing 3B,596117,Garrett Stubbs,641312,Shaun Anderson,514888,Jose Altuve,R,Tyler Heineman,623168,6,5,8,False,2020-08-11,Caught,3B,2020,2021,26.0,2021,26.0
+8,8,1B,2B,Stolen Base 2B,656541,Sam Hilliard,657277,Logan Webb,547172,Tony Wolters,R,Tyler Heineman,623168,1,0,3,False,2020-08-05,Stolen,2B,2020,2021,26.0,2021,26.0
+9,9,1B,,Caught Stealing 2B,606132,Raimel Tapia,657277,Logan Webb,656541,Sam Hilliard,R,Tyler Heineman,623168,2,3,5,False,2020-08-05,Caught,2B,2020,2021,26.0,2021,26.0
+10,10,2B,3B,Stolen Base 3B,462101,Elvis Andrus,592767,Drew Smyly,596059,Rougned Odor,L,Tyler Heineman,623168,0,0,1,True,2020-08-01,Stolen,3B,2020,2021,26.0,2021,26.0
+11,11,1B,2B,Stolen Base 2B,608336,Joey Gallo,592767,Drew Smyly,453943,Todd Frazier,L,Tyler Heineman,623168,0,2,1,True,2020-08-01,Stolen,2B,2020,2021,26.0,2021,26.0
+12,12,1B,2B,Stolen Base 2B,453943,Todd Frazier,592767,Drew Smyly,455139,Robinson Chirinos,L,Tyler Heineman,623168,0,2,1,True,2020-08-01,Stolen,2B,2020,2021,26.0,2021,26.0
+13,13,1B,2B,Stolen Base 2B,595777,Jurickson Profar,592332,Kevin Gausman,571976,Wil Myers,R,Tyler Heineman,623168,0,3,4,True,2020-07-30,Stolen,2B,2020,2021,26.0,2021,26.0
+14,14,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,656322,Sam Coonrod,663757,Trent Grisham,R,Tyler Heineman,623168,1,6,7,True,2020-07-30,Stolen,2B,2020,2021,26.0,2021,26.0
+15,15,2B,3B,Stolen Base 3B,663757,Trent Grisham,656322,Sam Coonrod,502054,Tommy Pham,R,Tyler Heineman,623168,1,6,7,True,2020-07-30,Stolen,3B,2020,2021,26.0,2021,26.0
+16,16,1B,2B,Stolen Base 2B,605141,Mookie Betts,592767,Drew Smyly,457759,Justin Turner,L,Tyler Heineman,623168,0,1,3,False,2020-07-26,Stolen,2B,2020,2021,26.0,2021,26.0
+17,17,1B,2B,Stolen Base 2B,543333,Eric Hosmer,453265,Tony Watson,502054,Tommy Pham,L,Tyler Heineman,623168,2,5,9,True,2020-09-26,Stolen,2B,2020,2021,26.0,2021,26.0
+18,18,2B,3B,Stolen Base 3B,641658,Garrett Hampson,592332,Kevin Gausman,607680,Kevin Pillar,R,Tyler Heineman,623168,3,2,4,True,2020-09-24,Stolen,3B,2020,2021,26.0,2021,26.0
+19,19,1B,2B,Stolen Base 2B,606132,Raimel Tapia,592332,Kevin Gausman,607680,Kevin Pillar,R,Tyler Heineman,623168,3,2,4,True,2020-09-24,Stolen,2B,2020,2021,26.0,2021,26.0
+20,20,1B,2B,Stolen Base 2B,641658,Garrett Hampson,592332,Kevin Gausman,656541,Sam Hilliard,R,Tyler Heineman,623168,3,2,6,True,2020-09-24,Stolen,2B,2020,2021,26.0,2021,26.0
+21,21,1B,,Caught Stealing 2B,453568,Charlie Blackmon,643511,Tyler Rogers,658069,Joshua Fuentes,R,Tyler Heineman,623168,4,4,9,True,2020-09-24,Caught,2B,2020,2021,26.0,2021,26.0
+22,22,1B,,Caught Stealing 2B,666176,Jo Adell,502239,Trevor Cahill,621532,Anthony Bemboom,R,Tyler Heineman,623168,1,4,4,False,2020-08-18,Caught,2B,2020,2021,26.0,2021,26.0
+23,23,1B,,Caught Stealing 2B,664702,Myles Straw,605446,Dereck Rodríguez,543807,George Springer,R,Tyler Heineman,623168,0,1,5,False,2020-08-12,Caught,2B,2020,2021,26.0,2021,26.0
+24,24,2B,,Caught Stealing 3B,596117,Garrett Stubbs,641312,Shaun Anderson,514888,Jose Altuve,R,Tyler Heineman,623168,6,5,8,False,2020-08-11,Caught,3B,2020,2021,26.0,2021,26.0
+25,25,1B,2B,Stolen Base 2B,656541,Sam Hilliard,657277,Logan Webb,547172,Tony Wolters,R,Tyler Heineman,623168,1,0,3,False,2020-08-05,Stolen,2B,2020,2021,26.0,2021,26.0
+26,26,1B,,Caught Stealing 2B,606132,Raimel Tapia,657277,Logan Webb,656541,Sam Hilliard,R,Tyler Heineman,623168,2,3,5,False,2020-08-05,Caught,2B,2020,2021,26.0,2021,26.0
+27,27,2B,3B,Stolen Base 3B,462101,Elvis Andrus,592767,Drew Smyly,596059,Rougned Odor,L,Tyler Heineman,623168,0,0,1,True,2020-08-01,Stolen,3B,2020,2021,26.0,2021,26.0
+28,28,1B,2B,Stolen Base 2B,608336,Joey Gallo,592767,Drew Smyly,453943,Todd Frazier,L,Tyler Heineman,623168,0,2,1,True,2020-08-01,Stolen,2B,2020,2021,26.0,2021,26.0
+29,29,1B,2B,Stolen Base 2B,453943,Todd Frazier,592767,Drew Smyly,455139,Robinson Chirinos,L,Tyler Heineman,623168,0,2,1,True,2020-08-01,Stolen,2B,2020,2021,26.0,2021,26.0
+30,30,1B,2B,Stolen Base 2B,595777,Jurickson Profar,592332,Kevin Gausman,571976,Wil Myers,R,Tyler Heineman,623168,0,3,4,True,2020-07-30,Stolen,2B,2020,2021,26.0,2021,26.0
+31,31,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,656322,Sam Coonrod,663757,Trent Grisham,R,Tyler Heineman,623168,1,6,7,True,2020-07-30,Stolen,2B,2020,2021,26.0,2021,26.0
+32,32,2B,3B,Stolen Base 3B,663757,Trent Grisham,656322,Sam Coonrod,502054,Tommy Pham,R,Tyler Heineman,623168,1,6,7,True,2020-07-30,Stolen,3B,2020,2021,26.0,2021,26.0
+33,33,1B,2B,Stolen Base 2B,605141,Mookie Betts,592767,Drew Smyly,457759,Justin Turner,L,Tyler Heineman,623168,0,1,3,False,2020-07-26,Stolen,2B,2020,2021,26.0,2021,26.0
+34,34,1B,2B,Stolen Base 2B,543333,Eric Hosmer,453265,Tony Watson,502054,Tommy Pham,L,Tyler Heineman,623168,2,5,9,True,2020-09-26,Stolen,2B,2020,2021,26.0,2021,26.0
+35,35,2B,3B,Stolen Base 3B,641658,Garrett Hampson,592332,Kevin Gausman,607680,Kevin Pillar,R,Tyler Heineman,623168,3,2,4,True,2020-09-24,Stolen,3B,2020,2021,26.0,2021,26.0
+36,36,1B,2B,Stolen Base 2B,606132,Raimel Tapia,592332,Kevin Gausman,607680,Kevin Pillar,R,Tyler Heineman,623168,3,2,4,True,2020-09-24,Stolen,2B,2020,2021,26.0,2021,26.0
+37,37,1B,2B,Stolen Base 2B,641658,Garrett Hampson,592332,Kevin Gausman,656541,Sam Hilliard,R,Tyler Heineman,623168,3,2,6,True,2020-09-24,Stolen,2B,2020,2021,26.0,2021,26.0
+38,38,1B,,Caught Stealing 2B,453568,Charlie Blackmon,643511,Tyler Rogers,658069,Joshua Fuentes,R,Tyler Heineman,623168,4,4,9,True,2020-09-24,Caught,2B,2020,2021,26.0,2021,26.0
+39,39,1B,,Caught Stealing 2B,666176,Jo Adell,502239,Trevor Cahill,621532,Anthony Bemboom,R,Tyler Heineman,623168,1,4,4,False,2020-08-18,Caught,2B,2020,2021,26.0,2021,26.0
+40,40,1B,,Caught Stealing 2B,664702,Myles Straw,605446,Dereck Rodríguez,543807,George Springer,R,Tyler Heineman,623168,0,1,5,False,2020-08-12,Caught,2B,2020,2021,26.0,2021,26.0
+41,41,2B,,Caught Stealing 3B,596117,Garrett Stubbs,641312,Shaun Anderson,514888,Jose Altuve,R,Tyler Heineman,623168,6,5,8,False,2020-08-11,Caught,3B,2020,2021,26.0,2021,26.0
+42,42,1B,2B,Stolen Base 2B,656541,Sam Hilliard,657277,Logan Webb,547172,Tony Wolters,R,Tyler Heineman,623168,1,0,3,False,2020-08-05,Stolen,2B,2020,2021,26.0,2021,26.0
+43,43,1B,,Caught Stealing 2B,606132,Raimel Tapia,657277,Logan Webb,656541,Sam Hilliard,R,Tyler Heineman,623168,2,3,5,False,2020-08-05,Caught,2B,2020,2021,26.0,2021,26.0
+44,44,2B,3B,Stolen Base 3B,462101,Elvis Andrus,592767,Drew Smyly,596059,Rougned Odor,L,Tyler Heineman,623168,0,0,1,True,2020-08-01,Stolen,3B,2020,2021,26.0,2021,26.0
+45,45,1B,2B,Stolen Base 2B,608336,Joey Gallo,592767,Drew Smyly,453943,Todd Frazier,L,Tyler Heineman,623168,0,2,1,True,2020-08-01,Stolen,2B,2020,2021,26.0,2021,26.0
+46,46,1B,2B,Stolen Base 2B,453943,Todd Frazier,592767,Drew Smyly,455139,Robinson Chirinos,L,Tyler Heineman,623168,0,2,1,True,2020-08-01,Stolen,2B,2020,2021,26.0,2021,26.0
+47,47,1B,2B,Stolen Base 2B,595777,Jurickson Profar,592332,Kevin Gausman,571976,Wil Myers,R,Tyler Heineman,623168,0,3,4,True,2020-07-30,Stolen,2B,2020,2021,26.0,2021,26.0
+48,48,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,656322,Sam Coonrod,663757,Trent Grisham,R,Tyler Heineman,623168,1,6,7,True,2020-07-30,Stolen,2B,2020,2021,26.0,2021,26.0
+49,49,2B,3B,Stolen Base 3B,663757,Trent Grisham,656322,Sam Coonrod,502054,Tommy Pham,R,Tyler Heineman,623168,1,6,7,True,2020-07-30,Stolen,3B,2020,2021,26.0,2021,26.0
+50,50,1B,2B,Stolen Base 2B,605141,Mookie Betts,592767,Drew Smyly,457759,Justin Turner,L,Tyler Heineman,623168,0,1,3,False,2020-07-26,Stolen,2B,2020,2021,26.0,2021,26.0
+51,51,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,657141,Jordan Yamamoto,624413,Pete Alonso,R,Tyler Heineman,623168,0,0,1,False,2019-09-26,Stolen,2B,2019,2020,25.6,2020,25.6
+52,52,1B,,Caught Stealing 2B,434658,Rajai Davis,592773,Ryne Stanek,453943,Todd Frazier,R,Tyler Heineman,623168,2,3,8,False,2019-09-26,Caught,2B,2019,2020,25.6,2020,25.6
+53,53,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,657141,Jordan Yamamoto,624413,Pete Alonso,R,Tyler Heineman,623168,0,0,1,False,2019-09-26,Stolen,2B,2019,2020,25.6,2020,25.6
+54,54,1B,,Caught Stealing 2B,434658,Rajai Davis,592773,Ryne Stanek,453943,Todd Frazier,R,Tyler Heineman,623168,2,3,8,False,2019-09-26,Caught,2B,2019,2020,25.6,2020,25.6
+55,55,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,657141,Jordan Yamamoto,624413,Pete Alonso,R,Tyler Heineman,623168,0,0,1,False,2019-09-26,Stolen,2B,2019,2020,25.6,2020,25.6
+56,56,1B,,Caught Stealing 2B,434658,Rajai Davis,592773,Ryne Stanek,453943,Todd Frazier,R,Tyler Heineman,623168,2,3,8,False,2019-09-26,Caught,2B,2019,2020,25.6,2020,25.6
+57,57,1B,2B,Stolen Base 2B,641505,Jonathan Davis,669060,Bryse Wilson,592885,Christian Yelich,R,Tyler Heineman,623168,0,1,2,True,2022-07-02,Stolen,2B,2022,2023,25.0,2023,25.0
+58,58,1B,2B,Stolen Base 2B,645302,Victor Robles,500779,Jose Quintana,657041,Lane Thomas,L,Tyler Heineman,623168,1,0,2,False,2022-06-28,Stolen,2B,2022,2023,25.0,2023,25.0
+59,59,1B,,Caught Stealing 2B,666624,Christopher Morel,500779,Jose Quintana,664023,Ian Happ,L,Tyler Heineman,623168,0,0,1,True,2022-06-23,Caught,2B,2022,2023,25.0,2023,25.0
+60,60,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,660787,Yerry De Los Santos,666624,Christopher Morel,R,Tyler Heineman,623168,6,7,8,True,2022-06-23,Stolen,2B,2022,2023,25.0,2023,25.0
+61,61,1B,2B,Stolen Base 2B,670768,Luis González,500779,Jose Quintana,642851,Austin Wynns,L,Tyler Heineman,623168,1,1,2,True,2022-06-18,Stolen,2B,2022,2023,25.0,2023,25.0
+62,62,1B,2B,Stolen Base 2B,670768,Luis González,592390,Heath Hembree,642731,Thairo Estrada,R,Tyler Heineman,623168,5,6,9,True,2022-06-18,Stolen,2B,2022,2023,25.0,2023,25.0
+63,63,1B,,Caught Stealing 2B,642731,Thairo Estrada,605507,Zach Thompson,543063,Brandon Crawford,R,Tyler Heineman,623168,0,2,4,True,2022-06-17,Caught,2B,2022,2023,25.0,2023,25.0
+64,64,1B,,Caught Stealing 2B,669242,Tommy Edman,672710,Roansy Contreras,502671,Paul Goldschmidt,R,Tyler Heineman,623168,0,2,1,False,2022-06-15,Caught,2B,2022,2023,25.0,2023,25.0
+65,65,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,607455,Anthony Banda,680977,Brendan Donovan,L,Tyler Heineman,623168,2,5,6,False,2022-06-13,Stolen,2B,2022,2023,25.0,2023,25.0
+66,66,1B,2B,Stolen Base 2B,671739,Michael Harris II,605507,Zach Thompson,660670,Ronald Acuña Jr.,R,Tyler Heineman,623168,2,4,5,False,2022-06-11,Stolen,2B,2022,2023,25.0,2023,25.0
+67,67,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,664141,JT Brubaker,621020,Dansby Swanson,R,Tyler Heineman,623168,2,0,3,False,2022-06-09,Stolen,2B,2022,2023,25.0,2023,25.0
+68,68,1B,2B,Stolen Base 2B,595879,Javier Báez,500779,Jose Quintana,679529,Spencer Torkelson,L,Tyler Heineman,623168,1,2,4,True,2022-06-07,Stolen,2B,2022,2023,25.0,2023,25.0
+69,69,1B,2B,Stolen Base 2B,666158,Gavin Lux,656605,Mitch Keller,605141,Mookie Betts,R,Tyler Heineman,623168,2,4,4,False,2022-05-31,Stolen,2B,2022,2023,25.0,2023,25.0
+70,70,1B,2B,Stolen Base 2B,669242,Tommy Edman,669060,Bryse Wilson,669357,Nolan Gorman,R,Tyler Heineman,623168,0,1,1,True,2022-05-22,Stolen,2B,2022,2023,25.0,2023,25.0
+71,71,1B,2B,Stolen Base 2B,542340,Jonathan Villar,656605,Mitch Keller,666624,Christopher Morel,R,Tyler Heineman,623168,2,2,4,False,2022-05-18,Stolen,2B,2022,2023,25.0,2023,25.0
+72,72,1B,2B,Stolen Base 2B,668227,Randy Arozarena,475479,David Phelps,596847,Ji Man Choi,R,Tyler Heineman,623168,5,2,8,False,2022-05-13,Stolen,2B,2022,2023,25.0,2023,25.0
+73,73,1B,2B,Stolen Base 2B,592450,Aaron Judge,548389,Ross Stripling,519317,Giancarlo Stanton,R,Tyler Heineman,623168,0,0,1,True,2022-05-02,Stolen,2B,2022,2023,25.0,2023,25.0
+74,74,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,548389,Ross Stripling,519203,Anthony Rizzo,R,Tyler Heineman,623168,0,0,3,True,2022-05-02,Stolen,2B,2022,2023,25.0,2023,25.0
+75,75,1B,2B,Stolen Base 2B,641796,Tim Locastro,554340,Yimi García,518626,Josh Donaldson,R,Tyler Heineman,623168,2,2,9,True,2022-05-02,Stolen,2B,2022,2023,25.0,2023,25.0
+76,76,1B,,Caught Stealing 2B,668804,Bryan Reynolds,643256,Adam Cimber,621028,Kevin Newman,R,Tyler Heineman,623168,1,2,5,False,2022-04-01,Caught,2B,2022,2023,25.0,2023,25.0
+77,77,1B,2B,Stolen Base 2B,474233,Hank Conger,605328,Mitch Lambson,545337,Nolan Fontana,L,Tyler Heineman,623168,2,5,6,True,2015-04-02,Stolen,2B,2015,2016,26.2,2016,26.2
+78,78,1B,2B,Stolen Base 2B,607287,Ruben Sosa,623204,Daniel Minor,545337,Nolan Fontana,R,Tyler Heineman,623168,2,7,8,True,2015-04-02,Stolen,2B,2015,2016,26.2,2016,26.2

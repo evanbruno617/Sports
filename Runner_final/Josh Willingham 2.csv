@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3233,1B,2B,Stolen Base 2B,425545,Josh Willingham,431148,Scott Kazmir,456715,Lorenzo Cain,L,Derek Norris,519083,2,0,4,False,2014-08-13,Stolen,2B
+3510,1B,2B,Stolen Base 2B,425545,Josh Willingham,518633,Danny Duffy,461858,Trevor Plouffe,L,Salvador Perez,521692,0,1,4,True,2014-07-30,Stolen,2B
+989,1B,2B,Stolen Base 2B,425545,Josh Willingham,431148,Scott Kazmir,456715,Lorenzo Cain,L,Derek Norris,519083,2,0,4,False,2014-08-13,Stolen,2B
+1266,1B,2B,Stolen Base 2B,425545,Josh Willingham,518633,Danny Duffy,461858,Trevor Plouffe,L,Salvador Perez,521692,0,1,4,True,2014-07-30,Stolen,2B

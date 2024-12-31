@@ -1,0 +1,105 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,664702,Myles Straw,656638,Alex Lange,657656,Ramón Laureano,R,Carson Kelly,608348,3,0,7,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+1,1,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,687830,Sawyer Gipson-Long,686681,Michael Massey,R,Carson Kelly,608348,0,0,1,True,2023-09-28,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+2,2,1B,2B,Stolen Base 2B,664913,Seth Brown,666214,Joey Wentz,669127,Shea Langeliers,L,Carson Kelly,608348,2,1,4,False,2023-09-23,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+3,3,1B,,Caught Stealing 2B,643393,Tony Kemp,687830,Sawyer Gipson-Long,671732,Lawrence Butler,R,Carson Kelly,608348,1,0,4,False,2023-09-22,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+4,4,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,622259,Trey Wingenter,675656,Kevin Smith,R,Carson Kelly,608348,8,2,7,False,2023-09-22,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+5,5,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,622259,Trey Wingenter,669127,Shea Langeliers,R,Carson Kelly,608348,8,2,7,False,2023-09-22,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+6,6,1B,,Caught Stealing 2B,571912,Luke Maile,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+7,7,3B,score,Caught Stealing 2B,682622,Noelvi Marte,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+8,8,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,622766,Miguel Díaz,670770,TJ Friedl,R,Carson Kelly,608348,3,4,6,True,2023-09-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+9,9,1B,,Caught Stealing 2B,672724,Oswald Peraza,656638,Alex Lange,665828,Oswaldo Cabrera,R,Carson Kelly,608348,4,3,8,False,2023-09-06,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+10,10,1B,,Caught Stealing 2B,641343,Jake Bauers,666159,Matt Manning,665828,Oswaldo Cabrera,R,Carson Kelly,608348,0,0,2,True,2023-08-31,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+11,11,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,669194,Ryne Nelson,665742,Juan Soto,R,Carson Kelly,608348,1,3,3,True,2023-08-11,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+12,12,1B,2B,Stolen Base 2B,663757,Trent Grisham,666818,Luis Frías,673490,Ha-Seong Kim,R,Carson Kelly,608348,1,7,6,True,2023-08-11,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+13,13,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,543518,Scott McGough,630105,Jake Cronenworth,R,Carson Kelly,608348,5,10,9,True,2023-08-11,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+14,14,1B,2B,Stolen Base 2B,681546,James Outman,612434,Miguel Castro,642708,Amed Rosario,R,Carson Kelly,608348,2,4,9,True,2023-08-08,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+15,15,1B,2B,Stolen Base 2B,666397,Edouard Julien,668678,Zac Gallen,621043,Carlos Correa,R,Carson Kelly,608348,2,1,6,False,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+16,16,1B,2B,Stolen Base 2B,676609,José Caballero,669459,Kyle Nelson,641487,J.P. Crawford,L,Carson Kelly,608348,3,3,7,True,2023-07-29,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+17,17,3B,score,Stolen Base Home,680977,Brendan Donovan,518876,Merrill Kelly,571448,Nolan Arenado,R,Carson Kelly,608348,0,1,3,True,2023-07-25,Stolen,Home,2023,2024,29.8,2024, 81.6, 0.65
+18,18,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,518876,Merrill Kelly,571448,Nolan Arenado,R,Carson Kelly,608348,0,1,3,True,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+19,19,1B,,Caught Stealing 2B,670770,TJ Friedl,614179,José Ruiz,680574,Matt McLain,R,Carson Kelly,608348,1,0,1,False,2023-07-23,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+20,20,1B,,Caught Stealing 2B,680574,Matt McLain,656457,Tyler Gilbert,668715,Spencer Steer,L,Carson Kelly,608348,3,3,6,False,2023-07-23,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+21,21,2B,,Caught Stealing 3B,671739,Michael Harris II,668678,Zac Gallen,660670,Ronald Acuña Jr.,R,Carson Kelly,608348,1,0,6,False,2023-07-20,Caught,3B,2023,2024,29.8,2024, 81.6, 0.65
+22,22,1B,,Caught Stealing 2B,543807,George Springer,605177,Andrew Chafin,666182,Bo Bichette,L,Carson Kelly,608348,3,2,7,False,2023-07-15,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+23,23,1B,,Caught Stealing 2B,680779,Henry Davis,605177,Andrew Chafin,467793,Carlos Santana,L,Carson Kelly,608348,2,3,8,True,2023-07-09,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+24,24,2B,3B,Stolen Base 3B,502054,Tommy Pham,674072,Tommy Henry,643446,Jeff McNeil,L,Carson Kelly,608348,0,0,4,True,2023-07-05,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+25,25,1B,2B,Stolen Base 2B,516782,Starling Marte,674072,Tommy Henry,643446,Jeff McNeil,L,Carson Kelly,608348,0,0,4,True,2023-07-05,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+26,26,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605200,Zach Davies,624413,Pete Alonso,R,Carson Kelly,608348,1,0,4,True,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+27,27,2B,3B,Stolen Base 3B,596019,Francisco Lindor,613534,Austin Adams,516782,Starling Marte,R,Carson Kelly,608348,4,6,8,True,2023-07-04,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+28,28,1B,2B,Stolen Base 2B,643446,Jeff McNeil,613534,Austin Adams,516782,Starling Marte,R,Carson Kelly,608348,4,6,8,True,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+29,29,1B,2B,Stolen Base 2B,516782,Starling Marte,614179,José Ruiz,682626,Francisco Alvarez,R,Carson Kelly,608348,4,7,8,True,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+30,30,1B,2B,Stolen Base 2B,642136,Matt Thaiss,668678,Zac Gallen,500871,Eduardo Escobar,R,Carson Kelly,608348,4,2,7,False,2023-07-02,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+31,31,1B,2B,Stolen Base 2B,680757,Steven Kwan,674072,Tommy Henry,642708,Amed Rosario,L,Carson Kelly,608348,0,2,4,True,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+32,32,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,518876,Merrill Kelly,669016,Brandon Marsh,R,Carson Kelly,608348,0,1,2,True,2023-06-14,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+33,33,1B,2B,Stolen Base 2B,592206,Nick Castellanos,613534,Austin Adams,592663,J.T. Realmuto,R,Carson Kelly,608348,0,3,8,True,2023-06-14,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+34,34,1B,2B,Stolen Base 2B,607208,Trea Turner,605200,Zach Davies,592206,Nick Castellanos,R,Carson Kelly,608348,0,2,1,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+35,35,1B,2B,Stolen Base 2B,607208,Trea Turner,605200,Zach Davies,592206,Nick Castellanos,R,Carson Kelly,608348,0,4,2,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+36,36,2B,3B,Stolen Base 3B,547180,Bryce Harper,605200,Zach Davies,664761,Alec Bohm,R,Carson Kelly,608348,0,5,3,True,2023-06-13,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+37,37,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605200,Zach Davies,664761,Alec Bohm,R,Carson Kelly,608348,0,5,3,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+38,38,1B,2B,Stolen Base 2B,681082,Bryson Stott,612434,Miguel Castro,665019,Kody Clemens,R,Carson Kelly,608348,9,8,9,True,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+39,39,1B,2B,Stolen Base 2B,664702,Myles Straw,656638,Alex Lange,657656,Ramón Laureano,R,Carson Kelly,608348,3,0,7,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+40,40,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,687830,Sawyer Gipson-Long,686681,Michael Massey,R,Carson Kelly,608348,0,0,1,True,2023-09-28,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+41,41,1B,2B,Stolen Base 2B,664913,Seth Brown,666214,Joey Wentz,669127,Shea Langeliers,L,Carson Kelly,608348,2,1,4,False,2023-09-23,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+42,42,1B,,Caught Stealing 2B,643393,Tony Kemp,687830,Sawyer Gipson-Long,671732,Lawrence Butler,R,Carson Kelly,608348,1,0,4,False,2023-09-22,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+43,43,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,622259,Trey Wingenter,675656,Kevin Smith,R,Carson Kelly,608348,8,2,7,False,2023-09-22,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+44,44,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,622259,Trey Wingenter,669127,Shea Langeliers,R,Carson Kelly,608348,8,2,7,False,2023-09-22,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+45,45,1B,,Caught Stealing 2B,571912,Luke Maile,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+46,46,3B,score,Caught Stealing 2B,682622,Noelvi Marte,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+47,47,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,622766,Miguel Díaz,670770,TJ Friedl,R,Carson Kelly,608348,3,4,6,True,2023-09-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+48,48,1B,,Caught Stealing 2B,672724,Oswald Peraza,656638,Alex Lange,665828,Oswaldo Cabrera,R,Carson Kelly,608348,4,3,8,False,2023-09-06,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+49,49,1B,,Caught Stealing 2B,641343,Jake Bauers,666159,Matt Manning,665828,Oswaldo Cabrera,R,Carson Kelly,608348,0,0,2,True,2023-08-31,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+50,50,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,669194,Ryne Nelson,665742,Juan Soto,R,Carson Kelly,608348,1,3,3,True,2023-08-11,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+51,51,1B,2B,Stolen Base 2B,663757,Trent Grisham,666818,Luis Frías,673490,Ha-Seong Kim,R,Carson Kelly,608348,1,7,6,True,2023-08-11,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+52,52,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,543518,Scott McGough,630105,Jake Cronenworth,R,Carson Kelly,608348,5,10,9,True,2023-08-11,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+53,53,1B,2B,Stolen Base 2B,681546,James Outman,612434,Miguel Castro,642708,Amed Rosario,R,Carson Kelly,608348,2,4,9,True,2023-08-08,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+54,54,1B,2B,Stolen Base 2B,666397,Edouard Julien,668678,Zac Gallen,621043,Carlos Correa,R,Carson Kelly,608348,2,1,6,False,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+55,55,1B,2B,Stolen Base 2B,676609,José Caballero,669459,Kyle Nelson,641487,J.P. Crawford,L,Carson Kelly,608348,3,3,7,True,2023-07-29,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+56,56,3B,score,Stolen Base Home,680977,Brendan Donovan,518876,Merrill Kelly,571448,Nolan Arenado,R,Carson Kelly,608348,0,1,3,True,2023-07-25,Stolen,Home,2023,2024,29.8,2024, 81.6, 0.65
+57,57,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,518876,Merrill Kelly,571448,Nolan Arenado,R,Carson Kelly,608348,0,1,3,True,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+58,58,1B,,Caught Stealing 2B,670770,TJ Friedl,614179,José Ruiz,680574,Matt McLain,R,Carson Kelly,608348,1,0,1,False,2023-07-23,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+59,59,1B,,Caught Stealing 2B,680574,Matt McLain,656457,Tyler Gilbert,668715,Spencer Steer,L,Carson Kelly,608348,3,3,6,False,2023-07-23,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+60,60,2B,,Caught Stealing 3B,671739,Michael Harris II,668678,Zac Gallen,660670,Ronald Acuña Jr.,R,Carson Kelly,608348,1,0,6,False,2023-07-20,Caught,3B,2023,2024,29.8,2024, 81.6, 0.65
+61,61,1B,,Caught Stealing 2B,543807,George Springer,605177,Andrew Chafin,666182,Bo Bichette,L,Carson Kelly,608348,3,2,7,False,2023-07-15,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+62,62,1B,,Caught Stealing 2B,680779,Henry Davis,605177,Andrew Chafin,467793,Carlos Santana,L,Carson Kelly,608348,2,3,8,True,2023-07-09,Caught,2B,2023,2024,29.8,2024, 81.6, 0.65
+63,63,2B,3B,Stolen Base 3B,502054,Tommy Pham,674072,Tommy Henry,643446,Jeff McNeil,L,Carson Kelly,608348,0,0,4,True,2023-07-05,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+64,64,1B,2B,Stolen Base 2B,516782,Starling Marte,674072,Tommy Henry,643446,Jeff McNeil,L,Carson Kelly,608348,0,0,4,True,2023-07-05,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+65,65,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605200,Zach Davies,624413,Pete Alonso,R,Carson Kelly,608348,1,0,4,True,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+66,66,2B,3B,Stolen Base 3B,596019,Francisco Lindor,613534,Austin Adams,516782,Starling Marte,R,Carson Kelly,608348,4,6,8,True,2023-07-04,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+67,67,1B,2B,Stolen Base 2B,643446,Jeff McNeil,613534,Austin Adams,516782,Starling Marte,R,Carson Kelly,608348,4,6,8,True,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+68,68,1B,2B,Stolen Base 2B,516782,Starling Marte,614179,José Ruiz,682626,Francisco Alvarez,R,Carson Kelly,608348,4,7,8,True,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+69,69,1B,2B,Stolen Base 2B,642136,Matt Thaiss,668678,Zac Gallen,500871,Eduardo Escobar,R,Carson Kelly,608348,4,2,7,False,2023-07-02,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+70,70,1B,2B,Stolen Base 2B,680757,Steven Kwan,674072,Tommy Henry,642708,Amed Rosario,L,Carson Kelly,608348,0,2,4,True,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+71,71,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,518876,Merrill Kelly,669016,Brandon Marsh,R,Carson Kelly,608348,0,1,2,True,2023-06-14,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+72,72,1B,2B,Stolen Base 2B,592206,Nick Castellanos,613534,Austin Adams,592663,J.T. Realmuto,R,Carson Kelly,608348,0,3,8,True,2023-06-14,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+73,73,1B,2B,Stolen Base 2B,607208,Trea Turner,605200,Zach Davies,592206,Nick Castellanos,R,Carson Kelly,608348,0,2,1,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+74,74,1B,2B,Stolen Base 2B,607208,Trea Turner,605200,Zach Davies,592206,Nick Castellanos,R,Carson Kelly,608348,0,4,2,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+75,75,2B,3B,Stolen Base 3B,547180,Bryce Harper,605200,Zach Davies,664761,Alec Bohm,R,Carson Kelly,608348,0,5,3,True,2023-06-13,Stolen,3B,2023,2024,29.8,2024, 81.6, 0.65
+76,76,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605200,Zach Davies,664761,Alec Bohm,R,Carson Kelly,608348,0,5,3,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+77,77,1B,2B,Stolen Base 2B,681082,Bryson Stott,612434,Miguel Castro,665019,Kody Clemens,R,Carson Kelly,608348,9,8,9,True,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 81.6, 0.65
+78,78,1B,2B,Stolen Base 2B,670768,Luis González,518876,Merrill Kelly,681584,David Villar,R,Carson Kelly,608348,1,3,4,False,2022-07-11,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+79,79,1B,,Caught Stealing 2B,578428,Jose Iglesias,668678,Zac Gallen,545341,Randal Grichuk,R,Carson Kelly,608348,1,1,2,True,2022-07-08,Caught,2B,2022,2023,29.4,2023, 80.3, 0.64
+80,80,1B,2B,Stolen Base 2B,641658,Garrett Hampson,453343,Mark Melancon,656582,Connor Joe,R,Carson Kelly,608348,3,4,9,True,2022-07-07,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+81,81,1B,2B,Stolen Base 2B,596103,Austin Slater,518516,Madison Bumgarner,527038,Wilmer Flores,L,Carson Kelly,608348,2,2,2,True,2022-07-04,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+82,82,1B,2B,Stolen Base 2B,641857,Ryan McMahon,605525,J.B. Wendelken,656582,Connor Joe,R,Carson Kelly,608348,7,5,6,False,2022-07-02,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+83,83,1B,2B,Stolen Base 2B,682985,Riley Greene,598287,Noé Ramirez,679529,Spencer Torkelson,R,Carson Kelly,608348,11,6,7,True,2022-06-26,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+84,84,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,605200,Zach Davies,572228,Luke Voit,R,Carson Kelly,608348,3,1,3,False,2022-06-20,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+85,85,1B,2B,Stolen Base 2B,519058,Mike Moustakas,605200,Zach Davies,605244,Aramis Garcia,R,Carson Kelly,608348,0,0,5,True,2022-06-14,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+86,86,1B,2B,Stolen Base 2B,502054,Tommy Pham,453178,Ian Kennedy,458015,Joey Votto,R,Carson Kelly,608348,1,1,11,True,2022-06-14,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+87,87,1B,2B,Stolen Base 2B,608703,Matt Reynolds,518876,Merrill Kelly,519058,Mike Moustakas,R,Carson Kelly,608348,4,5,6,True,2022-06-13,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+88,88,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,518516,Madison Bumgarner,664761,Alec Bohm,L,Carson Kelly,608348,3,0,3,False,2022-06-11,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+89,89,2B,3B,Stolen Base 3B,656941,Kyle Schwarber,518516,Madison Bumgarner,592206,Nick Castellanos,L,Carson Kelly,608348,3,0,5,False,2022-06-11,Stolen,3B,2022,2023,29.4,2023, 80.3, 0.64
+90,90,1B,2B,Stolen Base 2B,547180,Bryce Harper,518516,Madison Bumgarner,592206,Nick Castellanos,L,Carson Kelly,608348,3,0,5,False,2022-06-11,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+91,91,1B,,Caught Stealing 2B,663837,Matt Vierling,605525,J.B. Wendelken,681082,Bryson Stott,R,Carson Kelly,608348,3,0,6,False,2022-06-11,Caught,2B,2022,2023,29.4,2023, 80.3, 0.64
+92,92,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,656686,Corbin Martin,650559,Bryan De La Cruz,R,Carson Kelly,608348,3,5,4,False,2022-05-04,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+93,93,1B,2B,Stolen Base 2B,542932,Jon Berti,598287,Noé Ramirez,624585,Jorge Soler,R,Carson Kelly,608348,4,5,7,False,2022-05-02,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+94,94,1B,2B,Stolen Base 2B,664056,Harrison Bader,518876,Merrill Kelly,666185,Dylan Carlson,R,Carson Kelly,608348,0,0,2,False,2022-04-30,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+95,95,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,518876,Merrill Kelly,669242,Tommy Edman,R,Carson Kelly,608348,0,0,6,False,2022-04-30,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+96,96,1B,2B,Stolen Base 2B,664056,Harrison Bader,656686,Corbin Martin,425877,Yadier Molina,R,Carson Kelly,608348,5,0,6,False,2022-04-28,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+97,97,1B,2B,Stolen Base 2B,425877,Yadier Molina,656686,Corbin Martin,657557,Paul DeJong,R,Carson Kelly,608348,5,0,6,False,2022-04-28,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+98,98,1B,,Caught Stealing 2B,621458,Edwin Ríos,598287,Noé Ramirez,666158,Gavin Lux,R,Carson Kelly,608348,1,0,7,True,2022-04-27,Caught,2B,2022,2023,29.4,2023, 80.3, 0.64
+99,99,1B,,Caught Stealing 2B,607208,Trea Turner,605200,Zach Davies,669257,Will Smith,R,Carson Kelly,608348,0,3,3,True,2022-04-26,Caught,2B,2022,2023,29.4,2023, 80.3, 0.64
+100,100,1B,2B,Stolen Base 2B,605141,Mookie Betts,518876,Merrill Kelly,518692,Freddie Freeman,R,Carson Kelly,608348,0,2,5,True,2022-04-25,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+101,101,1B,2B,Stolen Base 2B,514888,Jose Altuve,518876,Merrill Kelly,488726,Michael Brantley,R,Carson Kelly,608348,1,0,6,True,2022-04-13,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64
+102,102,1B,,Caught Stealing 2B,682928,CJ Abrams,518876,Merrill Kelly,595751,Jorge Alfaro,R,Carson Kelly,608348,0,0,2,True,2022-04-08,Caught,2B,2022,2023,29.4,2023, 80.3, 0.64
+103,103,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,518516,Madison Bumgarner,543592,Austin Nola,L,Carson Kelly,608348,0,0,3,True,2022-04-07,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.64

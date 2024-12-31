@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2631,2B,3B,Stolen Base 3B,452234,Seth Smith,460059,Mike Pelfrey,592518,Manny Machado,R,Kevan Smith,607345,2,0,3,True,2017-06-12,Stolen,3B
+3403,3B,score,Stolen Base Home,452234,Seth Smith,452718,Kyle Kendrick,448801,Chris Davis,R,Christian Vázquez,543877,2,1,3,True,2017-05-04,Stolen,Home
+4682,1B,,Caught Stealing 2B,452234,Seth Smith,453222,Scott Carroll,452104,Chase Headley,R,Tyler Flowers,452095,2,4,7,True,2014-05-31,Caught,2B
+4894,1B,2B,Stolen Base 2B,452234,Seth Smith,429781,Kevin Correia,452104,Chase Headley,R,Kurt Suzuki,435559,3,3,6,False,2014-05-20,Stolen,2B
+2438,1B,,Caught Stealing 2B,452234,Seth Smith,453222,Scott Carroll,452104,Chase Headley,R,Tyler Flowers,452095,2,4,7,True,2014-05-31,Caught,2B
+2650,1B,2B,Stolen Base 2B,452234,Seth Smith,429781,Kevin Correia,452104,Chase Headley,R,Kurt Suzuki,435559,3,3,6,False,2014-05-20,Stolen,2B
+2003,2B,3B,Stolen Base 3B,452234,Seth Smith,460059,Mike Pelfrey,592518,Manny Machado,R,Kevan Smith,607345,2,0,3,True,2017-06-12,Stolen,3B
+2775,3B,score,Stolen Base Home,452234,Seth Smith,452718,Kyle Kendrick,448801,Chris Davis,R,Christian Vázquez,543877,2,1,3,True,2017-05-04,Stolen,Home

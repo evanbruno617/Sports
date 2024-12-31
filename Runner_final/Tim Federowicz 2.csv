@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2277,1B,2B,Stolen Base 2B,543148,Tim Federowicz,571666,Mike Fiers,425783,Shin-Soo Choo,R,Josh Phegley,572033,1,0,5,True,2019-07-28,Stolen,2B
+5120,1B,2B,Stolen Base 2B,543148,Tim Federowicz,571666,Mike Fiers,425783,Shin-Soo Choo,R,Josh Phegley,572033,1,0,5,True,2019-07-28,Stolen,2B
+7044,1B,2B,Stolen Base 2B,543148,Tim Federowicz,571666,Mike Fiers,425783,Shin-Soo Choo,R,Josh Phegley,572033,1,0,5,True,2019-07-28,Stolen,2B

@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+25,1B,,Caught Stealing 2B,642162,Pat Valaika,685493,Shun Yamaguchi,656775,Cedric Mullins,R,Danny Jansen,643376,4,7,5,True,2020-09-27,Caught,2B
+497,1B,,Caught Stealing 2B,642162,Pat Valaika,665620,Deivi García,599096,Dilson Herrera,R,Erik Kratz,456124,2,0,2,False,2020-09-04,Caught,2B
+1008,1B,,Caught Stealing 2B,642162,Pat Valaika,665620,Deivi García,599096,Dilson Herrera,R,Erik Kratz,456124,2,0,2,False,2020-08-05,Caught,2B
+2170,1B,2B,Stolen Base 2B,642162,Pat Valaika,446372,Corey Kluber,669720,Austin Hays,R,Kyle Higashioka,543309,3,2,5,False,2021-05-14,Stolen,2B
+2868,1B,,Caught Stealing 2B,642162,Pat Valaika,685493,Shun Yamaguchi,656775,Cedric Mullins,R,Danny Jansen,643376,4,7,5,True,2020-09-27,Caught,2B
+3340,1B,,Caught Stealing 2B,642162,Pat Valaika,665620,Deivi García,599096,Dilson Herrera,R,Erik Kratz,456124,2,0,2,False,2020-09-04,Caught,2B
+3851,1B,,Caught Stealing 2B,642162,Pat Valaika,665620,Deivi García,599096,Dilson Herrera,R,Erik Kratz,456124,2,0,2,False,2020-08-05,Caught,2B
+4094,1B,2B,Stolen Base 2B,642162,Pat Valaika,446372,Corey Kluber,669720,Austin Hays,R,Kyle Higashioka,543309,3,2,5,False,2021-05-14,Stolen,2B
+4792,1B,,Caught Stealing 2B,642162,Pat Valaika,685493,Shun Yamaguchi,656775,Cedric Mullins,R,Danny Jansen,643376,4,7,5,True,2020-09-27,Caught,2B
+5264,1B,,Caught Stealing 2B,642162,Pat Valaika,665620,Deivi García,599096,Dilson Herrera,R,Erik Kratz,456124,2,0,2,False,2020-09-04,Caught,2B
+5775,1B,,Caught Stealing 2B,642162,Pat Valaika,665620,Deivi García,599096,Dilson Herrera,R,Erik Kratz,456124,2,0,2,False,2020-08-05,Caught,2B

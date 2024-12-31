@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,502054,Tommy Pham,453562,Jake Arrieta,592518,Manny Machado,R,P.J. Higgins,664731,1,0,3,False,2021-06-09,Stolen,2B,2021,2022,27.9
+1,1B,,Caught Stealing 2B,607208,Trea Turner,592866,Trevor Williams,665742,Juan Soto,R,P.J. Higgins,664731,1,2,3,True,2021-05-20,Caught,2B,2021,2022,27.9
+2,1B,2B,Stolen Base 2B,502054,Tommy Pham,453562,Jake Arrieta,592518,Manny Machado,R,P.J. Higgins,664731,1,0,3,False,2021-06-09,Stolen,2B,2021,2022,27.9
+3,1B,,Caught Stealing 2B,607208,Trea Turner,592866,Trevor Williams,665742,Juan Soto,R,P.J. Higgins,664731,1,2,3,True,2021-05-20,Caught,2B,2021,2022,27.9
+4,1B,2B,Stolen Base 2B,607208,Trea Turner,643410,Mark Leiter Jr.,518692,Freddie Freeman,R,P.J. Higgins,664731,9,8,3,False,2022-07-10,Stolen,2B,2022,2023,27.8
+5,1B,2B,Stolen Base 2B,669374,Keston Hiura,657006,Justin Steele,600474,Pedro Severino,L,P.J. Higgins,664731,1,1,7,False,2022-07-04,Stolen,2B,2022,2023,27.8
+6,1B,2B,Stolen Base 2B,665833,Oneil Cruz,664161,Matt Swarmer,676632,Bligh Madris,R,P.J. Higgins,664731,5,0,3,False,2022-06-21,Stolen,2B,2022,2023,27.8
+7,1B,2B,Stolen Base 2B,676632,Bligh Madris,668873,Caleb Kilian,623168,Tyler Heineman,R,P.J. Higgins,664731,2,0,2,False,2022-06-20,Stolen,2B,2022,2023,27.8
+8,2B,3B,Stolen Base 3B,680977,Brendan Donovan,668873,Caleb Kilian,664056,Harrison Bader,R,P.J. Higgins,664731,1,3,4,True,2022-06-04,Stolen,3B,2022,2023,27.8
+9,1B,,Caught Stealing 2B,664056,Harrison Bader,668873,Caleb Kilian,425877,Yadier Molina,R,P.J. Higgins,664731,1,3,4,True,2022-06-04,Caught,2B,2022,2023,27.8
+10,1B,2B,Stolen Base 2B,669242,Tommy Edman,573186,Marcus Stroman,669357,Nolan Gorman,R,P.J. Higgins,664731,3,1,3,True,2022-06-03,Stolen,2B,2022,2023,27.8
+11,1B,2B,Stolen Base 2B,664056,Harrison Bader,573186,Marcus Stroman,668800,Andrew Knizner,R,P.J. Higgins,664731,4,6,4,True,2022-06-03,Stolen,2B,2022,2023,27.8
+12,1B,2B,Stolen Base 2B,669242,Tommy Edman,643410,Mark Leiter Jr.,669357,Nolan Gorman,R,P.J. Higgins,664731,4,9,6,True,2022-06-03,Stolen,2B,2022,2023,27.8
+13,1B,2B,Stolen Base 2B,641313,Tim Anderson,573186,Marcus Stroman,683734,Andrew Vaughn,R,P.J. Higgins,664731,0,0,1,False,2022-05-29,Stolen,2B,2022,2023,27.8
+14,1B,2B,Stolen Base 2B,641553,Adam Engel,573186,Marcus Stroman,624512,Reese McGuire,R,P.J. Higgins,664731,0,0,5,False,2022-05-29,Stolen,2B,2022,2023,27.8
+15,1B,,Caught Stealing 2B,669222,Nick Senzel,664123,Scott Effross,592273,Brandon Drury,R,P.J. Higgins,664731,10,3,3,False,2022-05-26,Caught,2B,2022,2023,27.8
+16,1B,2B,Stolen Base 2B,519058,Mike Moustakas,592858,Rowan Wick,669222,Nick Senzel,R,P.J. Higgins,664731,4,2,8,False,2022-05-25,Stolen,2B,2022,2023,27.8
+17,1B,,Caught Stealing 2B,656403,Drew Ellis,543294,Kyle Hendricks,642727,Sergio Alcántara,R,P.J. Higgins,664731,0,0,2,False,2022-04-01,Caught,2B,2022,2023,27.8

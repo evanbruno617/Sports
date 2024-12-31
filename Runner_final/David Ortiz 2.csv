@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+5992,1B,2B,Stolen Base 2B,120074,David Ortiz,621242,Edwin Díaz,434670,Hanley Ramirez,R,Chris Iannetta,455104,2,1,7,False,2016-06-19,Stolen,2B
+7235,1B,2B,Stolen Base 2B,120074,David Ortiz,607352,Joe Biagini,571788,Brock Holt,R,Josh Thole,489365,5,3,7,False,2016-04-15,Stolen,2B
+1957,1B,2B,Stolen Base 2B,120074,David Ortiz,621242,Edwin Díaz,434670,Hanley Ramirez,R,Chris Iannetta,455104,2,1,7,False,2016-06-19,Stolen,2B
+3200,1B,2B,Stolen Base 2B,120074,David Ortiz,607352,Joe Biagini,571788,Brock Holt,R,Josh Thole,489365,5,3,7,False,2016-04-15,Stolen,2B
+5364,1B,2B,Stolen Base 2B,120074,David Ortiz,621242,Edwin Díaz,434670,Hanley Ramirez,R,Chris Iannetta,455104,2,1,7,False,2016-06-19,Stolen,2B
+6607,1B,2B,Stolen Base 2B,120074,David Ortiz,607352,Joe Biagini,571788,Brock Holt,R,Josh Thole,489365,5,3,7,False,2016-04-15,Stolen,2B

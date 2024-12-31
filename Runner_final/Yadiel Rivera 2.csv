@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+707,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,643290,Justin Dunn,518618,Derek Dietrich,R,Austin Nola,543592,4,0,6,True,2020-08-23,Stolen,2B
+2444,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,622259,Trey Wingenter,605119,Brian Anderson,R,Austin Hedges,595978,4,3,9,False,2019-07-18,Stolen,2B
+2481,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,606131,Luis Perdomo,500743,Miguel Rojas,R,Francisco Mejía,642336,8,3,6,False,2019-07-16,Stolen,2B
+3550,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,643290,Justin Dunn,518618,Derek Dietrich,R,Austin Nola,543592,4,0,6,True,2020-08-23,Stolen,2B
+5287,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,622259,Trey Wingenter,605119,Brian Anderson,R,Austin Hedges,595978,4,3,9,False,2019-07-18,Stolen,2B
+5324,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,606131,Luis Perdomo,500743,Miguel Rojas,R,Francisco Mejía,642336,8,3,6,False,2019-07-16,Stolen,2B
+5474,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,643290,Justin Dunn,518618,Derek Dietrich,R,Austin Nola,543592,4,0,6,True,2020-08-23,Stolen,2B
+7211,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,622259,Trey Wingenter,605119,Brian Anderson,R,Austin Hedges,595978,4,3,9,False,2019-07-18,Stolen,2B
+7248,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,606131,Luis Perdomo,500743,Miguel Rojas,R,Francisco Mejía,642336,8,3,6,False,2019-07-16,Stolen,2B

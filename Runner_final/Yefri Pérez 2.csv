@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4185,1B,2B,Stolen Base 2B,570639,Yefri Pérez,607231,John Gant,571506,Justin Bour,R,Anthony Recker,489232,5,4,7,False,2016-09-24,Stolen,2B
+4206,1B,,Caught Stealing 2B,570639,Yefri Pérez,606291,Mauricio Cabrera,571506,Justin Bour,R,Tyler Flowers,452095,2,3,9,False,2016-09-23,Caught,2B
+4406,1B,2B,Stolen Base 2B,570639,Yefri Pérez,519437,Chris Withrow,592663,J.T. Realmuto,R,Tyler Flowers,452095,5,6,8,True,2016-09-13,Stolen,2B
+4533,1B,2B,Stolen Base 2B,570639,Yefri Pérez,593576,Héctor Neris,445988,Martín Prado,R,A.J. Ellis,454560,3,4,8,False,2016-09-06,Stolen,2B
+5549,1B,2B,Stolen Base 2B,570639,Yefri Pérez,543779,Kevin Siegrist,400085,Ichiro Suzuki,L,Alberto Rosario,451705,3,5,8,True,2016-07-17,Stolen,2B
+150,1B,2B,Stolen Base 2B,570639,Yefri Pérez,607231,John Gant,571506,Justin Bour,R,Anthony Recker,489232,5,4,7,False,2016-09-24,Stolen,2B
+171,1B,,Caught Stealing 2B,570639,Yefri Pérez,606291,Mauricio Cabrera,571506,Justin Bour,R,Tyler Flowers,452095,2,3,9,False,2016-09-23,Caught,2B
+371,1B,2B,Stolen Base 2B,570639,Yefri Pérez,519437,Chris Withrow,592663,J.T. Realmuto,R,Tyler Flowers,452095,5,6,8,True,2016-09-13,Stolen,2B
+498,1B,2B,Stolen Base 2B,570639,Yefri Pérez,593576,Héctor Neris,445988,Martín Prado,R,A.J. Ellis,454560,3,4,8,False,2016-09-06,Stolen,2B
+1514,1B,2B,Stolen Base 2B,570639,Yefri Pérez,543779,Kevin Siegrist,400085,Ichiro Suzuki,L,Alberto Rosario,451705,3,5,8,True,2016-07-17,Stolen,2B
+3557,1B,2B,Stolen Base 2B,570639,Yefri Pérez,607231,John Gant,571506,Justin Bour,R,Anthony Recker,489232,5,4,7,False,2016-09-24,Stolen,2B
+3578,1B,,Caught Stealing 2B,570639,Yefri Pérez,606291,Mauricio Cabrera,571506,Justin Bour,R,Tyler Flowers,452095,2,3,9,False,2016-09-23,Caught,2B
+3778,1B,2B,Stolen Base 2B,570639,Yefri Pérez,519437,Chris Withrow,592663,J.T. Realmuto,R,Tyler Flowers,452095,5,6,8,True,2016-09-13,Stolen,2B
+3905,1B,2B,Stolen Base 2B,570639,Yefri Pérez,593576,Héctor Neris,445988,Martín Prado,R,A.J. Ellis,454560,3,4,8,False,2016-09-06,Stolen,2B
+4921,1B,2B,Stolen Base 2B,570639,Yefri Pérez,543779,Kevin Siegrist,400085,Ichiro Suzuki,L,Alberto Rosario,451705,3,5,8,True,2016-07-17,Stolen,2B

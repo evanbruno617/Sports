@@ -1,0 +1,143 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,2B,3B,Stolen Base 3B,462101,Elvis Andrus,663804,Jackson Kowar,686676,Korey Lee,R,Salvador Perez,521692,6,1,6,False,2023-09-12,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+1,1,1B,,Caught Stealing 2B,621545,Zach Remillard,641745,Brad Keller,657757,Gavin Sheets,R,Salvador Perez,521692,6,2,8,False,2023-09-12,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+2,2,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,663804,Jackson Kowar,543807,George Springer,R,Salvador Perez,521692,5,2,8,False,2023-09-10,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+3,3,1B,2B,Stolen Base 2B,641313,Tim Anderson,672582,Angel Zerpa,643217,Andrew Benintendi,L,Salvador Perez,521692,4,6,6,True,2023-09-05,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+4,4,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,663903,Brady Singer,663728,Cal Raleigh,R,Salvador Perez,521692,2,0,1,False,2023-08-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+5,5,1B,2B,Stolen Base 2B,680869,Zack Gelof,425844,Zack Greinke,542208,Carlos Pérez,R,Salvador Perez,521692,5,4,7,False,2023-08-22,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+6,6,2B,3B,Stolen Base 3B,676609,José Caballero,679525,Alec Marsh,668942,Josh Rojas,R,Salvador Perez,521692,1,3,2,True,2023-08-16,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+7,7,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,679525,Alec Marsh,553993,Eugenio Suárez,R,Salvador Perez,521692,3,4,6,True,2023-08-16,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+8,8,2B,3B,Stolen Base 3B,677594,Julio Rodríguez,679525,Alec Marsh,606192,Teoscar Hernández,R,Salvador Perez,521692,3,4,6,True,2023-08-16,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+9,9,1B,2B,Stolen Base 2B,664238,Dylan Moore,669395,Dylan Coleman,553993,Eugenio Suárez,R,Salvador Perez,521692,4,4,8,True,2023-08-16,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+10,10,2B,3B,Stolen Base 3B,677594,Julio Rodríguez,672578,Carlos Hernández,553993,Eugenio Suárez,R,Salvador Perez,521692,5,4,8,True,2023-08-14,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+11,11,3B,score,Stolen Base Home,650489,Willi Castro,663903,Brady Singer,608336,Joey Gallo,R,Salvador Perez,521692,1,2,4,True,2023-07-28,Stolen,Home,2023,2024,29.8,2024, 80.1, 0.63
+12,12,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663903,Brady Singer,608336,Joey Gallo,R,Salvador Perez,521692,1,2,4,True,2023-07-28,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+13,13,1B,,Caught Stealing 2B,571657,Kyle Farmer,664199,Taylor Clarke,621043,Carlos Correa,R,Salvador Perez,521692,4,5,10,True,2023-07-28,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+14,14,2B,3B,Stolen Base 3B,683011,Anthony Volpe,663903,Brady Singer,641856,Billy McKinney,R,Salvador Perez,521692,1,1,3,False,2023-07-22,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+15,15,1B,2B,Stolen Base 2B,641856,Billy McKinney,680735,Austin Cox,650402,Gleyber Torres,L,Salvador Perez,521692,3,2,8,False,2023-07-22,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+16,16,1B,2B,Stolen Base 2B,664056,Harrison Bader,669395,Dylan Coleman,518934,DJ LeMahieu,R,Salvador Perez,521692,5,2,8,False,2023-07-22,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+17,17,1B,2B,Stolen Base 2B,670042,Luke Raley,679525,Alec Marsh,666139,Josh Lowe,R,Salvador Perez,521692,1,2,6,True,2023-07-15,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+18,18,1B,2B,Stolen Base 2B,670042,Luke Raley,679525,Alec Marsh,666139,Josh Lowe,R,Salvador Perez,521692,1,2,6,True,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+19,19,1B,2B,Stolen Base 2B,665926,Andrés Giménez,607237,Amir Garrett,605137,Josh Bell,L,Salvador Perez,521692,3,1,6,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+20,20,2B,3B,Stolen Base 3B,665926,Andrés Giménez,607237,Amir Garrett,686823,Will Brennan,L,Salvador Perez,521692,4,1,6,False,2023-07-06,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+21,21,1B,2B,Stolen Base 2B,665926,Andrés Giménez,605130,Scott Barlow,605137,Josh Bell,R,Salvador Perez,521692,5,1,8,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+22,22,1B,2B,Stolen Base 2B,650489,Willi Castro,679525,Alec Marsh,608336,Joey Gallo,R,Salvador Perez,521692,1,0,2,False,2023-07-05,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+23,23,1B,2B,Stolen Base 2B,621439,Byron Buxton,621295,Nick Wittgren,666135,Alex Kirilloff,R,Salvador Perez,521692,8,2,7,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+24,24,3B,score,Stolen Base Home,608070,José Ramírez,547973,Aroldis Chapman,665926,Andrés Giménez,L,Salvador Perez,521692,2,3,10,True,2023-06-29,Stolen,Home,2023,2024,29.8,2024, 80.1, 0.63
+25,25,1B,2B,Stolen Base 2B,608070,José Ramírez,621139,Brooks Kriske,647304,Josh Naylor,R,Salvador Perez,521692,0,4,5,True,2023-06-28,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+26,26,1B,2B,Stolen Base 2B,677551,Wander Franco,663738,Daniel Lynch IV,623912,Harold Ramírez,L,Salvador Perez,521692,1,0,3,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+27,27,1B,,Caught Stealing 2B,642350,Jose Siri,425844,Zack Greinke,660644,Vidal Bruján,R,Salvador Perez,521692,4,3,4,False,2023-06-23,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+28,28,1B,,Caught Stealing 2B,660271,Shohei Ohtani,594577,Mike Mayers,545361,Mike Trout,R,Salvador Perez,521692,2,4,5,True,2023-06-17,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+29,29,1B,2B,Stolen Base 2B,621493,Taylor Ward,663804,Jackson Kowar,683021,Michael Stefanic,R,Salvador Perez,521692,2,7,6,True,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+30,30,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,547973,Aroldis Chapman,592669,Hunter Renfroe,L,Salvador Perez,521692,8,8,9,True,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+31,31,2B,3B,Stolen Base 3B,623205,Andrew Velazquez,547973,Aroldis Chapman,660271,Shohei Ohtani,L,Salvador Perez,521692,8,8,9,True,2023-06-17,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+32,32,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,543475,Jordan Lyles,668715,Spencer Steer,R,Salvador Perez,521692,1,1,2,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+33,33,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,543475,Jordan Lyles,680574,Matt McLain,R,Salvador Perez,521692,1,4,2,True,2023-06-13,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+34,34,1B,2B,Stolen Base 2B,670770,TJ Friedl,543475,Jordan Lyles,680574,Matt McLain,R,Salvador Perez,521692,1,4,2,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+35,35,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,621016,Jose Cuas,668715,Spencer Steer,R,Salvador Perez,521692,3,3,6,True,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+36,36,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,622761,Jorge Mateo,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+37,37,1B,2B,Stolen Base 2B,622761,Jorge Mateo,663738,Daniel Lynch IV,669720,Austin Hays,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+38,38,2B,3B,Stolen Base 3B,622761,Jorge Mateo,663738,Daniel Lynch IV,669720,Austin Hays,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+39,39,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,663630,Ryan McKenna,L,Salvador Perez,521692,2,1,4,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+40,40,1B,2B,Stolen Base 2B,543305,Aaron Hicks,547973,Aroldis Chapman,543510,James McCann,L,Salvador Perez,521692,3,2,8,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+41,41,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,663738,Daniel Lynch IV,595777,Jurickson Profar,L,Salvador Perez,521692,1,5,2,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+42,42,1B,2B,Stolen Base 2B,676701,Alan Trejo,663804,Jackson Kowar,595777,Jurickson Profar,R,Salvador Perez,521692,2,6,8,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+43,43,1B,2B,Stolen Base 2B,669242,Tommy Edman,547973,Aroldis Chapman,680977,Brendan Donovan,L,Salvador Perez,521692,1,0,8,False,2023-05-30,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+44,44,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,666721,Max Castillo,643217,Andrew Benintendi,R,Salvador Perez,521692,0,2,3,False,2023-05-21,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+45,45,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,425844,Zack Greinke,660162,Yoán Moncada,R,Salvador Perez,521692,2,0,6,False,2023-05-19,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+46,46,1B,2B,Stolen Base 2B,592885,Christian Yelich,543475,Jordan Lyles,608385,Jesse Winker,R,Salvador Perez,521692,4,4,3,False,2023-05-14,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+47,47,1B,2B,Stolen Base 2B,621438,Tyrone Taylor,547973,Aroldis Chapman,661388,William Contreras,L,Salvador Perez,521692,3,3,8,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+48,48,1B,2B,Stolen Base 2B,667670,Brent Rooker,642232,Ryan Yarbrough,657656,Ramón Laureano,L,Salvador Perez,521692,1,1,4,True,2023-05-07,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+49,49,1B,,Caught Stealing 2B,665923,Esteury Ruiz,642232,Ryan Yarbrough,676116,Ryan Noda,L,Salvador Perez,521692,2,1,6,True,2023-05-07,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+50,50,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,641745,Brad Keller,667670,Brent Rooker,R,Salvador Perez,521692,0,1,1,True,2023-05-05,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+51,51,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,672578,Carlos Hernández,676116,Ryan Noda,R,Salvador Perez,521692,8,12,9,True,2023-05-05,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+52,52,2B,,Caught Stealing 3B,622761,Jorge Mateo,642232,Ryan Yarbrough,683002,Gunnar Henderson,L,Salvador Perez,521692,3,3,4,True,2023-05-02,Caught,3B,2023,2024,29.8,2024, 80.1, 0.63
+53,53,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,543475,Jordan Lyles,621043,Carlos Correa,R,Salvador Perez,521692,4,2,4,False,2023-04-28,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+54,54,2B,3B,Stolen Base 3B,682998,Corbin Carroll,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+55,55,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+56,56,1B,2B,Stolen Base 2B,682998,Corbin Carroll,605130,Scott Barlow,572233,Christian Walker,R,Salvador Perez,521692,4,5,9,False,2023-04-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+57,57,3B,,Caught Stealing Home,664983,Jake McCarthy,672578,Carlos Hernández,606466,Ketel Marte,R,Salvador Perez,521692,4,3,6,False,2023-04-24,Caught,Home,2023,2024,29.8,2024, 80.1, 0.63
+58,58,1B,2B,Stolen Base 2B,673962,Josh Jung,641745,Brad Keller,543257,Robbie Grossman,R,Salvador Perez,521692,1,1,4,True,2023-04-18,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+59,59,1B,2B,Stolen Base 2B,608671,Travis Jankowski,669395,Dylan Coleman,608369,Corey Seager,R,Salvador Perez,521692,7,1,6,False,2023-04-10,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+60,60,1B,2B,Stolen Base 2B,543807,George Springer,547973,Aroldis Chapman,666182,Bo Bichette,L,Salvador Perez,521692,1,4,9,True,2023-04-04,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+61,61,2B,3B,Stolen Base 3B,543807,George Springer,547973,Aroldis Chapman,666182,Bo Bichette,L,Salvador Perez,521692,1,4,9,True,2023-04-04,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+62,62,2B,3B,Stolen Base 3B,462101,Elvis Andrus,663804,Jackson Kowar,686676,Korey Lee,R,Salvador Perez,521692,6,1,6,False,2023-09-12,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+63,63,1B,,Caught Stealing 2B,621545,Zach Remillard,641745,Brad Keller,657757,Gavin Sheets,R,Salvador Perez,521692,6,2,8,False,2023-09-12,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+64,64,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,663804,Jackson Kowar,543807,George Springer,R,Salvador Perez,521692,5,2,8,False,2023-09-10,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+65,65,1B,2B,Stolen Base 2B,641313,Tim Anderson,672582,Angel Zerpa,643217,Andrew Benintendi,L,Salvador Perez,521692,4,6,6,True,2023-09-05,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+66,66,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,663903,Brady Singer,663728,Cal Raleigh,R,Salvador Perez,521692,2,0,1,False,2023-08-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+67,67,1B,2B,Stolen Base 2B,680869,Zack Gelof,425844,Zack Greinke,542208,Carlos Pérez,R,Salvador Perez,521692,5,4,7,False,2023-08-22,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+68,68,2B,3B,Stolen Base 3B,676609,José Caballero,679525,Alec Marsh,668942,Josh Rojas,R,Salvador Perez,521692,1,3,2,True,2023-08-16,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+69,69,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,679525,Alec Marsh,553993,Eugenio Suárez,R,Salvador Perez,521692,3,4,6,True,2023-08-16,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+70,70,2B,3B,Stolen Base 3B,677594,Julio Rodríguez,679525,Alec Marsh,606192,Teoscar Hernández,R,Salvador Perez,521692,3,4,6,True,2023-08-16,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+71,71,1B,2B,Stolen Base 2B,664238,Dylan Moore,669395,Dylan Coleman,553993,Eugenio Suárez,R,Salvador Perez,521692,4,4,8,True,2023-08-16,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+72,72,2B,3B,Stolen Base 3B,677594,Julio Rodríguez,672578,Carlos Hernández,553993,Eugenio Suárez,R,Salvador Perez,521692,5,4,8,True,2023-08-14,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+73,73,3B,score,Stolen Base Home,650489,Willi Castro,663903,Brady Singer,608336,Joey Gallo,R,Salvador Perez,521692,1,2,4,True,2023-07-28,Stolen,Home,2023,2024,29.8,2024, 80.1, 0.63
+74,74,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663903,Brady Singer,608336,Joey Gallo,R,Salvador Perez,521692,1,2,4,True,2023-07-28,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+75,75,1B,,Caught Stealing 2B,571657,Kyle Farmer,664199,Taylor Clarke,621043,Carlos Correa,R,Salvador Perez,521692,4,5,10,True,2023-07-28,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+76,76,2B,3B,Stolen Base 3B,683011,Anthony Volpe,663903,Brady Singer,641856,Billy McKinney,R,Salvador Perez,521692,1,1,3,False,2023-07-22,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+77,77,1B,2B,Stolen Base 2B,641856,Billy McKinney,680735,Austin Cox,650402,Gleyber Torres,L,Salvador Perez,521692,3,2,8,False,2023-07-22,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+78,78,1B,2B,Stolen Base 2B,664056,Harrison Bader,669395,Dylan Coleman,518934,DJ LeMahieu,R,Salvador Perez,521692,5,2,8,False,2023-07-22,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+79,79,1B,2B,Stolen Base 2B,670042,Luke Raley,679525,Alec Marsh,666139,Josh Lowe,R,Salvador Perez,521692,1,2,6,True,2023-07-15,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+80,80,1B,2B,Stolen Base 2B,670042,Luke Raley,679525,Alec Marsh,666139,Josh Lowe,R,Salvador Perez,521692,1,2,6,True,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+81,81,1B,2B,Stolen Base 2B,665926,Andrés Giménez,607237,Amir Garrett,605137,Josh Bell,L,Salvador Perez,521692,3,1,6,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+82,82,2B,3B,Stolen Base 3B,665926,Andrés Giménez,607237,Amir Garrett,686823,Will Brennan,L,Salvador Perez,521692,4,1,6,False,2023-07-06,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+83,83,1B,2B,Stolen Base 2B,665926,Andrés Giménez,605130,Scott Barlow,605137,Josh Bell,R,Salvador Perez,521692,5,1,8,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+84,84,1B,2B,Stolen Base 2B,650489,Willi Castro,679525,Alec Marsh,608336,Joey Gallo,R,Salvador Perez,521692,1,0,2,False,2023-07-05,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+85,85,1B,2B,Stolen Base 2B,621439,Byron Buxton,621295,Nick Wittgren,666135,Alex Kirilloff,R,Salvador Perez,521692,8,2,7,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+86,86,3B,score,Stolen Base Home,608070,José Ramírez,547973,Aroldis Chapman,665926,Andrés Giménez,L,Salvador Perez,521692,2,3,10,True,2023-06-29,Stolen,Home,2023,2024,29.8,2024, 80.1, 0.63
+87,87,1B,2B,Stolen Base 2B,608070,José Ramírez,621139,Brooks Kriske,647304,Josh Naylor,R,Salvador Perez,521692,0,4,5,True,2023-06-28,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+88,88,1B,2B,Stolen Base 2B,677551,Wander Franco,663738,Daniel Lynch IV,623912,Harold Ramírez,L,Salvador Perez,521692,1,0,3,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+89,89,1B,,Caught Stealing 2B,642350,Jose Siri,425844,Zack Greinke,660644,Vidal Bruján,R,Salvador Perez,521692,4,3,4,False,2023-06-23,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+90,90,1B,,Caught Stealing 2B,660271,Shohei Ohtani,594577,Mike Mayers,545361,Mike Trout,R,Salvador Perez,521692,2,4,5,True,2023-06-17,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+91,91,1B,2B,Stolen Base 2B,621493,Taylor Ward,663804,Jackson Kowar,683021,Michael Stefanic,R,Salvador Perez,521692,2,7,6,True,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+92,92,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,547973,Aroldis Chapman,592669,Hunter Renfroe,L,Salvador Perez,521692,8,8,9,True,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+93,93,2B,3B,Stolen Base 3B,623205,Andrew Velazquez,547973,Aroldis Chapman,660271,Shohei Ohtani,L,Salvador Perez,521692,8,8,9,True,2023-06-17,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+94,94,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,543475,Jordan Lyles,668715,Spencer Steer,R,Salvador Perez,521692,1,1,2,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+95,95,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,543475,Jordan Lyles,680574,Matt McLain,R,Salvador Perez,521692,1,4,2,True,2023-06-13,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+96,96,1B,2B,Stolen Base 2B,670770,TJ Friedl,543475,Jordan Lyles,680574,Matt McLain,R,Salvador Perez,521692,1,4,2,True,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+97,97,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,621016,Jose Cuas,668715,Spencer Steer,R,Salvador Perez,521692,3,3,6,True,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+98,98,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,622761,Jorge Mateo,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+99,99,1B,2B,Stolen Base 2B,622761,Jorge Mateo,663738,Daniel Lynch IV,669720,Austin Hays,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+100,100,2B,3B,Stolen Base 3B,622761,Jorge Mateo,663738,Daniel Lynch IV,669720,Austin Hays,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+101,101,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,663630,Ryan McKenna,L,Salvador Perez,521692,2,1,4,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+102,102,1B,2B,Stolen Base 2B,543305,Aaron Hicks,547973,Aroldis Chapman,543510,James McCann,L,Salvador Perez,521692,3,2,8,False,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+103,103,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,663738,Daniel Lynch IV,595777,Jurickson Profar,L,Salvador Perez,521692,1,5,2,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+104,104,1B,2B,Stolen Base 2B,676701,Alan Trejo,663804,Jackson Kowar,595777,Jurickson Profar,R,Salvador Perez,521692,2,6,8,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+105,105,1B,2B,Stolen Base 2B,669242,Tommy Edman,547973,Aroldis Chapman,680977,Brendan Donovan,L,Salvador Perez,521692,1,0,8,False,2023-05-30,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+106,106,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,666721,Max Castillo,643217,Andrew Benintendi,R,Salvador Perez,521692,0,2,3,False,2023-05-21,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+107,107,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,425844,Zack Greinke,660162,Yoán Moncada,R,Salvador Perez,521692,2,0,6,False,2023-05-19,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+108,108,1B,2B,Stolen Base 2B,592885,Christian Yelich,543475,Jordan Lyles,608385,Jesse Winker,R,Salvador Perez,521692,4,4,3,False,2023-05-14,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+109,109,1B,2B,Stolen Base 2B,621438,Tyrone Taylor,547973,Aroldis Chapman,661388,William Contreras,L,Salvador Perez,521692,3,3,8,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+110,110,1B,2B,Stolen Base 2B,667670,Brent Rooker,642232,Ryan Yarbrough,657656,Ramón Laureano,L,Salvador Perez,521692,1,1,4,True,2023-05-07,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+111,111,1B,,Caught Stealing 2B,665923,Esteury Ruiz,642232,Ryan Yarbrough,676116,Ryan Noda,L,Salvador Perez,521692,2,1,6,True,2023-05-07,Caught,2B,2023,2024,29.8,2024, 80.1, 0.63
+112,112,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,641745,Brad Keller,667670,Brent Rooker,R,Salvador Perez,521692,0,1,1,True,2023-05-05,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+113,113,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,672578,Carlos Hernández,676116,Ryan Noda,R,Salvador Perez,521692,8,12,9,True,2023-05-05,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+114,114,2B,,Caught Stealing 3B,622761,Jorge Mateo,642232,Ryan Yarbrough,683002,Gunnar Henderson,L,Salvador Perez,521692,3,3,4,True,2023-05-02,Caught,3B,2023,2024,29.8,2024, 80.1, 0.63
+115,115,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,543475,Jordan Lyles,621043,Carlos Correa,R,Salvador Perez,521692,4,2,4,False,2023-04-28,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+116,116,2B,3B,Stolen Base 3B,682998,Corbin Carroll,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+117,117,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+118,118,1B,2B,Stolen Base 2B,682998,Corbin Carroll,605130,Scott Barlow,572233,Christian Walker,R,Salvador Perez,521692,4,5,9,False,2023-04-25,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+119,119,3B,,Caught Stealing Home,664983,Jake McCarthy,672578,Carlos Hernández,606466,Ketel Marte,R,Salvador Perez,521692,4,3,6,False,2023-04-24,Caught,Home,2023,2024,29.8,2024, 80.1, 0.63
+120,120,1B,2B,Stolen Base 2B,673962,Josh Jung,641745,Brad Keller,543257,Robbie Grossman,R,Salvador Perez,521692,1,1,4,True,2023-04-18,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+121,121,1B,2B,Stolen Base 2B,608671,Travis Jankowski,669395,Dylan Coleman,608369,Corey Seager,R,Salvador Perez,521692,7,1,6,False,2023-04-10,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+122,122,1B,2B,Stolen Base 2B,543807,George Springer,547973,Aroldis Chapman,666182,Bo Bichette,L,Salvador Perez,521692,1,4,9,True,2023-04-04,Stolen,2B,2023,2024,29.8,2024, 80.1, 0.63
+123,123,2B,3B,Stolen Base 3B,543807,George Springer,547973,Aroldis Chapman,666182,Bo Bichette,L,Salvador Perez,521692,1,4,9,True,2023-04-04,Stolen,3B,2023,2024,29.8,2024, 80.1, 0.63
+124,124,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,663460,Kris Bubic,621493,Taylor Ward,L,Salvador Perez,521692,2,2,5,False,2022-06-20,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+125,125,1B,2B,Stolen Base 2B,622761,Jorge Mateo,663460,Kris Bubic,656775,Cedric Mullins,L,Salvador Perez,521692,0,0,3,True,2022-06-09,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+126,126,1B,2B,Stolen Base 2B,514888,Jose Altuve,527055,Arodys Vizcaíno,488726,Michael Brantley,R,Salvador Perez,521692,2,0,7,True,2022-06-04,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+127,127,1B,2B,Stolen Base 2B,665926,Andrés Giménez,663738,Daniel Lynch IV,640458,Óscar Mercado,L,Salvador Perez,521692,3,0,1,False,2022-05-31,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+128,128,1B,2B,Stolen Base 2B,608070,José Ramírez,663738,Daniel Lynch IV,660757,Oscar Gonzalez,L,Salvador Perez,521692,6,2,4,False,2022-05-31,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+129,129,1B,2B,Stolen Base 2B,680757,Steven Kwan,656492,Foster Griffin,595978,Austin Hedges,L,Salvador Perez,521692,6,3,8,False,2022-05-30,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+130,130,2B,3B,Stolen Base 3B,641553,Adam Engel,641745,Brad Keller,683734,Andrew Vaughn,R,Salvador Perez,521692,0,1,3,True,2022-05-16,Stolen,3B,2022,2023,29.4,2023, 80.0, 0.63
+131,131,1B,2B,Stolen Base 2B,656541,Sam Hilliard,425844,Zack Greinke,453568,Charlie Blackmon,R,Salvador Perez,521692,3,2,2,False,2022-05-13,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+132,132,1B,,Caught Stealing 2B,669242,Tommy Edman,641745,Brad Keller,502671,Paul Goldschmidt,R,Salvador Perez,521692,0,0,1,True,2022-05-03,Caught,2B,2022,2023,29.4,2023, 80.0, 0.63
+133,133,2B,,Caught Stealing 3B,519203,Anthony Rizzo,672578,Carlos Hernández,543305,Aaron Hicks,R,Salvador Perez,521692,0,2,3,True,2022-04-30,Caught,3B,2022,2023,29.4,2023, 80.0, 0.63
+134,134,1B,,Caught Stealing 2B,643396,Isiah Kiner-Falefa,671790,Ronald Bolaños,624431,Jose Trevino,R,Salvador Perez,521692,0,3,9,True,2022-04-30,Caught,2B,2022,2023,29.4,2023, 80.0, 0.63
+135,135,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,622251,Josh Staumont,663728,Cal Raleigh,R,Salvador Perez,521692,3,3,9,False,2022-04-24,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+136,136,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,663460,Kris Bubic,664238,Dylan Moore,L,Salvador Perez,521692,3,1,2,False,2022-04-23,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+137,137,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,622251,Josh Staumont,672284,Jarred Kelenic,R,Salvador Perez,521692,6,7,7,False,2022-04-23,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+138,138,1B,2B,Stolen Base 2B,663662,Daz Cameron,663460,Kris Bubic,572863,Dustin Garneau,L,Salvador Perez,521692,1,1,2,True,2022-04-16,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+139,139,1B,2B,Stolen Base 2B,664702,Myles Straw,672578,Carlos Hernández,680757,Steven Kwan,R,Salvador Perez,521692,0,0,1,True,2022-04-11,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+140,140,1B,2B,Stolen Base 2B,664702,Myles Straw,425844,Zack Greinke,642708,Amed Rosario,R,Salvador Perez,521692,0,0,4,True,2022-04-07,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63
+141,141,1B,2B,Stolen Base 2B,692031,George Feliz,642225,Stephen Woods Jr.,663728,Cal Raleigh,R,Salvador Perez,521692,5,6,8,True,2022-04-03,Stolen,2B,2022,2023,29.4,2023, 80.0, 0.63

@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4694,2B,,Caught Stealing 3B,465668,Roger Bernadina,276520,Bronson Arroyo,519023,Devin Mesoraco,R,Miguel Montero,471083,3,5,6,True,2014-05-30,Caught,3B
+5439,1B,2B,Stolen Base 2B,465668,Roger Bernadina,450203,Charlie Morton,519023,Devin Mesoraco,R,Chris Stewart,455755,1,0,2,True,2014-04-23,Stolen,2B
+5670,1B,2B,Stolen Base 2B,465668,Roger Bernadina,543037,Gerrit Cole,519023,Devin Mesoraco,R,Russell Martin,431145,0,1,2,False,2014-04-15,Stolen,2B
+2450,2B,,Caught Stealing 3B,465668,Roger Bernadina,276520,Bronson Arroyo,519023,Devin Mesoraco,R,Miguel Montero,471083,3,5,6,True,2014-05-30,Caught,3B
+3195,1B,2B,Stolen Base 2B,465668,Roger Bernadina,450203,Charlie Morton,519023,Devin Mesoraco,R,Chris Stewart,455755,1,0,2,True,2014-04-23,Stolen,2B
+3426,1B,2B,Stolen Base 2B,465668,Roger Bernadina,543037,Gerrit Cole,519023,Devin Mesoraco,R,Russell Martin,431145,0,1,2,False,2014-04-15,Stolen,2B

@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2473,2B,,Caught Stealing 3B,656427,Jack Flaherty,642607,Dario Agrazal,669242,Tommy Edman,R,Elias Díaz,553869,1,1,5,False,2019-07-16,Caught,3B
+3658,1B,2B,Stolen Base 2B,656427,Jack Flaherty,543294,Kyle Hendricks,572761,Matt Carpenter,R,Willson Contreras,575929,0,0,3,True,2019-05-03,Stolen,2B
+5316,2B,,Caught Stealing 3B,656427,Jack Flaherty,642607,Dario Agrazal,669242,Tommy Edman,R,Elias Díaz,553869,1,1,5,False,2019-07-16,Caught,3B
+6501,1B,2B,Stolen Base 2B,656427,Jack Flaherty,543294,Kyle Hendricks,572761,Matt Carpenter,R,Willson Contreras,575929,0,0,3,True,2019-05-03,Stolen,2B
+7240,2B,,Caught Stealing 3B,656427,Jack Flaherty,642607,Dario Agrazal,669242,Tommy Edman,R,Elias Díaz,553869,1,1,5,False,2019-07-16,Caught,3B
+8425,1B,2B,Stolen Base 2B,656427,Jack Flaherty,543294,Kyle Hendricks,572761,Matt Carpenter,R,Willson Contreras,575929,0,0,3,True,2019-05-03,Stolen,2B

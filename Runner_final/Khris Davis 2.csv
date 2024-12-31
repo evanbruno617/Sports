@@ -1,0 +1,28 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2351,1B,2B,Stolen Base 2B,501981,Khris Davis,571666,Mike Fiers,475174,Yonder Alonso,R,Brian McCann,435263,0,0,2,True,2017-06-27,Stolen,2B
+2423,1B,2B,Stolen Base 2B,501981,Khris Davis,460059,Mike Pelfrey,475174,Yonder Alonso,R,Kevan Smith,607345,0,3,5,True,2017-06-23,Stolen,2B
+2672,1B,2B,Stolen Base 2B,501981,Khris Davis,471822,Jumbo Díaz,519390,Stephen Vogt,R,Derek Norris,519083,5,4,8,True,2017-06-11,Stolen,2B
+3683,2B,3B,Stolen Base 3B,501981,Khris Davis,519267,Evan Scribner,461858,Trevor Plouffe,R,Mike Zunino,572287,5,3,5,False,2017-04-20,Stolen,3B
+5141,1B,,Caught Stealing 2B,501981,Khris Davis,452657,Jon Lester,456714,Billy Butler,L,David Ross,424325,0,4,2,False,2016-08-05,Caught,2B
+5895,1B,,Caught Stealing 2B,501981,Khris Davis,450308,Jered Weaver,456714,Billy Butler,R,Jett Bandy,542908,3,2,4,True,2016-06-24,Caught,2B
+6334,1B,2B,Stolen Base 2B,501981,Khris Davis,543859,Michael Tonkin,475174,Yonder Alonso,R,Kurt Suzuki,435559,5,3,7,False,2016-05-31,Stolen,2B
+3008,1B,2B,Stolen Base 2B,501981,Khris Davis,445590,Eric Stults,430001,Rickie Weeks Jr.,L,Yasmani Grandal,518735,1,2,3,True,2014-08-25,Stolen,2B
+4025,1B,2B,Stolen Base 2B,501981,Khris Davis,571800,Drew Hutchison,407489,Lyle Overbay,R,Dioner Navarro,425900,2,1,7,True,2014-07-01,Stolen,2B
+4359,1B,,Caught Stealing 2B,501981,Khris Davis,501789,Will Harris,448602,Mark Reynolds,R,Miguel Montero,471083,3,6,8,True,2014-06-16,Caught,2B
+4382,1B,2B,Stolen Base 2B,501981,Khris Davis,502190,Mike Leake,448602,Mark Reynolds,R,Devin Mesoraco,519023,4,5,5,False,2014-06-15,Stolen,2B
+4560,1B,2B,Stolen Base 2B,501981,Khris Davis,458677,Justin Wilson,448602,Mark Reynolds,L,Russell Martin,431145,5,3,6,True,2014-06-06,Stolen,2B
+764,1B,2B,Stolen Base 2B,501981,Khris Davis,445590,Eric Stults,430001,Rickie Weeks Jr.,L,Yasmani Grandal,518735,1,2,3,True,2014-08-25,Stolen,2B
+1781,1B,2B,Stolen Base 2B,501981,Khris Davis,571800,Drew Hutchison,407489,Lyle Overbay,R,Dioner Navarro,425900,2,1,7,True,2014-07-01,Stolen,2B
+2115,1B,,Caught Stealing 2B,501981,Khris Davis,501789,Will Harris,448602,Mark Reynolds,R,Miguel Montero,471083,3,6,8,True,2014-06-16,Caught,2B
+2138,1B,2B,Stolen Base 2B,501981,Khris Davis,502190,Mike Leake,448602,Mark Reynolds,R,Devin Mesoraco,519023,4,5,5,False,2014-06-15,Stolen,2B
+2316,1B,2B,Stolen Base 2B,501981,Khris Davis,458677,Justin Wilson,448602,Mark Reynolds,L,Russell Martin,431145,5,3,6,True,2014-06-06,Stolen,2B
+1106,1B,,Caught Stealing 2B,501981,Khris Davis,452657,Jon Lester,456714,Billy Butler,L,David Ross,424325,0,4,2,False,2016-08-05,Caught,2B
+1860,1B,,Caught Stealing 2B,501981,Khris Davis,450308,Jered Weaver,456714,Billy Butler,R,Jett Bandy,542908,3,2,4,True,2016-06-24,Caught,2B
+2299,1B,2B,Stolen Base 2B,501981,Khris Davis,543859,Michael Tonkin,475174,Yonder Alonso,R,Kurt Suzuki,435559,5,3,7,False,2016-05-31,Stolen,2B
+1723,1B,2B,Stolen Base 2B,501981,Khris Davis,571666,Mike Fiers,475174,Yonder Alonso,R,Brian McCann,435263,0,0,2,True,2017-06-27,Stolen,2B
+1795,1B,2B,Stolen Base 2B,501981,Khris Davis,460059,Mike Pelfrey,475174,Yonder Alonso,R,Kevan Smith,607345,0,3,5,True,2017-06-23,Stolen,2B
+2044,1B,2B,Stolen Base 2B,501981,Khris Davis,471822,Jumbo Díaz,519390,Stephen Vogt,R,Derek Norris,519083,5,4,8,True,2017-06-11,Stolen,2B
+3055,2B,3B,Stolen Base 3B,501981,Khris Davis,519267,Evan Scribner,461858,Trevor Plouffe,R,Mike Zunino,572287,5,3,5,False,2017-04-20,Stolen,3B
+4513,1B,,Caught Stealing 2B,501981,Khris Davis,452657,Jon Lester,456714,Billy Butler,L,David Ross,424325,0,4,2,False,2016-08-05,Caught,2B
+5267,1B,,Caught Stealing 2B,501981,Khris Davis,450308,Jered Weaver,456714,Billy Butler,R,Jett Bandy,542908,3,2,4,True,2016-06-24,Caught,2B
+5706,1B,2B,Stolen Base 2B,501981,Khris Davis,543859,Michael Tonkin,475174,Yonder Alonso,R,Kurt Suzuki,435559,5,3,7,False,2016-05-31,Stolen,2B

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+636,1B,2B,Stolen Base 2B,592622,Mark Payton,605288,Adrian Houser,592200,Curt Casali,R,Omar Narváez,553882,0,3,4,True,2020-08-27,Stolen,2B
+3479,1B,2B,Stolen Base 2B,592622,Mark Payton,605288,Adrian Houser,592200,Curt Casali,R,Omar Narváez,553882,0,3,4,True,2020-08-27,Stolen,2B
+5403,1B,2B,Stolen Base 2B,592622,Mark Payton,605288,Adrian Houser,592200,Curt Casali,R,Omar Narváez,553882,0,3,4,True,2020-08-27,Stolen,2B

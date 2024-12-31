@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3046,1B,2B,Stolen Base 2B,686554,Oliver Dunn,656557,Tanner Houck,663368,Blake Perkins,R,Reese McGuire,624512,1,0,5,True,2024-05-26,Stolen,2B
+4275,1B,2B,Stolen Base 2B,686554,Oliver Dunn,676106,Emerson Hancock,661388,William Contreras,R,Seby Zavala,664874,0,1,1,False,2024-04-07,Stolen,2B
+4329,1B,2B,Stolen Base 2B,686554,Oliver Dunn,592773,Ryne Stanek,656555,Rhys Hoskins,R,Cal Raleigh,663728,5,3,8,False,2024-04-05,Stolen,2B

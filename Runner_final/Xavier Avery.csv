@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+7483,1B,2B,Stolen Base 2B,542897,Xavier Avery,457786,Anthony Vasquez,543376,Caleb Joseph,L,Carlos Ruiz,434563,3,6,5,True,2016-04-01,Stolen,2B
+3448,1B,2B,Stolen Base 2B,542897,Xavier Avery,457786,Anthony Vasquez,543376,Caleb Joseph,L,Carlos Ruiz,434563,3,6,5,True,2016-04-01,Stolen,2B
+6855,1B,2B,Stolen Base 2B,542897,Xavier Avery,457786,Anthony Vasquez,543376,Caleb Joseph,L,Carlos Ruiz,434563,3,6,5,True,2016-04-01,Stolen,2B

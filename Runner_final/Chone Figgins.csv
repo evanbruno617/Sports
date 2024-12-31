@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4503,2B,3B,Stolen Base 3B,408210,Chone Figgins,407822,Jorge De La Rosa,461314,Matt Kemp,L,Wilin Rosario,501647,0,2,1,True,2014-06-08,Stolen,3B
+4539,1B,2B,Stolen Base 2B,408210,Chone Figgins,493603,Adam Ottavino,434670,Hanley Ramirez,R,Michael McKenry,502374,4,4,9,True,2014-06-07,Stolen,2B
+5016,1B,2B,Stolen Base 2B,408210,Chone Figgins,573109,AJ Ramos,543829,Dee Strange-Gordon,R,Jarrod Saltalamacchia,457454,5,1,7,False,2014-05-13,Stolen,2B
+5041,1B,2B,Stolen Base 2B,408210,Chone Figgins,605169,Carter Capps,624577,Yasiel Puig,R,Jarrod Saltalamacchia,457454,6,3,7,False,2014-05-12,Stolen,2B
+5099,1B,,Caught Stealing 2B,408210,Chone Figgins,430912,Matt Cain,460077,Drew Butera,R,Héctor Sánchez,516949,0,2,2,False,2014-05-10,Caught,2B
+2259,2B,3B,Stolen Base 3B,408210,Chone Figgins,407822,Jorge De La Rosa,461314,Matt Kemp,L,Wilin Rosario,501647,0,2,1,True,2014-06-08,Stolen,3B
+2295,1B,2B,Stolen Base 2B,408210,Chone Figgins,493603,Adam Ottavino,434670,Hanley Ramirez,R,Michael McKenry,502374,4,4,9,True,2014-06-07,Stolen,2B
+2772,1B,2B,Stolen Base 2B,408210,Chone Figgins,573109,AJ Ramos,543829,Dee Strange-Gordon,R,Jarrod Saltalamacchia,457454,5,1,7,False,2014-05-13,Stolen,2B
+2797,1B,2B,Stolen Base 2B,408210,Chone Figgins,605169,Carter Capps,624577,Yasiel Puig,R,Jarrod Saltalamacchia,457454,6,3,7,False,2014-05-12,Stolen,2B
+2855,1B,,Caught Stealing 2B,408210,Chone Figgins,430912,Matt Cain,460077,Drew Butera,R,Héctor Sánchez,516949,0,2,2,False,2014-05-10,Caught,2B

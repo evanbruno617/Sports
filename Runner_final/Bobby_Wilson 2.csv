@@ -1,0 +1,37 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2B,3B,Stolen Base 3B,664068,Scott Kingery,642397,Gregory Soto,656555,Rhys Hoskins,L,Bobby Wilson,435064,0,4,7,True,2019-07-24,Stolen,3B,2019,2020,28.6
+1,1B,2B,Stolen Base 2B,640458,Óscar Mercado,543001,Ryan Carpenter,656669,Jordan Luplow,L,Bobby Wilson,435064,0,0,1,False,2019-07-16,Stolen,2B,2019,2020,28.6
+2,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,571656,Buck Farmer,598265,Jackie Bradley Jr.,R,Bobby Wilson,435064,6,8,8,True,2019-07-06,Stolen,2B,2019,2020,28.6
+3,1B,2B,Stolen Base 2B,607208,Trea Turner,519455,Jordan Zimmermann,594809,Adam Eaton,R,Bobby Wilson,435064,0,0,1,True,2019-06-30,Stolen,2B,2019,2020,28.6
+4,1B,2B,Stolen Base 2B,594809,Adam Eaton,519455,Jordan Zimmermann,543685,Anthony Rendon,R,Bobby Wilson,435064,0,1,5,True,2019-06-30,Stolen,2B,2019,2020,28.6
+5,1B,2B,Stolen Base 2B,645302,Victor Robles,621385,Daniel Stumpf,594809,Adam Eaton,L,Bobby Wilson,435064,0,1,7,True,2019-06-30,Stolen,2B,2019,2020,28.6
+6,1B,2B,Stolen Base 2B,645302,Victor Robles,596057,Daniel Norris,607208,Trea Turner,L,Bobby Wilson,435064,0,1,5,True,2019-06-28,Stolen,2B,2019,2020,28.6
+7,1B,,Caught Stealing 2B,596059,Rougned Odor,519455,Jordan Zimmermann,608597,Ronald Guzmán,R,Bobby Wilson,435064,0,3,5,True,2019-06-25,Caught,2B,2019,2020,28.6
+8,1B,2B,Stolen Base 2B,596019,Francisco Lindor,596057,Daniel Norris,640458,Óscar Mercado,L,Bobby Wilson,435064,6,1,7,False,2019-06-23,Stolen,2B,2019,2020,28.6
+9,1B,2B,Stolen Base 2B,608070,José Ramírez,542585,José Cisnero,543401,Jason Kipnis,R,Bobby Wilson,435064,8,3,8,False,2019-06-23,Stolen,2B,2019,2020,28.6
+10,1B,2B,Stolen Base 2B,596019,Francisco Lindor,542866,Austin Adams,640458,Óscar Mercado,R,Bobby Wilson,435064,7,5,8,False,2019-06-21,Stolen,2B,2019,2020,28.6
+11,1B,2B,Stolen Base 2B,640458,Óscar Mercado,605513,Spencer Turnbull,467793,Carlos Santana,R,Bobby Wilson,435064,0,2,3,True,2019-06-16,Stolen,2B,2019,2020,28.6
+12,2B,3B,Stolen Base 3B,664068,Scott Kingery,642397,Gregory Soto,656555,Rhys Hoskins,L,Bobby Wilson,435064,0,4,7,True,2019-07-24,Stolen,3B,2019,2020,28.6
+13,1B,2B,Stolen Base 2B,640458,Óscar Mercado,543001,Ryan Carpenter,656669,Jordan Luplow,L,Bobby Wilson,435064,0,0,1,False,2019-07-16,Stolen,2B,2019,2020,28.6
+14,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,571656,Buck Farmer,598265,Jackie Bradley Jr.,R,Bobby Wilson,435064,6,8,8,True,2019-07-06,Stolen,2B,2019,2020,28.6
+15,1B,2B,Stolen Base 2B,607208,Trea Turner,519455,Jordan Zimmermann,594809,Adam Eaton,R,Bobby Wilson,435064,0,0,1,True,2019-06-30,Stolen,2B,2019,2020,28.6
+16,1B,2B,Stolen Base 2B,594809,Adam Eaton,519455,Jordan Zimmermann,543685,Anthony Rendon,R,Bobby Wilson,435064,0,1,5,True,2019-06-30,Stolen,2B,2019,2020,28.6
+17,1B,2B,Stolen Base 2B,645302,Victor Robles,621385,Daniel Stumpf,594809,Adam Eaton,L,Bobby Wilson,435064,0,1,7,True,2019-06-30,Stolen,2B,2019,2020,28.6
+18,1B,2B,Stolen Base 2B,645302,Victor Robles,596057,Daniel Norris,607208,Trea Turner,L,Bobby Wilson,435064,0,1,5,True,2019-06-28,Stolen,2B,2019,2020,28.6
+19,1B,,Caught Stealing 2B,596059,Rougned Odor,519455,Jordan Zimmermann,608597,Ronald Guzmán,R,Bobby Wilson,435064,0,3,5,True,2019-06-25,Caught,2B,2019,2020,28.6
+20,1B,2B,Stolen Base 2B,596019,Francisco Lindor,596057,Daniel Norris,640458,Óscar Mercado,L,Bobby Wilson,435064,6,1,7,False,2019-06-23,Stolen,2B,2019,2020,28.6
+21,1B,2B,Stolen Base 2B,608070,José Ramírez,542585,José Cisnero,543401,Jason Kipnis,R,Bobby Wilson,435064,8,3,8,False,2019-06-23,Stolen,2B,2019,2020,28.6
+22,1B,2B,Stolen Base 2B,596019,Francisco Lindor,542866,Austin Adams,640458,Óscar Mercado,R,Bobby Wilson,435064,7,5,8,False,2019-06-21,Stolen,2B,2019,2020,28.6
+23,1B,2B,Stolen Base 2B,640458,Óscar Mercado,605513,Spencer Turnbull,467793,Carlos Santana,R,Bobby Wilson,435064,0,2,3,True,2019-06-16,Stolen,2B,2019,2020,28.6
+24,2B,3B,Stolen Base 3B,664068,Scott Kingery,642397,Gregory Soto,656555,Rhys Hoskins,L,Bobby Wilson,435064,0,4,7,True,2019-07-24,Stolen,3B,2019,2020,28.6
+25,1B,2B,Stolen Base 2B,640458,Óscar Mercado,543001,Ryan Carpenter,656669,Jordan Luplow,L,Bobby Wilson,435064,0,0,1,False,2019-07-16,Stolen,2B,2019,2020,28.6
+26,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,571656,Buck Farmer,598265,Jackie Bradley Jr.,R,Bobby Wilson,435064,6,8,8,True,2019-07-06,Stolen,2B,2019,2020,28.6
+27,1B,2B,Stolen Base 2B,607208,Trea Turner,519455,Jordan Zimmermann,594809,Adam Eaton,R,Bobby Wilson,435064,0,0,1,True,2019-06-30,Stolen,2B,2019,2020,28.6
+28,1B,2B,Stolen Base 2B,594809,Adam Eaton,519455,Jordan Zimmermann,543685,Anthony Rendon,R,Bobby Wilson,435064,0,1,5,True,2019-06-30,Stolen,2B,2019,2020,28.6
+29,1B,2B,Stolen Base 2B,645302,Victor Robles,621385,Daniel Stumpf,594809,Adam Eaton,L,Bobby Wilson,435064,0,1,7,True,2019-06-30,Stolen,2B,2019,2020,28.6
+30,1B,2B,Stolen Base 2B,645302,Victor Robles,596057,Daniel Norris,607208,Trea Turner,L,Bobby Wilson,435064,0,1,5,True,2019-06-28,Stolen,2B,2019,2020,28.6
+31,1B,,Caught Stealing 2B,596059,Rougned Odor,519455,Jordan Zimmermann,608597,Ronald Guzmán,R,Bobby Wilson,435064,0,3,5,True,2019-06-25,Caught,2B,2019,2020,28.6
+32,1B,2B,Stolen Base 2B,596019,Francisco Lindor,596057,Daniel Norris,640458,Óscar Mercado,L,Bobby Wilson,435064,6,1,7,False,2019-06-23,Stolen,2B,2019,2020,28.6
+33,1B,2B,Stolen Base 2B,608070,José Ramírez,542585,José Cisnero,543401,Jason Kipnis,R,Bobby Wilson,435064,8,3,8,False,2019-06-23,Stolen,2B,2019,2020,28.6
+34,1B,2B,Stolen Base 2B,596019,Francisco Lindor,542866,Austin Adams,640458,Óscar Mercado,R,Bobby Wilson,435064,7,5,8,False,2019-06-21,Stolen,2B,2019,2020,28.6
+35,1B,2B,Stolen Base 2B,640458,Óscar Mercado,605513,Spencer Turnbull,467793,Carlos Santana,R,Bobby Wilson,435064,0,2,3,True,2019-06-16,Stolen,2B,2019,2020,28.6

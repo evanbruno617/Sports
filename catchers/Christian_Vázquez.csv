@@ -1,0 +1,195 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,686668,Brenton Doyle,663978,Chris Paddack,453568,Charlie Blackmon,R,Christian Vázquez,543877,0,6,3,False,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+1,1,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,657746,Joe Ryan,663898,Brendan Rodgers,R,Christian Vázquez,543877,1,4,3,False,2023-09-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+2,2,1B,2B,Stolen Base 2B,666134,Nolan Jones,681892,Kody Funderburk,641857,Ryan McMahon,L,Christian Vázquez,543877,6,6,7,False,2023-09-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+3,3,1B,2B,Stolen Base 2B,667670,Brent Rooker,573204,Caleb Thielbar,668709,JJ Bleday,L,Christian Vázquez,543877,2,4,5,True,2023-09-27,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+4,4,1B,,Caught Stealing 2B,665923,Esteury Ruiz,572971,Dallas Keuchel,672478,Jordan Diaz,L,Christian Vázquez,543877,4,4,8,True,2023-09-27,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+5,5,1B,,Caught Stealing 2B,664702,Myles Straw,543243,Sonny Gray,680757,Steven Kwan,R,Christian Vázquez,543877,2,2,3,False,2023-09-05,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+6,6,1B,2B,Stolen Base 2B,666310,Bo Naylor,543243,Sonny Gray,664702,Myles Straw,R,Christian Vázquez,543877,3,2,5,False,2023-09-05,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+7,7,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,628317,Kenta Maeda,666969,Adolis García,R,Christian Vázquez,543877,3,0,2,False,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+8,8,1B,2B,Stolen Base 2B,665926,Andrés Giménez,641941,Emilio Pagán,686823,Will Brennan,R,Christian Vázquez,543877,1,4,7,True,2023-08-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+9,9,1B,2B,Stolen Base 2B,686823,Will Brennan,641941,Emilio Pagán,660757,Oscar Gonzalez,R,Christian Vázquez,543877,1,4,7,True,2023-08-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+10,10,2B,,Caught Stealing 3B,665750,Leody Taveras,657746,Joe Ryan,608369,Corey Seager,R,Christian Vázquez,543877,1,1,5,True,2023-08-26,Caught,3B,2023,2024,29.8,2024, 79.5, 0.60
+11,11,1B,,Caught Stealing 2B,543760,Marcus Semien,661395,Jhoan Duran,663993,Nathaniel Lowe,R,Christian Vázquez,543877,2,2,8,True,2023-08-26,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+12,12,1B,2B,Stolen Base 2B,608671,Travis Jankowski,641154,Pablo López,677649,Ezequiel Duran,R,Christian Vázquez,543877,2,5,5,True,2023-08-24,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+13,13,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,680739,Josh Winder,665750,Leody Taveras,R,Christian Vázquez,543877,4,5,8,True,2023-08-24,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+14,14,1B,2B,Stolen Base 2B,668930,Brice Turang,571670,Dylan Floro,605119,Brian Anderson,R,Christian Vázquez,543877,7,3,6,False,2023-08-22,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+15,15,1B,2B,Stolen Base 2B,668731,Akil Baddoo,680739,Josh Winder,682985,Riley Greene,R,Christian Vázquez,543877,4,8,9,True,2023-08-16,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+16,16,1B,,Caught Stealing 2B,663837,Matt Vierling,680739,Josh Winder,679529,Spencer Torkelson,R,Christian Vázquez,543877,4,8,9,True,2023-08-16,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+17,17,1B,,Caught Stealing 2B,656716,Zach McKinstry,543243,Sonny Gray,665155,Nick Maton,R,Christian Vázquez,543877,3,0,4,False,2023-08-08,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+18,18,2B,3B,Stolen Base 3B,682998,Corbin Carroll,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+19,19,1B,2B,Stolen Base 2B,502054,Tommy Pham,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+20,20,2B,3B,Stolen Base 3B,502054,Tommy Pham,572971,Dallas Keuchel,666971,Lourdes Gurriel Jr.,L,Christian Vázquez,543877,0,1,5,True,2023-08-06,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+21,21,1B,2B,Stolen Base 2B,572233,Christian Walker,572971,Dallas Keuchel,666971,Lourdes Gurriel Jr.,L,Christian Vázquez,543877,0,1,5,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+22,22,2B,3B,Stolen Base 3B,664983,Jake McCarthy,571670,Dylan Floro,672695,Geraldo Perdomo,R,Christian Vázquez,543877,0,1,6,True,2023-08-06,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+23,23,1B,2B,Stolen Base 2B,608348,Carson Kelly,571670,Dylan Floro,672695,Geraldo Perdomo,R,Christian Vázquez,543877,0,1,6,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+24,24,1B,2B,Stolen Base 2B,664983,Jake McCarthy,643377,Griffin Jax,605113,Nick Ahmed,R,Christian Vázquez,543877,2,2,8,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+25,25,1B,2B,Stolen Base 2B,607054,Jace Peterson,643377,Griffin Jax,672695,Geraldo Perdomo,R,Christian Vázquez,543877,2,2,8,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+26,26,1B,2B,Stolen Base 2B,677950,Alek Thomas,661395,Jhoan Duran,606466,Ketel Marte,R,Christian Vázquez,543877,3,2,9,True,2023-08-04,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+27,27,1B,2B,Stolen Base 2B,575929,Willson Contreras,680739,Josh Winder,641933,Tyler O'Neill,R,Christian Vázquez,543877,7,3,7,False,2023-08-02,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+28,28,1B,2B,Stolen Base 2B,686681,Michael Massey,628317,Kenta Maeda,666023,Freddy Fermin,R,Christian Vázquez,543877,2,1,4,False,2023-07-30,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+29,29,1B,2B,Stolen Base 2B,687799,Cade Marlowe,628317,Kenta Maeda,641487,J.P. Crawford,R,Christian Vázquez,543877,0,0,3,True,2023-07-24,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+30,30,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,543243,Sonny Gray,650391,Eloy Jiménez,R,Christian Vázquez,543877,0,1,3,True,2023-07-22,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+31,31,3B,score,Stolen Base Home,641313,Tim Anderson,543243,Sonny Gray,650391,Eloy Jiménez,R,Christian Vázquez,543877,0,1,3,True,2023-07-22,Stolen,Home,2023,2024,29.8,2024, 79.5, 0.60
+32,32,1B,2B,Stolen Base 2B,643393,Tony Kemp,657746,Joe Ryan,680869,Zack Gelof,R,Christian Vázquez,543877,3,2,5,False,2023-07-16,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+33,33,1B,2B,Stolen Base 2B,669397,Nick Allen,628317,Kenta Maeda,676116,Ryan Noda,R,Christian Vázquez,543877,1,2,2,False,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+34,34,1B,,Caught Stealing 2B,623993,Anthony Santander,641927,Bailey Ober,656811,Ryan O'Hearn,R,Christian Vázquez,543877,0,0,1,True,2023-07-07,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+35,35,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657746,Joe Ryan,668472,Nick Pratto,R,Christian Vázquez,543877,2,2,3,True,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+36,36,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657746,Joe Ryan,668472,Nick Pratto,R,Christian Vázquez,543877,2,2,5,True,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+37,37,1B,2B,Stolen Base 2B,622761,Jorge Mateo,661395,Jhoan Duran,623993,Anthony Santander,R,Christian Vázquez,543877,0,1,9,False,2023-07-01,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+38,38,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,628317,Kenta Maeda,645277,Ozzie Albies,R,Christian Vázquez,543877,0,0,1,False,2023-06-28,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+39,39,1B,2B,Stolen Base 2B,671739,Michael Harris II,628317,Kenta Maeda,660670,Ronald Acuña Jr.,R,Christian Vázquez,543877,2,0,5,False,2023-06-28,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+40,40,1B,2B,Stolen Base 2B,457759,Justin Turner,543243,Sonny Gray,646240,Rafael Devers,R,Christian Vázquez,543877,0,1,1,True,2023-06-21,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+41,41,1B,,Caught Stealing 2B,624414,Christian Arroyo,592779,Brock Stewart,657136,Connor Wong,R,Christian Vázquez,543877,3,3,6,True,2023-06-21,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+42,42,1B,2B,Stolen Base 2B,666152,David Hamilton,661395,Jhoan Duran,671213,Triston Casas,R,Christian Vázquez,543877,4,4,8,True,2023-06-21,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+43,43,1B,,Caught Stealing 2B,545350,Jake Marisnick,686973,Louie Varland,656716,Zach McKinstry,R,Christian Vázquez,543877,0,1,2,True,2023-06-18,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+44,44,1B,2B,Stolen Base 2B,595879,Javier Báez,543243,Sonny Gray,665155,Nick Maton,R,Christian Vázquez,543877,4,1,4,True,2023-06-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+45,45,1B,,Caught Stealing 2B,663837,Matt Vierling,641941,Emilio Pagán,668670,Jake Rogers,R,Christian Vázquez,543877,4,5,6,True,2023-06-15,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+46,46,2B,3B,Stolen Base 3B,662139,Daulton Varsho,663558,Jovani Moran,672386,Alejandro Kirk,L,Christian Vázquez,543877,4,6,5,False,2023-06-11,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+47,47,1B,2B,Stolen Base 2B,593160,Whit Merrifield,663558,Jovani Moran,672386,Alejandro Kirk,L,Christian Vázquez,543877,4,6,5,False,2023-06-11,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+48,48,1B,,Caught Stealing 2B,665489,Vladimir Guerrero Jr.,592779,Brock Stewart,474832,Brandon Belt,R,Christian Vázquez,543877,2,2,7,False,2023-06-09,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+49,49,2B,3B,Stolen Base 3B,677551,Wander Franco,643377,Griffin Jax,670042,Luke Raley,R,Christian Vázquez,543877,4,1,6,False,2023-06-08,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+50,50,1B,2B,Stolen Base 2B,671289,Tyler Freeman,605347,Jorge López,608070,José Ramírez,R,Christian Vázquez,543877,2,4,9,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+51,51,1B,,Caught Stealing 2B,543807,George Springer,641927,Bailey Ober,666182,Bo Bichette,R,Christian Vázquez,543877,0,0,1,True,2023-05-28,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+52,52,1B,2B,Stolen Base 2B,681546,James Outman,543243,Sonny Gray,621035,Chris Taylor,R,Christian Vázquez,543877,1,1,4,False,2023-05-17,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+53,53,1B,,Caught Stealing 2B,678246,Miguel Vargas,663558,Jovani Moran,681546,James Outman,L,Christian Vázquez,543877,2,1,5,False,2023-05-17,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+54,54,2B,3B,Stolen Base 3B,621035,Chris Taylor,605347,Jorge López,669257,Will Smith,R,Christian Vázquez,543877,8,8,12,False,2023-05-15,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+55,55,1B,2B,Stolen Base 2B,518692,Freddie Freeman,605347,Jorge López,669257,Will Smith,R,Christian Vázquez,543877,8,8,12,False,2023-05-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+56,56,1B,,Caught Stealing 2B,666624,Christopher Morel,543243,Sonny Gray,621020,Dansby Swanson,R,Christian Vázquez,543877,2,1,5,True,2023-05-12,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+57,57,1B,2B,Stolen Base 2B,665742,Juan Soto,641154,Pablo López,593428,Xander Bogaerts,R,Christian Vázquez,543877,1,0,2,True,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+58,58,2B,,Caught Stealing 3B,665742,Juan Soto,641154,Pablo López,572761,Matt Carpenter,R,Christian Vázquez,543877,1,0,2,True,2023-05-10,Caught,3B,2023,2024,29.8,2024, 79.5, 0.60
+59,59,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,605347,Jorge López,665742,Juan Soto,R,Christian Vázquez,543877,2,2,8,True,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+60,60,1B,2B,Stolen Base 2B,665742,Juan Soto,643377,Griffin Jax,593428,Xander Bogaerts,R,Christian Vázquez,543877,3,3,11,True,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+61,61,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,643377,Griffin Jax,543592,Austin Nola,R,Christian Vázquez,543877,1,2,7,True,2023-05-09,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+62,62,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,643377,Griffin Jax,630105,Jake Cronenworth,R,Christian Vázquez,543877,1,3,7,True,2023-05-09,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+63,63,1B,2B,Stolen Base 2B,571740,Billy Hamilton,661395,Jhoan Duran,650391,Eloy Jiménez,R,Christian Vázquez,543877,2,2,8,False,2023-05-04,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+64,64,1B,2B,Stolen Base 2B,571740,Billy Hamilton,592779,Brock Stewart,650391,Eloy Jiménez,R,Christian Vázquez,543877,2,2,9,False,2023-05-02,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+65,65,1B,2B,Stolen Base 2B,658668,Edward Olivares,543243,Sonny Gray,668472,Nick Pratto,R,Christian Vázquez,543877,0,0,2,True,2023-04-30,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+66,66,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,643377,Griffin Jax,686469,Vinnie Pasquantino,R,Christian Vázquez,543877,8,5,7,True,2023-04-28,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+67,67,1B,2B,Stolen Base 2B,683011,Anthony Volpe,641154,Pablo López,650402,Gleyber Torres,R,Christian Vázquez,543877,1,0,5,False,2023-04-16,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+68,68,1B,,Caught Stealing 2B,650402,Gleyber Torres,641941,Emilio Pagán,641432,Willie Calhoun,R,Christian Vázquez,543877,2,0,8,False,2023-04-16,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+69,69,1B,2B,Stolen Base 2B,683011,Anthony Volpe,641816,Tyler Mahle,518934,DJ LeMahieu,R,Christian Vázquez,543877,4,0,5,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+70,70,1B,2B,Stolen Base 2B,683011,Anthony Volpe,660896,Jorge Alcala,518934,DJ LeMahieu,R,Christian Vázquez,543877,6,1,8,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+71,71,2B,3B,Stolen Base 3B,683011,Anthony Volpe,660896,Jorge Alcala,518934,DJ LeMahieu,R,Christian Vázquez,543877,6,1,8,False,2023-04-15,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+72,72,1B,2B,Stolen Base 2B,516416,Jean Segura,628317,Kenta Maeda,607732,Jacob Stallings,R,Christian Vázquez,543877,1,0,2,False,2023-04-04,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+73,73,1B,2B,Stolen Base 2B,686668,Brenton Doyle,663978,Chris Paddack,453568,Charlie Blackmon,R,Christian Vázquez,543877,0,6,3,False,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+74,74,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,657746,Joe Ryan,663898,Brendan Rodgers,R,Christian Vázquez,543877,1,4,3,False,2023-09-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+75,75,1B,2B,Stolen Base 2B,666134,Nolan Jones,681892,Kody Funderburk,641857,Ryan McMahon,L,Christian Vázquez,543877,6,6,7,False,2023-09-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+76,76,1B,2B,Stolen Base 2B,667670,Brent Rooker,573204,Caleb Thielbar,668709,JJ Bleday,L,Christian Vázquez,543877,2,4,5,True,2023-09-27,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+77,77,1B,,Caught Stealing 2B,665923,Esteury Ruiz,572971,Dallas Keuchel,672478,Jordan Diaz,L,Christian Vázquez,543877,4,4,8,True,2023-09-27,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+78,78,1B,,Caught Stealing 2B,664702,Myles Straw,543243,Sonny Gray,680757,Steven Kwan,R,Christian Vázquez,543877,2,2,3,False,2023-09-05,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+79,79,1B,2B,Stolen Base 2B,666310,Bo Naylor,543243,Sonny Gray,664702,Myles Straw,R,Christian Vázquez,543877,3,2,5,False,2023-09-05,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+80,80,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,628317,Kenta Maeda,666969,Adolis García,R,Christian Vázquez,543877,3,0,2,False,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+81,81,1B,2B,Stolen Base 2B,665926,Andrés Giménez,641941,Emilio Pagán,686823,Will Brennan,R,Christian Vázquez,543877,1,4,7,True,2023-08-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+82,82,1B,2B,Stolen Base 2B,686823,Will Brennan,641941,Emilio Pagán,660757,Oscar Gonzalez,R,Christian Vázquez,543877,1,4,7,True,2023-08-29,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+83,83,2B,,Caught Stealing 3B,665750,Leody Taveras,657746,Joe Ryan,608369,Corey Seager,R,Christian Vázquez,543877,1,1,5,True,2023-08-26,Caught,3B,2023,2024,29.8,2024, 79.5, 0.60
+84,84,1B,,Caught Stealing 2B,543760,Marcus Semien,661395,Jhoan Duran,663993,Nathaniel Lowe,R,Christian Vázquez,543877,2,2,8,True,2023-08-26,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+85,85,1B,2B,Stolen Base 2B,608671,Travis Jankowski,641154,Pablo López,677649,Ezequiel Duran,R,Christian Vázquez,543877,2,5,5,True,2023-08-24,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+86,86,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,680739,Josh Winder,665750,Leody Taveras,R,Christian Vázquez,543877,4,5,8,True,2023-08-24,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+87,87,1B,2B,Stolen Base 2B,668930,Brice Turang,571670,Dylan Floro,605119,Brian Anderson,R,Christian Vázquez,543877,7,3,6,False,2023-08-22,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+88,88,1B,2B,Stolen Base 2B,668731,Akil Baddoo,680739,Josh Winder,682985,Riley Greene,R,Christian Vázquez,543877,4,8,9,True,2023-08-16,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+89,89,1B,,Caught Stealing 2B,663837,Matt Vierling,680739,Josh Winder,679529,Spencer Torkelson,R,Christian Vázquez,543877,4,8,9,True,2023-08-16,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+90,90,1B,,Caught Stealing 2B,656716,Zach McKinstry,543243,Sonny Gray,665155,Nick Maton,R,Christian Vázquez,543877,3,0,4,False,2023-08-08,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+91,91,2B,3B,Stolen Base 3B,682998,Corbin Carroll,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+92,92,1B,2B,Stolen Base 2B,502054,Tommy Pham,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+93,93,2B,3B,Stolen Base 3B,502054,Tommy Pham,572971,Dallas Keuchel,666971,Lourdes Gurriel Jr.,L,Christian Vázquez,543877,0,1,5,True,2023-08-06,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+94,94,1B,2B,Stolen Base 2B,572233,Christian Walker,572971,Dallas Keuchel,666971,Lourdes Gurriel Jr.,L,Christian Vázquez,543877,0,1,5,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+95,95,2B,3B,Stolen Base 3B,664983,Jake McCarthy,571670,Dylan Floro,672695,Geraldo Perdomo,R,Christian Vázquez,543877,0,1,6,True,2023-08-06,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+96,96,1B,2B,Stolen Base 2B,608348,Carson Kelly,571670,Dylan Floro,672695,Geraldo Perdomo,R,Christian Vázquez,543877,0,1,6,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+97,97,1B,2B,Stolen Base 2B,664983,Jake McCarthy,643377,Griffin Jax,605113,Nick Ahmed,R,Christian Vázquez,543877,2,2,8,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+98,98,1B,2B,Stolen Base 2B,607054,Jace Peterson,643377,Griffin Jax,672695,Geraldo Perdomo,R,Christian Vázquez,543877,2,2,8,True,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+99,99,1B,2B,Stolen Base 2B,677950,Alek Thomas,661395,Jhoan Duran,606466,Ketel Marte,R,Christian Vázquez,543877,3,2,9,True,2023-08-04,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+100,100,1B,2B,Stolen Base 2B,575929,Willson Contreras,680739,Josh Winder,641933,Tyler O'Neill,R,Christian Vázquez,543877,7,3,7,False,2023-08-02,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+101,101,1B,2B,Stolen Base 2B,686681,Michael Massey,628317,Kenta Maeda,666023,Freddy Fermin,R,Christian Vázquez,543877,2,1,4,False,2023-07-30,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+102,102,1B,2B,Stolen Base 2B,687799,Cade Marlowe,628317,Kenta Maeda,641487,J.P. Crawford,R,Christian Vázquez,543877,0,0,3,True,2023-07-24,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+103,103,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,543243,Sonny Gray,650391,Eloy Jiménez,R,Christian Vázquez,543877,0,1,3,True,2023-07-22,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+104,104,3B,score,Stolen Base Home,641313,Tim Anderson,543243,Sonny Gray,650391,Eloy Jiménez,R,Christian Vázquez,543877,0,1,3,True,2023-07-22,Stolen,Home,2023,2024,29.8,2024, 79.5, 0.60
+105,105,1B,2B,Stolen Base 2B,643393,Tony Kemp,657746,Joe Ryan,680869,Zack Gelof,R,Christian Vázquez,543877,3,2,5,False,2023-07-16,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+106,106,1B,2B,Stolen Base 2B,669397,Nick Allen,628317,Kenta Maeda,676116,Ryan Noda,R,Christian Vázquez,543877,1,2,2,False,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+107,107,1B,,Caught Stealing 2B,623993,Anthony Santander,641927,Bailey Ober,656811,Ryan O'Hearn,R,Christian Vázquez,543877,0,0,1,True,2023-07-07,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+108,108,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657746,Joe Ryan,668472,Nick Pratto,R,Christian Vázquez,543877,2,2,3,True,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+109,109,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,657746,Joe Ryan,668472,Nick Pratto,R,Christian Vázquez,543877,2,2,5,True,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+110,110,1B,2B,Stolen Base 2B,622761,Jorge Mateo,661395,Jhoan Duran,623993,Anthony Santander,R,Christian Vázquez,543877,0,1,9,False,2023-07-01,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+111,111,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,628317,Kenta Maeda,645277,Ozzie Albies,R,Christian Vázquez,543877,0,0,1,False,2023-06-28,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+112,112,1B,2B,Stolen Base 2B,671739,Michael Harris II,628317,Kenta Maeda,660670,Ronald Acuña Jr.,R,Christian Vázquez,543877,2,0,5,False,2023-06-28,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+113,113,1B,2B,Stolen Base 2B,457759,Justin Turner,543243,Sonny Gray,646240,Rafael Devers,R,Christian Vázquez,543877,0,1,1,True,2023-06-21,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+114,114,1B,,Caught Stealing 2B,624414,Christian Arroyo,592779,Brock Stewart,657136,Connor Wong,R,Christian Vázquez,543877,3,3,6,True,2023-06-21,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+115,115,1B,2B,Stolen Base 2B,666152,David Hamilton,661395,Jhoan Duran,671213,Triston Casas,R,Christian Vázquez,543877,4,4,8,True,2023-06-21,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+116,116,1B,,Caught Stealing 2B,545350,Jake Marisnick,686973,Louie Varland,656716,Zach McKinstry,R,Christian Vázquez,543877,0,1,2,True,2023-06-18,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+117,117,1B,2B,Stolen Base 2B,595879,Javier Báez,543243,Sonny Gray,665155,Nick Maton,R,Christian Vázquez,543877,4,1,4,True,2023-06-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+118,118,1B,,Caught Stealing 2B,663837,Matt Vierling,641941,Emilio Pagán,668670,Jake Rogers,R,Christian Vázquez,543877,4,5,6,True,2023-06-15,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+119,119,2B,3B,Stolen Base 3B,662139,Daulton Varsho,663558,Jovani Moran,672386,Alejandro Kirk,L,Christian Vázquez,543877,4,6,5,False,2023-06-11,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+120,120,1B,2B,Stolen Base 2B,593160,Whit Merrifield,663558,Jovani Moran,672386,Alejandro Kirk,L,Christian Vázquez,543877,4,6,5,False,2023-06-11,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+121,121,1B,,Caught Stealing 2B,665489,Vladimir Guerrero Jr.,592779,Brock Stewart,474832,Brandon Belt,R,Christian Vázquez,543877,2,2,7,False,2023-06-09,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+122,122,2B,3B,Stolen Base 3B,677551,Wander Franco,643377,Griffin Jax,670042,Luke Raley,R,Christian Vázquez,543877,4,1,6,False,2023-06-08,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+123,123,1B,2B,Stolen Base 2B,671289,Tyler Freeman,605347,Jorge López,608070,José Ramírez,R,Christian Vázquez,543877,2,4,9,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+124,124,1B,,Caught Stealing 2B,543807,George Springer,641927,Bailey Ober,666182,Bo Bichette,R,Christian Vázquez,543877,0,0,1,True,2023-05-28,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+125,125,1B,2B,Stolen Base 2B,681546,James Outman,543243,Sonny Gray,621035,Chris Taylor,R,Christian Vázquez,543877,1,1,4,False,2023-05-17,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+126,126,1B,,Caught Stealing 2B,678246,Miguel Vargas,663558,Jovani Moran,681546,James Outman,L,Christian Vázquez,543877,2,1,5,False,2023-05-17,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+127,127,2B,3B,Stolen Base 3B,621035,Chris Taylor,605347,Jorge López,669257,Will Smith,R,Christian Vázquez,543877,8,8,12,False,2023-05-15,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+128,128,1B,2B,Stolen Base 2B,518692,Freddie Freeman,605347,Jorge López,669257,Will Smith,R,Christian Vázquez,543877,8,8,12,False,2023-05-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+129,129,1B,,Caught Stealing 2B,666624,Christopher Morel,543243,Sonny Gray,621020,Dansby Swanson,R,Christian Vázquez,543877,2,1,5,True,2023-05-12,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+130,130,1B,2B,Stolen Base 2B,665742,Juan Soto,641154,Pablo López,593428,Xander Bogaerts,R,Christian Vázquez,543877,1,0,2,True,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+131,131,2B,,Caught Stealing 3B,665742,Juan Soto,641154,Pablo López,572761,Matt Carpenter,R,Christian Vázquez,543877,1,0,2,True,2023-05-10,Caught,3B,2023,2024,29.8,2024, 79.5, 0.60
+132,132,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,605347,Jorge López,665742,Juan Soto,R,Christian Vázquez,543877,2,2,8,True,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+133,133,1B,2B,Stolen Base 2B,665742,Juan Soto,643377,Griffin Jax,593428,Xander Bogaerts,R,Christian Vázquez,543877,3,3,11,True,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+134,134,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,643377,Griffin Jax,543592,Austin Nola,R,Christian Vázquez,543877,1,2,7,True,2023-05-09,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+135,135,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,643377,Griffin Jax,630105,Jake Cronenworth,R,Christian Vázquez,543877,1,3,7,True,2023-05-09,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+136,136,1B,2B,Stolen Base 2B,571740,Billy Hamilton,661395,Jhoan Duran,650391,Eloy Jiménez,R,Christian Vázquez,543877,2,2,8,False,2023-05-04,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+137,137,1B,2B,Stolen Base 2B,571740,Billy Hamilton,592779,Brock Stewart,650391,Eloy Jiménez,R,Christian Vázquez,543877,2,2,9,False,2023-05-02,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+138,138,1B,2B,Stolen Base 2B,658668,Edward Olivares,543243,Sonny Gray,668472,Nick Pratto,R,Christian Vázquez,543877,0,0,2,True,2023-04-30,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+139,139,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,643377,Griffin Jax,686469,Vinnie Pasquantino,R,Christian Vázquez,543877,8,5,7,True,2023-04-28,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+140,140,1B,2B,Stolen Base 2B,683011,Anthony Volpe,641154,Pablo López,650402,Gleyber Torres,R,Christian Vázquez,543877,1,0,5,False,2023-04-16,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+141,141,1B,,Caught Stealing 2B,650402,Gleyber Torres,641941,Emilio Pagán,641432,Willie Calhoun,R,Christian Vázquez,543877,2,0,8,False,2023-04-16,Caught,2B,2023,2024,29.8,2024, 79.5, 0.60
+142,142,1B,2B,Stolen Base 2B,683011,Anthony Volpe,641816,Tyler Mahle,518934,DJ LeMahieu,R,Christian Vázquez,543877,4,0,5,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+143,143,1B,2B,Stolen Base 2B,683011,Anthony Volpe,660896,Jorge Alcala,518934,DJ LeMahieu,R,Christian Vázquez,543877,6,1,8,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+144,144,2B,3B,Stolen Base 3B,683011,Anthony Volpe,660896,Jorge Alcala,518934,DJ LeMahieu,R,Christian Vázquez,543877,6,1,8,False,2023-04-15,Stolen,3B,2023,2024,29.8,2024, 79.5, 0.60
+145,145,1B,2B,Stolen Base 2B,516416,Jean Segura,628317,Kenta Maeda,607732,Jacob Stallings,R,Christian Vázquez,543877,1,0,2,False,2023-04-04,Stolen,2B,2023,2024,29.8,2024, 79.5, 0.60
+146,146,1B,,Caught Stealing 2B,623912,Harold Ramírez,672391,Kaleb Ort,668227,Randy Arozarena,R,Christian Vázquez,543877,7,5,6,False,2022-07-11,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+147,147,1B,,Caught Stealing 2B,543309,Kyle Higashioka,676710,Kutter Crawford,592450,Aaron Judge,R,Christian Vázquez,543877,1,1,5,True,2022-07-09,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+148,148,2B,,Caught Stealing 3B,519203,Anthony Rizzo,518617,Jake Diekman,519317,Giancarlo Stanton,L,Christian Vázquez,543877,3,5,10,True,2022-07-09,Caught,3B,2022,2023,29.4,2023, 80.6, 0.62
+149,149,2B,3B,Stolen Base 3B,518626,Josh Donaldson,593140,Michael Feliz,624431,Jose Trevino,R,Christian Vázquez,543877,2,9,4,True,2022-07-08,Stolen,3B,2022,2023,29.4,2023, 80.6, 0.62
+150,150,1B,2B,Stolen Base 2B,543305,Aaron Hicks,593140,Michael Feliz,624431,Jose Trevino,R,Christian Vázquez,543877,2,9,4,True,2022-07-08,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+151,151,2B,3B,Stolen Base 2B,543305,Aaron Hicks,593140,Michael Feliz,624431,Jose Trevino,R,Christian Vázquez,543877,2,9,4,True,2022-07-08,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+152,152,2B,3B,Stolen Base 3B,543305,Aaron Hicks,656354,Austin Davis,503556,Marwin Gonzalez,L,Christian Vázquez,543877,5,10,7,True,2022-07-08,Stolen,3B,2022,2023,29.4,2023, 80.6, 0.62
+153,153,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,656354,Austin Davis,518934,DJ LeMahieu,L,Christian Vázquez,543877,5,10,7,True,2022-07-08,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+154,154,1B,,Caught Stealing 2B,670764,Taylor Walls,518617,Jake Diekman,595281,Kevin Kiermaier,L,Christian Vázquez,543877,0,4,5,True,2022-07-06,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+155,155,1B,2B,Stolen Base 2B,677551,Wander Franco,570663,Hansel Robles,670623,Isaac Paredes,R,Christian Vázquez,543877,3,8,7,True,2022-07-05,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+156,156,1B,,Caught Stealing 2B,668227,Randy Arozarena,570663,Hansel Robles,670764,Taylor Walls,R,Christian Vázquez,543877,3,8,7,True,2022-07-05,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+157,157,2B,3B,Caught Stealing 2B,542364,Rafael Ortega,670167,John Schreiber,664023,Ian Happ,R,Christian Vázquez,543877,1,2,7,False,2022-07-03,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+158,158,1B,,Caught Stealing 2B,575929,Willson Contreras,670167,John Schreiber,664023,Ian Happ,R,Christian Vázquez,543877,1,2,7,False,2022-07-03,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+159,159,1B,2B,Stolen Base 2B,543807,George Springer,518489,Ryan Brasier,666182,Bo Bichette,R,Christian Vázquez,543877,4,2,6,False,2022-06-28,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+160,160,1B,2B,Stolen Base 2B,642708,Amed Rosario,601713,Nick Pivetta,660757,Oscar Gonzalez,R,Christian Vázquez,543877,0,0,1,False,2022-06-24,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+161,161,1B,2B,Stolen Base 2B,665926,Andrés Giménez,601713,Nick Pivetta,664702,Myles Straw,R,Christian Vázquez,543877,1,1,2,False,2022-06-24,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+162,162,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,601713,Nick Pivetta,405395,Albert Pujols,R,Christian Vázquez,543877,1,0,4,True,2022-06-19,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+163,163,2B,3B,Stolen Base 3B,664056,Harrison Bader,601713,Nick Pivetta,671056,Iván Herrera,R,Christian Vázquez,543877,1,1,4,True,2022-06-19,Stolen,3B,2022,2023,29.4,2023, 80.6, 0.62
+164,164,1B,,Caught Stealing 2B,641933,Tyler O'Neill,601713,Nick Pivetta,664056,Harrison Bader,R,Christian Vázquez,543877,2,1,6,True,2022-06-19,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+165,165,1B,2B,Stolen Base 2B,641487,J.P. Crawford,448179,Rich Hill,664238,Dylan Moore,L,Christian Vázquez,543877,0,1,2,False,2022-06-10,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+166,166,1B,,Caught Stealing 2B,664238,Dylan Moore,448179,Rich Hill,647351,Abraham Toro,L,Christian Vázquez,543877,0,1,2,False,2022-06-10,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+167,167,2B,,Caught Stealing 3B,642180,Tyler Wade,676477,Garrett Whitlock,650859,Luis Rengifo,R,Christian Vázquez,543877,3,3,2,False,2022-06-07,Caught,3B,2022,2023,29.4,2023, 80.6, 0.62
+168,168,2B,3B,Stolen Base 3B,657656,Ramón Laureano,601713,Nick Pivetta,664913,Seth Brown,R,Christian Vázquez,543877,0,4,4,False,2022-06-04,Stolen,3B,2022,2023,29.4,2023, 80.6, 0.62
+169,169,1B,2B,Stolen Base 2B,606157,Aristides Aquino,676477,Garrett Whitlock,669222,Nick Senzel,R,Christian Vázquez,543877,4,1,6,True,2022-06-01,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+170,170,1B,2B,Stolen Base 2B,669720,Austin Hays,670174,Josh Winckowski,623993,Anthony Santander,R,Christian Vázquez,543877,0,0,3,True,2022-05-28,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+171,171,2B,3B,Stolen Base 3B,622761,Jorge Mateo,670174,Josh Winckowski,663630,Ryan McKenna,R,Christian Vázquez,543877,0,4,3,True,2022-05-28,Stolen,3B,2022,2023,29.4,2023, 80.6, 0.62
+172,172,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,676477,Garrett Whitlock,608385,Jesse Winker,R,Christian Vázquez,543877,0,2,1,True,2022-05-21,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+173,173,1B,2B,Stolen Base 2B,642201,Eli White,448179,Rich Hill,543760,Marcus Semien,L,Christian Vázquez,543877,0,1,1,False,2022-05-14,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+174,174,2B,3B,Stolen Base 3B,642201,Eli White,448179,Rich Hill,608369,Corey Seager,L,Christian Vázquez,543877,1,1,1,False,2022-05-14,Stolen,3B,2022,2023,29.4,2023, 80.6, 0.62
+175,175,1B,2B,Stolen Base 2B,543543,Brad Miller,601713,Nick Pivetta,608369,Corey Seager,R,Christian Vázquez,543877,0,5,6,False,2022-05-13,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+176,176,1B,2B,Stolen Base 2B,621020,Dansby Swanson,543135,Nathan Eovaldi,621566,Matt Olson,R,Christian Vázquez,543877,3,3,3,False,2022-05-11,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+177,177,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,676477,Garrett Whitlock,663586,Austin Riley,R,Christian Vázquez,543877,0,0,1,False,2022-05-10,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+178,178,1B,2B,Stolen Base 2B,542303,Marcell Ozuna,570663,Hansel Robles,645277,Ozzie Albies,R,Christian Vázquez,543877,4,6,7,False,2022-05-10,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+179,179,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,518617,Jake Diekman,669394,Jake Burger,L,Christian Vázquez,543877,2,3,8,True,2022-05-08,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+180,180,1B,2B,Stolen Base 2B,641313,Tim Anderson,601713,Nick Pivetta,547989,José Abreu,R,Christian Vázquez,543877,0,0,1,True,2022-05-07,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+181,181,1B,2B,Stolen Base 2B,544725,Leury García,518489,Ryan Brasier,641313,Tim Anderson,R,Christian Vázquez,543877,1,0,7,True,2022-05-07,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+182,182,1B,,Caught Stealing 2B,656775,Cedric Mullins,601713,Nick Pivetta,623993,Anthony Santander,R,Christian Vázquez,543877,0,0,1,False,2022-05-01,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+183,183,1B,,Caught Stealing 2B,623993,Anthony Santander,601713,Nick Pivetta,669720,Austin Hays,R,Christian Vázquez,543877,0,0,4,False,2022-05-01,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+184,184,1B,2B,Stolen Base 2B,669289,Santiago Espinal,676477,Garrett Whitlock,641741,Gosuke Katoh,R,Christian Vázquez,543877,0,0,2,False,2022-04-28,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+185,185,1B,,Caught Stealing 2B,605548,Bradley Zimmer,601713,Nick Pivetta,543807,George Springer,R,Christian Vázquez,543877,1,0,3,False,2022-04-26,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+186,186,1B,,Caught Stealing 2B,660644,Vidal Bruján,448179,Rich Hill,595281,Kevin Kiermaier,L,Christian Vázquez,543877,0,2,4,False,2022-04-24,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+187,187,1B,2B,Stolen Base 2B,670764,Taylor Walls,570663,Hansel Robles,595281,Kevin Kiermaier,R,Christian Vázquez,543877,3,2,10,False,2022-04-23,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+188,188,1B,2B,Stolen Base 2B,666182,Bo Bichette,656557,Tanner Houck,641470,Zack Collins,R,Christian Vázquez,543877,0,2,3,True,2022-04-21,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+189,189,1B,2B,Stolen Base 2B,596142,Gary Sánchez,676710,Kutter Crawford,650333,Luis Arraez,R,Christian Vázquez,543877,2,5,8,True,2022-04-18,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+190,190,1B,,Caught Stealing 2B,593871,Jorge Polanco,656557,Tanner Houck,621043,Carlos Correa,R,Christian Vázquez,543877,0,0,1,True,2022-04-16,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62
+191,191,1B,2B,Stolen Base 2B,596146,Max Kepler,570488,Phillips Valdez,596142,Gary Sánchez,R,Christian Vázquez,543877,1,4,3,True,2022-04-15,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+192,192,1B,2B,Stolen Base 2B,593934,Miguel Sanó,570488,Phillips Valdez,650333,Luis Arraez,R,Christian Vázquez,543877,1,4,4,True,2022-04-15,Stolen,2B,2022,2023,29.4,2023, 80.6, 0.62
+193,193,1B,,Caught Stealing 2B,650333,Luis Arraez,617228,Hirokazu Sawamura,621043,Carlos Correa,R,Christian Vázquez,543877,1,6,6,True,2022-04-15,Caught,2B,2022,2023,29.4,2023, 80.6, 0.62

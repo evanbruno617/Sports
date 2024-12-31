@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3305,1B,,Caught Stealing 2B,607471,Christopher Bostick,628711,Julio Urías,547912,Gift Ngoepe,L,Yasmani Grandal,518735,2,0,5,True,2017-05-09,Caught,2B
+2677,1B,,Caught Stealing 2B,607471,Christopher Bostick,628711,Julio Urías,547912,Gift Ngoepe,L,Yasmani Grandal,518735,2,0,5,True,2017-05-09,Caught,2B

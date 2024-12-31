@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2375,1B,2B,Stolen Base 2B,676070,Jacob Amaya,571578,Patrick Corbin,650559,Bryan De La Cruz,L,Keibert Ruiz,660688,0,1,2,True,2023-06-18,Stolen,2B
+471,1B,2B,Stolen Base 2B,676070,Jacob Amaya,571510,Matthew Boyd,673357,Luis Robert Jr.,L,Austin Hedges,595978,4,5,4,False,2024-09-11,Stolen,2B
+6789,1B,2B,Stolen Base 2B,676070,Jacob Amaya,571578,Patrick Corbin,650559,Bryan De La Cruz,L,Keibert Ruiz,660688,0,1,2,True,2023-06-18,Stolen,2B

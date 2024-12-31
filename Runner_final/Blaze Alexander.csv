@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2439,1B,2B,Stolen Base 2B,677942,Blaze Alexander,622554,Seranthony Domínguez,672695,Geraldo Perdomo,R,Rafael Marchán,665561,3,5,8,True,2024-06-21,Stolen,2B
+2912,1B,2B,Stolen Base 2B,677942,Blaze Alexander,677020,Josh Walker,664983,Jake McCarthy,L,Tomás Nido,621512,1,6,6,True,2024-06-01,Stolen,2B
+4069,1B,,Caught Stealing 2B,677942,Blaze Alexander,593576,Héctor Neris,553993,Eugenio Suárez,R,Yan Gomes,543228,2,2,9,False,2024-04-15,Caught,2B
+4376,1B,2B,Stolen Base 2B,677942,Blaze Alexander,641482,Nestor Cortes,572233,Christian Walker,L,Jose Trevino,624431,1,0,1,False,2024-04-02,Stolen,2B

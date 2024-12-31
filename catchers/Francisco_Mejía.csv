@@ -1,0 +1,24 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,82,2B,3B,Stolen Base 3B,593428,Xander Bogaerts,592094,Jason Adam,657077,Alex Verdugo,R,Francisco Mejía,642336,3,1,7,True,2022-07-13,Stolen,3B,2022,2023,29.4,2023, 87.9, 0.74
+1,83,2B,3B,Stolen Base 3B,593428,Xander Bogaerts,572703,Luke Bard,596115,Trevor Story,R,Francisco Mejía,642336,5,5,5,True,2022-07-11,Stolen,3B,2022,2023,29.4,2023, 87.9, 0.74
+2,84,1B,2B,Stolen Base 2B,657077,Alex Verdugo,572703,Luke Bard,596115,Trevor Story,R,Francisco Mejía,642336,5,5,5,True,2022-07-11,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+3,85,1B,2B,Stolen Base 2B,680776,Jarren Duran,572703,Luke Bard,543877,Christian Vázquez,R,Francisco Mejía,642336,5,5,6,True,2022-07-11,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+4,86,1B,,Caught Stealing 2B,646240,Rafael Devers,676596,Josh Fleming,502110,J.D. Martinez,L,Francisco Mejía,642336,2,0,5,False,2022-07-04,Caught,2B,2022,2023,29.4,2023, 87.9, 0.74
+5,87,1B,2B,Stolen Base 2B,543807,George Springer,676534,Calvin Faucher,665489,Vladimir Guerrero Jr.,R,Francisco Mejía,642336,4,1,7,False,2022-06-30,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+6,88,1B,2B,Stolen Base 2B,622761,Jorge Mateo,572703,Luke Bard,656775,Cedric Mullins,R,Francisco Mejía,642336,2,1,8,False,2022-06-19,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+7,89,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,592094,Jason Adam,622761,Jorge Mateo,R,Francisco Mejía,642336,5,6,5,False,2022-06-18,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+8,90,1B,2B,Stolen Base 2B,592450,Aaron Judge,605538,Matt Wisler,519317,Giancarlo Stanton,R,Francisco Mejía,642336,0,0,4,False,2022-06-16,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+9,91,1B,2B,Stolen Base 2B,519203,Anthony Rizzo,592094,Jason Adam,519317,Giancarlo Stanton,R,Francisco Mejía,642336,1,1,6,False,2022-06-16,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+10,92,1B,2B,Stolen Base 2B,608336,Joey Gallo,572703,Luke Bard,518934,DJ LeMahieu,R,Francisco Mejía,642336,2,0,7,False,2022-06-14,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+11,93,2B,3B,Stolen Base 3B,519203,Anthony Rizzo,676534,Calvin Faucher,572761,Matt Carpenter,R,Francisco Mejía,642336,2,0,8,False,2022-06-14,Stolen,3B,2022,2023,29.4,2023, 87.9, 0.74
+12,94,1B,2B,Stolen Base 2B,543305,Aaron Hicks,676534,Calvin Faucher,572761,Matt Carpenter,R,Francisco Mejía,642336,2,0,8,False,2022-06-14,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+13,95,1B,2B,Stolen Base 2B,666969,Adolis García,592094,Jason Adam,669087,Sam Huff,R,Francisco Mejía,642336,2,2,8,False,2022-06-01,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+14,96,1B,2B,Stolen Base 2B,641598,Mitch Garver,605538,Matt Wisler,594777,Kole Calhoun,R,Francisco Mejía,642336,5,2,5,False,2022-05-30,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+15,97,1B,2B,Stolen Base 2B,608686,Jack Mayfield,663556,Shane McClanahan,669016,Brandon Marsh,L,Francisco Mejía,642336,0,1,3,False,2022-05-11,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+16,98,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,663556,Shane McClanahan,665120,Jared Walsh,L,Francisco Mejía,642336,0,1,4,False,2022-05-11,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+17,99,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,642232,Ryan Yarbrough,553993,Eugenio Suárez,L,Francisco Mejía,642336,0,0,1,False,2022-05-08,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+18,100,1B,2B,Stolen Base 2B,641553,Adam Engel,607391,Chris Mazza,641313,Tim Anderson,R,Francisco Mejía,642336,0,4,3,False,2022-04-17,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+19,101,1B,2B,Stolen Base 2B,641553,Adam Engel,607391,Chris Mazza,641313,Tim Anderson,R,Francisco Mejía,642336,1,4,5,False,2022-04-17,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+20,102,1B,2B,Stolen Base 2B,641313,Tim Anderson,607391,Chris Mazza,547989,José Abreu,R,Francisco Mejía,642336,1,4,5,False,2022-04-17,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+21,103,1B,2B,Stolen Base 2B,641313,Tim Anderson,656876,Drew Rasmussen,518735,Yasmani Grandal,R,Francisco Mejía,642336,0,0,1,False,2022-04-15,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74
+22,104,1B,2B,Stolen Base 2B,622761,Jorge Mateo,656876,Drew Rasmussen,656775,Cedric Mullins,R,Francisco Mejía,642336,3,0,3,True,2022-04-09,Stolen,2B,2022,2023,29.4,2023, 87.9, 0.74

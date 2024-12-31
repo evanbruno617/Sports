@@ -1,0 +1,35 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,640457,Austin Meadows,605164,Dylan Bundy,502054,Tommy Pham,R,Jesús Sucre,491696,3,2,5,False,2019-04-16,Stolen,2B,2019,2020,26.5
+1,1B,2B,Caught Stealing 2B,595281,Kevin Kiermaier,605541,Mike Wright Jr.,605421,Michael Pérez,R,Jesús Sucre,491696,3,2,7,False,2019-04-16,Caught,2B,2019,2020,26.5
+2,2B,,Caught Stealing 3B,595281,Kevin Kiermaier,605541,Mike Wright Jr.,605421,Michael Pérez,R,Jesús Sucre,491696,3,2,7,False,2019-04-16,Caught,3B,2019,2020,26.5
+3,1B,2B,Stolen Base 2B,541645,Avisaíl García,612434,Miguel Castro,595281,Kevin Kiermaier,R,Jesús Sucre,491696,4,2,8,False,2019-04-16,Stolen,2B,2019,2020,26.5
+4,1B,2B,Stolen Base 2B,605141,Mookie Betts,623465,Evan Phillips,519048,Mitch Moreland,R,Jesús Sucre,491696,4,2,7,False,2019-04-12,Stolen,2B,2019,2020,26.5
+5,1B,,Caught Stealing 2B,543257,Robbie Grossman,605164,Dylan Bundy,543760,Marcus Semien,R,Jesús Sucre,491696,1,4,5,True,2019-04-11,Caught,2B,2019,2020,26.5
+6,1B,,Caught Stealing 2B,656305,Matt Chapman,488768,Andrew Cashner,572039,Stephen Piscotty,R,Jesús Sucre,491696,4,2,3,True,2019-04-08,Caught,2B,2019,2020,26.5
+7,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,26.5
+8,2B,3B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,26.5
+9,1B,,Caught Stealing 2B,592450,Aaron Judge,502171,Alex Cobb,572228,Luke Voit,R,Jesús Sucre,491696,0,0,1,True,2019-04-04,Caught,2B,2019,2020,26.5
+10,1B,2B,Stolen Base 2B,640457,Austin Meadows,605164,Dylan Bundy,502054,Tommy Pham,R,Jesús Sucre,491696,3,2,5,False,2019-04-16,Stolen,2B,2019,2020,26.5
+11,1B,2B,Caught Stealing 2B,595281,Kevin Kiermaier,605541,Mike Wright Jr.,605421,Michael Pérez,R,Jesús Sucre,491696,3,2,7,False,2019-04-16,Caught,2B,2019,2020,26.5
+12,2B,,Caught Stealing 3B,595281,Kevin Kiermaier,605541,Mike Wright Jr.,605421,Michael Pérez,R,Jesús Sucre,491696,3,2,7,False,2019-04-16,Caught,3B,2019,2020,26.5
+13,1B,2B,Stolen Base 2B,541645,Avisaíl García,612434,Miguel Castro,595281,Kevin Kiermaier,R,Jesús Sucre,491696,4,2,8,False,2019-04-16,Stolen,2B,2019,2020,26.5
+14,1B,2B,Stolen Base 2B,605141,Mookie Betts,623465,Evan Phillips,519048,Mitch Moreland,R,Jesús Sucre,491696,4,2,7,False,2019-04-12,Stolen,2B,2019,2020,26.5
+15,1B,,Caught Stealing 2B,543257,Robbie Grossman,605164,Dylan Bundy,543760,Marcus Semien,R,Jesús Sucre,491696,1,4,5,True,2019-04-11,Caught,2B,2019,2020,26.5
+16,1B,,Caught Stealing 2B,656305,Matt Chapman,488768,Andrew Cashner,572039,Stephen Piscotty,R,Jesús Sucre,491696,4,2,3,True,2019-04-08,Caught,2B,2019,2020,26.5
+17,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,26.5
+18,2B,3B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,26.5
+19,1B,,Caught Stealing 2B,592450,Aaron Judge,502171,Alex Cobb,572228,Luke Voit,R,Jesús Sucre,491696,0,0,1,True,2019-04-04,Caught,2B,2019,2020,26.5
+20,1B,2B,Stolen Base 2B,640457,Austin Meadows,605164,Dylan Bundy,502054,Tommy Pham,R,Jesús Sucre,491696,3,2,5,False,2019-04-16,Stolen,2B,2019,2020,26.5
+21,1B,2B,Caught Stealing 2B,595281,Kevin Kiermaier,605541,Mike Wright Jr.,605421,Michael Pérez,R,Jesús Sucre,491696,3,2,7,False,2019-04-16,Caught,2B,2019,2020,26.5
+22,2B,,Caught Stealing 3B,595281,Kevin Kiermaier,605541,Mike Wright Jr.,605421,Michael Pérez,R,Jesús Sucre,491696,3,2,7,False,2019-04-16,Caught,3B,2019,2020,26.5
+23,1B,2B,Stolen Base 2B,541645,Avisaíl García,612434,Miguel Castro,595281,Kevin Kiermaier,R,Jesús Sucre,491696,4,2,8,False,2019-04-16,Stolen,2B,2019,2020,26.5
+24,1B,2B,Stolen Base 2B,605141,Mookie Betts,623465,Evan Phillips,519048,Mitch Moreland,R,Jesús Sucre,491696,4,2,7,False,2019-04-12,Stolen,2B,2019,2020,26.5
+25,1B,,Caught Stealing 2B,543257,Robbie Grossman,605164,Dylan Bundy,543760,Marcus Semien,R,Jesús Sucre,491696,1,4,5,True,2019-04-11,Caught,2B,2019,2020,26.5
+26,1B,,Caught Stealing 2B,656305,Matt Chapman,488768,Andrew Cashner,572039,Stephen Piscotty,R,Jesús Sucre,491696,4,2,3,True,2019-04-08,Caught,2B,2019,2020,26.5
+27,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,26.5
+28,2B,3B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,26.5
+29,1B,,Caught Stealing 2B,592450,Aaron Judge,502171,Alex Cobb,572228,Luke Voit,R,Jesús Sucre,491696,0,0,1,True,2019-04-04,Caught,2B,2019,2020,26.5
+30,1B,2B,Stolen Base 2B,592444,JaCoby Jones,475054,Chaz Roe,600869,Jeimer Candelario,R,Jesús Sucre,491696,0,3,9,False,2018-04-30,Stolen,2B,2018,2019,28.1
+31,1B,2B,Stolen Base 2B,519048,Mitch Moreland,489265,Sergio Romo,506702,Sandy León,R,Jesús Sucre,491696,3,3,6,False,2018-04-29,Stolen,2B,2018,2019,28.1
+32,1B,2B,Stolen Base 2B,506702,Sandy León,517008,Alex Colomé,624407,Tzu-Wei Lin,R,Jesús Sucre,491696,4,3,8,False,2018-04-29,Stolen,2B,2018,2019,28.1
+33,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,542882,Matt Andriese,664068,Scott Kingery,R,Jesús Sucre,491696,3,5,5,True,2018-04-15,Stolen,2B,2018,2019,28.1

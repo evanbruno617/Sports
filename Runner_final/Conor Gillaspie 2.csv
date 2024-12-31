@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4072,1B,,Caught Stealing 2B,543216,Conor Gillaspie,543022,Tyler Chatwood,502188,Jeff Samardzija,R,Tony Wolters,547172,0,0,3,False,2016-09-28,Caught,2B
+5593,1B,,Caught Stealing 2B,543216,Conor Gillaspie,488768,Andrew Cashner,453923,Grégor Blanco,R,Derek Norris,519083,1,1,2,True,2016-07-15,Caught,2B
+6114,1B,2B,Stolen Base 2B,543216,Conor Gillaspie,571893,Adam Liberatore,452655,Denard Span,L,A.J. Ellis,454560,2,1,7,False,2016-06-12,Stolen,2B
+1532,1B,,Caught Stealing 2B,543216,Conor Gillaspie,572888,Shane Greene,493351,Alexei Ramirez,R,Alex Avila,488671,1,2,2,False,2015-05-05,Caught,2B
+2639,1B,,Caught Stealing 2B,543216,Conor Gillaspie,431148,Scott Kazmir,493364,Dayan Viciedo,L,Geovany Soto,434567,1,0,7,False,2014-09-11,Caught,2B
+2980,1B,,Caught Stealing 2B,543216,Conor Gillaspie,547348,C.C. Lee,452095,Tyler Flowers,R,Roberto Pérez,547379,3,2,8,False,2014-08-27,Caught,2B
+3550,1B,,Caught Stealing 2B,543216,Conor Gillaspie,434671,Aníbal Sánchez,457477,Alejandro De Aza,R,Bryan Holaday,592407,2,2,4,True,2014-07-29,Caught,2B
+4274,1B,,Caught Stealing 2B,543216,Conor Gillaspie,445060,Ricky Nolasco,547989,José Abreu,R,Kurt Suzuki,435559,3,2,3,True,2014-06-20,Caught,2B
+395,1B,,Caught Stealing 2B,543216,Conor Gillaspie,431148,Scott Kazmir,493364,Dayan Viciedo,L,Geovany Soto,434567,1,0,7,False,2014-09-11,Caught,2B
+736,1B,,Caught Stealing 2B,543216,Conor Gillaspie,547348,C.C. Lee,452095,Tyler Flowers,R,Roberto Pérez,547379,3,2,8,False,2014-08-27,Caught,2B
+1306,1B,,Caught Stealing 2B,543216,Conor Gillaspie,434671,Aníbal Sánchez,457477,Alejandro De Aza,R,Bryan Holaday,592407,2,2,4,True,2014-07-29,Caught,2B
+2030,1B,,Caught Stealing 2B,543216,Conor Gillaspie,445060,Ricky Nolasco,547989,José Abreu,R,Kurt Suzuki,435559,3,2,3,True,2014-06-20,Caught,2B
+37,1B,,Caught Stealing 2B,543216,Conor Gillaspie,543022,Tyler Chatwood,502188,Jeff Samardzija,R,Tony Wolters,547172,0,0,3,False,2016-09-28,Caught,2B
+1558,1B,,Caught Stealing 2B,543216,Conor Gillaspie,488768,Andrew Cashner,453923,Grégor Blanco,R,Derek Norris,519083,1,1,2,True,2016-07-15,Caught,2B
+2079,1B,2B,Stolen Base 2B,543216,Conor Gillaspie,571893,Adam Liberatore,452655,Denard Span,L,A.J. Ellis,454560,2,1,7,False,2016-06-12,Stolen,2B
+3444,1B,,Caught Stealing 2B,543216,Conor Gillaspie,543022,Tyler Chatwood,502188,Jeff Samardzija,R,Tony Wolters,547172,0,0,3,False,2016-09-28,Caught,2B
+4965,1B,,Caught Stealing 2B,543216,Conor Gillaspie,488768,Andrew Cashner,453923,Grégor Blanco,R,Derek Norris,519083,1,1,2,True,2016-07-15,Caught,2B
+5486,1B,2B,Stolen Base 2B,543216,Conor Gillaspie,571893,Adam Liberatore,452655,Denard Span,L,A.J. Ellis,454560,2,1,7,False,2016-06-12,Stolen,2B

@@ -1,0 +1,34 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+991,1B,2B,Stolen Base 2B,546990,Anthony Alford,598264,Matt Barnes,665489,Vladimir Guerrero Jr.,R,Christian Vázquez,543877,4,3,8,True,2020-08-07,Stolen,2B
+992,2B,3B,Stolen Base 3B,546990,Anthony Alford,598264,Matt Barnes,545341,Randal Grichuk,R,Christian Vázquez,543877,4,3,8,True,2020-08-07,Stolen,3B
+1153,1B,2B,Stolen Base 2B,546990,Anthony Alford,453286,Max Scherzer,669289,Santiago Espinal,R,Kurt Suzuki,435559,0,0,8,False,2020-07-29,Stolen,2B
+1305,1B,2B,Stolen Base 2B,546990,Anthony Alford,642232,Ryan Yarbrough,643376,Danny Jansen,L,Michael Pérez,605421,3,0,4,False,2019-09-28,Stolen,2B
+1390,1B,2B,Stolen Base 2B,546990,Anthony Alford,592280,Ryan Eades,624415,Cavan Biggio,R,Chance Sisco,642082,10,10,13,False,2019-09-23,Stolen,2B
+163,1B,,Caught Stealing 2B,546990,Anthony Alford,641816,Tyler Mahle,605421,Michael Pérez,R,Tucker Barnhart,571466,1,1,4,True,2021-09-21,Caught,2B
+176,1B,,Caught Stealing 2B,546990,Anthony Alford,570666,Luis Cessa,657061,Cole Tucker,R,Tucker Barnhart,571466,4,5,4,True,2021-09-20,Caught,2B
+233,1B,2B,Stolen Base 2B,546990,Anthony Alford,622694,Elieser Hernández,640444,Wil Crowe,R,Payton Henry,668721,0,1,2,True,2021-09-17,Stolen,2B
+265,1B,,Caught Stealing 2B,546990,Anthony Alford,663574,Tony Santillan,660294,Yoshi Tsutsugo,R,Tucker Barnhart,571466,4,2,6,False,2021-09-15,Caught,2B
+424,1B,2B,Stolen Base 2B,546990,Anthony Alford,543294,Kyle Hendricks,594694,Wilmer Difo,R,Willson Contreras,575929,0,1,2,True,2021-09-04,Stolen,2B
+425,1B,2B,Stolen Base 2B,546990,Anthony Alford,664123,Scott Effross,594694,Wilmer Difo,R,Willson Contreras,575929,4,6,9,True,2021-09-04,Stolen,2B
+545,1B,2B,Stolen Base 2B,546990,Anthony Alford,621052,Alex Reyes,592325,Ben Gamel,R,Yadier Molina,425877,3,4,9,False,2021-08-27,Stolen,2B
+854,2B,,Caught Stealing 3B,546990,Anthony Alford,661269,Vladimir Gutierrez,605421,Michael Pérez,R,Tucker Barnhart,571466,0,0,2,True,2021-08-07,Caught,3B
+2840,1B,2B,Stolen Base 2B,546990,Anthony Alford,595465,Dan Winkler,570481,Erik González,R,Willson Contreras,575929,2,4,7,True,2021-04-01,Stolen,2B
+3834,1B,2B,Stolen Base 2B,546990,Anthony Alford,598264,Matt Barnes,665489,Vladimir Guerrero Jr.,R,Christian Vázquez,543877,4,3,8,True,2020-08-07,Stolen,2B
+3835,2B,3B,Stolen Base 3B,546990,Anthony Alford,598264,Matt Barnes,545341,Randal Grichuk,R,Christian Vázquez,543877,4,3,8,True,2020-08-07,Stolen,3B
+3996,1B,2B,Stolen Base 2B,546990,Anthony Alford,453286,Max Scherzer,669289,Santiago Espinal,R,Kurt Suzuki,435559,0,0,8,False,2020-07-29,Stolen,2B
+4148,1B,2B,Stolen Base 2B,546990,Anthony Alford,642232,Ryan Yarbrough,643376,Danny Jansen,L,Michael Pérez,605421,3,0,4,False,2019-09-28,Stolen,2B
+4233,1B,2B,Stolen Base 2B,546990,Anthony Alford,592280,Ryan Eades,624415,Cavan Biggio,R,Chance Sisco,642082,10,10,13,False,2019-09-23,Stolen,2B
+2087,1B,,Caught Stealing 2B,546990,Anthony Alford,641816,Tyler Mahle,605421,Michael Pérez,R,Tucker Barnhart,571466,1,1,4,True,2021-09-21,Caught,2B
+2100,1B,,Caught Stealing 2B,546990,Anthony Alford,570666,Luis Cessa,657061,Cole Tucker,R,Tucker Barnhart,571466,4,5,4,True,2021-09-20,Caught,2B
+2157,1B,2B,Stolen Base 2B,546990,Anthony Alford,622694,Elieser Hernández,640444,Wil Crowe,R,Payton Henry,668721,0,1,2,True,2021-09-17,Stolen,2B
+2189,1B,,Caught Stealing 2B,546990,Anthony Alford,663574,Tony Santillan,660294,Yoshi Tsutsugo,R,Tucker Barnhart,571466,4,2,6,False,2021-09-15,Caught,2B
+2348,1B,2B,Stolen Base 2B,546990,Anthony Alford,543294,Kyle Hendricks,594694,Wilmer Difo,R,Willson Contreras,575929,0,1,2,True,2021-09-04,Stolen,2B
+2349,1B,2B,Stolen Base 2B,546990,Anthony Alford,664123,Scott Effross,594694,Wilmer Difo,R,Willson Contreras,575929,4,6,9,True,2021-09-04,Stolen,2B
+2469,1B,2B,Stolen Base 2B,546990,Anthony Alford,621052,Alex Reyes,592325,Ben Gamel,R,Yadier Molina,425877,3,4,9,False,2021-08-27,Stolen,2B
+2778,2B,,Caught Stealing 3B,546990,Anthony Alford,661269,Vladimir Gutierrez,605421,Michael Pérez,R,Tucker Barnhart,571466,0,0,2,True,2021-08-07,Caught,3B
+4764,1B,2B,Stolen Base 2B,546990,Anthony Alford,595465,Dan Winkler,570481,Erik González,R,Willson Contreras,575929,2,4,7,True,2021-04-01,Stolen,2B
+5758,1B,2B,Stolen Base 2B,546990,Anthony Alford,598264,Matt Barnes,665489,Vladimir Guerrero Jr.,R,Christian Vázquez,543877,4,3,8,True,2020-08-07,Stolen,2B
+5759,2B,3B,Stolen Base 3B,546990,Anthony Alford,598264,Matt Barnes,545341,Randal Grichuk,R,Christian Vázquez,543877,4,3,8,True,2020-08-07,Stolen,3B
+5920,1B,2B,Stolen Base 2B,546990,Anthony Alford,453286,Max Scherzer,669289,Santiago Espinal,R,Kurt Suzuki,435559,0,0,8,False,2020-07-29,Stolen,2B
+6072,1B,2B,Stolen Base 2B,546990,Anthony Alford,642232,Ryan Yarbrough,643376,Danny Jansen,L,Michael Pérez,605421,3,0,4,False,2019-09-28,Stolen,2B
+6157,1B,2B,Stolen Base 2B,546990,Anthony Alford,592280,Ryan Eades,624415,Cavan Biggio,R,Chance Sisco,642082,10,10,13,False,2019-09-23,Stolen,2B

@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3360,1B,2B,Stolen Base 2B,669701,Josh Smith,606965,Chris Devenski,543760,Marcus Semien,R,Matt Thaiss,642136,7,12,7,True,2023-05-07,Stolen,2B
+275,1B,,Caught Stealing 2B,669701,Josh Smith,658431,Adonis Medina,543760,Marcus Semien,R,Tomás Nido,621512,3,5,5,True,2022-07-02,Caught,2B
+410,1B,2B,Stolen Base 2B,669701,Josh Smith,680686,Josiah Gray,665750,Leody Taveras,R,Keibert Ruiz,660688,2,2,7,False,2022-06-25,Stolen,2B
+863,1B,2B,Stolen Base 2B,669701,Josh Smith,642232,Ryan Yarbrough,642201,Eli White,L,Mike Zunino,572287,0,0,3,False,2022-05-31,Stolen,2B
+125,1B,2B,Stolen Base 2B,669701,Josh Smith,695243,Mason Miller,694671,Wyatt Langford,R,Shea Langeliers,669127,4,4,9,True,2024-09-24,Stolen,2B
+303,1B,2B,Stolen Base 2B,669701,Josh Smith,605135,Chris Bassitt,694671,Wyatt Langford,R,Alejandro Kirk,672386,1,3,3,False,2024-09-17,Stolen,2B
+626,1B,2B,Stolen Base 2B,669701,Josh Smith,573186,Marcus Stroman,694671,Wyatt Langford,R,Jose Trevino,624431,2,0,2,False,2024-09-04,Stolen,2B
+972,1B,,Caught Stealing 2B,669701,Josh Smith,676440,Tanner Bibee,663993,Nathaniel Lowe,R,Bo Naylor,666310,3,4,5,True,2024-08-23,Caught,2B
+1082,1B,2B,Stolen Base 2B,669701,Josh Smith,641154,Pablo López,663993,Nathaniel Lowe,R,Ryan Jeffers,680777,0,3,1,False,2024-08-18,Stolen,2B
+1609,1B,2B,Stolen Base 2B,669701,Josh Smith,621244,José Berríos,666969,Adolis García,R,Alejandro Kirk,672386,0,0,1,True,2024-07-28,Stolen,2B
+1737,3B,score,Stolen Base Home,669701,Josh Smith,676979,Garrett Crochet,663993,Nathaniel Lowe,L,Chuckie Robinson,642020,2,0,1,False,2024-07-23,Stolen,Home
+1927,1B,2B,Stolen Base 2B,669701,Josh Smith,681293,Spencer Arrighetti,663993,Nathaniel Lowe,R,Yainer Diaz,673237,1,1,4,True,2024-07-13,Stolen,2B
+1929,1B,,Caught Stealing 2B,669701,Josh Smith,605463,Tayler Scott,694671,Wyatt Langford,R,Yainer Diaz,673237,1,1,9,True,2024-07-13,Caught,2B
+2820,1B,2B,Stolen Base 2B,669701,Josh Smith,666214,Joey Wentz,666969,Adolis García,L,Jake Rogers,668670,0,0,1,False,2024-06-05,Stolen,2B
+2998,1B,2B,Stolen Base 2B,669701,Josh Smith,676714,Brandon Hughes,666969,Adolis García,L,Gabriel Moreno,672515,4,2,8,False,2024-05-28,Stolen,2B
+3084,1B,2B,Stolen Base 2B,669701,Josh Smith,681892,Kody Funderburk,665750,Leody Taveras,L,Ryan Jeffers,680777,1,3,6,True,2024-05-25,Stolen,2B
+3493,1B,2B,Stolen Base 2B,669701,Josh Smith,666205,Kyle Muller,641680,Jonah Heim,L,Kyle McCann,668832,6,10,8,True,2024-05-08,Stolen,2B
+7774,1B,2B,Stolen Base 2B,669701,Josh Smith,606965,Chris Devenski,543760,Marcus Semien,R,Matt Thaiss,642136,7,12,7,True,2023-05-07,Stolen,2B

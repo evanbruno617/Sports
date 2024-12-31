@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+6812,1B,2B,Stolen Base 2B,457789,Jemile Weeks,592789,Noah Syndergaard,518466,Jabari Blash,R,René Rivera,425784,1,0,5,False,2016-05-06,Stolen,2B
+2242,1B,2B,Stolen Base 2B,457789,Jemile Weeks,571800,Drew Hutchison,488703,Jeff Bianchi,R,Jack Murphy,571975,0,2,2,False,2015-04-01,Stolen,2B
+2634,2B,3B,Stolen Base 3B,457789,Jemile Weeks,543070,Aaron Crow,605141,Mookie Betts,R,Salvador Perez,521692,3,6,8,True,2014-09-11,Stolen,3B
+2818,1B,2B,Stolen Base 2B,457789,Jemile Weeks,476454,Dellin Betances,605141,Mookie Betts,R,Brian McCann,435263,5,1,8,True,2014-09-03,Stolen,2B
+390,2B,3B,Stolen Base 3B,457789,Jemile Weeks,543070,Aaron Crow,605141,Mookie Betts,R,Salvador Perez,521692,3,6,8,True,2014-09-11,Stolen,3B
+574,1B,2B,Stolen Base 2B,457789,Jemile Weeks,476454,Dellin Betances,605141,Mookie Betts,R,Brian McCann,435263,5,1,8,True,2014-09-03,Stolen,2B
+2777,1B,2B,Stolen Base 2B,457789,Jemile Weeks,592789,Noah Syndergaard,518466,Jabari Blash,R,René Rivera,425784,1,0,5,False,2016-05-06,Stolen,2B
+6184,1B,2B,Stolen Base 2B,457789,Jemile Weeks,592789,Noah Syndergaard,518466,Jabari Blash,R,René Rivera,425784,1,0,5,False,2016-05-06,Stolen,2B

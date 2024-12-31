@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,545350,Jake Marisnick,518886,Craig Kimbrel,474233,Hank Conger,R,Wil Nieves,408242,1,4,9,True,2015-04-29,Stolen,2B,2015,2016,29.1
+1,2B,3B,Stolen Base 3B,545350,Jake Marisnick,518886,Craig Kimbrel,594828,Evan Gattis,R,Wil Nieves,408242,1,5,9,True,2015-04-29,Stolen,3B,2015,2016,29.1
+2,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,475115,Tyson Ross,453064,Troy Tulowitzki,R,Wil Nieves,408242,1,0,2,False,2015-04-23,Stolen,2B,2015,2016,29.1
+3,1B,2B,Stolen Base 2B,519203,Anthony Rizzo,475115,Tyson Ross,592178,Kris Bryant,R,Wil Nieves,408242,0,2,1,False,2015-04-18,Stolen,2B,2015,2016,29.1
+4,1B,2B,Stolen Base 2B,468406,Jonathan Herrera,475115,Tyson Ross,451594,Dexter Fowler,R,Wil Nieves,408242,0,2,5,False,2015-04-18,Stolen,2B,2015,2016,29.1
+5,1B,2B,Stolen Base 2B,519333,Matt Szczur,445612,Dale Thayer,468406,Jonathan Herrera,R,Wil Nieves,408242,6,6,10,False,2015-04-18,Stolen,2B,2015,2016,29.1
+6,1B,2B,Stolen Base 2B,519203,Anthony Rizzo,518886,Craig Kimbrel,592178,Kris Bryant,R,Wil Nieves,408242,6,6,11,False,2015-04-18,Stolen,2B,2015,2016,29.1

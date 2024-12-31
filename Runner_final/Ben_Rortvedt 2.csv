@@ -1,0 +1,41 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,,Caught Stealing 2B,593160,Whit Merrifield,501381,Michael Pineda,643217,Andrew Benintendi,R,Ben Rortvedt,666163,0,0,1,True,2021-09-11,Caught,2B,2021,2022,28.6
+1,1B,2B,Stolen Base 2B,608070,José Ramírez,607231,John Gant,614177,Franmil Reyes,R,Ben Rortvedt,666163,0,0,1,False,2021-09-07,Stolen,2B,2021,2022,28.6
+2,1B,,Caught Stealing 2B,668731,Akil Baddoo,628317,Kenta Maeda,570731,Jonathan Schoop,R,Ben Rortvedt,666163,0,0,1,True,2021-07-09,Caught,2B,2021,2022,28.6
+3,1B,,Caught Stealing 2B,641313,Tim Anderson,501381,Michael Pineda,571718,Brian Goodwin,R,Ben Rortvedt,666163,0,0,1,True,2021-07-07,Caught,2B,2021,2022,28.6
+4,2B,3B,Stolen Base 3B,641553,Adam Engel,501381,Michael Pineda,544725,Leury García,R,Ben Rortvedt,666163,1,4,6,True,2021-07-07,Stolen,3B,2021,2022,28.6
+5,2B,,Caught Stealing 3B,572191,Michael A. Taylor,457918,J.A. Happ,593160,Whit Merrifield,L,Ben Rortvedt,666163,3,3,2,False,2021-07-02,Caught,3B,2021,2022,28.6
+6,1B,2B,Caught Stealing 3B,670032,Nicky Lopez,457918,J.A. Happ,593160,Whit Merrifield,L,Ben Rortvedt,666163,3,3,2,False,2021-07-02,Caught,3B,2021,2022,28.6
+7,1B,2B,Stolen Base 2B,592696,Eddie Rosario,621244,José Berríos,656252,Bobby Bradley,R,Ben Rortvedt,666163,1,1,6,True,2021-06-24,Stolen,2B,2021,2022,28.6
+8,1B,2B,Stolen Base 2B,593160,Whit Merrifield,533167,Matt Shoemaker,467793,Carlos Santana,R,Ben Rortvedt,666163,0,0,1,False,2021-06-04,Stolen,2B,2021,2022,28.6
+9,1B,,Caught Stealing 2B,592348,Niko Goodrum,621244,José Berríos,650489,Willi Castro,R,Ben Rortvedt,666163,2,2,6,False,2021-05-08,Caught,2B,2021,2022,28.6
+10,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,628317,Kenta Maeda,518586,Charlie Culberson,R,Ben Rortvedt,666163,0,0,2,True,2021-05-03,Stolen,2B,2021,2022,28.6
+11,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,628317,Kenta Maeda,608336,Joey Gallo,R,Ben Rortvedt,666163,1,0,3,True,2021-05-03,Stolen,2B,2021,2022,28.6
+12,1B,,Caught Stealing 2B,593160,Whit Merrifield,501381,Michael Pineda,643217,Andrew Benintendi,R,Ben Rortvedt,666163,0,0,1,True,2021-09-11,Caught,2B,2021,2022,28.6
+13,1B,2B,Stolen Base 2B,608070,José Ramírez,607231,John Gant,614177,Franmil Reyes,R,Ben Rortvedt,666163,0,0,1,False,2021-09-07,Stolen,2B,2021,2022,28.6
+14,1B,,Caught Stealing 2B,668731,Akil Baddoo,628317,Kenta Maeda,570731,Jonathan Schoop,R,Ben Rortvedt,666163,0,0,1,True,2021-07-09,Caught,2B,2021,2022,28.6
+15,1B,,Caught Stealing 2B,641313,Tim Anderson,501381,Michael Pineda,571718,Brian Goodwin,R,Ben Rortvedt,666163,0,0,1,True,2021-07-07,Caught,2B,2021,2022,28.6
+16,2B,3B,Stolen Base 3B,641553,Adam Engel,501381,Michael Pineda,544725,Leury García,R,Ben Rortvedt,666163,1,4,6,True,2021-07-07,Stolen,3B,2021,2022,28.6
+17,2B,,Caught Stealing 3B,572191,Michael A. Taylor,457918,J.A. Happ,593160,Whit Merrifield,L,Ben Rortvedt,666163,3,3,2,False,2021-07-02,Caught,3B,2021,2022,28.6
+18,1B,2B,Caught Stealing 3B,670032,Nicky Lopez,457918,J.A. Happ,593160,Whit Merrifield,L,Ben Rortvedt,666163,3,3,2,False,2021-07-02,Caught,3B,2021,2022,28.6
+19,1B,2B,Stolen Base 2B,592696,Eddie Rosario,621244,José Berríos,656252,Bobby Bradley,R,Ben Rortvedt,666163,1,1,6,True,2021-06-24,Stolen,2B,2021,2022,28.6
+20,1B,2B,Stolen Base 2B,593160,Whit Merrifield,533167,Matt Shoemaker,467793,Carlos Santana,R,Ben Rortvedt,666163,0,0,1,False,2021-06-04,Stolen,2B,2021,2022,28.6
+21,1B,,Caught Stealing 2B,592348,Niko Goodrum,621244,José Berríos,650489,Willi Castro,R,Ben Rortvedt,666163,2,2,6,False,2021-05-08,Caught,2B,2021,2022,28.6
+22,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,628317,Kenta Maeda,518586,Charlie Culberson,R,Ben Rortvedt,666163,0,0,2,True,2021-05-03,Stolen,2B,2021,2022,28.6
+23,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,628317,Kenta Maeda,608336,Joey Gallo,R,Ben Rortvedt,666163,1,0,3,True,2021-05-03,Stolen,2B,2021,2022,28.6
+24,1B,,Caught Stealing 2B,678894,Liover Peguero,543037,Gerrit Cole,678225,Ji Hwan Bae,R,Ben Rortvedt,666163,2,1,4,False,2023-09-15,Caught,2B,2023,2024,29.0
+25,1B,2B,Stolen Base 2B,642350,Jose Siri,543037,Gerrit Cole,542194,Christian Bethancourt,R,Ben Rortvedt,666163,1,6,8,False,2023-08-25,Stolen,2B,2023,2024,29.0
+26,1B,2B,Stolen Base 2B,622569,Pablo Reyes,543037,Gerrit Cole,657136,Connor Wong,R,Ben Rortvedt,666163,0,6,4,True,2023-08-19,Stolen,2B,2023,2024,29.0
+27,1B,2B,Stolen Base 2B,514888,Jose Altuve,641482,Nestor Cortes,608324,Alex Bregman,L,Ben Rortvedt,666163,0,0,1,True,2023-08-05,Stolen,2B,2023,2024,29.0
+28,1B,,Caught Stealing 2B,676801,Chas McCormick,641656,Ian Hamilton,666197,Grae Kessinger,R,Ben Rortvedt,666163,1,1,5,True,2023-08-05,Caught,2B,2023,2024,29.0
+29,1B,2B,Stolen Base 2B,514888,Jose Altuve,657376,Clarke Schmidt,665161,Jeremy Peña,R,Ben Rortvedt,666163,3,2,5,True,2023-08-03,Stolen,2B,2023,2024,29.0
+30,1B,,Caught Stealing 2B,642350,Jose Siri,666745,Jhony Brito,542194,Christian Bethancourt,R,Ben Rortvedt,666163,0,2,2,True,2023-07-31,Caught,2B,2023,2024,29.0
+31,1B,2B,Stolen Base 2B,670042,Luke Raley,593334,Domingo Germán,670623,Isaac Paredes,R,Ben Rortvedt,666163,1,5,6,True,2023-07-31,Stolen,2B,2023,2024,29.0
+32,1B,,Caught Stealing 2B,678894,Liover Peguero,543037,Gerrit Cole,678225,Ji Hwan Bae,R,Ben Rortvedt,666163,2,1,4,False,2023-09-15,Caught,2B,2023,2024,29.0
+33,1B,2B,Stolen Base 2B,642350,Jose Siri,543037,Gerrit Cole,542194,Christian Bethancourt,R,Ben Rortvedt,666163,1,6,8,False,2023-08-25,Stolen,2B,2023,2024,29.0
+34,1B,2B,Stolen Base 2B,622569,Pablo Reyes,543037,Gerrit Cole,657136,Connor Wong,R,Ben Rortvedt,666163,0,6,4,True,2023-08-19,Stolen,2B,2023,2024,29.0
+35,1B,2B,Stolen Base 2B,514888,Jose Altuve,641482,Nestor Cortes,608324,Alex Bregman,L,Ben Rortvedt,666163,0,0,1,True,2023-08-05,Stolen,2B,2023,2024,29.0
+36,1B,,Caught Stealing 2B,676801,Chas McCormick,641656,Ian Hamilton,666197,Grae Kessinger,R,Ben Rortvedt,666163,1,1,5,True,2023-08-05,Caught,2B,2023,2024,29.0
+37,1B,2B,Stolen Base 2B,514888,Jose Altuve,657376,Clarke Schmidt,665161,Jeremy Peña,R,Ben Rortvedt,666163,3,2,5,True,2023-08-03,Stolen,2B,2023,2024,29.0
+38,1B,,Caught Stealing 2B,642350,Jose Siri,666745,Jhony Brito,542194,Christian Bethancourt,R,Ben Rortvedt,666163,0,2,2,True,2023-07-31,Caught,2B,2023,2024,29.0
+39,1B,2B,Stolen Base 2B,670042,Luke Raley,593334,Domingo Germán,670623,Isaac Paredes,R,Ben Rortvedt,666163,1,5,6,True,2023-07-31,Stolen,2B,2023,2024,29.0

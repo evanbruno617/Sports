@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1023,1B,2B,Stolen Base 2B,602922,José Rondón,664208,Phil Maton,657557,Paul DeJong,R,Roberto Pérez,547379,2,3,9,True,2021-07-27,Stolen,2B
+1664,1B,2B,Stolen Base 2B,602922,José Rondón,669432,Trevor Rogers,666185,Dylan Carlson,L,Jorge Alfaro,595751,0,1,6,False,2021-06-15,Stolen,2B
+2947,1B,2B,Stolen Base 2B,602922,José Rondón,664208,Phil Maton,657557,Paul DeJong,R,Roberto Pérez,547379,2,3,9,True,2021-07-27,Stolen,2B
+3588,1B,2B,Stolen Base 2B,602922,José Rondón,669432,Trevor Rogers,666185,Dylan Carlson,L,Jorge Alfaro,595751,0,1,6,False,2021-06-15,Stolen,2B

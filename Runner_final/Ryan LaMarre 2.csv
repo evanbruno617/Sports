@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1314,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,623470,Jake Newberry,595909,Jake Cave,R,Meibrys Viloria,650619,2,6,6,True,2019-09-27,Stolen,2B
+1438,1B,,Caught Stealing 2B,534606,Ryan LaMarre,543557,Mike Montgomery,641598,Mitch Garver,L,Meibrys Viloria,650619,4,4,4,False,2019-09-19,Caught,2B
+1156,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,650382,Darwinzon Hernández,656185,Greg Allen,L,Christian Vázquez,543877,5,0,7,False,2021-07-18,Stolen,2B
+4157,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,623470,Jake Newberry,595909,Jake Cave,R,Meibrys Viloria,650619,2,6,6,True,2019-09-27,Stolen,2B
+4281,1B,,Caught Stealing 2B,534606,Ryan LaMarre,543557,Mike Montgomery,641598,Mitch Garver,L,Meibrys Viloria,650619,4,4,4,False,2019-09-19,Caught,2B
+3080,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,650382,Darwinzon Hernández,656185,Greg Allen,L,Christian Vázquez,543877,5,0,7,False,2021-07-18,Stolen,2B
+6081,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,623470,Jake Newberry,595909,Jake Cave,R,Meibrys Viloria,650619,2,6,6,True,2019-09-27,Stolen,2B
+6205,1B,,Caught Stealing 2B,534606,Ryan LaMarre,543557,Mike Montgomery,641598,Mitch Garver,L,Meibrys Viloria,650619,4,4,4,False,2019-09-19,Caught,2B

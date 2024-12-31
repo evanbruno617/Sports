@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1833,1B,2B,Stolen Base 2B,699114,Leo Balcazar,682528,Danny Chang,606157,Aristides Aquino,L,Cal Raleigh,663728,8,9,8,False,2022-04-05,Stolen,2B
+1834,2B,3B,Stolen Base 3B,699114,Leo Balcazar,682726,Jose Aquino,702472,Austin Callahan,L,Cal Raleigh,663728,10,9,8,False,2022-04-05,Stolen,3B

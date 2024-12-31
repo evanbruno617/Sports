@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+241,1B,2B,Stolen Base 2B,570799,Christian Villanueva,643327,Zack Godley,614173,Franchy Cordero,R,John Ryan Murphy,571974,2,2,3,True,2018-04-21,Stolen,2B

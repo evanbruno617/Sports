@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4382,1B,2B,Stolen Base 2B,445988,Martín Prado,606291,Mauricio Cabrera,542303,Marcell Ozuna,R,Tyler Flowers,452095,4,6,8,True,2016-09-14,Stolen,2B
+5551,1B,2B,Stolen Base 2B,445988,Martín Prado,543779,Kevin Siegrist,519317,Giancarlo Stanton,L,Alberto Rosario,451705,3,6,8,True,2016-07-17,Stolen,2B
+6712,1B,,Caught Stealing 2B,445988,Martín Prado,502624,Chase Anderson,592885,Christian Yelich,R,Jonathan Lucroy,518960,0,0,4,False,2016-05-11,Caught,2B
+3416,1B,2B,Stolen Base 2B,445988,Martín Prado,453286,Max Scherzer,400085,Ichiro Suzuki,R,Alex Avila,488671,2,0,4,False,2014-08-04,Stolen,2B
+3770,1B,2B,Caught Stealing 3B,445988,Martín Prado,518516,Madison Bumgarner,502671,Paul Goldschmidt,L,Buster Posey,457763,4,1,6,True,2014-07-13,Caught,3B
+3928,1B,2B,Stolen Base 2B,445988,Martín Prado,460008,Anthony Varvaro,444482,David Peralta,R,Christian Bethancourt,542194,1,2,9,True,2014-07-06,Stolen,2B
+4615,2B,3B,Stolen Base 3B,445988,Martín Prado,407822,Jorge De La Rosa,425496,Cody Ross,L,Wilin Rosario,501647,0,3,5,True,2014-06-03,Stolen,3B
+5368,1B,,Caught Stealing 2B,445988,Martín Prado,424324,Cliff Lee,502671,Paul Goldschmidt,L,Carlos Ruiz,434563,3,0,2,False,2014-04-26,Caught,2B
+1172,1B,2B,Stolen Base 2B,445988,Martín Prado,453286,Max Scherzer,400085,Ichiro Suzuki,R,Alex Avila,488671,2,0,4,False,2014-08-04,Stolen,2B
+1526,1B,2B,Caught Stealing 3B,445988,Martín Prado,518516,Madison Bumgarner,502671,Paul Goldschmidt,L,Buster Posey,457763,4,1,6,True,2014-07-13,Caught,3B
+1684,1B,2B,Stolen Base 2B,445988,Martín Prado,460008,Anthony Varvaro,444482,David Peralta,R,Christian Bethancourt,542194,1,2,9,True,2014-07-06,Stolen,2B
+2371,2B,3B,Stolen Base 3B,445988,Martín Prado,407822,Jorge De La Rosa,425496,Cody Ross,L,Wilin Rosario,501647,0,3,5,True,2014-06-03,Stolen,3B
+3124,1B,,Caught Stealing 2B,445988,Martín Prado,424324,Cliff Lee,502671,Paul Goldschmidt,L,Carlos Ruiz,434563,3,0,2,False,2014-04-26,Caught,2B
+347,1B,2B,Stolen Base 2B,445988,Martín Prado,606291,Mauricio Cabrera,542303,Marcell Ozuna,R,Tyler Flowers,452095,4,6,8,True,2016-09-14,Stolen,2B
+1516,1B,2B,Stolen Base 2B,445988,Martín Prado,543779,Kevin Siegrist,519317,Giancarlo Stanton,L,Alberto Rosario,451705,3,6,8,True,2016-07-17,Stolen,2B
+2677,1B,,Caught Stealing 2B,445988,Martín Prado,502624,Chase Anderson,592885,Christian Yelich,R,Jonathan Lucroy,518960,0,0,4,False,2016-05-11,Caught,2B
+3754,1B,2B,Stolen Base 2B,445988,Martín Prado,606291,Mauricio Cabrera,542303,Marcell Ozuna,R,Tyler Flowers,452095,4,6,8,True,2016-09-14,Stolen,2B
+4923,1B,2B,Stolen Base 2B,445988,Martín Prado,543779,Kevin Siegrist,519317,Giancarlo Stanton,L,Alberto Rosario,451705,3,6,8,True,2016-07-17,Stolen,2B
+6084,1B,,Caught Stealing 2B,445988,Martín Prado,502624,Chase Anderson,592885,Christian Yelich,R,Jonathan Lucroy,518960,0,0,4,False,2016-05-11,Caught,2B

@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+59,1B,2B,Stolen Base 2B,656695,J.J. Matijevic,592789,Noah Syndergaard,676694,Jake Meyers,R,Max Stassi,545358,1,3,4,True,2022-07-12,Stolen,2B

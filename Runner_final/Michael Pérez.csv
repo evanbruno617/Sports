@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+218,1B,,Caught Stealing 2B,605421,Michael Pérez,669294,Paul Campbell,657061,Cole Tucker,R,Nick Fortes,663743,2,6,7,True,2021-09-18,Caught,2B
+912,1B,2B,Stolen Base 2B,605421,Michael Pérez,605397,Joe Musgrove,668751,Cal Mitchell,R,Austin Nola,543592,1,1,4,True,2022-05-28,Stolen,2B
+2142,1B,,Caught Stealing 2B,605421,Michael Pérez,669294,Paul Campbell,657061,Cole Tucker,R,Nick Fortes,663743,2,6,7,True,2021-09-18,Caught,2B

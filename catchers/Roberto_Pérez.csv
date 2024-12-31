@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,4,1B,,Caught Stealing 2B,457705,Andrew McCutchen,656605,Mitch Keller,642133,Rowdy Tellez,R,Roberto Pérez,547379,1,2,4,True,2022-04-26,Caught,2B,2022,2023,29.4,2023, 74.5, 0.68
+1,5,1B,2B,Stolen Base 2B,543939,Kolten Wong,592390,Heath Hembree,642715,Willy Adames,R,Roberto Pérez,547379,4,10,6,True,2022-04-26,Stolen,2B,2022,2023,29.4,2023, 74.5, 0.68
+2,6,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,676641,Beau Sulser,642133,Rowdy Tellez,R,Roberto Pérez,547379,7,10,9,True,2022-04-26,Stolen,2B,2022,2023,29.4,2023, 74.5, 0.68
+3,7,1B,2B,Stolen Base 2B,663538,Nico Hoerner,592390,Heath Hembree,542364,Rafael Ortega,R,Roberto Pérez,547379,3,4,7,False,2022-04-21,Stolen,2B,2022,2023,29.4,2023, 74.5, 0.68
+4,8,2B,,Caught Stealing 3B,456715,Lorenzo Cain,596071,Dillon Peters,543939,Kolten Wong,L,Roberto Pérez,547379,6,1,6,False,2022-04-18,Caught,3B,2022,2023,29.4,2023, 74.5, 0.68
+5,9,1B,2B,Stolen Base 2B,444876,Alcides Escobar,656605,Mitch Keller,514917,César Hernández,R,Roberto Pérez,547379,0,2,2,True,2022-04-15,Stolen,2B,2022,2023,29.4,2023, 74.5, 0.68
+6,10,1B,2B,Stolen Base 2B,666185,Dylan Carlson,656605,Mitch Keller,641933,Tyler O'Neill,R,Roberto Pérez,547379,0,1,1,False,2022-04-09,Stolen,2B,2022,2023,29.4,2023, 74.5, 0.68
+7,11,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,592390,Heath Hembree,641933,Tyler O'Neill,R,Roberto Pérez,547379,5,0,6,False,2022-04-07,Stolen,2B,2022,2023,29.4,2023, 74.5, 0.68

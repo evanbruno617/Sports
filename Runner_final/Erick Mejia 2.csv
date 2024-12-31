@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+244,1B,2B,Stolen Base 2B,625510,Erick Mejia,596057,Daniel Norris,670032,Nicky Lopez,L,Eric Haase,606992,0,4,9,True,2020-09-16,Stolen,2B
+3087,1B,2B,Stolen Base 2B,625510,Erick Mejia,596057,Daniel Norris,670032,Nicky Lopez,L,Eric Haase,606992,0,4,9,True,2020-09-16,Stolen,2B
+5011,1B,2B,Stolen Base 2B,625510,Erick Mejia,596057,Daniel Norris,670032,Nicky Lopez,L,Eric Haase,606992,0,4,9,True,2020-09-16,Stolen,2B

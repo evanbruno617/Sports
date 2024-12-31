@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1156,1B,,Caught Stealing 2B,660766,Juan Yepez,605400,Aaron Nola,677588,José Tena,R,J.T. Realmuto,592663,0,0,2,True,2024-08-16,Caught,2B
+1366,1B,2B,Stolen Base 2B,660766,Juan Yepez,605483,Blake Snell,623912,Harold Ramírez,L,Patrick Bailey,672275,0,0,1,False,2024-08-07,Stolen,2B
+1892,1B,2B,Stolen Base 2B,660766,Juan Yepez,607067,Colin Rea,660688,Keibert Ruiz,R,William Contreras,661388,1,0,2,True,2024-07-14,Stolen,2B

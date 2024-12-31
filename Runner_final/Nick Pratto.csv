@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3150,1B,2B,Stolen Base 2B,668472,Nick Pratto,506433,Yu Darvish,686681,Michael Massey,R,Austin Nola,543592,0,1,5,True,2023-05-17,Stolen,2B
+3581,1B,,Caught Stealing 2B,668472,Nick Pratto,573204,Caleb Thielbar,664728,Kyle Isbel,L,Ryan Jeffers,680777,1,1,6,True,2023-04-29,Caught,2B
+7564,1B,2B,Stolen Base 2B,668472,Nick Pratto,506433,Yu Darvish,686681,Michael Massey,R,Austin Nola,543592,0,1,5,True,2023-05-17,Stolen,2B
+7995,1B,,Caught Stealing 2B,668472,Nick Pratto,573204,Caleb Thielbar,664728,Kyle Isbel,L,Ryan Jeffers,680777,1,1,6,True,2023-04-29,Caught,2B

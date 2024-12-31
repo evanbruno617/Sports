@@ -1,0 +1,154 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,642423,Magneuris Sierra,621261,Corey Oswalt,656509,Monte Harrison,R,Tomás Nido,621512,2,3,5,False,2020-08-18,Stolen,2B,2020,2021,28.8
+1,2B,3B,Stolen Base 3B,547180,Bryce Harper,544727,Jeurys Familia,592663,J.T. Realmuto,R,Tomás Nido,621512,6,0,5,False,2020-08-15,Stolen,3B,2020,2021,28.8
+2,1B,2B,Stolen Base 2B,657193,Eddy Alvarez,594798,Jacob deGrom,656509,Monte Harrison,R,Tomás Nido,621512,2,0,4,True,2020-08-09,Stolen,2B,2020,2021,28.8
+3,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,572816,Corey Dickerson,R,Tomás Nido,621512,3,0,5,True,2020-08-09,Stolen,2B,2020,2021,28.8
+4,1B,2B,Stolen Base 2B,543281,Josh Harrison,623149,Paul Sewald,666198,Carter Kieboom,R,Tomás Nido,621512,5,3,5,False,2020-08-04,Stolen,2B,2020,2021,28.8
+5,1B,,Caught Stealing 2B,607208,Trea Turner,544727,Jeurys Familia,594809,Adam Eaton,R,Tomás Nido,621512,5,3,6,False,2020-08-04,Caught,2B,2020,2021,28.8
+6,1B,,Caught Stealing 2B,650402,Gleyber Torres,519144,Rick Porcello,645801,Mike Ford,R,Tomás Nido,621512,0,1,1,True,2020-07-18,Caught,2B,2020,2021,28.8
+7,1B,2B,Stolen Base 2B,642423,Magneuris Sierra,621261,Corey Oswalt,656509,Monte Harrison,R,Tomás Nido,621512,2,3,5,False,2020-08-18,Stolen,2B,2020,2021,28.8
+8,2B,3B,Stolen Base 3B,547180,Bryce Harper,544727,Jeurys Familia,592663,J.T. Realmuto,R,Tomás Nido,621512,6,0,5,False,2020-08-15,Stolen,3B,2020,2021,28.8
+9,1B,2B,Stolen Base 2B,657193,Eddy Alvarez,594798,Jacob deGrom,656509,Monte Harrison,R,Tomás Nido,621512,2,0,4,True,2020-08-09,Stolen,2B,2020,2021,28.8
+10,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,572816,Corey Dickerson,R,Tomás Nido,621512,3,0,5,True,2020-08-09,Stolen,2B,2020,2021,28.8
+11,1B,2B,Stolen Base 2B,543281,Josh Harrison,623149,Paul Sewald,666198,Carter Kieboom,R,Tomás Nido,621512,5,3,5,False,2020-08-04,Stolen,2B,2020,2021,28.8
+12,1B,,Caught Stealing 2B,607208,Trea Turner,544727,Jeurys Familia,594809,Adam Eaton,R,Tomás Nido,621512,5,3,6,False,2020-08-04,Caught,2B,2020,2021,28.8
+13,1B,,Caught Stealing 2B,650402,Gleyber Torres,519144,Rick Porcello,645801,Mike Ford,R,Tomás Nido,621512,0,1,1,True,2020-07-18,Caught,2B,2020,2021,28.8
+14,1B,2B,Stolen Base 2B,642423,Magneuris Sierra,621261,Corey Oswalt,656509,Monte Harrison,R,Tomás Nido,621512,2,3,5,False,2020-08-18,Stolen,2B,2020,2021,28.8
+15,2B,3B,Stolen Base 3B,547180,Bryce Harper,544727,Jeurys Familia,592663,J.T. Realmuto,R,Tomás Nido,621512,6,0,5,False,2020-08-15,Stolen,3B,2020,2021,28.8
+16,1B,2B,Stolen Base 2B,657193,Eddy Alvarez,594798,Jacob deGrom,656509,Monte Harrison,R,Tomás Nido,621512,2,0,4,True,2020-08-09,Stolen,2B,2020,2021,28.8
+17,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,572816,Corey Dickerson,R,Tomás Nido,621512,3,0,5,True,2020-08-09,Stolen,2B,2020,2021,28.8
+18,1B,2B,Stolen Base 2B,543281,Josh Harrison,623149,Paul Sewald,666198,Carter Kieboom,R,Tomás Nido,621512,5,3,5,False,2020-08-04,Stolen,2B,2020,2021,28.8
+19,1B,,Caught Stealing 2B,607208,Trea Turner,544727,Jeurys Familia,594809,Adam Eaton,R,Tomás Nido,621512,5,3,6,False,2020-08-04,Caught,2B,2020,2021,28.8
+20,1B,,Caught Stealing 2B,650402,Gleyber Torres,519144,Rick Porcello,645801,Mike Ford,R,Tomás Nido,621512,0,1,1,True,2020-07-18,Caught,2B,2020,2021,28.8
+21,1B,2B,Stolen Base 2B,621020,Dansby Swanson,641341,Tyler Bashlor,645277,Ozzie Albies,R,Tomás Nido,621512,4,4,10,True,2019-09-29,Stolen,2B,2019,2020,28.8
+22,1B,,Caught Stealing 2B,571740,Billy Hamilton,621141,Walker Lockett,588751,Adeiny Hechavarría,R,Tomás Nido,621512,4,5,11,True,2019-09-29,Caught,2B,2019,2020,28.8
+23,1B,2B,Stolen Base 2B,621020,Dansby Swanson,573186,Marcus Stroman,645277,Ozzie Albies,R,Tomás Nido,621512,1,2,2,True,2019-09-27,Stolen,2B,2019,2020,28.8
+24,1B,2B,Stolen Base 2B,571740,Billy Hamilton,573186,Marcus Stroman,572971,Dallas Keuchel,R,Tomás Nido,621512,2,2,4,True,2019-09-27,Stolen,2B,2019,2020,28.8
+25,1B,2B,Stolen Base 2B,571448,Nolan Arenado,592789,Noah Syndergaard,453568,Charlie Blackmon,R,Tomás Nido,621512,0,1,1,False,2019-09-18,Stolen,2B,2019,2020,28.8
+26,1B,2B,Stolen Base 2B,641658,Garrett Hampson,592789,Noah Syndergaard,624513,Dom Nuñez,R,Tomás Nido,621512,3,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+27,2B,3B,Stolen Base 3B,641658,Garrett Hampson,592789,Noah Syndergaard,624513,Dom Nuñez,R,Tomás Nido,621512,3,2,6,False,2019-09-18,Stolen,3B,2019,2020,28.8
+28,1B,2B,Stolen Base 2B,606132,Raimel Tapia,592789,Noah Syndergaard,596115,Trevor Story,R,Tomás Nido,621512,4,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+29,1B,2B,Stolen Base 2B,596115,Trevor Story,544727,Jeurys Familia,641857,Ryan McMahon,R,Tomás Nido,621512,4,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+30,1B,2B,Stolen Base 2B,621433,Brett Phillips,592789,Noah Syndergaard,656811,Ryan O'Hearn,R,Tomás Nido,621512,2,1,6,False,2019-08-16,Stolen,2B,2019,2020,28.8
+31,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,656371,Isan Díaz,R,Tomás Nido,621512,0,0,1,True,2019-08-05,Stolen,2B,2019,2020,28.8
+32,1B,2B,Stolen Base 2B,516782,Starling Marte,592789,Noah Syndergaard,605137,Josh Bell,R,Tomás Nido,621512,0,3,1,False,2019-08-04,Stolen,2B,2019,2020,28.8
+33,1B,2B,Stolen Base 2B,621028,Kevin Newman,592789,Noah Syndergaard,607732,Jacob Stallings,R,Tomás Nido,621512,0,3,2,False,2019-08-04,Stolen,2B,2019,2020,28.8
+34,1B,2B,Stolen Base 2B,570560,Yolmer Sánchez,592789,Noah Syndergaard,641553,Adam Engel,R,Tomás Nido,621512,0,2,6,False,2019-07-30,Stolen,2B,2019,2020,28.8
+35,1B,2B,Stolen Base 2B,544725,Leury García,592789,Noah Syndergaard,445055,Jon Jay,R,Tomás Nido,621512,0,2,6,False,2019-07-30,Stolen,2B,2019,2020,28.8
+36,1B,2B,Stolen Base 2B,605412,Joe Panik,592789,Noah Syndergaard,518516,Madison Bumgarner,R,Tomás Nido,621512,1,1,7,False,2019-07-18,Stolen,2B,2019,2020,28.8
+37,2B,3B,Stolen Base 3B,516416,Jean Segura,592789,Noah Syndergaard,547180,Bryce Harper,R,Tomás Nido,621512,2,3,3,True,2019-07-06,Stolen,3B,2019,2020,28.8
+38,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,621242,Edwin Díaz,457803,Jay Bruce,R,Tomás Nido,621512,6,5,9,True,2019-07-06,Stolen,2B,2019,2020,28.8
+39,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,594798,Jacob deGrom,645277,Ozzie Albies,R,Tomás Nido,621512,0,2,3,True,2019-06-28,Stolen,2B,2019,2020,28.8
+40,1B,2B,Stolen Base 2B,518692,Freddie Freeman,594798,Jacob deGrom,455976,Nick Markakis,R,Tomás Nido,621512,0,3,3,True,2019-06-28,Stolen,2B,2019,2020,28.8
+41,1B,2B,Stolen Base 2B,623520,David Bote,594798,Jacob deGrom,430935,Cole Hamels,R,Tomás Nido,621512,1,0,2,False,2019-06-23,Stolen,2B,2019,2020,28.8
+42,1B,,Caught Stealing 2B,595879,Javier Báez,594798,Jacob deGrom,518792,Jason Heyward,R,Tomás Nido,621512,2,3,6,False,2019-06-23,Caught,2B,2019,2020,28.8
+43,2B,3B,Stolen Base 3B,518792,Jason Heyward,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,3B,2019,2020,28.8
+44,1B,2B,Stolen Base 2B,623520,David Bote,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,2B,2019,2020,28.8
+45,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,623520,David Bote,L,Tomás Nido,621512,0,1,2,False,2019-06-21,Stolen,2B,2019,2020,28.8
+46,1B,2B,Stolen Base 2B,623520,David Bote,450306,Jason Vargas,546991,Albert Almora Jr.,L,Tomás Nido,621512,1,1,2,False,2019-06-21,Stolen,2B,2019,2020,28.8
+47,2B,3B,Stolen Base 3B,543305,Aaron Hicks,521655,Wilmer Font,544369,Didi Gregorius,R,Tomás Nido,621512,9,5,6,False,2019-06-11,Stolen,3B,2019,2020,28.8
+48,2B,3B,Stolen Base 3B,543305,Aaron Hicks,521655,Wilmer Font,544369,Didi Gregorius,R,Tomás Nido,621512,9,5,6,False,2019-06-10,Stolen,3B,2019,2020,28.8
+49,1B,2B,Stolen Base 2B,657077,Alex Verdugo,543193,Drew Gagnon,431145,Russell Martin,R,Tomás Nido,621512,2,0,8,False,2019-05-30,Stolen,2B,2019,2020,28.8
+50,1B,2B,Stolen Base 2B,467827,Gerardo Parra,607229,Robert Gsellman,435559,Kurt Suzuki,R,Tomás Nido,621512,7,4,7,False,2019-05-16,Stolen,2B,2019,2020,28.8
+51,1B,2B,Stolen Base 2B,622534,Manuel Margot,641341,Tyler Bashlor,595978,Austin Hedges,R,Tomás Nido,621512,3,2,7,False,2019-05-08,Stolen,2B,2019,2020,28.8
+52,1B,2B,Stolen Base 2B,621020,Dansby Swanson,641341,Tyler Bashlor,645277,Ozzie Albies,R,Tomás Nido,621512,4,4,10,True,2019-09-29,Stolen,2B,2019,2020,28.8
+53,1B,,Caught Stealing 2B,571740,Billy Hamilton,621141,Walker Lockett,588751,Adeiny Hechavarría,R,Tomás Nido,621512,4,5,11,True,2019-09-29,Caught,2B,2019,2020,28.8
+54,1B,2B,Stolen Base 2B,621020,Dansby Swanson,573186,Marcus Stroman,645277,Ozzie Albies,R,Tomás Nido,621512,1,2,2,True,2019-09-27,Stolen,2B,2019,2020,28.8
+55,1B,2B,Stolen Base 2B,571740,Billy Hamilton,573186,Marcus Stroman,572971,Dallas Keuchel,R,Tomás Nido,621512,2,2,4,True,2019-09-27,Stolen,2B,2019,2020,28.8
+56,1B,2B,Stolen Base 2B,571448,Nolan Arenado,592789,Noah Syndergaard,453568,Charlie Blackmon,R,Tomás Nido,621512,0,1,1,False,2019-09-18,Stolen,2B,2019,2020,28.8
+57,1B,2B,Stolen Base 2B,641658,Garrett Hampson,592789,Noah Syndergaard,624513,Dom Nuñez,R,Tomás Nido,621512,3,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+58,2B,3B,Stolen Base 3B,641658,Garrett Hampson,592789,Noah Syndergaard,624513,Dom Nuñez,R,Tomás Nido,621512,3,2,6,False,2019-09-18,Stolen,3B,2019,2020,28.8
+59,1B,2B,Stolen Base 2B,606132,Raimel Tapia,592789,Noah Syndergaard,596115,Trevor Story,R,Tomás Nido,621512,4,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+60,1B,2B,Stolen Base 2B,596115,Trevor Story,544727,Jeurys Familia,641857,Ryan McMahon,R,Tomás Nido,621512,4,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+61,1B,2B,Stolen Base 2B,621433,Brett Phillips,592789,Noah Syndergaard,656811,Ryan O'Hearn,R,Tomás Nido,621512,2,1,6,False,2019-08-16,Stolen,2B,2019,2020,28.8
+62,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,656371,Isan Díaz,R,Tomás Nido,621512,0,0,1,True,2019-08-05,Stolen,2B,2019,2020,28.8
+63,1B,2B,Stolen Base 2B,516782,Starling Marte,592789,Noah Syndergaard,605137,Josh Bell,R,Tomás Nido,621512,0,3,1,False,2019-08-04,Stolen,2B,2019,2020,28.8
+64,1B,2B,Stolen Base 2B,621028,Kevin Newman,592789,Noah Syndergaard,607732,Jacob Stallings,R,Tomás Nido,621512,0,3,2,False,2019-08-04,Stolen,2B,2019,2020,28.8
+65,1B,2B,Stolen Base 2B,570560,Yolmer Sánchez,592789,Noah Syndergaard,641553,Adam Engel,R,Tomás Nido,621512,0,2,6,False,2019-07-30,Stolen,2B,2019,2020,28.8
+66,1B,2B,Stolen Base 2B,544725,Leury García,592789,Noah Syndergaard,445055,Jon Jay,R,Tomás Nido,621512,0,2,6,False,2019-07-30,Stolen,2B,2019,2020,28.8
+67,1B,2B,Stolen Base 2B,605412,Joe Panik,592789,Noah Syndergaard,518516,Madison Bumgarner,R,Tomás Nido,621512,1,1,7,False,2019-07-18,Stolen,2B,2019,2020,28.8
+68,2B,3B,Stolen Base 3B,516416,Jean Segura,592789,Noah Syndergaard,547180,Bryce Harper,R,Tomás Nido,621512,2,3,3,True,2019-07-06,Stolen,3B,2019,2020,28.8
+69,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,621242,Edwin Díaz,457803,Jay Bruce,R,Tomás Nido,621512,6,5,9,True,2019-07-06,Stolen,2B,2019,2020,28.8
+70,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,594798,Jacob deGrom,645277,Ozzie Albies,R,Tomás Nido,621512,0,2,3,True,2019-06-28,Stolen,2B,2019,2020,28.8
+71,1B,2B,Stolen Base 2B,518692,Freddie Freeman,594798,Jacob deGrom,455976,Nick Markakis,R,Tomás Nido,621512,0,3,3,True,2019-06-28,Stolen,2B,2019,2020,28.8
+72,1B,2B,Stolen Base 2B,623520,David Bote,594798,Jacob deGrom,430935,Cole Hamels,R,Tomás Nido,621512,1,0,2,False,2019-06-23,Stolen,2B,2019,2020,28.8
+73,1B,,Caught Stealing 2B,595879,Javier Báez,594798,Jacob deGrom,518792,Jason Heyward,R,Tomás Nido,621512,2,3,6,False,2019-06-23,Caught,2B,2019,2020,28.8
+74,2B,3B,Stolen Base 3B,518792,Jason Heyward,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,3B,2019,2020,28.8
+75,1B,2B,Stolen Base 2B,623520,David Bote,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,2B,2019,2020,28.8
+76,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,623520,David Bote,L,Tomás Nido,621512,0,1,2,False,2019-06-21,Stolen,2B,2019,2020,28.8
+77,1B,2B,Stolen Base 2B,623520,David Bote,450306,Jason Vargas,546991,Albert Almora Jr.,L,Tomás Nido,621512,1,1,2,False,2019-06-21,Stolen,2B,2019,2020,28.8
+78,2B,3B,Stolen Base 3B,543305,Aaron Hicks,521655,Wilmer Font,544369,Didi Gregorius,R,Tomás Nido,621512,9,5,6,False,2019-06-11,Stolen,3B,2019,2020,28.8
+79,2B,3B,Stolen Base 3B,543305,Aaron Hicks,521655,Wilmer Font,544369,Didi Gregorius,R,Tomás Nido,621512,9,5,6,False,2019-06-10,Stolen,3B,2019,2020,28.8
+80,1B,2B,Stolen Base 2B,657077,Alex Verdugo,543193,Drew Gagnon,431145,Russell Martin,R,Tomás Nido,621512,2,0,8,False,2019-05-30,Stolen,2B,2019,2020,28.8
+81,1B,2B,Stolen Base 2B,467827,Gerardo Parra,607229,Robert Gsellman,435559,Kurt Suzuki,R,Tomás Nido,621512,7,4,7,False,2019-05-16,Stolen,2B,2019,2020,28.8
+82,1B,2B,Stolen Base 2B,622534,Manuel Margot,641341,Tyler Bashlor,595978,Austin Hedges,R,Tomás Nido,621512,3,2,7,False,2019-05-08,Stolen,2B,2019,2020,28.8
+83,1B,2B,Stolen Base 2B,621020,Dansby Swanson,641341,Tyler Bashlor,645277,Ozzie Albies,R,Tomás Nido,621512,4,4,10,True,2019-09-29,Stolen,2B,2019,2020,28.8
+84,1B,,Caught Stealing 2B,571740,Billy Hamilton,621141,Walker Lockett,588751,Adeiny Hechavarría,R,Tomás Nido,621512,4,5,11,True,2019-09-29,Caught,2B,2019,2020,28.8
+85,1B,2B,Stolen Base 2B,621020,Dansby Swanson,573186,Marcus Stroman,645277,Ozzie Albies,R,Tomás Nido,621512,1,2,2,True,2019-09-27,Stolen,2B,2019,2020,28.8
+86,1B,2B,Stolen Base 2B,571740,Billy Hamilton,573186,Marcus Stroman,572971,Dallas Keuchel,R,Tomás Nido,621512,2,2,4,True,2019-09-27,Stolen,2B,2019,2020,28.8
+87,1B,2B,Stolen Base 2B,571448,Nolan Arenado,592789,Noah Syndergaard,453568,Charlie Blackmon,R,Tomás Nido,621512,0,1,1,False,2019-09-18,Stolen,2B,2019,2020,28.8
+88,1B,2B,Stolen Base 2B,641658,Garrett Hampson,592789,Noah Syndergaard,624513,Dom Nuñez,R,Tomás Nido,621512,3,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+89,2B,3B,Stolen Base 3B,641658,Garrett Hampson,592789,Noah Syndergaard,624513,Dom Nuñez,R,Tomás Nido,621512,3,2,6,False,2019-09-18,Stolen,3B,2019,2020,28.8
+90,1B,2B,Stolen Base 2B,606132,Raimel Tapia,592789,Noah Syndergaard,596115,Trevor Story,R,Tomás Nido,621512,4,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+91,1B,2B,Stolen Base 2B,596115,Trevor Story,544727,Jeurys Familia,641857,Ryan McMahon,R,Tomás Nido,621512,4,2,6,False,2019-09-18,Stolen,2B,2019,2020,28.8
+92,1B,2B,Stolen Base 2B,621433,Brett Phillips,592789,Noah Syndergaard,656811,Ryan O'Hearn,R,Tomás Nido,621512,2,1,6,False,2019-08-16,Stolen,2B,2019,2020,28.8
+93,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,656371,Isan Díaz,R,Tomás Nido,621512,0,0,1,True,2019-08-05,Stolen,2B,2019,2020,28.8
+94,1B,2B,Stolen Base 2B,516782,Starling Marte,592789,Noah Syndergaard,605137,Josh Bell,R,Tomás Nido,621512,0,3,1,False,2019-08-04,Stolen,2B,2019,2020,28.8
+95,1B,2B,Stolen Base 2B,621028,Kevin Newman,592789,Noah Syndergaard,607732,Jacob Stallings,R,Tomás Nido,621512,0,3,2,False,2019-08-04,Stolen,2B,2019,2020,28.8
+96,1B,2B,Stolen Base 2B,570560,Yolmer Sánchez,592789,Noah Syndergaard,641553,Adam Engel,R,Tomás Nido,621512,0,2,6,False,2019-07-30,Stolen,2B,2019,2020,28.8
+97,1B,2B,Stolen Base 2B,544725,Leury García,592789,Noah Syndergaard,445055,Jon Jay,R,Tomás Nido,621512,0,2,6,False,2019-07-30,Stolen,2B,2019,2020,28.8
+98,1B,2B,Stolen Base 2B,605412,Joe Panik,592789,Noah Syndergaard,518516,Madison Bumgarner,R,Tomás Nido,621512,1,1,7,False,2019-07-18,Stolen,2B,2019,2020,28.8
+99,2B,3B,Stolen Base 3B,516416,Jean Segura,592789,Noah Syndergaard,547180,Bryce Harper,R,Tomás Nido,621512,2,3,3,True,2019-07-06,Stolen,3B,2019,2020,28.8
+100,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,621242,Edwin Díaz,457803,Jay Bruce,R,Tomás Nido,621512,6,5,9,True,2019-07-06,Stolen,2B,2019,2020,28.8
+101,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,594798,Jacob deGrom,645277,Ozzie Albies,R,Tomás Nido,621512,0,2,3,True,2019-06-28,Stolen,2B,2019,2020,28.8
+102,1B,2B,Stolen Base 2B,518692,Freddie Freeman,594798,Jacob deGrom,455976,Nick Markakis,R,Tomás Nido,621512,0,3,3,True,2019-06-28,Stolen,2B,2019,2020,28.8
+103,1B,2B,Stolen Base 2B,623520,David Bote,594798,Jacob deGrom,430935,Cole Hamels,R,Tomás Nido,621512,1,0,2,False,2019-06-23,Stolen,2B,2019,2020,28.8
+104,1B,,Caught Stealing 2B,595879,Javier Báez,594798,Jacob deGrom,518792,Jason Heyward,R,Tomás Nido,621512,2,3,6,False,2019-06-23,Caught,2B,2019,2020,28.8
+105,2B,3B,Stolen Base 3B,518792,Jason Heyward,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,3B,2019,2020,28.8
+106,1B,2B,Stolen Base 2B,623520,David Bote,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,2B,2019,2020,28.8
+107,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,623520,David Bote,L,Tomás Nido,621512,0,1,2,False,2019-06-21,Stolen,2B,2019,2020,28.8
+108,1B,2B,Stolen Base 2B,623520,David Bote,450306,Jason Vargas,546991,Albert Almora Jr.,L,Tomás Nido,621512,1,1,2,False,2019-06-21,Stolen,2B,2019,2020,28.8
+109,2B,3B,Stolen Base 3B,543305,Aaron Hicks,521655,Wilmer Font,544369,Didi Gregorius,R,Tomás Nido,621512,9,5,6,False,2019-06-11,Stolen,3B,2019,2020,28.8
+110,2B,3B,Stolen Base 3B,543305,Aaron Hicks,521655,Wilmer Font,544369,Didi Gregorius,R,Tomás Nido,621512,9,5,6,False,2019-06-10,Stolen,3B,2019,2020,28.8
+111,1B,2B,Stolen Base 2B,657077,Alex Verdugo,543193,Drew Gagnon,431145,Russell Martin,R,Tomás Nido,621512,2,0,8,False,2019-05-30,Stolen,2B,2019,2020,28.8
+112,1B,2B,Stolen Base 2B,467827,Gerardo Parra,607229,Robert Gsellman,435559,Kurt Suzuki,R,Tomás Nido,621512,7,4,7,False,2019-05-16,Stolen,2B,2019,2020,28.8
+113,1B,2B,Stolen Base 2B,622534,Manuel Margot,641341,Tyler Bashlor,595978,Austin Hedges,R,Tomás Nido,621512,3,2,7,False,2019-05-08,Stolen,2B,2019,2020,28.8
+114,1B,,Caught Stealing 2B,660821,Jesús Sánchez,573186,Marcus Stroman,650331,Lewin Díaz,R,Tomás Nido,621512,0,0,1,True,2021-09-28,Caught,2B,2021,2022,29.5
+115,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,573186,Marcus Stroman,650559,Bryan De La Cruz,R,Tomás Nido,621512,1,0,3,True,2021-09-28,Caught,2B,2021,2022,29.5
+116,1B,,Caught Stealing 2B,671277,Luis García Jr.,573186,Marcus Stroman,656180,Riley Adams,R,Tomás Nido,621512,0,0,2,True,2021-08-12,Caught,2B,2021,2022,29.5
+117,1B,,Caught Stealing 2B,546318,Odúbel Herrera,573186,Marcus Stroman,516416,Jean Segura,R,Tomás Nido,621512,0,0,1,False,2021-08-06,Caught,2B,2021,2022,29.5
+118,1B,,Caught Stealing 2B,663897,Luke Williams,621242,Edwin Díaz,595284,Andrew Knapp,R,Tomás Nido,621512,4,1,8,False,2021-08-06,Caught,2B,2021,2022,29.5
+119,1B,2B,Stolen Base 2B,571980,Tyler Naquin,622098,Drew Smith,606157,Aristides Aquino,R,Tomás Nido,621512,1,4,8,True,2021-08-01,Stolen,2B,2021,2022,29.5
+120,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592836,Taijuan Walker,605421,Michael Pérez,R,Tomás Nido,621512,3,0,1,False,2021-07-18,Stolen,2B,2021,2022,29.5
+121,1B,2B,Stolen Base 2B,666931,Jared Oliva,622098,Drew Smith,663647,Ke'Bryan Hayes,R,Tomás Nido,621512,2,6,7,True,2021-07-10,Stolen,2B,2021,2022,29.5
+122,1B,2B,Stolen Base 2B,543281,Josh Harrison,656849,David Peterson,488671,Alex Avila,L,Tomás Nido,621512,0,3,4,False,2021-06-19,Stolen,2B,2021,2022,29.5
+123,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,594798,Jacob deGrom,543333,Eric Hosmer,R,Tomás Nido,621512,0,3,6,False,2021-06-05,Stolen,2B,2021,2022,29.5
+124,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Tomás Nido,621512,0,0,1,True,2021-05-29,Caught,2B,2021,2022,29.5
+125,1B,2B,Stolen Base 2B,641857,Ryan McMahon,573186,Marcus Stroman,596115,Trevor Story,R,Tomás Nido,621512,0,0,1,True,2021-05-27,Stolen,2B,2021,2022,29.5
+126,1B,,Caught Stealing 2B,641658,Garrett Hampson,660546,Yennsy Díaz,553869,Elias Díaz,R,Tomás Nido,621512,1,3,9,True,2021-05-24,Caught,2B,2021,2022,29.5
+127,1B,2B,Stolen Base 2B,621563,Joey Wendle,622098,Drew Smith,622534,Manuel Margot,R,Tomás Nido,621512,1,0,1,False,2021-05-15,Stolen,2B,2021,2022,29.5
+128,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,657141,Jordan Yamamoto,664056,Harrison Bader,R,Tomás Nido,621512,0,4,4,False,2021-05-05,Stolen,2B,2021,2022,29.5
+129,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,657141,Jordan Yamamoto,664056,Harrison Bader,R,Tomás Nido,621512,0,4,4,False,2021-05-04,Stolen,2B,2021,2022,29.5
+130,1B,2B,Stolen Base 2B,543281,Josh Harrison,656849,David Peterson,488671,Alex Avila,L,Tomás Nido,621512,0,3,4,False,2021-04-01,Stolen,2B,2021,2022,29.5
+131,1B,,Caught Stealing 2B,660821,Jesús Sánchez,573186,Marcus Stroman,650331,Lewin Díaz,R,Tomás Nido,621512,0,0,1,True,2021-09-28,Caught,2B,2021,2022,29.5
+132,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,573186,Marcus Stroman,650559,Bryan De La Cruz,R,Tomás Nido,621512,1,0,3,True,2021-09-28,Caught,2B,2021,2022,29.5
+133,1B,,Caught Stealing 2B,671277,Luis García Jr.,573186,Marcus Stroman,656180,Riley Adams,R,Tomás Nido,621512,0,0,2,True,2021-08-12,Caught,2B,2021,2022,29.5
+134,1B,,Caught Stealing 2B,546318,Odúbel Herrera,573186,Marcus Stroman,516416,Jean Segura,R,Tomás Nido,621512,0,0,1,False,2021-08-06,Caught,2B,2021,2022,29.5
+135,1B,,Caught Stealing 2B,663897,Luke Williams,621242,Edwin Díaz,595284,Andrew Knapp,R,Tomás Nido,621512,4,1,8,False,2021-08-06,Caught,2B,2021,2022,29.5
+136,1B,2B,Stolen Base 2B,571980,Tyler Naquin,622098,Drew Smith,606157,Aristides Aquino,R,Tomás Nido,621512,1,4,8,True,2021-08-01,Stolen,2B,2021,2022,29.5
+137,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592836,Taijuan Walker,605421,Michael Pérez,R,Tomás Nido,621512,3,0,1,False,2021-07-18,Stolen,2B,2021,2022,29.5
+138,1B,2B,Stolen Base 2B,666931,Jared Oliva,622098,Drew Smith,663647,Ke'Bryan Hayes,R,Tomás Nido,621512,2,6,7,True,2021-07-10,Stolen,2B,2021,2022,29.5
+139,1B,2B,Stolen Base 2B,543281,Josh Harrison,656849,David Peterson,488671,Alex Avila,L,Tomás Nido,621512,0,3,4,False,2021-06-19,Stolen,2B,2021,2022,29.5
+140,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,594798,Jacob deGrom,543333,Eric Hosmer,R,Tomás Nido,621512,0,3,6,False,2021-06-05,Stolen,2B,2021,2022,29.5
+141,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Tomás Nido,621512,0,0,1,True,2021-05-29,Caught,2B,2021,2022,29.5
+142,1B,2B,Stolen Base 2B,641857,Ryan McMahon,573186,Marcus Stroman,596115,Trevor Story,R,Tomás Nido,621512,0,0,1,True,2021-05-27,Stolen,2B,2021,2022,29.5
+143,1B,,Caught Stealing 2B,641658,Garrett Hampson,660546,Yennsy Díaz,553869,Elias Díaz,R,Tomás Nido,621512,1,3,9,True,2021-05-24,Caught,2B,2021,2022,29.5
+144,1B,2B,Stolen Base 2B,621563,Joey Wendle,622098,Drew Smith,622534,Manuel Margot,R,Tomás Nido,621512,1,0,1,False,2021-05-15,Stolen,2B,2021,2022,29.5
+145,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,657141,Jordan Yamamoto,664056,Harrison Bader,R,Tomás Nido,621512,0,4,4,False,2021-05-05,Stolen,2B,2021,2022,29.5
+146,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,657141,Jordan Yamamoto,664056,Harrison Bader,R,Tomás Nido,621512,0,4,4,False,2021-05-04,Stolen,2B,2021,2022,29.5
+147,1B,2B,Stolen Base 2B,543281,Josh Harrison,656849,David Peterson,488671,Alex Avila,L,Tomás Nido,621512,0,3,4,False,2021-04-01,Stolen,2B,2021,2022,29.5
+148,1B,2B,Stolen Base 2B,622534,Manuel Margot,554430,Zack Wheeler,543333,Eric Hosmer,R,Tomás Nido,621512,2,4,4,False,2018-04-29,Stolen,2B,2018,2019,29.8
+149,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,592789,Noah Syndergaard,656794,Sean Newcomb,R,Tomás Nido,621512,1,0,2,False,2018-04-20,Stolen,2B,2018,2019,29.8
+150,2B,3B,Stolen Base 3B,542255,Ender Inciarte,592789,Noah Syndergaard,455976,Nick Markakis,R,Tomás Nido,621512,1,2,3,False,2018-04-20,Stolen,3B,2018,2019,29.8
+151,1B,,Caught Stealing 2B,475247,Ryan Flaherty,607625,Seth Lugo,622666,Johan Camargo,R,Tomás Nido,621512,3,3,7,False,2018-04-20,Caught,2B,2018,2019,29.8
+152,1B,,Caught Stealing 2B,645277,Ozzie Albies,607625,Seth Lugo,455976,Nick Markakis,R,Tomás Nido,621512,3,3,8,False,2018-04-20,Caught,2B,2018,2019,29.8

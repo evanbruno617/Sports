@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+7158,2B,,Caught Stealing 3B,571431,Matt Adams,434628,Jason Hammel,425877,Yadier Molina,R,Miguel Montero,471083,1,0,2,False,2016-04-19,Caught,3B
+1390,1B,2B,Stolen Base 2B,571431,Matt Adams,543766,Bryan Shaw,425877,Yadier Molina,R,Roberto Pérez,547379,0,4,7,True,2015-05-12,Stolen,2B
+3618,1B,,Caught Stealing 2B,571431,Matt Adams,502171,Alex Cobb,425509,Jhonny Peralta,R,José Molina,150040,0,1,4,False,2014-07-23,Caught,2B
+3926,1B,2B,Stolen Base 2B,571431,Matt Adams,506693,Henderson Alvarez III,501800,Allen Craig,R,Jarrod Saltalamacchia,457454,0,1,4,False,2014-07-06,Stolen,2B
+4166,1B,2B,Stolen Base 2B,571431,Matt Adams,434665,Nick Masset,425509,Jhonny Peralta,R,Wilin Rosario,501647,6,7,9,True,2014-06-25,Stolen,2B
+4875,2B,3B,Stolen Base 3B,571431,Matt Adams,435221,Brandon McCarthy,501800,Allen Craig,R,Miguel Montero,471083,1,0,6,False,2014-05-21,Stolen,3B
+5473,1B,,Caught Stealing 2B,571431,Matt Adams,518716,Dillon Gee,425877,Yadier Molina,R,Travis d'Arnaud,518595,0,0,2,True,2014-04-22,Caught,2B
+1374,1B,,Caught Stealing 2B,571431,Matt Adams,502171,Alex Cobb,425509,Jhonny Peralta,R,José Molina,150040,0,1,4,False,2014-07-23,Caught,2B
+1682,1B,2B,Stolen Base 2B,571431,Matt Adams,506693,Henderson Alvarez III,501800,Allen Craig,R,Jarrod Saltalamacchia,457454,0,1,4,False,2014-07-06,Stolen,2B
+1922,1B,2B,Stolen Base 2B,571431,Matt Adams,434665,Nick Masset,425509,Jhonny Peralta,R,Wilin Rosario,501647,6,7,9,True,2014-06-25,Stolen,2B
+2631,2B,3B,Stolen Base 3B,571431,Matt Adams,435221,Brandon McCarthy,501800,Allen Craig,R,Miguel Montero,471083,1,0,6,False,2014-05-21,Stolen,3B
+3229,1B,,Caught Stealing 2B,571431,Matt Adams,518716,Dillon Gee,425877,Yadier Molina,R,Travis d'Arnaud,518595,0,0,2,True,2014-04-22,Caught,2B
+3123,2B,,Caught Stealing 3B,571431,Matt Adams,434628,Jason Hammel,425877,Yadier Molina,R,Miguel Montero,471083,1,0,2,False,2016-04-19,Caught,3B
+6530,2B,,Caught Stealing 3B,571431,Matt Adams,434628,Jason Hammel,425877,Yadier Molina,R,Miguel Montero,471083,1,0,2,False,2016-04-19,Caught,3B

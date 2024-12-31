@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2085,1B,,Caught Stealing 2B,641525,Brandon Dixon,543557,Mike Montgomery,608475,Dawel Lugo,L,Meibrys Viloria,650619,0,2,5,False,2019-08-10,Caught,2B
+2167,1B,2B,Stolen Base 2B,641525,Brandon Dixon,622797,Pedro Payano,641513,Travis Demeritte,R,Jeff Mathis,425772,2,0,2,True,2019-08-04,Stolen,2B
+2342,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592826,Vince Velasquez,621514,Christin Stewart,R,Andrew Knapp,595284,0,1,4,False,2019-07-24,Stolen,2B
+3094,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592773,Ryne Stanek,621514,Christin Stewart,R,Travis d'Arnaud,518595,1,1,1,False,2019-06-06,Stolen,2B
+3195,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592314,Mike Foltynewicz,600869,Jeimer Candelario,R,Brian McCann,435263,1,2,4,True,2019-05-31,Stolen,2B
+3290,1B,2B,Stolen Base 2B,641525,Brandon Dixon,621242,Edwin Díaz,592444,JaCoby Jones,R,Wilson Ramos,467092,4,3,9,True,2019-05-26,Stolen,2B
+4928,1B,,Caught Stealing 2B,641525,Brandon Dixon,543557,Mike Montgomery,608475,Dawel Lugo,L,Meibrys Viloria,650619,0,2,5,False,2019-08-10,Caught,2B
+5010,1B,2B,Stolen Base 2B,641525,Brandon Dixon,622797,Pedro Payano,641513,Travis Demeritte,R,Jeff Mathis,425772,2,0,2,True,2019-08-04,Stolen,2B
+5185,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592826,Vince Velasquez,621514,Christin Stewart,R,Andrew Knapp,595284,0,1,4,False,2019-07-24,Stolen,2B
+5937,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592773,Ryne Stanek,621514,Christin Stewart,R,Travis d'Arnaud,518595,1,1,1,False,2019-06-06,Stolen,2B
+6038,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592314,Mike Foltynewicz,600869,Jeimer Candelario,R,Brian McCann,435263,1,2,4,True,2019-05-31,Stolen,2B
+6133,1B,2B,Stolen Base 2B,641525,Brandon Dixon,621242,Edwin Díaz,592444,JaCoby Jones,R,Wilson Ramos,467092,4,3,9,True,2019-05-26,Stolen,2B
+2946,1B,2B,Stolen Base 2B,641525,Brandon Dixon,543901,Ryan Weber,663757,Trent Grisham,R,Kyle Higashioka,543309,1,4,8,True,2023-05-26,Stolen,2B
+6852,1B,,Caught Stealing 2B,641525,Brandon Dixon,543557,Mike Montgomery,608475,Dawel Lugo,L,Meibrys Viloria,650619,0,2,5,False,2019-08-10,Caught,2B
+6934,1B,2B,Stolen Base 2B,641525,Brandon Dixon,622797,Pedro Payano,641513,Travis Demeritte,R,Jeff Mathis,425772,2,0,2,True,2019-08-04,Stolen,2B
+7109,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592826,Vince Velasquez,621514,Christin Stewart,R,Andrew Knapp,595284,0,1,4,False,2019-07-24,Stolen,2B
+7861,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592773,Ryne Stanek,621514,Christin Stewart,R,Travis d'Arnaud,518595,1,1,1,False,2019-06-06,Stolen,2B
+7962,1B,2B,Stolen Base 2B,641525,Brandon Dixon,592314,Mike Foltynewicz,600869,Jeimer Candelario,R,Brian McCann,435263,1,2,4,True,2019-05-31,Stolen,2B
+8057,1B,2B,Stolen Base 2B,641525,Brandon Dixon,621242,Edwin Díaz,592444,JaCoby Jones,R,Wilson Ramos,467092,4,3,9,True,2019-05-26,Stolen,2B
+7360,1B,2B,Stolen Base 2B,641525,Brandon Dixon,543901,Ryan Weber,663757,Trent Grisham,R,Kyle Higashioka,543309,1,4,8,True,2023-05-26,Stolen,2B

@@ -1,0 +1,37 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,501381,Michael Pineda,608385,Jesse Winker,R,Ryan Jeffers,680777,0,0,1,True,2020-09-26,Stolen,2B,2020,2021,28.0
+1,1B,2B,Stolen Base 2B,622682,Victor Reyes,628317,Kenta Maeda,650489,Willi Castro,R,Ryan Jeffers,680777,0,0,1,True,2020-09-23,Stolen,2B,2020,2021,28.0
+2,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,628317,Kenta Maeda,663611,Nick Madrigal,R,Ryan Jeffers,680777,2,2,5,False,2020-09-17,Stolen,2B,2020,2021,28.0
+3,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,461325,Tyler Clippard,641313,Tim Anderson,R,Ryan Jeffers,680777,2,3,7,False,2020-09-17,Stolen,2B,2020,2021,28.0
+4,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,677976,Randy Dobnak,641553,Adam Engel,R,Ryan Jeffers,680777,4,1,3,False,2020-09-15,Stolen,2B,2020,2021,28.0
+5,2B,3B,Stolen Base 3B,673357,Luis Robert Jr.,677976,Randy Dobnak,641553,Adam Engel,R,Ryan Jeffers,680777,4,1,3,False,2020-09-15,Stolen,3B,2020,2021,28.0
+6,1B,2B,Stolen Base 2B,640458,Óscar Mercado,543507,Trevor May,514917,César Hernández,R,Ryan Jeffers,680777,6,4,6,True,2020-09-13,Stolen,2B,2020,2021,28.0
+7,1B,2B,Stolen Base 2B,592261,Delino DeShields,664054,Cody Stashak,502273,Mike Freeman,R,Ryan Jeffers,680777,7,5,8,True,2020-09-13,Stolen,2B,2020,2021,28.0
+8,1B,2B,Stolen Base 2B,608070,José Ramírez,448179,Rich Hill,596019,Francisco Lindor,L,Ryan Jeffers,680777,0,0,1,False,2020-08-25,Stolen,2B,2020,2021,28.0
+9,2B,3B,Stolen Base 3B,608070,José Ramírez,448179,Rich Hill,596019,Francisco Lindor,L,Ryan Jeffers,680777,0,0,1,False,2020-08-25,Stolen,3B,2020,2021,28.0
+10,1B,2B,Stolen Base 2B,593160,Whit Merrifield,605538,Matt Wisler,641531,Hunter Dozier,R,Ryan Jeffers,680777,0,2,1,False,2020-08-23,Stolen,2B,2020,2021,28.0
+11,1B,2B,Stolen Base 2B,596748,Maikel Franco,489265,Sergio Romo,460086,Alex Gordon,R,Ryan Jeffers,680777,3,4,7,False,2020-08-23,Stolen,2B,2020,2021,28.0
+12,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,501381,Michael Pineda,608385,Jesse Winker,R,Ryan Jeffers,680777,0,0,1,True,2020-09-26,Stolen,2B,2020,2021,28.0
+13,1B,2B,Stolen Base 2B,622682,Victor Reyes,628317,Kenta Maeda,650489,Willi Castro,R,Ryan Jeffers,680777,0,0,1,True,2020-09-23,Stolen,2B,2020,2021,28.0
+14,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,628317,Kenta Maeda,663611,Nick Madrigal,R,Ryan Jeffers,680777,2,2,5,False,2020-09-17,Stolen,2B,2020,2021,28.0
+15,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,461325,Tyler Clippard,641313,Tim Anderson,R,Ryan Jeffers,680777,2,3,7,False,2020-09-17,Stolen,2B,2020,2021,28.0
+16,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,677976,Randy Dobnak,641553,Adam Engel,R,Ryan Jeffers,680777,4,1,3,False,2020-09-15,Stolen,2B,2020,2021,28.0
+17,2B,3B,Stolen Base 3B,673357,Luis Robert Jr.,677976,Randy Dobnak,641553,Adam Engel,R,Ryan Jeffers,680777,4,1,3,False,2020-09-15,Stolen,3B,2020,2021,28.0
+18,1B,2B,Stolen Base 2B,640458,Óscar Mercado,543507,Trevor May,514917,César Hernández,R,Ryan Jeffers,680777,6,4,6,True,2020-09-13,Stolen,2B,2020,2021,28.0
+19,1B,2B,Stolen Base 2B,592261,Delino DeShields,664054,Cody Stashak,502273,Mike Freeman,R,Ryan Jeffers,680777,7,5,8,True,2020-09-13,Stolen,2B,2020,2021,28.0
+20,1B,2B,Stolen Base 2B,608070,José Ramírez,448179,Rich Hill,596019,Francisco Lindor,L,Ryan Jeffers,680777,0,0,1,False,2020-08-25,Stolen,2B,2020,2021,28.0
+21,2B,3B,Stolen Base 3B,608070,José Ramírez,448179,Rich Hill,596019,Francisco Lindor,L,Ryan Jeffers,680777,0,0,1,False,2020-08-25,Stolen,3B,2020,2021,28.0
+22,1B,2B,Stolen Base 2B,593160,Whit Merrifield,605538,Matt Wisler,641531,Hunter Dozier,R,Ryan Jeffers,680777,0,2,1,False,2020-08-23,Stolen,2B,2020,2021,28.0
+23,1B,2B,Stolen Base 2B,596748,Maikel Franco,489265,Sergio Romo,460086,Alex Gordon,R,Ryan Jeffers,680777,3,4,7,False,2020-08-23,Stolen,2B,2020,2021,28.0
+24,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,501381,Michael Pineda,608385,Jesse Winker,R,Ryan Jeffers,680777,0,0,1,True,2020-09-26,Stolen,2B,2020,2021,28.0
+25,1B,2B,Stolen Base 2B,622682,Victor Reyes,628317,Kenta Maeda,650489,Willi Castro,R,Ryan Jeffers,680777,0,0,1,True,2020-09-23,Stolen,2B,2020,2021,28.0
+26,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,628317,Kenta Maeda,663611,Nick Madrigal,R,Ryan Jeffers,680777,2,2,5,False,2020-09-17,Stolen,2B,2020,2021,28.0
+27,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,461325,Tyler Clippard,641313,Tim Anderson,R,Ryan Jeffers,680777,2,3,7,False,2020-09-17,Stolen,2B,2020,2021,28.0
+28,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,677976,Randy Dobnak,641553,Adam Engel,R,Ryan Jeffers,680777,4,1,3,False,2020-09-15,Stolen,2B,2020,2021,28.0
+29,2B,3B,Stolen Base 3B,673357,Luis Robert Jr.,677976,Randy Dobnak,641553,Adam Engel,R,Ryan Jeffers,680777,4,1,3,False,2020-09-15,Stolen,3B,2020,2021,28.0
+30,1B,2B,Stolen Base 2B,640458,Óscar Mercado,543507,Trevor May,514917,César Hernández,R,Ryan Jeffers,680777,6,4,6,True,2020-09-13,Stolen,2B,2020,2021,28.0
+31,1B,2B,Stolen Base 2B,592261,Delino DeShields,664054,Cody Stashak,502273,Mike Freeman,R,Ryan Jeffers,680777,7,5,8,True,2020-09-13,Stolen,2B,2020,2021,28.0
+32,1B,2B,Stolen Base 2B,608070,José Ramírez,448179,Rich Hill,596019,Francisco Lindor,L,Ryan Jeffers,680777,0,0,1,False,2020-08-25,Stolen,2B,2020,2021,28.0
+33,2B,3B,Stolen Base 3B,608070,José Ramírez,448179,Rich Hill,596019,Francisco Lindor,L,Ryan Jeffers,680777,0,0,1,False,2020-08-25,Stolen,3B,2020,2021,28.0
+34,1B,2B,Stolen Base 2B,593160,Whit Merrifield,605538,Matt Wisler,641531,Hunter Dozier,R,Ryan Jeffers,680777,0,2,1,False,2020-08-23,Stolen,2B,2020,2021,28.0
+35,1B,2B,Stolen Base 2B,596748,Maikel Franco,489265,Sergio Romo,460086,Alex Gordon,R,Ryan Jeffers,680777,3,4,7,False,2020-08-23,Stolen,2B,2020,2021,28.0

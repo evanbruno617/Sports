@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+692,1B,,Caught Stealing 2B,467798,Jose Tabata,607074,Carlos Rodón,474568,Jordy Mercer,L,Tyler Flowers,452095,5,0,1,False,2015-06-15,Caught,2B
+4347,1B,,Caught Stealing 2B,467798,Jose Tabata,456501,Johnny Cueto,570256,Gregory Polanco,R,Brayan Peña,430910,2,3,6,False,2014-06-17,Caught,2B
+4786,1B,2B,Stolen Base 2B,467798,Jose Tabata,407878,Jose Valverde,425549,Clint Barmes,R,Juan Centeno,518542,2,2,8,True,2014-05-26,Stolen,2B
+5020,1B,,Caught Stealing 2B,467798,Jose Tabata,462136,Marco Estrada,474568,Jordy Mercer,R,Jonathan Lucroy,518960,0,1,2,True,2014-05-13,Caught,2B
+2103,1B,,Caught Stealing 2B,467798,Jose Tabata,456501,Johnny Cueto,570256,Gregory Polanco,R,Brayan Peña,430910,2,3,6,False,2014-06-17,Caught,2B
+2542,1B,2B,Stolen Base 2B,467798,Jose Tabata,407878,Jose Valverde,425549,Clint Barmes,R,Juan Centeno,518542,2,2,8,True,2014-05-26,Stolen,2B
+2776,1B,,Caught Stealing 2B,467798,Jose Tabata,462136,Marco Estrada,474568,Jordy Mercer,R,Jonathan Lucroy,518960,0,1,2,True,2014-05-13,Caught,2B

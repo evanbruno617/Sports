@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1058,1B,,Caught Stealing 2B,665482,Gilberto Celestino,606303,Joel Payamps,621439,Byron Buxton,R,MJ Melendez,669004,1,4,6,True,2022-05-20,Caught,2B

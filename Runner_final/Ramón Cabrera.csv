@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+6222,1B,2B,Stolen Base 2B,541608,Ramón Cabrera,455009,Jonathan Broxton,534627,Tyler Holt,R,Yadier Molina,425877,6,4,8,False,2016-06-07,Stolen,2B
+6423,1B,,Caught Stealing 2B,541608,Ramón Cabrera,605200,Zach Davies,446359,Zack Cozart,R,Jonathan Lucroy,518960,6,4,5,True,2016-05-27,Caught,2B
+2187,1B,2B,Stolen Base 2B,541608,Ramón Cabrera,455009,Jonathan Broxton,534627,Tyler Holt,R,Yadier Molina,425877,6,4,8,False,2016-06-07,Stolen,2B
+2388,1B,,Caught Stealing 2B,541608,Ramón Cabrera,605200,Zach Davies,446359,Zack Cozart,R,Jonathan Lucroy,518960,6,4,5,True,2016-05-27,Caught,2B
+5594,1B,2B,Stolen Base 2B,541608,Ramón Cabrera,455009,Jonathan Broxton,534627,Tyler Holt,R,Yadier Molina,425877,6,4,8,False,2016-06-07,Stolen,2B
+5795,1B,,Caught Stealing 2B,541608,Ramón Cabrera,605200,Zach Davies,446359,Zack Cozart,R,Jonathan Lucroy,518960,6,4,5,True,2016-05-27,Caught,2B

@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2067,1B,,Caught Stealing 2B,519222,Austin Romine,543208,Sam Gaviglio,518934,DJ LeMahieu,R,Reese McGuire,624512,0,1,8,True,2019-08-11,Caught,2B
+2409,1B,2B,Stolen Base 2B,519222,Austin Romine,622608,Antonio Senzatela,518934,DJ LeMahieu,R,Tony Wolters,547172,3,0,2,False,2019-07-20,Stolen,2B
+4910,1B,,Caught Stealing 2B,519222,Austin Romine,543208,Sam Gaviglio,518934,DJ LeMahieu,R,Reese McGuire,624512,0,1,8,True,2019-08-11,Caught,2B
+5252,1B,2B,Stolen Base 2B,519222,Austin Romine,622608,Antonio Senzatela,518934,DJ LeMahieu,R,Tony Wolters,547172,3,0,2,False,2019-07-20,Stolen,2B
+6834,1B,,Caught Stealing 2B,519222,Austin Romine,543208,Sam Gaviglio,518934,DJ LeMahieu,R,Reese McGuire,624512,0,1,8,True,2019-08-11,Caught,2B
+7176,1B,2B,Stolen Base 2B,519222,Austin Romine,622608,Antonio Senzatela,518934,DJ LeMahieu,R,Tony Wolters,547172,3,0,2,False,2019-07-20,Stolen,2B
+5233,1B,2B,Stolen Base 2B,519222,Austin Romine,544727,Jeurys Familia,458731,Brett Gardner,R,Travis d'Arnaud,518595,5,5,9,True,2016-08-01,Stolen,2B
+1198,1B,2B,Stolen Base 2B,519222,Austin Romine,544727,Jeurys Familia,458731,Brett Gardner,R,Travis d'Arnaud,518595,5,5,9,True,2016-08-01,Stolen,2B
+4605,1B,2B,Stolen Base 2B,519222,Austin Romine,544727,Jeurys Familia,458731,Brett Gardner,R,Travis d'Arnaud,518595,5,5,9,True,2016-08-01,Stolen,2B

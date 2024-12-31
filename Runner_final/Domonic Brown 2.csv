@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+90,1B,,Caught Stealing 2B,502126,Domonic Brown,458584,Xavier Cedeño,514917,César Hernández,L,Curt Casali,592200,5,3,7,False,2015-07-20,Caught,2B
+245,1B,2B,Stolen Base 2B,502126,Domonic Brown,504379,Juan Nicasio,519237,Cameron Rupp,R,Yasmani Grandal,518735,0,4,6,True,2015-07-07,Stolen,2B
+389,1B,2B,Stolen Base 2B,502126,Domonic Brown,543380,Taylor Jungmann,605125,Cody Asche,R,Jonathan Lucroy,518960,2,2,3,False,2015-06-30,Stolen,2B
+2514,1B,2B,Stolen Base 2B,502126,Domonic Brown,453178,Ian Kennedy,519237,Cameron Rupp,R,René Rivera,425784,2,3,6,True,2014-09-16,Stolen,2B
+2875,1B,2B,Stolen Base 2B,502126,Domonic Brown,527054,Julio Teheran,434563,Carlos Ruiz,R,Gerald Laird,408042,0,2,7,True,2014-09-01,Stolen,2B
+4330,1B,2B,Stolen Base 2B,502126,Domonic Brown,474039,Pedro Beato,458582,Reid Brignac,R,Evan Gattis,594828,5,9,6,True,2014-06-18,Stolen,2B
+4672,1B,,Caught Stealing 2B,502126,Domonic Brown,594798,Jacob deGrom,458582,Reid Brignac,R,Anthony Recker,489232,0,3,5,False,2014-05-31,Caught,2B
+5119,1B,2B,Stolen Base 2B,502126,Domonic Brown,493137,Daisuke Matsuzaka,434563,Carlos Ruiz,R,Travis d'Arnaud,518595,1,2,5,True,2014-05-09,Stolen,2B
+5409,1B,2B,Stolen Base 2B,502126,Domonic Brown,429717,Dan Haren,605125,Cody Asche,R,Tim Federowicz,543148,0,0,2,True,2014-04-24,Stolen,2B
+5700,1B,2B,Stolen Base 2B,502126,Domonic Brown,573109,AJ Ramos,605125,Cody Asche,R,Jeff Mathis,425772,3,3,7,False,2014-04-13,Stolen,2B
+270,1B,2B,Stolen Base 2B,502126,Domonic Brown,453178,Ian Kennedy,519237,Cameron Rupp,R,René Rivera,425784,2,3,6,True,2014-09-16,Stolen,2B
+631,1B,2B,Stolen Base 2B,502126,Domonic Brown,527054,Julio Teheran,434563,Carlos Ruiz,R,Gerald Laird,408042,0,2,7,True,2014-09-01,Stolen,2B
+2086,1B,2B,Stolen Base 2B,502126,Domonic Brown,474039,Pedro Beato,458582,Reid Brignac,R,Evan Gattis,594828,5,9,6,True,2014-06-18,Stolen,2B
+2428,1B,,Caught Stealing 2B,502126,Domonic Brown,594798,Jacob deGrom,458582,Reid Brignac,R,Anthony Recker,489232,0,3,5,False,2014-05-31,Caught,2B
+2875,1B,2B,Stolen Base 2B,502126,Domonic Brown,493137,Daisuke Matsuzaka,434563,Carlos Ruiz,R,Travis d'Arnaud,518595,1,2,5,True,2014-05-09,Stolen,2B
+3165,1B,2B,Stolen Base 2B,502126,Domonic Brown,429717,Dan Haren,605125,Cody Asche,R,Tim Federowicz,543148,0,0,2,True,2014-04-24,Stolen,2B
+3456,1B,2B,Stolen Base 2B,502126,Domonic Brown,573109,AJ Ramos,605125,Cody Asche,R,Jeff Mathis,425772,3,3,7,False,2014-04-13,Stolen,2B

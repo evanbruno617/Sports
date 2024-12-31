@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3913,1B,2B,Stolen Base 2B,444432,Mark Trumbo,476454,Dellin Betances,547957,Hyun Soo Kim,R,Gary Sánchez,596142,5,4,7,False,2017-04-08,Stolen,2B
+4762,1B,2B,Stolen Base 2B,444432,Mark Trumbo,453286,Max Scherzer,429666,J.J. Hardy,R,Jose Lobaton,446653,1,0,8,True,2016-08-25,Stolen,2B
+7444,1B,2B,Stolen Base 2B,444432,Mark Trumbo,429722,Ervin Santana,446308,Matt Wieters,R,Kurt Suzuki,435559,0,0,1,False,2016-04-04,Stolen,2B
+3097,1B,,Caught Stealing 2B,444432,Mark Trumbo,461829,Gio González,457574,Jordan Pacheco,L,Wilson Ramos,467092,0,0,6,True,2014-08-21,Caught,2B
+3216,1B,2B,Stolen Base 2B,444432,Mark Trumbo,207267,Brad Penny,471083,Miguel Montero,R,Jeff Mathis,425772,2,4,6,True,2014-08-14,Stolen,2B
+3478,1B,,Caught Stealing 2B,444432,Mark Trumbo,450172,Edinson Volquez,457574,Jordan Pacheco,R,Russell Martin,431145,4,1,6,False,2014-08-01,Caught,2B
+3687,1B,2B,Stolen Base 2B,444432,Mark Trumbo,460701,James Russell,542255,Ender Inciarte,L,John Baker,434633,2,1,7,False,2014-07-20,Stolen,2B
+853,1B,,Caught Stealing 2B,444432,Mark Trumbo,461829,Gio González,457574,Jordan Pacheco,L,Wilson Ramos,467092,0,0,6,True,2014-08-21,Caught,2B
+972,1B,2B,Stolen Base 2B,444432,Mark Trumbo,207267,Brad Penny,471083,Miguel Montero,R,Jeff Mathis,425772,2,4,6,True,2014-08-14,Stolen,2B
+1234,1B,,Caught Stealing 2B,444432,Mark Trumbo,450172,Edinson Volquez,457574,Jordan Pacheco,R,Russell Martin,431145,4,1,6,False,2014-08-01,Caught,2B
+1443,1B,2B,Stolen Base 2B,444432,Mark Trumbo,460701,James Russell,542255,Ender Inciarte,L,John Baker,434633,2,1,7,False,2014-07-20,Stolen,2B
+727,1B,2B,Stolen Base 2B,444432,Mark Trumbo,453286,Max Scherzer,429666,J.J. Hardy,R,Jose Lobaton,446653,1,0,8,True,2016-08-25,Stolen,2B
+3409,1B,2B,Stolen Base 2B,444432,Mark Trumbo,429722,Ervin Santana,446308,Matt Wieters,R,Kurt Suzuki,435559,0,0,1,False,2016-04-04,Stolen,2B
+3285,1B,2B,Stolen Base 2B,444432,Mark Trumbo,476454,Dellin Betances,547957,Hyun Soo Kim,R,Gary Sánchez,596142,5,4,7,False,2017-04-08,Stolen,2B
+4134,1B,2B,Stolen Base 2B,444432,Mark Trumbo,453286,Max Scherzer,429666,J.J. Hardy,R,Jose Lobaton,446653,1,0,8,True,2016-08-25,Stolen,2B
+6816,1B,2B,Stolen Base 2B,444432,Mark Trumbo,429722,Ervin Santana,446308,Matt Wieters,R,Kurt Suzuki,435559,0,0,1,False,2016-04-04,Stolen,2B

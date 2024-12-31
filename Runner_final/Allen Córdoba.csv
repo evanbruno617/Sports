@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1832,3B,score,Stolen Base Home,642707,Allen Córdoba,682528,Danny Chang,606157,Aristides Aquino,L,Cal Raleigh,663728,8,9,8,False,2022-04-05,Stolen,Home
+1463,1B,2B,Stolen Base 2B,642707,Allen Córdoba,429719,Edwin Jackson,641319,Carlos Asuaje,R,Matt Wieters,446308,1,1,7,False,2017-08-17,Stolen,2B
+2695,1B,,Caught Stealing 2B,642707,Allen Córdoba,432934,Chris Young,430947,Erick Aybar,R,Salvador Perez,521692,3,2,8,False,2017-06-09,Caught,2B
+3136,1B,2B,Stolen Base 2B,642707,Allen Córdoba,448614,Carlos Torres,572114,Ryan Schimpf,R,Jett Bandy,542908,1,1,7,False,2017-05-17,Stolen,2B
+3859,1B,,Caught Stealing 2B,642707,Allen Córdoba,543022,Tyler Chatwood,608671,Travis Jankowski,R,Dustin Garneau,572863,0,1,5,True,2017-04-10,Caught,2B
+835,1B,2B,Stolen Base 2B,642707,Allen Córdoba,429719,Edwin Jackson,641319,Carlos Asuaje,R,Matt Wieters,446308,1,1,7,False,2017-08-17,Stolen,2B
+2067,1B,,Caught Stealing 2B,642707,Allen Córdoba,432934,Chris Young,430947,Erick Aybar,R,Salvador Perez,521692,3,2,8,False,2017-06-09,Caught,2B
+2508,1B,2B,Stolen Base 2B,642707,Allen Córdoba,448614,Carlos Torres,572114,Ryan Schimpf,R,Jett Bandy,542908,1,1,7,False,2017-05-17,Stolen,2B
+3231,1B,,Caught Stealing 2B,642707,Allen Córdoba,543022,Tyler Chatwood,608671,Travis Jankowski,R,Dustin Garneau,572863,0,1,5,True,2017-04-10,Caught,2B

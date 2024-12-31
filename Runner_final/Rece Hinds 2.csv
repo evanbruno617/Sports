@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1978,1B,2B,Stolen Base 2B,677956,Rece Hinds,641755,Tyler Kinley,669289,Santiago Espinal,R,Jacob Stallings,607732,4,1,6,False,2024-07-11,Stolen,2B
+1995,1B,2B,Stolen Base 2B,677956,Rece Hinds,607536,Kyle Freeland,669289,Santiago Espinal,L,Elias Díaz,553869,2,5,7,False,2024-07-10,Stolen,2B

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4863,1B,,Caught Stealing 2B,429667,Ryan Howard,425794,Adam Wainwright,434563,Carlos Ruiz,R,Yadier Molina,425877,3,1,6,False,2016-08-19,Caught,2B
+828,1B,,Caught Stealing 2B,429667,Ryan Howard,425794,Adam Wainwright,434563,Carlos Ruiz,R,Yadier Molina,425877,3,1,6,False,2016-08-19,Caught,2B
+4235,1B,,Caught Stealing 2B,429667,Ryan Howard,425794,Adam Wainwright,434563,Carlos Ruiz,R,Yadier Molina,425877,3,1,6,False,2016-08-19,Caught,2B

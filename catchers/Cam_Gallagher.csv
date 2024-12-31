@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,66,1B,2B,Stolen Base 2B,650489,Willi Castro,641745,Brad Keller,679529,Spencer Torkelson,R,Cam Gallagher,595956,0,0,2,True,2022-07-11,Stolen,2B,2022,2023,29.4,2023, 79.3, 0.64
+1,67,1B,2B,Stolen Base 2B,608070,José Ramírez,425844,Zack Greinke,614177,Franmil Reyes,R,Cam Gallagher,595956,0,0,1,True,2022-07-10,Stolen,2B,2022,2023,29.4,2023, 79.3, 0.64
+2,68,1B,,Caught Stealing 2B,682985,Riley Greene,663903,Brady Singer,605612,Harold Castro,R,Cam Gallagher,595956,0,3,3,False,2022-07-03,Caught,2B,2022,2023,29.4,2023, 79.3, 0.64
+3,69,1B,2B,Stolen Base 2B,657656,Ramón Laureano,641745,Brad Keller,664913,Seth Brown,R,Cam Gallagher,595956,0,1,1,True,2022-06-25,Stolen,2B,2022,2023,29.4,2023, 79.3, 0.64
+4,70,1B,,Caught Stealing 2B,462101,Elvis Andrus,641745,Brad Keller,669397,Nick Allen,R,Cam Gallagher,595956,0,2,2,True,2022-06-25,Caught,2B,2022,2023,29.4,2023, 79.3, 0.64
+5,71,1B,2B,Stolen Base 2B,650489,Willi Castro,641745,Brad Keller,679529,Spencer Torkelson,R,Cam Gallagher,595956,0,0,2,True,2022-04-17,Stolen,2B,2022,2023,29.4,2023, 79.3, 0.64

@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+494,1B,2B,Stolen Base 2B,501647,Wilin Rosario,543339,Daniel Hudson,502374,Michael McKenry,R,Welington Castillo,456078,4,2,8,False,2015-06-25,Stolen,2B
+1151,1B,,Caught Stealing 2B,501647,Wilin Rosario,519326,Hunter Strickland,460026,Nick Hundley,R,Andrew Susac,572180,6,10,8,False,2015-05-23,Caught,2B
+1257,1B,2B,Stolen Base 2B,501647,Wilin Rosario,430935,Cole Hamels,460026,Nick Hundley,L,Carlos Ruiz,434563,0,1,2,False,2015-05-18,Stolen,2B
+4270,1B,2B,Stolen Base 2B,501647,Wilin Rosario,462136,Marco Estrada,488681,Brandon Barnes,R,Jonathan Lucroy,518960,2,3,1,False,2014-06-20,Stolen,2B
+2026,1B,2B,Stolen Base 2B,501647,Wilin Rosario,462136,Marco Estrada,488681,Brandon Barnes,R,Jonathan Lucroy,518960,2,3,1,False,2014-06-20,Stolen,2B

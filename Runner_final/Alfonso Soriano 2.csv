@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4428,2B,3B,Stolen Base 3B,150093,Alfonso Soriano,606273,Roenis Elías,500208,Yangervis Solarte,L,Mike Zunino,572287,1,4,3,True,2014-06-12,Stolen,3B
+2184,2B,3B,Stolen Base 3B,150093,Alfonso Soriano,606273,Roenis Elías,500208,Yangervis Solarte,L,Mike Zunino,572287,1,4,3,True,2014-06-12,Stolen,3B

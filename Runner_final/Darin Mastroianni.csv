@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+6530,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,457918,J.A. Happ,435559,Kurt Suzuki,L,Russell Martin,431145,0,2,5,False,2016-05-21,Stolen,2B
+7468,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,434665,Nick Masset,542344,Heiker Meneses,R,Jose Lobaton,446653,5,8,7,True,2016-04-02,Stolen,2B
+5597,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,435045,Sergio Santos,572821,Brian Dozier,R,Dioner Navarro,425900,6,5,8,False,2014-04-17,Stolen,2B
+5611,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,435045,Sergio Santos,572821,Brian Dozier,R,Dioner Navarro,425900,6,5,8,False,2014-04-16,Stolen,2B
+3353,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,435045,Sergio Santos,572821,Brian Dozier,R,Dioner Navarro,425900,6,5,8,False,2014-04-17,Stolen,2B
+3367,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,435045,Sergio Santos,572821,Brian Dozier,R,Dioner Navarro,425900,6,5,8,False,2014-04-16,Stolen,2B
+2495,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,457918,J.A. Happ,435559,Kurt Suzuki,L,Russell Martin,431145,0,2,5,False,2016-05-21,Stolen,2B
+3433,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,434665,Nick Masset,542344,Heiker Meneses,R,Jose Lobaton,446653,5,8,7,True,2016-04-02,Stolen,2B
+5902,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,457918,J.A. Happ,435559,Kurt Suzuki,L,Russell Martin,431145,0,2,5,False,2016-05-21,Stolen,2B
+6840,1B,2B,Stolen Base 2B,518991,Darin Mastroianni,434665,Nick Masset,542344,Heiker Meneses,R,Jose Lobaton,446653,5,8,7,True,2016-04-02,Stolen,2B

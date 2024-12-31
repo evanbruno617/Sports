@@ -1,0 +1,41 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1198,2B,3B,Stolen Base 3B,669289,Santiago Espinal,475054,Chaz Roe,666971,Lourdes Gurriel Jr.,R,Kevan Smith,607345,4,5,10,True,2020-07-26,Stolen,3B
+13,1B,2B,Stolen Base 2B,669289,Santiago Espinal,547973,Aroldis Chapman,543807,George Springer,L,Kyle Higashioka,543309,2,6,9,False,2021-09-30,Stolen,2B
+610,1B,2B,Stolen Base 2B,669289,Santiago Espinal,458681,Lance Lynn,624512,Reese McGuire,R,Seby Zavala,664874,0,0,3,False,2021-08-23,Stolen,2B
+725,1B,2B,Stolen Base 2B,669289,Santiago Espinal,669302,Logan Gilbert,666182,Bo Bichette,R,Cal Raleigh,663728,1,5,4,True,2021-08-15,Stolen,2B
+1008,1B,2B,Stolen Base 2B,669289,Santiago Espinal,656557,Tanner Houck,624512,Reese McGuire,R,Kevin Plawecki,608700,2,0,3,True,2021-07-28,Stolen,2B
+1611,1B,,Caught Stealing 2B,669289,Santiago Espinal,665152,Dean Kremer,624512,Reese McGuire,R,Austin Wynns,642851,0,2,2,True,2021-06-19,Caught,2B
+1761,1B,2B,Stolen Base 2B,669289,Santiago Espinal,607074,Carlos Rodón,656180,Riley Adams,L,Yasmani Grandal,518735,0,1,2,True,2021-06-08,Stolen,2B
+2131,1B,2B,Stolen Base 2B,669289,Santiago Espinal,571735,David Hale,643376,Danny Jansen,R,Rafael Marchán,665561,8,3,5,False,2021-05-16,Stolen,2B
+4041,2B,3B,Stolen Base 3B,669289,Santiago Espinal,475054,Chaz Roe,666971,Lourdes Gurriel Jr.,R,Kevan Smith,607345,4,5,10,True,2020-07-26,Stolen,3B
+3096,1B,2B,Stolen Base 2B,669289,Santiago Espinal,657508,Mike Baumann,595281,Kevin Kiermaier,R,Adley Rutschman,668939,3,2,7,False,2023-05-20,Stolen,2B
+3669,1B,2B,Stolen Base 2B,669289,Santiago Espinal,656629,Michael Kopech,624415,Cavan Biggio,R,Seby Zavala,664874,4,0,4,False,2023-04-26,Stolen,2B
+3946,1B,,Caught Stealing 2B,669289,Santiago Espinal,656876,Drew Rasmussen,643376,Danny Jansen,R,Christian Bethancourt,542194,2,1,4,False,2023-04-14,Caught,2B
+135,1B,2B,Stolen Base 2B,669289,Santiago Espinal,623149,Paul Sewald,624415,Cavan Biggio,R,Andrew Knapp,595284,2,2,8,True,2022-07-08,Stolen,2B
+188,1B,2B,Stolen Base 2B,669289,Santiago Espinal,669912,Kirby Snead,624415,Cavan Biggio,L,Stephen Vogt,519390,1,2,9,True,2022-07-06,Stolen,2B
+1064,1B,,Caught Stealing 2B,669289,Santiago Espinal,605521,Art Warren,606132,Raimel Tapia,R,Tyler Stephenson,663886,2,1,8,False,2022-05-20,Caught,2B
+1466,1B,2B,Stolen Base 2B,669289,Santiago Espinal,676477,Garrett Whitlock,641741,Gosuke Katoh,R,Christian Vázquez,543877,0,0,2,False,2022-04-28,Stolen,2B
+1670,1B,2B,Stolen Base 2B,669289,Santiago Espinal,670124,Adam Oller,672386,Alejandro Kirk,R,Stephen Vogt,519390,2,0,2,False,2022-04-17,Stolen,2B
+1773,1B,2B,Stolen Base 2B,669289,Santiago Espinal,592791,Jameson Taillon,666182,Bo Bichette,R,Kyle Higashioka,543309,0,2,5,True,2022-04-11,Stolen,2B
+1937,1B,2B,Stolen Base 2B,669289,Santiago Espinal,547973,Aroldis Chapman,543807,George Springer,L,Kyle Higashioka,543309,2,6,9,False,2021-09-30,Stolen,2B
+2534,1B,2B,Stolen Base 2B,669289,Santiago Espinal,458681,Lance Lynn,624512,Reese McGuire,R,Seby Zavala,664874,0,0,3,False,2021-08-23,Stolen,2B
+2649,1B,2B,Stolen Base 2B,669289,Santiago Espinal,669302,Logan Gilbert,666182,Bo Bichette,R,Cal Raleigh,663728,1,5,4,True,2021-08-15,Stolen,2B
+2932,1B,2B,Stolen Base 2B,669289,Santiago Espinal,656557,Tanner Houck,624512,Reese McGuire,R,Kevin Plawecki,608700,2,0,3,True,2021-07-28,Stolen,2B
+3535,1B,,Caught Stealing 2B,669289,Santiago Espinal,665152,Dean Kremer,624512,Reese McGuire,R,Austin Wynns,642851,0,2,2,True,2021-06-19,Caught,2B
+3685,1B,2B,Stolen Base 2B,669289,Santiago Espinal,607074,Carlos Rodón,656180,Riley Adams,L,Yasmani Grandal,518735,0,1,2,True,2021-06-08,Stolen,2B
+4055,1B,2B,Stolen Base 2B,669289,Santiago Espinal,571735,David Hale,643376,Danny Jansen,R,Rafael Marchán,665561,8,3,5,False,2021-05-16,Stolen,2B
+5965,2B,3B,Stolen Base 3B,669289,Santiago Espinal,475054,Chaz Roe,666971,Lourdes Gurriel Jr.,R,Kevan Smith,607345,4,5,10,True,2020-07-26,Stolen,3B
+373,1B,2B,Stolen Base 2B,669289,Santiago Espinal,663485,Cole Sands,641584,Jake Fraley,R,Ryan Jeffers,680777,1,2,6,True,2024-09-15,Stolen,2B
+557,2B,3B,Stolen Base 3B,669289,Santiago Espinal,493603,Adam Ottavino,666181,Will Benson,R,Francisco Alvarez,682626,4,0,7,True,2024-09-07,Stolen,3B
+698,1B,2B,Stolen Base 2B,669289,Santiago Espinal,672391,Kaleb Ort,642708,Amed Rosario,R,Yainer Diaz,673237,5,2,5,False,2024-09-02,Stolen,2B
+979,2B,,Caught Stealing 3B,669289,Santiago Espinal,663559,Bailey Falter,682829,Elly De La Cruz,L,Joey Bart,663698,0,1,3,True,2024-08-23,Caught,3B
+1460,1B,2B,Stolen Base 2B,669289,Santiago Espinal,592662,Robbie Ray,682622,Noelvi Marte,L,Curt Casali,592200,2,2,5,False,2024-08-04,Stolen,2B
+1461,2B,3B,Stolen Base 3B,669289,Santiago Espinal,592662,Robbie Ray,571912,Luke Maile,L,Curt Casali,592200,2,2,5,False,2024-08-04,Stolen,3B
+3106,1B,2B,Stolen Base 2B,669289,Santiago Espinal,675627,Michael Grove,605361,Nick Martini,R,Will Smith,669257,9,5,7,False,2024-05-24,Stolen,2B
+3386,1B,2B,Stolen Base 2B,669289,Santiago Espinal,690986,Kyle Harrison,571912,Luke Maile,L,Blake Sabol,666165,0,3,4,True,2024-05-12,Stolen,2B
+3846,1B,2B,Stolen Base 2B,669289,Santiago Espinal,622554,Seranthony Domínguez,656413,Stuart Fairchild,R,Garrett Stubbs,596117,3,3,6,False,2024-04-24,Stolen,2B
+4159,1B,2B,Stolen Base 2B,669289,Santiago Espinal,694363,Jared Shuster,663697,Jonathan India,L,Martín Maldonado,455117,1,6,4,True,2024-04-12,Stolen,2B
+4263,1B,2B,Stolen Base 2B,669289,Santiago Espinal,656266,J.B. Bukauskas,656413,Stuart Fairchild,R,William Contreras,661388,9,3,5,False,2024-04-08,Stolen,2B
+7510,1B,2B,Stolen Base 2B,669289,Santiago Espinal,657508,Mike Baumann,595281,Kevin Kiermaier,R,Adley Rutschman,668939,3,2,7,False,2023-05-20,Stolen,2B
+8083,1B,2B,Stolen Base 2B,669289,Santiago Espinal,656629,Michael Kopech,624415,Cavan Biggio,R,Seby Zavala,664874,4,0,4,False,2023-04-26,Stolen,2B
+8360,1B,,Caught Stealing 2B,669289,Santiago Espinal,656876,Drew Rasmussen,643376,Danny Jansen,R,Christian Bethancourt,542194,2,1,4,False,2023-04-14,Caught,2B

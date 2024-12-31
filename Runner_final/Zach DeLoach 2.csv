@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+390,1B,,Caught Stealing 2B,676113,Zach DeLoach,669372,J.T. Ginn,672820,Lenyn Sosa,R,Shea Langeliers,669127,3,0,3,False,2024-09-14,Caught,2B

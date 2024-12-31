@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+225,2B,3B,Stolen Base 3B,642727,Sergio Alcántara,605288,Adrian Houser,605200,Zach Davies,R,Luke Maile,571912,0,4,4,True,2021-09-17,Stolen,3B
+447,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,643230,Steven Brault,621219,Alec Mills,L,Michael Pérez,605421,4,0,3,False,2021-09-03,Stolen,2B
+1432,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,605540,Brandon Woodruff,592626,Joc Pederson,R,Manny Piña,444489,1,0,3,True,2021-06-29,Stolen,2B
+649,1B,,Caught Stealing 2B,642727,Sergio Alcántara,656458,Lucas Gilbreath,595751,Jorge Alfaro,L,Elias Díaz,553869,1,1,7,False,2022-06-11,Caught,2B
+824,1B,,Caught Stealing 2B,642727,Sergio Alcántara,608718,Brent Suter,595777,Jurickson Profar,L,Victor Caratini,605170,1,3,6,True,2022-06-02,Caught,2B
+2149,2B,3B,Stolen Base 3B,642727,Sergio Alcántara,605288,Adrian Houser,605200,Zach Davies,R,Luke Maile,571912,0,4,4,True,2021-09-17,Stolen,3B
+2371,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,643230,Steven Brault,621219,Alec Mills,L,Michael Pérez,605421,4,0,3,False,2021-09-03,Stolen,2B
+3356,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,605540,Brandon Woodruff,592626,Joc Pederson,R,Manny Piña,444489,1,0,3,True,2021-06-29,Stolen,2B

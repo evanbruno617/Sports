@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1550,1B,,Caught Stealing 2B,518577,Collin Cowgill,407845,Fernando Rodney,543068,C.J. Cron,R,Mike Zunino,572287,2,3,9,False,2015-05-04,Caught,2B
+1975,2B,3B,Stolen Base 3B,518577,Collin Cowgill,519168,Anthony Ranaudo,430947,Erick Aybar,R,Carlos Corporán,449786,0,3,2,True,2015-04-15,Stolen,3B
+2170,1B,2B,Stolen Base 2B,518577,Collin Cowgill,502051,Josh Ravin,543213,Johnny Giavotella,R,A.J. Ellis,454560,5,3,6,True,2015-04-04,Stolen,2B
+2578,2B,3B,Stolen Base 3B,518577,Collin Cowgill,445153,Darin Downs,594777,Kole Calhoun,L,Jason Castro,488771,2,1,7,False,2014-09-13,Stolen,3B
+2679,1B,2B,Stolen Base 2B,518577,Collin Cowgill,457779,Michael Kirkman,594777,Kole Calhoun,L,Tomás Telis,542513,1,2,8,True,2014-09-09,Stolen,2B
+3796,1B,2B,Stolen Base 2B,518577,Collin Cowgill,430630,Jason Frasor,594777,Kole Calhoun,R,Robinson Chirinos,455139,2,5,6,True,2014-07-12,Stolen,2B
+5245,1B,2B,Stolen Base 2B,518577,Collin Cowgill,407890,Colby Lewis,543776,JB Shuck,R,J.P. Arencibia,450317,1,0,2,False,2014-05-02,Stolen,2B
+334,2B,3B,Stolen Base 3B,518577,Collin Cowgill,445153,Darin Downs,594777,Kole Calhoun,L,Jason Castro,488771,2,1,7,False,2014-09-13,Stolen,3B
+435,1B,2B,Stolen Base 2B,518577,Collin Cowgill,457779,Michael Kirkman,594777,Kole Calhoun,L,Tomás Telis,542513,1,2,8,True,2014-09-09,Stolen,2B
+1552,1B,2B,Stolen Base 2B,518577,Collin Cowgill,430630,Jason Frasor,594777,Kole Calhoun,R,Robinson Chirinos,455139,2,5,6,True,2014-07-12,Stolen,2B
+3001,1B,2B,Stolen Base 2B,518577,Collin Cowgill,407890,Colby Lewis,543776,JB Shuck,R,J.P. Arencibia,450317,1,0,2,False,2014-05-02,Stolen,2B

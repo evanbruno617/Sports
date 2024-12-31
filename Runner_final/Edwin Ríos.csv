@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1492,1B,,Caught Stealing 2B,621458,Edwin Ríos,598287,Noé Ramirez,666158,Gavin Lux,R,Carson Kelly,608348,1,0,7,True,2022-04-27,Caught,2B

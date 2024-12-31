@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4456,1B,2B,Stolen Base 2B,430637,Kelly Johnson,607231,John Gant,518595,Travis d'Arnaud,R,A.J. Pierzynski,150229,1,2,4,True,2016-09-10,Stolen,2B
+5870,1B,2B,Stolen Base 2B,430637,Kelly Johnson,502032,Bud Norris,608703,Matt Reynolds,R,A.J. Pierzynski,150229,1,0,6,True,2016-06-26,Stolen,2B
+6861,1B,2B,Stolen Base 2B,430637,Kelly Johnson,518774,Matt Harvey,150229,A.J. Pierzynski,R,Kevin Plawecki,608700,0,2,6,True,2016-05-03,Stolen,2B
+93,1B,2B,Stolen Base 2B,430637,Kelly Johnson,453562,Jake Arrieta,150229,A.J. Pierzynski,R,David Ross,424325,0,0,1,False,2015-07-19,Stolen,2B
+789,1B,,Caught Stealing 2B,430637,Kelly Johnson,475115,Tyson Ross,150229,A.J. Pierzynski,R,Austin Hedges,595978,1,0,2,False,2015-06-10,Caught,2B
+2807,1B,,Caught Stealing 2B,430637,Kelly Johnson,543881,Pedro Villarreal,570731,Jonathan Schoop,R,Tucker Barnhart,571466,7,3,6,False,2014-09-04,Caught,2B
+4159,1B,,Caught Stealing 2B,430637,Kelly Johnson,445170,Todd Redmond,465041,Francisco Cervelli,R,Dioner Navarro,425900,3,5,8,True,2014-06-25,Caught,2B
+4946,1B,2B,Stolen Base 2B,430637,Kelly Johnson,450203,Charlie Morton,501660,Zoilo Almonte,R,Tony Sanchez,506997,3,1,2,False,2014-05-18,Stolen,2B
+5432,1B,2B,Stolen Base 2B,430637,Kelly Johnson,407793,John Lackey,453056,Jacoby Ellsbury,R,A.J. Pierzynski,150229,2,0,3,True,2014-04-23,Stolen,2B
+563,1B,,Caught Stealing 2B,430637,Kelly Johnson,543881,Pedro Villarreal,570731,Jonathan Schoop,R,Tucker Barnhart,571466,7,3,6,False,2014-09-04,Caught,2B
+1915,1B,,Caught Stealing 2B,430637,Kelly Johnson,445170,Todd Redmond,465041,Francisco Cervelli,R,Dioner Navarro,425900,3,5,8,True,2014-06-25,Caught,2B
+2702,1B,2B,Stolen Base 2B,430637,Kelly Johnson,450203,Charlie Morton,501660,Zoilo Almonte,R,Tony Sanchez,506997,3,1,2,False,2014-05-18,Stolen,2B
+3188,1B,2B,Stolen Base 2B,430637,Kelly Johnson,407793,John Lackey,453056,Jacoby Ellsbury,R,A.J. Pierzynski,150229,2,0,3,True,2014-04-23,Stolen,2B
+421,1B,2B,Stolen Base 2B,430637,Kelly Johnson,607231,John Gant,518595,Travis d'Arnaud,R,A.J. Pierzynski,150229,1,2,4,True,2016-09-10,Stolen,2B
+1835,1B,2B,Stolen Base 2B,430637,Kelly Johnson,502032,Bud Norris,608703,Matt Reynolds,R,A.J. Pierzynski,150229,1,0,6,True,2016-06-26,Stolen,2B
+2826,1B,2B,Stolen Base 2B,430637,Kelly Johnson,518774,Matt Harvey,150229,A.J. Pierzynski,R,Kevin Plawecki,608700,0,2,6,True,2016-05-03,Stolen,2B
+3828,1B,2B,Stolen Base 2B,430637,Kelly Johnson,607231,John Gant,518595,Travis d'Arnaud,R,A.J. Pierzynski,150229,1,2,4,True,2016-09-10,Stolen,2B
+5242,1B,2B,Stolen Base 2B,430637,Kelly Johnson,502032,Bud Norris,608703,Matt Reynolds,R,A.J. Pierzynski,150229,1,0,6,True,2016-06-26,Stolen,2B
+6233,1B,2B,Stolen Base 2B,430637,Kelly Johnson,518774,Matt Harvey,150229,A.J. Pierzynski,R,Kevin Plawecki,608700,0,2,6,True,2016-05-03,Stolen,2B

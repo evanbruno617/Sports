@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+7453,1B,2B,Stolen Base 2B,572846,Arby Fields,502522,Justin Miller,596143,Luis Sardinas,R,Wilkyns Jimenez,622612,3,6,7,True,2016-04-02,Stolen,2B
+3418,1B,2B,Stolen Base 2B,572846,Arby Fields,502522,Justin Miller,596143,Luis Sardinas,R,Wilkyns Jimenez,622612,3,6,7,True,2016-04-02,Stolen,2B
+6825,1B,2B,Stolen Base 2B,572846,Arby Fields,502522,Justin Miller,596143,Luis Sardinas,R,Wilkyns Jimenez,622612,3,6,7,True,2016-04-02,Stolen,2B

@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1183,1B,2B,Stolen Base 2B,623168,Tyler Heineman,628711,Julio Urías,664041,Jaylin Davis,L,Will Smith,669257,0,0,2,True,2020-07-26,Stolen,2B
+4026,1B,2B,Stolen Base 2B,623168,Tyler Heineman,628711,Julio Urías,664041,Jaylin Davis,L,Will Smith,669257,0,0,2,True,2020-07-26,Stolen,2B
+4176,1B,2B,Stolen Base 2B,623168,Tyler Heineman,670174,Josh Winckowski,668804,Bryan Reynolds,R,Reese McGuire,624512,1,4,7,True,2023-04-04,Stolen,2B
+643,1B,2B,Stolen Base 2B,623168,Tyler Heineman,450203,Charlie Morton,672779,Tucupita Marcano,R,William Contreras,661388,2,2,5,True,2022-06-11,Stolen,2B
+5950,1B,2B,Stolen Base 2B,623168,Tyler Heineman,628711,Julio Urías,664041,Jaylin Davis,L,Will Smith,669257,0,0,2,True,2020-07-26,Stolen,2B
+8590,1B,2B,Stolen Base 2B,623168,Tyler Heineman,670174,Josh Winckowski,668804,Bryan Reynolds,R,Reese McGuire,624512,1,4,7,True,2023-04-04,Stolen,2B

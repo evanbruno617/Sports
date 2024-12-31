@@ -1,0 +1,55 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,451594,Dexter Fowler,571946,Shelby Miller,592178,Kris Bryant,R,A.J. Pierzynski,150229,0,3,5,True,2015-07-19,Stolen,2B,2015,2016,26.9
+1,1B,2B,Stolen Base 2B,624585,Jorge Soler,501593,Luis Avilán,458085,Chris Coghlan,L,A.J. Pierzynski,150229,0,3,7,True,2015-07-19,Stolen,2B,2015,2016,26.9
+2,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,571946,Shelby Miller,518934,DJ LeMahieu,R,A.J. Pierzynski,150229,1,0,3,False,2015-07-10,Stolen,2B,2015,2016,26.9
+3,1B,,Caught Stealing 2B,488681,Brandon Barnes,571946,Shelby Miller,444836,Aaron Laffey,R,A.J. Pierzynski,150229,3,0,4,False,2015-07-10,Caught,2B,2015,2016,26.9
+4,1B,,Caught Stealing 2B,572019,Ben Paulsen,571946,Shelby Miller,518614,Daniel Descalso,R,A.J. Pierzynski,150229,5,0,5,False,2015-07-10,Caught,2B,2015,2016,26.9
+5,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,544365,Manny Bañuelos,518934,DJ LeMahieu,L,A.J. Pierzynski,150229,5,3,6,False,2015-07-10,Stolen,2B,2015,2016,26.9
+6,1B,2B,Stolen Base 2B,516416,Jean Segura,605538,Matt Wisler,455117,Martín Maldonado,R,A.J. Pierzynski,150229,1,4,5,False,2015-07-06,Stolen,2B,2015,2016,26.9
+7,1B,2B,Stolen Base 2B,514917,César Hernández,571946,Shelby Miller,596748,Maikel Franco,R,A.J. Pierzynski,150229,0,0,3,True,2015-07-05,Stolen,2B,2015,2016,26.9
+8,2B,,Caught Stealing 3B,546318,Odúbel Herrera,571946,Shelby Miller,514917,César Hernández,R,A.J. Pierzynski,150229,0,0,5,True,2015-07-05,Caught,3B,2015,2016,26.9
+9,1B,2B,Stolen Base 2B,514917,César Hernández,571946,Shelby Miller,429667,Ryan Howard,R,A.J. Pierzynski,150229,0,0,5,True,2015-07-05,Stolen,2B,2015,2016,26.9
+10,1B,2B,Stolen Base 2B,520471,Freddy Galvis,502010,Jake Brigham,502126,Domonic Brown,R,A.J. Pierzynski,150229,0,4,10,True,2015-07-05,Stolen,2B,2015,2016,26.9
+11,1B,2B,Stolen Base 2B,452655,Denard Span,544365,Manny Bañuelos,488862,Yunel Escobar,L,A.J. Pierzynski,150229,0,0,1,True,2015-07-02,Stolen,2B,2015,2016,26.9
+12,1B,2B,Stolen Base 2B,452655,Denard Span,544365,Manny Bañuelos,457787,Danny Espinosa,L,A.J. Pierzynski,150229,1,0,6,True,2015-07-02,Stolen,2B,2015,2016,26.9
+13,1B,2B,Stolen Base 2B,452655,Denard Span,571946,Shelby Miller,457787,Danny Espinosa,R,A.J. Pierzynski,150229,0,5,4,True,2015-06-30,Stolen,2B,2015,2016,26.9
+14,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,622072,Alex Wood,516782,Starling Marte,L,A.J. Pierzynski,150229,0,0,1,False,2015-06-28,Stolen,2B,2015,2016,26.9
+15,1B,,Caught Stealing 2B,474568,Jordy Mercer,622072,Alex Wood,446481,Sean Rodríguez,L,A.J. Pierzynski,150229,0,1,5,False,2015-06-28,Caught,2B,2015,2016,26.9
+16,3B,score,Stolen Base Home,516782,Starling Marte,527054,Julio Teheran,474568,Jordy Mercer,R,A.J. Pierzynski,150229,6,1,5,False,2015-06-27,Stolen,Home,2015,2016,26.9
+17,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,527054,Julio Teheran,474568,Jordy Mercer,R,A.J. Pierzynski,150229,6,1,5,False,2015-06-27,Stolen,2B,2015,2016,26.9
+18,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,622072,Alex Wood,544931,Stephen Strasburg,L,A.J. Pierzynski,150229,1,0,3,False,2015-06-23,Stolen,3B,2015,2016,26.9
+19,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,571946,Shelby Miller,543768,Travis Shaw,R,A.J. Pierzynski,150229,0,1,5,True,2015-06-18,Stolen,2B,2015,2016,26.9
+20,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,430911,David Aardsma,501571,Juan Lagares,R,A.J. Pierzynski,150229,4,3,7,False,2015-06-12,Stolen,2B,2015,2016,26.9
+21,1B,2B,Stolen Base 2B,461416,Will Venable,571946,Shelby Miller,457708,Justin Upton,R,A.J. Pierzynski,150229,0,1,3,True,2015-06-08,Stolen,2B,2015,2016,26.9
+22,1B,2B,Stolen Base 2B,457708,Justin Upton,592533,Cody Martin,461314,Matt Kemp,R,A.J. Pierzynski,150229,3,4,11,True,2015-06-08,Stolen,2B,2015,2016,26.9
+23,2B,3B,Stolen Base 3B,461314,Matt Kemp,501593,Luis Avilán,506560,Alexi Amarista,L,A.J. Pierzynski,150229,3,5,11,True,2015-06-08,Stolen,3B,2015,2016,26.9
+24,1B,2B,Stolen Base 2B,516782,Starling Marte,622072,Alex Wood,628356,Jung Ho Kang,L,A.J. Pierzynski,150229,0,0,1,True,2015-06-07,Stolen,2B,2015,2016,26.9
+25,1B,2B,Stolen Base 2B,570256,Gregory Polanco,554234,Williams Pérez,516782,Starling Marte,R,A.J. Pierzynski,150229,2,1,3,True,2015-06-05,Stolen,2B,2015,2016,26.9
+26,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502239,Trevor Cahill,516782,Starling Marte,R,A.J. Pierzynski,150229,5,8,8,True,2015-06-05,Stolen,2B,2015,2016,26.9
+27,1B,2B,Stolen Base 2B,542255,Ender Inciarte,571946,Shelby Miller,572041,AJ Pollock,R,A.J. Pierzynski,150229,4,1,4,False,2015-06-02,Stolen,2B,2015,2016,26.9
+28,1B,2B,Stolen Base 2B,542255,Ender Inciarte,434665,Nick Masset,572041,AJ Pollock,R,A.J. Pierzynski,150229,4,6,6,False,2015-06-02,Stolen,2B,2015,2016,26.9
+29,1B,2B,Stolen Base 2B,572041,AJ Pollock,622072,Alex Wood,502671,Paul Goldschmidt,L,A.J. Pierzynski,150229,0,0,1,False,2015-06-01,Stolen,2B,2015,2016,26.9
+30,1B,2B,Stolen Base 2B,605412,Joe Panik,462382,Jim Johnson,457763,Buster Posey,R,A.J. Pierzynski,150229,3,1,8,False,2015-05-29,Stolen,2B,2015,2016,26.9
+31,1B,2B,Stolen Base 2B,543063,Brandon Crawford,462382,Jim Johnson,434636,Ángel Pagán,R,A.J. Pierzynski,150229,4,1,8,False,2015-05-29,Stolen,2B,2015,2016,26.9
+32,1B,2B,Stolen Base 2B,425844,Zack Greinke,622072,Alex Wood,592626,Joc Pederson,L,A.J. Pierzynski,150229,1,1,5,False,2015-05-27,Stolen,2B,2015,2016,26.9
+33,1B,,Caught Stealing 2B,460075,Ryan Braun,571946,Shelby Miller,452252,Adam Lind,R,A.J. Pierzynski,150229,0,1,1,True,2015-05-23,Caught,2B,2015,2016,26.9
+34,1B,2B,Stolen Base 2B,519306,Steven Souza Jr.,592314,Mike Foltynewicz,446334,Evan Longoria,R,A.J. Pierzynski,150229,3,2,3,True,2015-05-19,Stolen,2B,2015,2016,26.9
+35,1B,,Caught Stealing 2B,571740,Billy Hamilton,592314,Mike Foltynewicz,407781,Marlon Byrd,R,A.J. Pierzynski,150229,0,0,1,False,2015-05-12,Caught,2B,2015,2016,26.9
+36,1B,,Caught Stealing 2B,457803,Jay Bruce,592314,Mike Foltynewicz,502117,Kristopher Negrón,R,A.J. Pierzynski,150229,2,3,6,False,2015-05-12,Caught,2B,2015,2016,26.9
+37,1B,2B,Stolen Base 2B,571740,Billy Hamilton,571946,Shelby Miller,407781,Marlon Byrd,R,A.J. Pierzynski,150229,0,0,1,False,2015-05-11,Stolen,2B,2015,2016,26.9
+38,1B,2B,Stolen Base 2B,408252,Brandon Phillips,462382,Jim Johnson,457803,Jay Bruce,R,A.J. Pierzynski,150229,1,2,9,False,2015-05-11,Stolen,2B,2015,2016,26.9
+39,1B,2B,Stolen Base 2B,408252,Brandon Phillips,445590,Eric Stults,407781,Marlon Byrd,L,A.J. Pierzynski,150229,0,1,4,True,2015-05-02,Stolen,2B,2015,2016,26.9
+40,2B,3B,Stolen Base 3B,446359,Zack Cozart,592314,Mike Foltynewicz,453943,Todd Frazier,R,A.J. Pierzynski,150229,0,0,1,True,2015-05-01,Stolen,3B,2015,2016,26.9
+41,1B,2B,Stolen Base 2B,458015,Joey Votto,592314,Mike Foltynewicz,453943,Todd Frazier,R,A.J. Pierzynski,150229,0,0,1,True,2015-05-01,Stolen,2B,2015,2016,26.9
+42,1B,2B,Stolen Base 2B,408252,Brandon Phillips,592314,Mike Foltynewicz,407781,Marlon Byrd,R,A.J. Pierzynski,150229,0,2,1,True,2015-05-01,Stolen,2B,2015,2016,26.9
+43,1B,2B,Stolen Base 2B,408252,Brandon Phillips,592314,Mike Foltynewicz,407781,Marlon Byrd,R,A.J. Pierzynski,150229,0,2,4,True,2015-05-01,Stolen,2B,2015,2016,26.9
+44,1B,2B,Stolen Base 2B,458015,Joey Votto,592314,Mike Foltynewicz,453943,Todd Frazier,R,A.J. Pierzynski,150229,2,3,5,True,2015-05-01,Stolen,2B,2015,2016,26.9
+45,1B,2B,Stolen Base 2B,519184,Ben Revere,571946,Shelby Miller,546318,Odúbel Herrera,R,A.J. Pierzynski,150229,2,0,5,False,2015-04-25,Stolen,2B,2015,2016,26.9
+46,1B,,Caught Stealing 2B,519184,Ben Revere,622072,Alex Wood,546318,Odúbel Herrera,L,A.J. Pierzynski,150229,0,0,3,False,2015-04-24,Caught,2B,2015,2016,26.9
+47,1B,2B,Stolen Base 2B,434158,Curtis Granderson,527054,Julio Teheran,501571,Juan Lagares,R,A.J. Pierzynski,150229,3,3,5,False,2015-04-23,Stolen,2B,2015,2016,26.9
+48,1B,2B,Stolen Base 2B,502143,Danny Valencia,622072,Alex Wood,607680,Kevin Pillar,L,A.J. Pierzynski,150229,0,1,2,False,2015-04-18,Stolen,2B,2015,2016,26.9
+49,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,502239,Trevor Cahill,400085,Ichiro Suzuki,R,A.J. Pierzynski,150229,0,0,1,True,2015-04-14,Stolen,2B,2015,2016,26.9
+50,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,502239,Trevor Cahill,445988,Martín Prado,R,A.J. Pierzynski,150229,0,3,3,True,2015-04-14,Stolen,2B,2015,2016,26.9
+51,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,516970,Sugar Ray Marimon,400085,Ichiro Suzuki,R,A.J. Pierzynski,150229,0,4,4,True,2015-04-14,Stolen,2B,2015,2016,26.9
+52,1B,2B,Stolen Base 2B,434158,Curtis Granderson,462089,Juan Jaime,489232,Anthony Recker,R,A.J. Pierzynski,150229,3,3,8,True,2015-04-12,Stolen,2B,2015,2016,26.9
+53,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,571946,Shelby Miller,592885,Christian Yelich,R,A.J. Pierzynski,150229,0,0,3,False,2015-04-08,Stolen,2B,2015,2016,26.9

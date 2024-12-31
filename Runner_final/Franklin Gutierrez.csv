@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3860,1B,,Caught Stealing 2B,429711,Franklin Gutierrez,452657,Jon Lester,624577,Yasiel Puig,L,Willson Contreras,575929,0,0,2,True,2017-04-10,Caught,2B
+5306,1B,2B,Stolen Base 2B,429711,Franklin Gutierrez,452657,Jon Lester,429664,Robinson Canó,L,David Ross,424325,5,0,5,True,2016-07-29,Stolen,2B
+1271,1B,2B,Stolen Base 2B,429711,Franklin Gutierrez,452657,Jon Lester,429664,Robinson Canó,L,David Ross,424325,5,0,5,True,2016-07-29,Stolen,2B
+3232,1B,,Caught Stealing 2B,429711,Franklin Gutierrez,452657,Jon Lester,624577,Yasiel Puig,L,Willson Contreras,575929,0,0,2,True,2017-04-10,Caught,2B
+4678,1B,2B,Stolen Base 2B,429711,Franklin Gutierrez,452657,Jon Lester,429664,Robinson Canó,L,David Ross,424325,5,0,5,True,2016-07-29,Stolen,2B

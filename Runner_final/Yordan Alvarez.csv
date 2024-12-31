@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1694,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,677976,Randy Dobnak,493329,Yuli Gurriel,R,Ryan Jeffers,680777,0,4,5,True,2021-06-13,Stolen,2B
+621,3B,,Caught Stealing Home,670541,Yordan Alvarez,642121,Cole Sulser,493329,Yuli Gurriel,R,Nick Fortes,663743,5,4,7,False,2022-06-12,Caught,Home
+3618,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,677976,Randy Dobnak,493329,Yuli Gurriel,R,Ryan Jeffers,680777,0,4,5,True,2021-06-13,Stolen,2B
+746,2B,3B,Stolen Base 3B,670541,Yordan Alvarez,666142,Cole Ragans,665161,Jeremy Peña,L,Salvador Perez,521692,4,0,6,False,2024-08-31,Stolen,3B
+1985,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,663773,Bryan Hoeing,673237,Yainer Diaz,R,Ali Sánchez,645305,1,0,1,False,2024-07-10,Stolen,2B
+2275,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,493603,Adam Ottavino,676694,Jake Meyers,R,Francisco Alvarez,682626,2,2,5,True,2024-06-28,Stolen,2B
+2961,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,669923,George Kirby,665161,Jeremy Peña,R,Mitch Garver,641598,1,1,6,True,2024-05-29,Stolen,2B
+2992,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,622491,Luis Castillo,665161,Jeremy Peña,R,Cal Raleigh,663728,1,2,6,True,2024-05-28,Stolen,2B
+3221,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,669952,Mitch White,608324,Alex Bregman,R,William Contreras,661388,9,4,7,False,2024-05-19,Stolen,2B

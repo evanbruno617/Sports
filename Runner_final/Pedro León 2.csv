@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1089,1B,2B,Stolen Base 2B,694175,Pedro León,681066,Ky Bush,665161,Jeremy Peña,L,Korey Lee,686676,0,0,3,False,2024-08-18,Stolen,2B
+1440,1B,2B,Stolen Base 2B,694175,Pedro León,641302,Tyler Alexander,514888,Jose Altuve,L,Ben Rortvedt,666163,0,1,5,False,2024-08-04,Stolen,2B

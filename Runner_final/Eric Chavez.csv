@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4594,1B,2B,Stolen Base 2B,136767,Eric Chavez,434665,Nick Masset,444482,David Peralta,R,Wilin Rosario,501647,8,11,8,True,2014-06-04,Stolen,2B
+5160,1B,2B,Stolen Base 2B,136767,Eric Chavez,408061,Francisco Rodríguez,572041,AJ Pollock,R,Jonathan Lucroy,518960,1,3,9,True,2014-05-07,Stolen,2B
+2350,1B,2B,Stolen Base 2B,136767,Eric Chavez,434665,Nick Masset,444482,David Peralta,R,Wilin Rosario,501647,8,11,8,True,2014-06-04,Stolen,2B
+2916,1B,2B,Stolen Base 2B,136767,Eric Chavez,408061,Francisco Rodríguez,572041,AJ Pollock,R,Jonathan Lucroy,518960,1,3,9,True,2014-05-07,Stolen,2B

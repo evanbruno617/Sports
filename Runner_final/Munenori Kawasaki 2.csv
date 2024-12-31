@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4464,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,502381,Luke Gregerson,451594,Dexter Fowler,R,Jason Castro,488771,2,1,8,True,2016-09-10,Stolen,2B
+7327,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,501936,Matt Buschmann,471083,Miguel Montero,R,Chris Herrmann,543302,3,7,9,True,2016-04-10,Stolen,2B
+992,1B,,Caught Stealing 2B,493128,Munenori Kawasaki,430641,Blaine Boyer,572365,Ryan Goins,R,Kurt Suzuki,435559,6,5,8,True,2015-05-31,Caught,2B
+2531,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,434622,Ubaldo Jiménez,607680,Kevin Pillar,R,Nick Hundley,460026,3,1,2,True,2014-09-16,Stolen,2B
+287,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,434622,Ubaldo Jiménez,607680,Kevin Pillar,R,Nick Hundley,460026,3,1,2,True,2014-09-16,Stolen,2B
+429,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,502381,Luke Gregerson,451594,Dexter Fowler,R,Jason Castro,488771,2,1,8,True,2016-09-10,Stolen,2B
+3292,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,501936,Matt Buschmann,471083,Miguel Montero,R,Chris Herrmann,543302,3,7,9,True,2016-04-10,Stolen,2B
+3836,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,502381,Luke Gregerson,451594,Dexter Fowler,R,Jason Castro,488771,2,1,8,True,2016-09-10,Stolen,2B
+6699,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,501936,Matt Buschmann,471083,Miguel Montero,R,Chris Herrmann,543302,3,7,9,True,2016-04-10,Stolen,2B

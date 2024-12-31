@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1018,1B,2B,Stolen Base 2B,669392,Samad Taylor,621112,Paul Blackburn,664728,Kyle Isbel,R,Shea Langeliers,669127,1,1,3,True,2023-08-21,Stolen,2B
+1154,1B,2B,Stolen Base 2B,669392,Samad Taylor,666374,Matt Brash,521692,Salvador Perez,R,Cal Raleigh,663728,6,6,9,False,2023-08-14,Stolen,2B
+1426,1B,2B,Stolen Base 2B,669392,Samad Taylor,471911,Carlos Carrasco,672580,Maikel Garcia,R,Omar Narváez,553882,2,0,3,False,2023-08-03,Stolen,2B
+1450,1B,2B,Stolen Base 2B,669392,Samad Taylor,500779,Jose Quintana,664728,Kyle Isbel,L,Francisco Alvarez,682626,0,1,2,False,2023-08-01,Stolen,2B
+1452,1B,2B,Stolen Base 2B,669392,Samad Taylor,500779,Jose Quintana,664728,Kyle Isbel,L,Francisco Alvarez,682626,2,1,7,False,2023-08-01,Stolen,2B
+1453,2B,3B,Stolen Base 2B,669392,Samad Taylor,500779,Jose Quintana,664728,Kyle Isbel,L,Francisco Alvarez,682626,2,1,7,False,2023-08-01,Stolen,2B
+1530,1B,2B,Stolen Base 2B,669392,Samad Taylor,643377,Griffin Jax,664728,Kyle Isbel,R,Ryan Jeffers,680777,4,4,9,False,2023-07-28,Stolen,2B
+1771,1B,2B,Stolen Base 2B,669392,Samad Taylor,671345,Jason Foley,664728,Kyle Isbel,R,Eric Haase,606992,2,3,8,False,2023-07-17,Stolen,2B
+2283,2B,3B,Stolen Base 3B,669392,Samad Taylor,687330,Kevin Kelly,672580,Maikel Garcia,R,Francisco Mejía,642336,2,2,4,True,2023-06-22,Stolen,3B
+5432,1B,2B,Stolen Base 2B,669392,Samad Taylor,621112,Paul Blackburn,664728,Kyle Isbel,R,Shea Langeliers,669127,1,1,3,True,2023-08-21,Stolen,2B
+5568,1B,2B,Stolen Base 2B,669392,Samad Taylor,666374,Matt Brash,521692,Salvador Perez,R,Cal Raleigh,663728,6,6,9,False,2023-08-14,Stolen,2B
+5840,1B,2B,Stolen Base 2B,669392,Samad Taylor,471911,Carlos Carrasco,672580,Maikel Garcia,R,Omar Narváez,553882,2,0,3,False,2023-08-03,Stolen,2B
+5864,1B,2B,Stolen Base 2B,669392,Samad Taylor,500779,Jose Quintana,664728,Kyle Isbel,L,Francisco Alvarez,682626,0,1,2,False,2023-08-01,Stolen,2B
+5866,1B,2B,Stolen Base 2B,669392,Samad Taylor,500779,Jose Quintana,664728,Kyle Isbel,L,Francisco Alvarez,682626,2,1,7,False,2023-08-01,Stolen,2B
+5867,2B,3B,Stolen Base 2B,669392,Samad Taylor,500779,Jose Quintana,664728,Kyle Isbel,L,Francisco Alvarez,682626,2,1,7,False,2023-08-01,Stolen,2B
+5944,1B,2B,Stolen Base 2B,669392,Samad Taylor,643377,Griffin Jax,664728,Kyle Isbel,R,Ryan Jeffers,680777,4,4,9,False,2023-07-28,Stolen,2B
+6185,1B,2B,Stolen Base 2B,669392,Samad Taylor,671345,Jason Foley,664728,Kyle Isbel,R,Eric Haase,606992,2,3,8,False,2023-07-17,Stolen,2B
+6697,2B,3B,Stolen Base 3B,669392,Samad Taylor,687330,Kevin Kelly,672580,Maikel Garcia,R,Francisco Mejía,642336,2,2,4,True,2023-06-22,Stolen,3B

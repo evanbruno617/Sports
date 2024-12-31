@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+52,1B,2B,Stolen Base 2B,672569,Gustavo Campero,670036,Matt Festa,694359,Niko Kavadas,R,Jonah Heim,641680,2,4,5,False,2024-09-27,Stolen,2B
+171,2B,3B,Stolen Base 3B,672569,Gustavo Campero,650556,Bryan Abreu,621493,Taylor Ward,R,Victor Caratini,605170,4,4,7,True,2024-09-22,Stolen,3B
+297,1B,2B,Stolen Base 2B,672569,Gustavo Campero,663436,Davis Martin,621493,Taylor Ward,R,Korey Lee,686676,2,0,5,False,2024-09-17,Stolen,2B

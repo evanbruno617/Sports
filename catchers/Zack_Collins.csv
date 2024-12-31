@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,2,1B,,Caught Stealing 2B,669004,MJ Melendez,670950,Trevor Richards,467793,Carlos Santana,R,Zack Collins,641470,5,3,4,False,2022-06-08,Caught,2B,2022,2023,29.4,2023, 76.9, 0.98
+1,3,1B,,Caught Stealing 2B,664702,Myles Straw,592332,Kevin Gausman,680757,Steven Kwan,R,Zack Collins,641470,0,0,1,False,2022-05-07,Caught,2B,2022,2023,29.4,2023, 76.9, 0.98
+2,4,1B,2B,Stolen Base 2B,608070,José Ramírez,592332,Kevin Gausman,680911,Owen Miller,R,Zack Collins,641470,0,0,1,False,2022-05-07,Stolen,2B,2022,2023,29.4,2023, 76.9, 0.98
+3,5,1B,2B,Stolen Base 2B,664702,Myles Straw,592332,Kevin Gausman,680757,Steven Kwan,R,Zack Collins,641470,1,4,3,False,2022-05-07,Stolen,2B,2022,2023,29.4,2023, 76.9, 0.98
+4,6,1B,2B,Stolen Base 2B,640461,Chad Pinder,643256,Adam Cimber,664913,Seth Brown,R,Zack Collins,641470,2,1,6,True,2022-04-15,Stolen,2B,2022,2023,29.4,2023, 76.9, 0.98

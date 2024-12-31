@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1686,1B,,Caught Stealing 2B,673962,Josh Jung,664062,Tony Gonsolin,677649,Ezequiel Duran,R,Will Smith,669257,4,3,4,False,2023-07-21,Caught,2B
+3233,1B,,Caught Stealing 2B,673962,Josh Jung,621076,James Kaprielian,677649,Ezequiel Duran,R,Shea Langeliers,669127,0,1,2,True,2023-05-13,Caught,2B
+3834,1B,2B,Stolen Base 2B,673962,Josh Jung,641745,Brad Keller,543257,Robbie Grossman,R,Salvador Perez,521692,1,1,4,True,2023-04-18,Stolen,2B
+654,1B,2B,Stolen Base 2B,673962,Josh Jung,664776,Jake Cousins,666969,Adolis García,R,Jose Trevino,624431,2,4,8,False,2024-09-03,Stolen,2B
+813,1B,2B,Stolen Base 2B,673962,Josh Jung,680897,Nick Nastrini,641680,Jonah Heim,R,Korey Lee,686676,0,1,5,True,2024-08-29,Stolen,2B
+814,2B,3B,Stolen Base 3B,673962,Josh Jung,672860,Prelander Berroa,665750,Leody Taveras,R,Korey Lee,686676,0,2,7,True,2024-08-29,Stolen,3B
+4397,1B,2B,Stolen Base 2B,673962,Josh Jung,606965,Chris Devenski,665120,Jared Walsh,R,René Pinto,650907,0,6,6,True,2024-04-01,Stolen,2B
+4398,2B,3B,Stolen Base 2B,673962,Josh Jung,606965,Chris Devenski,665120,Jared Walsh,R,René Pinto,650907,0,6,6,True,2024-04-01,Stolen,2B
+6100,1B,,Caught Stealing 2B,673962,Josh Jung,664062,Tony Gonsolin,677649,Ezequiel Duran,R,Will Smith,669257,4,3,4,False,2023-07-21,Caught,2B
+7647,1B,,Caught Stealing 2B,673962,Josh Jung,621076,James Kaprielian,677649,Ezequiel Duran,R,Shea Langeliers,669127,0,1,2,True,2023-05-13,Caught,2B
+8248,1B,2B,Stolen Base 2B,673962,Josh Jung,641745,Brad Keller,543257,Robbie Grossman,R,Salvador Perez,521692,1,1,4,True,2023-04-18,Stolen,2B

@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4283,1B,2B,Stolen Base 2B,406878,Brian Roberts,434622,Ubaldo Jiménez,500208,Yangervis Solarte,R,Nick Hundley,460026,1,0,2,False,2014-06-20,Stolen,2B
+4299,1B,2B,Stolen Base 2B,406878,Brian Roberts,571901,Aaron Loup,500208,Yangervis Solarte,L,Josh Thole,489365,4,2,6,False,2014-06-19,Stolen,2B
+4300,2B,3B,Stolen Base 3B,406878,Brian Roberts,571901,Aaron Loup,458731,Brett Gardner,L,Josh Thole,489365,4,2,6,False,2014-06-19,Stolen,3B
+4462,1B,,Caught Stealing 2B,406878,Brian Roberts,547874,Hisashi Iwakuma,458731,Brett Gardner,R,Mike Zunino,572287,1,2,2,True,2014-06-10,Caught,2B
+4531,1B,,Caught Stealing 2B,406878,Brian Roberts,518633,Danny Duffy,458731,Brett Gardner,L,Brett Hayes,451109,3,0,3,True,2014-06-07,Caught,2B
+5267,2B,3B,Stolen Base 3B,406878,Brian Roberts,434663,Juan Carlos Oviedo,430637,Kelly Johnson,R,Ryan Hanigan,452672,4,5,9,False,2014-05-02,Stolen,3B
+5413,1B,2B,Stolen Base 2B,406878,Brian Roberts,467094,Felix Doubront,453056,Jacoby Ellsbury,L,David Ross,424325,0,7,3,True,2014-04-24,Stolen,2B
+5853,1B,2B,Stolen Base 2B,406878,Brian Roberts,571800,Drew Hutchison,400085,Ichiro Suzuki,R,Erik Kratz,456124,1,3,4,True,2014-04-06,Stolen,2B
+5883,1B,2B,Stolen Base 2B,406878,Brian Roberts,430661,Dustin McGowan,430637,Kelly Johnson,R,Dioner Navarro,425900,3,2,3,True,2014-04-04,Stolen,2B
+2039,1B,2B,Stolen Base 2B,406878,Brian Roberts,434622,Ubaldo Jiménez,500208,Yangervis Solarte,R,Nick Hundley,460026,1,0,2,False,2014-06-20,Stolen,2B
+2055,1B,2B,Stolen Base 2B,406878,Brian Roberts,571901,Aaron Loup,500208,Yangervis Solarte,L,Josh Thole,489365,4,2,6,False,2014-06-19,Stolen,2B
+2056,2B,3B,Stolen Base 3B,406878,Brian Roberts,571901,Aaron Loup,458731,Brett Gardner,L,Josh Thole,489365,4,2,6,False,2014-06-19,Stolen,3B
+2218,1B,,Caught Stealing 2B,406878,Brian Roberts,547874,Hisashi Iwakuma,458731,Brett Gardner,R,Mike Zunino,572287,1,2,2,True,2014-06-10,Caught,2B
+2287,1B,,Caught Stealing 2B,406878,Brian Roberts,518633,Danny Duffy,458731,Brett Gardner,L,Brett Hayes,451109,3,0,3,True,2014-06-07,Caught,2B
+3023,2B,3B,Stolen Base 3B,406878,Brian Roberts,434663,Juan Carlos Oviedo,430637,Kelly Johnson,R,Ryan Hanigan,452672,4,5,9,False,2014-05-02,Stolen,3B
+3169,1B,2B,Stolen Base 2B,406878,Brian Roberts,467094,Felix Doubront,453056,Jacoby Ellsbury,L,David Ross,424325,0,7,3,True,2014-04-24,Stolen,2B
+3609,1B,2B,Stolen Base 2B,406878,Brian Roberts,571800,Drew Hutchison,400085,Ichiro Suzuki,R,Erik Kratz,456124,1,3,4,True,2014-04-06,Stolen,2B
+3639,1B,2B,Stolen Base 2B,406878,Brian Roberts,430661,Dustin McGowan,430637,Kelly Johnson,R,Dioner Navarro,425900,3,2,3,True,2014-04-04,Stolen,2B

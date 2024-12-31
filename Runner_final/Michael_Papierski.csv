@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,519326,Hunter Strickland,670623,Isaac Paredes,R,Michael Papierski,657709,1,1,9,True,2022-07-08,Stolen,2B,2022,2023,28.8
+1,1B,,Caught Stealing 2B,669261,Jack Suwinski,667498,Robert Dugger,665833,Oneil Cruz,R,Michael Papierski,657709,0,1,4,True,2022-07-07,Caught,2B,2022,2023,28.8
+2,1B,2B,Stolen Base 2B,665833,Oneil Cruz,667498,Robert Dugger,642165,Josh VanMeter,R,Michael Papierski,657709,1,1,7,True,2022-07-07,Stolen,2B,2022,2023,28.8
+3,1B,2B,Stolen Base 2B,516782,Starling Marte,666157,Nick Lodolo,596019,Francisco Lindor,L,Michael Papierski,657709,0,0,1,True,2022-07-05,Stolen,2B,2022,2023,28.8
+4,1B,2B,Stolen Base 2B,621020,Dansby Swanson,641816,Tyler Mahle,542303,Marcell Ozuna,R,Michael Papierski,657709,0,2,5,True,2022-07-02,Stolen,2B,2022,2023,28.8
+5,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,668933,Graham Ashcraft,663538,Nico Hoerner,R,Michael Papierski,657709,1,0,1,False,2022-06-30,Stolen,2B,2022,2023,28.8
+6,1B,,Caught Stealing 2B,542932,Jon Berti,677651,Luis Garcia,668721,Payton Henry,R,Michael Papierski,657709,1,0,2,True,2022-04-01,Caught,2B,2022,2023,28.8

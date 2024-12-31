@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,572816,Corey Dickerson,462136,Marco Estrada,446334,Evan Longoria,R,Mike Ohlman,572000,1,4,4,True,2017-08-15,Stolen,2B,2017,2018,27.8
+1,1B,2B,Stolen Base 2B,611177,Adonis García,502211,Mike Bolsinger,607054,Jace Peterson,R,Mike Ohlman,572000,0,2,2,True,2017-05-15,Stolen,2B,2017,2018,27.8
+2,1B,2B,Stolen Base 2B,572816,Corey Dickerson,462136,Marco Estrada,446334,Evan Longoria,R,Mike Ohlman,572000,1,4,4,True,2017-08-15,Stolen,2B,2017,2018,27.8
+3,1B,2B,Stolen Base 2B,611177,Adonis García,502211,Mike Bolsinger,607054,Jace Peterson,R,Mike Ohlman,572000,0,2,2,True,2017-05-15,Stolen,2B,2017,2018,27.8

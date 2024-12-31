@@ -1,0 +1,93 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+142,1B,2B,Stolen Base 2B,621433,Brett Phillips,594798,Jacob deGrom,572287,Mike Zunino,R,Wilson Ramos,467092,0,1,2,True,2020-09-21,Stolen,2B
+183,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,605421,Michael Pérez,R,Chance Sisco,642082,1,3,9,True,2020-09-19,Stolen,2B
+495,2B,3B,Stolen Base 3B,621433,Brett Phillips,624586,James Hoyt,595281,Kevin Kiermaier,R,Jorge Alfaro,595751,5,4,8,False,2020-09-04,Stolen,3B
+789,1B,,Caught Stealing 2B,621433,Brett Phillips,622088,Tejay Antone,460086,Alex Gordon,R,Tucker Barnhart,571466,4,0,5,False,2020-08-19,Caught,2B
+970,1B,2B,Stolen Base 2B,621433,Brett Phillips,664054,Cody Stashak,593160,Whit Merrifield,R,Mitch Garver,641598,4,4,4,False,2020-08-08,Stolen,2B
+988,1B,2B,Stolen Base 2B,621433,Brett Phillips,573204,Caleb Thielbar,593160,Whit Merrifield,L,Mitch Garver,641598,3,2,7,False,2020-08-07,Stolen,2B
+1167,1B,2B,Stolen Base 2B,621433,Brett Phillips,641302,Tyler Alexander,593160,Whit Merrifield,L,Austin Romine,519222,4,3,5,True,2020-07-28,Stolen,2B
+1703,2B,3B,Stolen Base 3B,621433,Brett Phillips,598286,Nick Ramirez,593160,Whit Merrifield,L,Jake Rogers,668670,4,3,6,False,2019-09-04,Stolen,3B
+1769,1B,2B,Stolen Base 2B,621433,Brett Phillips,605164,Dylan Bundy,593160,Whit Merrifield,R,Chance Sisco,642082,1,0,2,False,2019-08-31,Stolen,2B
+1988,1B,2B,Stolen Base 2B,621433,Brett Phillips,592789,Noah Syndergaard,656811,Ryan O'Hearn,R,Tomás Nido,621512,2,1,6,False,2019-08-16,Stolen,2B
+299,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,668227,Randy Arozarena,R,Eric Haase,606992,2,1,5,True,2021-09-12,Stolen,2B
+604,1B,2B,Stolen Base 2B,621433,Brett Phillips,605151,Archie Bradley,668227,Randy Arozarena,R,J.T. Realmuto,592663,1,1,8,True,2021-08-24,Stolen,2B
+1057,1B,2B,Stolen Base 2B,621433,Brett Phillips,663474,Triston McKenzie,596847,Ji Man Choi,R,Roberto Pérez,547379,1,1,3,True,2021-07-25,Stolen,2B
+1515,1B,2B,Stolen Base 2B,621433,Brett Phillips,656288,Griffin Canning,650490,Yandy Díaz,R,Max Stassi,545358,3,2,2,False,2021-06-25,Stolen,2B
+1538,1B,2B,Stolen Base 2B,621433,Brett Phillips,572070,Garrett Richards,572287,Mike Zunino,R,Christian Vázquez,543877,4,1,2,False,2021-06-23,Stolen,2B
+1639,1B,2B,Stolen Base 2B,621433,Brett Phillips,606160,Rafael Montero,664040,Brandon Lowe,R,Tom Murphy,608596,1,3,5,True,2021-06-17,Stolen,2B
+1641,1B,2B,Stolen Base 2B,621433,Brett Phillips,502327,Héctor Santiago,664040,Brandon Lowe,L,Tom Murphy,608596,4,5,9,True,2021-06-17,Stolen,2B
+1719,1B,,Caught Stealing 2B,621433,Brett Phillips,640451,Hunter Harvey,650490,Yandy Díaz,R,Austin Wynns,642851,5,4,6,False,2021-06-12,Caught,2B
+1991,1B,2B,Stolen Base 2B,621433,Brett Phillips,641745,Brad Keller,640457,Austin Meadows,R,Cam Gallagher,595956,0,0,3,False,2021-05-25,Stolen,2B
+2069,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,668227,Randy Arozarena,R,Chance Sisco,642082,1,7,7,True,2021-05-20,Stolen,2B
+2130,1B,2B,Stolen Base 2B,621433,Brett Phillips,573186,Marcus Stroman,668227,Randy Arozarena,R,James McCann,543510,4,0,5,False,2021-05-16,Stolen,2B
+2268,1B,2B,Stolen Base 2B,621433,Brett Phillips,571760,Andrew Heaney,640457,Austin Meadows,L,Kurt Suzuki,435559,0,0,3,True,2021-05-06,Stolen,2B
+2416,1B,2B,Stolen Base 2B,621433,Brett Phillips,433589,Yusmeiro Petit,668227,Randy Arozarena,R,Sean Murphy,669221,2,2,7,False,2021-04-29,Stolen,2B
+2417,2B,3B,Stolen Base 3B,621433,Brett Phillips,642152,Lou Trivino,595281,Kevin Kiermaier,R,Sean Murphy,669221,2,3,9,False,2021-04-29,Stolen,3B
+2525,1B,,Caught Stealing 2B,621433,Brett Phillips,596001,Jakob Junis,640457,Austin Meadows,R,Salvador Perez,521692,0,4,2,True,2021-04-21,Caught,2B
+2589,1B,,Caught Stealing 2B,621433,Brett Phillips,643338,Chad Green,622534,Manuel Margot,R,Kyle Higashioka,543309,2,3,8,True,2021-04-18,Caught,2B
+2673,1B,2B,Stolen Base 2B,621433,Brett Phillips,621368,Taylor Hearn,640457,Austin Meadows,L,Jose Trevino,624431,0,0,5,False,2021-04-12,Stolen,2B
+2985,1B,2B,Stolen Base 2B,621433,Brett Phillips,594798,Jacob deGrom,572287,Mike Zunino,R,Wilson Ramos,467092,0,1,2,True,2020-09-21,Stolen,2B
+3026,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,605421,Michael Pérez,R,Chance Sisco,642082,1,3,9,True,2020-09-19,Stolen,2B
+3338,2B,3B,Stolen Base 3B,621433,Brett Phillips,624586,James Hoyt,595281,Kevin Kiermaier,R,Jorge Alfaro,595751,5,4,8,False,2020-09-04,Stolen,3B
+3632,1B,,Caught Stealing 2B,621433,Brett Phillips,622088,Tejay Antone,460086,Alex Gordon,R,Tucker Barnhart,571466,4,0,5,False,2020-08-19,Caught,2B
+3813,1B,2B,Stolen Base 2B,621433,Brett Phillips,664054,Cody Stashak,593160,Whit Merrifield,R,Mitch Garver,641598,4,4,4,False,2020-08-08,Stolen,2B
+3831,1B,2B,Stolen Base 2B,621433,Brett Phillips,573204,Caleb Thielbar,593160,Whit Merrifield,L,Mitch Garver,641598,3,2,7,False,2020-08-07,Stolen,2B
+4010,1B,2B,Stolen Base 2B,621433,Brett Phillips,641302,Tyler Alexander,593160,Whit Merrifield,L,Austin Romine,519222,4,3,5,True,2020-07-28,Stolen,2B
+4546,2B,3B,Stolen Base 3B,621433,Brett Phillips,598286,Nick Ramirez,593160,Whit Merrifield,L,Jake Rogers,668670,4,3,6,False,2019-09-04,Stolen,3B
+4612,1B,2B,Stolen Base 2B,621433,Brett Phillips,605164,Dylan Bundy,593160,Whit Merrifield,R,Chance Sisco,642082,1,0,2,False,2019-08-31,Stolen,2B
+4831,1B,2B,Stolen Base 2B,621433,Brett Phillips,592789,Noah Syndergaard,656811,Ryan O'Hearn,R,Tomás Nido,621512,2,1,6,False,2019-08-16,Stolen,2B
+432,1B,,Caught Stealing 2B,621433,Brett Phillips,662253,Andrés Muñoz,694384,Nolan Schanuel,R,Cal Raleigh,663728,3,2,9,True,2023-09-13,Caught,2B
+3228,1B,2B,Stolen Base 2B,621433,Brett Phillips,663986,Trevor Stephan,592273,Brandon Drury,R,David Fry,681807,8,6,9,True,2023-05-13,Stolen,2B
+3982,1B,2B,Stolen Base 2B,621433,Brett Phillips,669022,MacKenzie Gore,621493,Taylor Ward,L,Keibert Ruiz,660688,0,0,3,False,2023-04-12,Stolen,2B
+3983,2B,3B,Stolen Base 3B,621433,Brett Phillips,669022,MacKenzie Gore,545361,Mike Trout,L,Keibert Ruiz,660688,1,0,3,False,2023-04-12,Stolen,3B
+126,1B,2B,Stolen Base 2B,621433,Brett Phillips,519326,Hunter Strickland,666139,Josh Lowe,R,Tyler Stephenson,663886,3,3,9,True,2022-07-09,Stolen,2B
+1026,1B,2B,Stolen Base 2B,621433,Brett Phillips,607216,Joey Krehbiel,572287,Mike Zunino,R,Adley Rutschman,668939,0,4,1,True,2022-05-22,Stolen,2B
+1029,2B,3B,Stolen Base 3B,621433,Brett Phillips,642585,Félix Bautista,572287,Mike Zunino,R,Adley Rutschman,668939,4,6,8,True,2022-05-22,Stolen,3B
+1109,1B,2B,Stolen Base 2B,621433,Brett Phillips,605242,Michael Fulmer,650490,Yandy Díaz,R,Tucker Barnhart,571466,4,1,7,False,2022-05-18,Stolen,2B
+1470,1B,2B,Stolen Base 2B,621433,Brett Phillips,650895,Diego Castillo,650907,René Pinto,R,Luis Torrens,620443,2,1,7,False,2022-04-28,Stolen,2B
+1644,1B,2B,Stolen Base 2B,621433,Brett Phillips,543294,Kyle Hendricks,670764,Taylor Walls,R,Willson Contreras,575929,2,1,5,True,2022-04-18,Stolen,2B
+1694,1B,2B,Stolen Base 2B,621433,Brett Phillips,521230,Liam Hendriks,596847,Ji Man Choi,R,Reese McGuire,624512,3,2,9,True,2022-04-16,Stolen,2B
+1842,1B,2B,Stolen Base 2B,621433,Brett Phillips,693821,Bryce Elder,680607,Daiwer Castellanos,R,Rusber Estrada,682005,0,0,2,True,2022-04-05,Stolen,2B
+2223,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,668227,Randy Arozarena,R,Eric Haase,606992,2,1,5,True,2021-09-12,Stolen,2B
+2528,1B,2B,Stolen Base 2B,621433,Brett Phillips,605151,Archie Bradley,668227,Randy Arozarena,R,J.T. Realmuto,592663,1,1,8,True,2021-08-24,Stolen,2B
+2981,1B,2B,Stolen Base 2B,621433,Brett Phillips,663474,Triston McKenzie,596847,Ji Man Choi,R,Roberto Pérez,547379,1,1,3,True,2021-07-25,Stolen,2B
+3439,1B,2B,Stolen Base 2B,621433,Brett Phillips,656288,Griffin Canning,650490,Yandy Díaz,R,Max Stassi,545358,3,2,2,False,2021-06-25,Stolen,2B
+3462,1B,2B,Stolen Base 2B,621433,Brett Phillips,572070,Garrett Richards,572287,Mike Zunino,R,Christian Vázquez,543877,4,1,2,False,2021-06-23,Stolen,2B
+3563,1B,2B,Stolen Base 2B,621433,Brett Phillips,606160,Rafael Montero,664040,Brandon Lowe,R,Tom Murphy,608596,1,3,5,True,2021-06-17,Stolen,2B
+3565,1B,2B,Stolen Base 2B,621433,Brett Phillips,502327,Héctor Santiago,664040,Brandon Lowe,L,Tom Murphy,608596,4,5,9,True,2021-06-17,Stolen,2B
+3643,1B,,Caught Stealing 2B,621433,Brett Phillips,640451,Hunter Harvey,650490,Yandy Díaz,R,Austin Wynns,642851,5,4,6,False,2021-06-12,Caught,2B
+3915,1B,2B,Stolen Base 2B,621433,Brett Phillips,641745,Brad Keller,640457,Austin Meadows,R,Cam Gallagher,595956,0,0,3,False,2021-05-25,Stolen,2B
+3993,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,668227,Randy Arozarena,R,Chance Sisco,642082,1,7,7,True,2021-05-20,Stolen,2B
+4054,1B,2B,Stolen Base 2B,621433,Brett Phillips,573186,Marcus Stroman,668227,Randy Arozarena,R,James McCann,543510,4,0,5,False,2021-05-16,Stolen,2B
+4192,1B,2B,Stolen Base 2B,621433,Brett Phillips,571760,Andrew Heaney,640457,Austin Meadows,L,Kurt Suzuki,435559,0,0,3,True,2021-05-06,Stolen,2B
+4340,1B,2B,Stolen Base 2B,621433,Brett Phillips,433589,Yusmeiro Petit,668227,Randy Arozarena,R,Sean Murphy,669221,2,2,7,False,2021-04-29,Stolen,2B
+4341,2B,3B,Stolen Base 3B,621433,Brett Phillips,642152,Lou Trivino,595281,Kevin Kiermaier,R,Sean Murphy,669221,2,3,9,False,2021-04-29,Stolen,3B
+4449,1B,,Caught Stealing 2B,621433,Brett Phillips,596001,Jakob Junis,640457,Austin Meadows,R,Salvador Perez,521692,0,4,2,True,2021-04-21,Caught,2B
+4513,1B,,Caught Stealing 2B,621433,Brett Phillips,643338,Chad Green,622534,Manuel Margot,R,Kyle Higashioka,543309,2,3,8,True,2021-04-18,Caught,2B
+4597,1B,2B,Stolen Base 2B,621433,Brett Phillips,621368,Taylor Hearn,640457,Austin Meadows,L,Jose Trevino,624431,0,0,5,False,2021-04-12,Stolen,2B
+4909,1B,2B,Stolen Base 2B,621433,Brett Phillips,594798,Jacob deGrom,572287,Mike Zunino,R,Wilson Ramos,467092,0,1,2,True,2020-09-21,Stolen,2B
+4950,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,605421,Michael Pérez,R,Chance Sisco,642082,1,3,9,True,2020-09-19,Stolen,2B
+5262,2B,3B,Stolen Base 3B,621433,Brett Phillips,624586,James Hoyt,595281,Kevin Kiermaier,R,Jorge Alfaro,595751,5,4,8,False,2020-09-04,Stolen,3B
+5556,1B,,Caught Stealing 2B,621433,Brett Phillips,622088,Tejay Antone,460086,Alex Gordon,R,Tucker Barnhart,571466,4,0,5,False,2020-08-19,Caught,2B
+5737,1B,2B,Stolen Base 2B,621433,Brett Phillips,664054,Cody Stashak,593160,Whit Merrifield,R,Mitch Garver,641598,4,4,4,False,2020-08-08,Stolen,2B
+5755,1B,2B,Stolen Base 2B,621433,Brett Phillips,573204,Caleb Thielbar,593160,Whit Merrifield,L,Mitch Garver,641598,3,2,7,False,2020-08-07,Stolen,2B
+5934,1B,2B,Stolen Base 2B,621433,Brett Phillips,641302,Tyler Alexander,593160,Whit Merrifield,L,Austin Romine,519222,4,3,5,True,2020-07-28,Stolen,2B
+6470,2B,3B,Stolen Base 3B,621433,Brett Phillips,598286,Nick Ramirez,593160,Whit Merrifield,L,Jake Rogers,668670,4,3,6,False,2019-09-04,Stolen,3B
+6536,1B,2B,Stolen Base 2B,621433,Brett Phillips,605164,Dylan Bundy,593160,Whit Merrifield,R,Chance Sisco,642082,1,0,2,False,2019-08-31,Stolen,2B
+6755,1B,2B,Stolen Base 2B,621433,Brett Phillips,592789,Noah Syndergaard,656811,Ryan O'Hearn,R,Tomás Nido,621512,2,1,6,False,2019-08-16,Stolen,2B
+660,1B,2B,Caught Stealing 3B,621433,Brett Phillips,572998,Josh Lucas,502624,Chase Anderson,R,Carson Kelly,608348,1,4,6,True,2017-09-29,Caught,3B
+778,1B,2B,Stolen Base 2B,621433,Brett Phillips,543294,Kyle Hendricks,608718,Brent Suter,R,Willson Contreras,575929,1,1,2,False,2017-09-23,Stolen,2B
+808,1B,2B,Stolen Base 2B,621433,Brett Phillips,453562,Jake Arrieta,519299,Eric Sogard,R,Alex Avila,488671,1,2,5,False,2017-09-21,Stolen,2B
+875,1B,2B,Stolen Base 2B,621433,Brett Phillips,650828,Edgar Santana,606115,Orlando Arcia,R,Elias Díaz,553869,0,2,7,True,2017-09-18,Stolen,2B
+923,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,542340,Jonathan Villar,R,J.T. Realmuto,592663,2,2,4,True,2017-09-15,Stolen,2B
+1929,1B,2B,Stolen Base 2B,621433,Brett Phillips,595191,Jerad Eickhoff,606115,Orlando Arcia,R,Andrew Knapp,595284,2,0,5,True,2017-07-23,Stolen,2B
+4846,1B,,Caught Stealing 2B,621433,Brett Phillips,662253,Andrés Muñoz,694384,Nolan Schanuel,R,Cal Raleigh,663728,3,2,9,True,2023-09-13,Caught,2B
+7642,1B,2B,Stolen Base 2B,621433,Brett Phillips,663986,Trevor Stephan,592273,Brandon Drury,R,David Fry,681807,8,6,9,True,2023-05-13,Stolen,2B
+8396,1B,2B,Stolen Base 2B,621433,Brett Phillips,669022,MacKenzie Gore,621493,Taylor Ward,L,Keibert Ruiz,660688,0,0,3,False,2023-04-12,Stolen,2B
+8397,2B,3B,Stolen Base 3B,621433,Brett Phillips,669022,MacKenzie Gore,545361,Mike Trout,L,Keibert Ruiz,660688,1,0,3,False,2023-04-12,Stolen,3B
+32,1B,2B,Caught Stealing 3B,621433,Brett Phillips,572998,Josh Lucas,502624,Chase Anderson,R,Carson Kelly,608348,1,4,6,True,2017-09-29,Caught,3B
+150,1B,2B,Stolen Base 2B,621433,Brett Phillips,543294,Kyle Hendricks,608718,Brent Suter,R,Willson Contreras,575929,1,1,2,False,2017-09-23,Stolen,2B
+180,1B,2B,Stolen Base 2B,621433,Brett Phillips,453562,Jake Arrieta,519299,Eric Sogard,R,Alex Avila,488671,1,2,5,False,2017-09-21,Stolen,2B
+247,1B,2B,Stolen Base 2B,621433,Brett Phillips,650828,Edgar Santana,606115,Orlando Arcia,R,Elias Díaz,553869,0,2,7,True,2017-09-18,Stolen,2B
+295,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,542340,Jonathan Villar,R,J.T. Realmuto,592663,2,2,4,True,2017-09-15,Stolen,2B
+1301,1B,2B,Stolen Base 2B,621433,Brett Phillips,595191,Jerad Eickhoff,606115,Orlando Arcia,R,Andrew Knapp,595284,2,0,5,True,2017-07-23,Stolen,2B

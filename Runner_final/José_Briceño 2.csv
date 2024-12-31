@@ -1,0 +1,10 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y
+0,0,0,0,1B,2B,Stolen Base 2B,663656,Kyle Tucker,598287,Noé Ramirez,621043,Carlos Correa,R,José Briceño,593993,6,4,6,False,2020-09-05,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+1,1,1,1,1B,2B,Stolen Base 2B,664702,Myles Straw,542882,Matt Andriese,663656,Kyle Tucker,R,José Briceño,593993,5,5,9,True,2020-09-04,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+2,2,2,2,1B,2B,Stolen Base 2B,663656,Kyle Tucker,598287,Noé Ramirez,621043,Carlos Correa,R,José Briceño,593993,6,4,6,False,2020-08-26,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+3,3,3,3,1B,2B,Stolen Base 2B,663656,Kyle Tucker,598287,Noé Ramirez,621043,Carlos Correa,R,José Briceño,593993,6,4,6,False,2020-09-05,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+4,4,4,4,1B,2B,Stolen Base 2B,664702,Myles Straw,542882,Matt Andriese,663656,Kyle Tucker,R,José Briceño,593993,5,5,9,True,2020-09-04,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+5,5,5,5,1B,2B,Stolen Base 2B,663656,Kyle Tucker,598287,Noé Ramirez,621043,Carlos Correa,R,José Briceño,593993,6,4,6,False,2020-08-26,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+6,6,6,6,1B,2B,Stolen Base 2B,663656,Kyle Tucker,598287,Noé Ramirez,621043,Carlos Correa,R,José Briceño,593993,6,4,6,False,2020-09-05,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+7,7,7,7,1B,2B,Stolen Base 2B,664702,Myles Straw,542882,Matt Andriese,663656,Kyle Tucker,R,José Briceño,593993,5,5,9,True,2020-09-04,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4
+8,8,8,8,1B,2B,Stolen Base 2B,663656,Kyle Tucker,598287,Noé Ramirez,621043,Carlos Correa,R,José Briceño,593993,6,4,6,False,2020-08-26,Stolen,2B,2020,2021,27.4,2021,27.4,2021,27.4,2021,27.4

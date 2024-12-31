@@ -1,0 +1,101 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+123,2B,,Caught Stealing 3B,672580,Maikel Garcia,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,0,1,True,2023-09-26,Caught,3B
+176,1B,2B,Stolen Base 2B,672580,Maikel Garcia,641585,J.P. France,677951,Bobby Witt Jr.,R,Yainer Diaz,673237,0,0,1,True,2023-09-23,Stolen,2B
+365,1B,2B,Stolen Base 2B,672580,Maikel Garcia,641585,J.P. France,677951,Bobby Witt Jr.,R,Yainer Diaz,673237,0,0,1,False,2023-09-16,Stolen,2B
+458,1B,2B,Stolen Base 2B,672580,Maikel Garcia,656629,Michael Kopech,521692,Salvador Perez,R,Carlos Pérez,656024,9,11,9,True,2023-09-12,Stolen,2B
+469,1B,2B,Stolen Base 2B,672580,Maikel Garcia,656629,Michael Kopech,521692,Salvador Perez,R,Carlos Pérez,656024,9,11,9,True,2023-09-11,Stolen,2B
+512,1B,,Caught Stealing 2B,672580,Maikel Garcia,621244,José Berríos,677951,Bobby Witt Jr.,R,Alejandro Kirk,672386,0,1,6,True,2023-09-10,Caught,2B
+710,1B,2B,Stolen Base 2B,672580,Maikel Garcia,519242,Chris Sale,677951,Bobby Witt Jr.,L,Connor Wong,657136,0,0,3,False,2023-09-03,Stolen,2B
+960,1B,2B,Stolen Base 2B,672580,Maikel Garcia,661309,Adrián Martínez,677951,Bobby Witt Jr.,R,Shea Langeliers,669127,0,1,3,True,2023-08-23,Stolen,2B
+961,2B,,Caught Stealing 3B,672580,Maikel Garcia,661309,Adrián Martínez,677951,Bobby Witt Jr.,R,Shea Langeliers,669127,0,1,3,True,2023-08-23,Caught,3B
+1129,1B,,Caught Stealing 2B,672580,Maikel Garcia,676106,Emerson Hancock,686681,Michael Massey,R,Cal Raleigh,663728,0,0,1,False,2023-08-15,Caught,2B
+1292,1B,2B,Stolen Base 2B,672580,Maikel Garcia,659275,Dinelson Lamet,677951,Bobby Witt Jr.,R,Connor Wong,657136,2,3,6,True,2023-08-08,Stolen,2B
+1377,1B,2B,Stolen Base 2B,672580,Maikel Garcia,650911,Cristopher Sánchez,677951,Bobby Witt Jr.,L,J.T. Realmuto,592663,3,5,5,True,2023-08-05,Stolen,2B
+1378,2B,3B,Stolen Base 3B,672580,Maikel Garcia,650911,Cristopher Sánchez,622110,Matt Duffy,L,J.T. Realmuto,592663,3,6,5,True,2023-08-05,Stolen,3B
+1454,1B,2B,Stolen Base 2B,672580,Maikel Garcia,641627,Trevor Gott,677951,Bobby Witt Jr.,R,Francisco Alvarez,682626,3,1,7,False,2023-08-01,Stolen,2B
+1878,1B,,Caught Stealing 2B,672580,Maikel Garcia,680704,Nick Sandlin,677951,Bobby Witt Jr.,R,David Fry,681807,1,4,7,True,2023-07-09,Caught,2B
+1942,1B,2B,Stolen Base 2B,672580,Maikel Garcia,676440,Tanner Bibee,677951,Bobby Witt Jr.,R,Bo Naylor,666310,0,1,2,True,2023-07-06,Stolen,2B
+2073,2B,,Caught Stealing 3B,672580,Maikel Garcia,628711,Julio Urías,521692,Salvador Perez,L,Will Smith,669257,5,3,2,False,2023-07-01,Caught,3B
+2105,1B,2B,Stolen Base 2B,672580,Maikel Garcia,676272,Bobby Miller,668472,Nick Pratto,R,Will Smith,669257,2,4,4,False,2023-06-30,Stolen,2B
+2106,1B,2B,Stolen Base 2B,672580,Maikel Garcia,676272,Bobby Miller,668472,Nick Pratto,R,Will Smith,669257,2,5,6,False,2023-06-30,Stolen,2B
+2215,2B,3B,Stolen Base 3B,672580,Maikel Garcia,607192,Tyler Glasnow,671221,Drew Waters,R,Christian Bethancourt,542194,0,0,2,True,2023-06-25,Stolen,3B
+2281,2B,3B,Stolen Base 3B,672580,Maikel Garcia,663556,Shane McClanahan,658668,Edward Olivares,L,Francisco Mejía,642336,0,0,1,True,2023-06-22,Stolen,3B
+2285,1B,2B,Stolen Base 2B,672580,Maikel Garcia,664126,Pete Fairbanks,677951,Bobby Witt Jr.,R,Francisco Mejía,642336,5,5,9,True,2023-06-22,Stolen,2B
+2286,2B,3B,Stolen Base 3B,672580,Maikel Garcia,664126,Pete Fairbanks,677951,Bobby Witt Jr.,R,Francisco Mejía,642336,5,5,9,True,2023-06-22,Stolen,3B
+2362,1B,2B,Stolen Base 2B,672580,Maikel Garcia,542881,Tyler Anderson,669392,Samad Taylor,L,Chad Wallach,595453,2,1,4,False,2023-06-18,Stolen,2B
+2397,1B,2B,Stolen Base 2B,672580,Maikel Garcia,606965,Chris Devenski,670032,Nicky Lopez,R,Chad Wallach,595453,9,9,9,False,2023-06-17,Stolen,2B
+2695,1B,2B,Stolen Base 2B,672580,Maikel Garcia,623211,Huascar Brazobán,670032,Nicky Lopez,R,Nick Fortes,663743,7,4,6,True,2023-06-05,Stolen,2B
+2990,2B,3B,Stolen Base 3B,672580,Maikel Garcia,571510,Matthew Boyd,686469,Vinnie Pasquantino,L,Eric Haase,606992,1,1,5,False,2023-05-24,Stolen,3B
+3011,1B,2B,Stolen Base 2B,672580,Maikel Garcia,593958,Eduardo Rodriguez,598265,Jackie Bradley Jr.,L,Jake Rogers,668670,0,0,2,False,2023-05-23,Stolen,2B
+3396,1B,2B,Stolen Base 2B,672580,Maikel Garcia,686610,Ken Waldichuk,686681,Michael Massey,L,Shea Langeliers,669127,1,3,3,False,2023-05-06,Stolen,2B
+3453,2B,3B,Stolen Base 3B,672580,Maikel Garcia,543056,Danny Coulombe,686681,Michael Massey,L,James McCann,543510,7,8,7,False,2023-05-04,Stolen,3B
+215,1B,2B,Stolen Base 2B,672580,Maikel Garcia,666808,Camilo Doval,502054,Tommy Pham,R,Patrick Bailey,672275,1,2,9,False,2024-09-20,Stolen,2B
+402,2B,3B,Stolen Base 3B,672580,Maikel Garcia,656605,Mitch Keller,502054,Tommy Pham,R,Joey Bart,663698,0,2,5,True,2024-09-14,Stolen,3B
+405,1B,2B,Stolen Base 2B,672580,Maikel Garcia,670280,David Bednar,664728,Kyle Isbel,R,Joey Bart,663698,1,5,9,True,2024-09-14,Stolen,2B
+406,2B,3B,Stolen Base 3B,672580,Maikel Garcia,670280,David Bednar,664728,Kyle Isbel,R,Joey Bart,663698,1,5,9,True,2024-09-14,Stolen,3B
+794,1B,2B,Stolen Base 2B,672580,Maikel Garcia,686613,Hunter Brown,664728,Kyle Isbel,R,Yainer Diaz,673237,0,0,2,True,2024-08-29,Stolen,2B
+795,1B,,Caught Stealing 2B,672580,Maikel Garcia,686613,Hunter Brown,641658,Garrett Hampson,R,Yainer Diaz,673237,0,0,5,True,2024-08-29,Caught,2B
+881,1B,2B,Stolen Base 2B,672580,Maikel Garcia,668909,Gavin Williams,664728,Kyle Isbel,R,Bo Naylor,666310,1,2,5,True,2024-08-27,Stolen,2B
+882,2B,3B,Stolen Base 3B,672580,Maikel Garcia,605130,Scott Barlow,664728,Kyle Isbel,R,Bo Naylor,666310,1,4,7,True,2024-08-27,Stolen,3B
+1205,1B,2B,Stolen Base 2B,672580,Maikel Garcia,661395,Jhoan Duran,677951,Bobby Witt Jr.,R,Ryan Jeffers,680777,1,3,7,True,2024-08-14,Stolen,2B
+1206,2B,3B,Stolen Base 3B,672580,Maikel Garcia,661395,Jhoan Duran,677951,Bobby Witt Jr.,R,Ryan Jeffers,680777,1,3,7,True,2024-08-14,Stolen,3B
+1288,1B,2B,Stolen Base 2B,672580,Maikel Garcia,681676,Ryan Fernandez,677951,Bobby Witt Jr.,R,Willson Contreras,575929,4,2,7,False,2024-08-10,Stolen,2B
+1516,1B,2B,Stolen Base 2B,672580,Maikel Garcia,672456,Keider Montero,677951,Bobby Witt Jr.,R,Dillon Dingler,693307,0,0,1,True,2024-08-01,Stolen,2B
+1517,2B,3B,Stolen Base 3B,672580,Maikel Garcia,672456,Keider Montero,677951,Bobby Witt Jr.,R,Dillon Dingler,693307,0,0,1,True,2024-08-01,Stolen,3B
+1531,2B,3B,Stolen Base 3B,672580,Maikel Garcia,689672,Drew Thorpe,686469,Vinnie Pasquantino,R,Chuckie Robinson,642020,0,1,1,True,2024-07-31,Stolen,3B
+1572,1B,2B,Stolen Base 2B,672580,Maikel Garcia,605154,John Brebbia,624428,Adam Frazier,R,Chuckie Robinson,642020,5,4,8,True,2024-07-29,Stolen,2B
+1833,2B,3B,Stolen Base 3B,672580,Maikel Garcia,686563,Jonathan Cannon,664728,Kyle Isbel,R,Chuckie Robinson,642020,3,0,2,False,2024-07-20,Stolen,3B
+1862,1B,2B,Stolen Base 2B,672580,Maikel Garcia,623167,Chris Flexen,664728,Kyle Isbel,R,Korey Lee,686676,2,0,5,False,2024-07-19,Stolen,2B
+2268,1B,2B,Stolen Base 2B,672580,Maikel Garcia,663474,Triston McKenzie,677951,Bobby Witt Jr.,R,Austin Hedges,595978,2,1,3,False,2024-06-28,Stolen,2B
+2270,2B,3B,Stolen Base 3B,672580,Maikel Garcia,670766,Darren McCaughan,677951,Bobby Witt Jr.,R,Austin Hedges,595978,7,3,8,False,2024-06-28,Stolen,3B
+2332,1B,2B,Stolen Base 2B,672580,Maikel Garcia,630023,Yonny Chirinos,686469,Vinnie Pasquantino,R,Ali Sánchez,645305,1,0,1,False,2024-06-25,Stolen,2B
+2333,2B,3B,Stolen Base 3B,672580,Maikel Garcia,630023,Yonny Chirinos,686469,Vinnie Pasquantino,R,Ali Sánchez,645305,1,0,1,False,2024-06-25,Stolen,3B
+2385,1B,,Caught Stealing 2B,672580,Maikel Garcia,570632,José Ureña,680118,Dairon Blanco,R,Andrew Knizner,668800,3,0,6,True,2024-06-23,Caught,2B
+2575,2B,3B,Stolen Base 3B,672580,Maikel Garcia,607455,Anthony Banda,686469,Vinnie Pasquantino,L,Austin Barnes,605131,2,6,7,True,2024-06-15,Stolen,3B
+2685,1B,2B,Stolen Base 2B,672580,Maikel Garcia,573186,Marcus Stroman,686469,Vinnie Pasquantino,R,Austin Wells,669224,0,2,3,False,2024-06-11,Stolen,2B
+2761,1B,2B,Stolen Base 2B,672580,Maikel Garcia,622491,Luis Castillo,677951,Bobby Witt Jr.,R,Cal Raleigh,663728,0,1,1,False,2024-06-08,Stolen,2B
+2857,1B,2B,Stolen Base 2B,672580,Maikel Garcia,663474,Triston McKenzie,677951,Bobby Witt Jr.,R,David Fry,681807,0,3,3,True,2024-06-04,Stolen,2B
+3108,1B,2B,Stolen Base 2B,672580,Maikel Garcia,641302,Tyler Alexander,677951,Bobby Witt Jr.,L,Alex Jackson,656577,1,2,5,True,2024-05-24,Stolen,2B
+3147,1B,2B,Stolen Base 2B,672580,Maikel Garcia,656638,Alex Lange,677951,Bobby Witt Jr.,R,Jake Rogers,668670,6,2,7,False,2024-05-22,Stolen,2B
+3222,2B,3B,Stolen Base 3B,672580,Maikel Garcia,613534,Austin Adams,677951,Bobby Witt Jr.,R,Kyle McCann,668832,4,1,5,False,2024-05-19,Stolen,3B
+3313,1B,2B,Stolen Base 2B,672580,Maikel Garcia,669912,Kirby Snead,686469,Vinnie Pasquantino,L,Cal Raleigh,663728,1,4,8,True,2024-05-14,Stolen,2B
+3383,1B,2B,Stolen Base 2B,672580,Maikel Garcia,663776,Patrick Sandoval,677951,Bobby Witt Jr.,L,Logan O'Hoppe,681351,1,4,7,True,2024-05-12,Stolen,2B
+3465,1B,2B,Caught Stealing Home,672580,Maikel Garcia,672282,Reid Detmers,677951,Bobby Witt Jr.,L,Logan O'Hoppe,681351,0,2,3,True,2024-05-09,Caught,Home
+3697,1B,2B,Stolen Base 2B,672580,Maikel Garcia,657024,Erik Swanson,677951,Bobby Witt Jr.,R,Alejandro Kirk,672386,1,3,8,True,2024-04-30,Stolen,2B
+3765,1B,2B,Stolen Base 2B,672580,Maikel Garcia,663554,Casey Mize,677951,Bobby Witt Jr.,R,Jake Rogers,668670,0,3,2,True,2024-04-27,Stolen,2B
+3830,1B,2B,Stolen Base 2B,672580,Maikel Garcia,684320,Yariel Rodríguez,677951,Bobby Witt Jr.,R,Danny Jansen,643376,2,0,2,False,2024-04-24,Stolen,2B
+3831,2B,3B,Stolen Base 3B,672580,Maikel Garcia,650893,Génesis Cabrera,686469,Vinnie Pasquantino,L,Danny Jansen,643376,3,1,5,False,2024-04-24,Stolen,3B
+3970,2B,3B,Stolen Base 3B,672580,Maikel Garcia,622253,Dillon Tate,686469,Vinnie Pasquantino,R,Adley Rutschman,668939,6,4,7,False,2024-04-19,Stolen,3B
+4189,1B,2B,Stolen Base 2B,672580,Maikel Garcia,656786,Parker Mushinski,677951,Bobby Witt Jr.,L,Yainer Diaz,673237,8,2,6,False,2024-04-10,Stolen,2B
+4190,2B,3B,Stolen Base 3B,672580,Maikel Garcia,656786,Parker Mushinski,686469,Vinnie Pasquantino,L,Yainer Diaz,673237,9,2,6,False,2024-04-10,Stolen,3B
+4371,1B,2B,Stolen Base 2B,672580,Maikel Garcia,669203,Corbin Burnes,677951,Bobby Witt Jr.,R,James McCann,543510,0,2,4,True,2024-04-03,Stolen,2B
+4537,2B,,Caught Stealing 3B,672580,Maikel Garcia,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,0,1,True,2023-09-26,Caught,3B
+4590,1B,2B,Stolen Base 2B,672580,Maikel Garcia,641585,J.P. France,677951,Bobby Witt Jr.,R,Yainer Diaz,673237,0,0,1,True,2023-09-23,Stolen,2B
+4779,1B,2B,Stolen Base 2B,672580,Maikel Garcia,641585,J.P. France,677951,Bobby Witt Jr.,R,Yainer Diaz,673237,0,0,1,False,2023-09-16,Stolen,2B
+4872,1B,2B,Stolen Base 2B,672580,Maikel Garcia,656629,Michael Kopech,521692,Salvador Perez,R,Carlos Pérez,656024,9,11,9,True,2023-09-12,Stolen,2B
+4883,1B,2B,Stolen Base 2B,672580,Maikel Garcia,656629,Michael Kopech,521692,Salvador Perez,R,Carlos Pérez,656024,9,11,9,True,2023-09-11,Stolen,2B
+4926,1B,,Caught Stealing 2B,672580,Maikel Garcia,621244,José Berríos,677951,Bobby Witt Jr.,R,Alejandro Kirk,672386,0,1,6,True,2023-09-10,Caught,2B
+5124,1B,2B,Stolen Base 2B,672580,Maikel Garcia,519242,Chris Sale,677951,Bobby Witt Jr.,L,Connor Wong,657136,0,0,3,False,2023-09-03,Stolen,2B
+5374,1B,2B,Stolen Base 2B,672580,Maikel Garcia,661309,Adrián Martínez,677951,Bobby Witt Jr.,R,Shea Langeliers,669127,0,1,3,True,2023-08-23,Stolen,2B
+5375,2B,,Caught Stealing 3B,672580,Maikel Garcia,661309,Adrián Martínez,677951,Bobby Witt Jr.,R,Shea Langeliers,669127,0,1,3,True,2023-08-23,Caught,3B
+5543,1B,,Caught Stealing 2B,672580,Maikel Garcia,676106,Emerson Hancock,686681,Michael Massey,R,Cal Raleigh,663728,0,0,1,False,2023-08-15,Caught,2B
+5706,1B,2B,Stolen Base 2B,672580,Maikel Garcia,659275,Dinelson Lamet,677951,Bobby Witt Jr.,R,Connor Wong,657136,2,3,6,True,2023-08-08,Stolen,2B
+5791,1B,2B,Stolen Base 2B,672580,Maikel Garcia,650911,Cristopher Sánchez,677951,Bobby Witt Jr.,L,J.T. Realmuto,592663,3,5,5,True,2023-08-05,Stolen,2B
+5792,2B,3B,Stolen Base 3B,672580,Maikel Garcia,650911,Cristopher Sánchez,622110,Matt Duffy,L,J.T. Realmuto,592663,3,6,5,True,2023-08-05,Stolen,3B
+5868,1B,2B,Stolen Base 2B,672580,Maikel Garcia,641627,Trevor Gott,677951,Bobby Witt Jr.,R,Francisco Alvarez,682626,3,1,7,False,2023-08-01,Stolen,2B
+6292,1B,,Caught Stealing 2B,672580,Maikel Garcia,680704,Nick Sandlin,677951,Bobby Witt Jr.,R,David Fry,681807,1,4,7,True,2023-07-09,Caught,2B
+6356,1B,2B,Stolen Base 2B,672580,Maikel Garcia,676440,Tanner Bibee,677951,Bobby Witt Jr.,R,Bo Naylor,666310,0,1,2,True,2023-07-06,Stolen,2B
+6487,2B,,Caught Stealing 3B,672580,Maikel Garcia,628711,Julio Urías,521692,Salvador Perez,L,Will Smith,669257,5,3,2,False,2023-07-01,Caught,3B
+6519,1B,2B,Stolen Base 2B,672580,Maikel Garcia,676272,Bobby Miller,668472,Nick Pratto,R,Will Smith,669257,2,4,4,False,2023-06-30,Stolen,2B
+6520,1B,2B,Stolen Base 2B,672580,Maikel Garcia,676272,Bobby Miller,668472,Nick Pratto,R,Will Smith,669257,2,5,6,False,2023-06-30,Stolen,2B
+6629,2B,3B,Stolen Base 3B,672580,Maikel Garcia,607192,Tyler Glasnow,671221,Drew Waters,R,Christian Bethancourt,542194,0,0,2,True,2023-06-25,Stolen,3B
+6695,2B,3B,Stolen Base 3B,672580,Maikel Garcia,663556,Shane McClanahan,658668,Edward Olivares,L,Francisco Mejía,642336,0,0,1,True,2023-06-22,Stolen,3B
+6699,1B,2B,Stolen Base 2B,672580,Maikel Garcia,664126,Pete Fairbanks,677951,Bobby Witt Jr.,R,Francisco Mejía,642336,5,5,9,True,2023-06-22,Stolen,2B
+6700,2B,3B,Stolen Base 3B,672580,Maikel Garcia,664126,Pete Fairbanks,677951,Bobby Witt Jr.,R,Francisco Mejía,642336,5,5,9,True,2023-06-22,Stolen,3B
+6776,1B,2B,Stolen Base 2B,672580,Maikel Garcia,542881,Tyler Anderson,669392,Samad Taylor,L,Chad Wallach,595453,2,1,4,False,2023-06-18,Stolen,2B
+6811,1B,2B,Stolen Base 2B,672580,Maikel Garcia,606965,Chris Devenski,670032,Nicky Lopez,R,Chad Wallach,595453,9,9,9,False,2023-06-17,Stolen,2B
+7109,1B,2B,Stolen Base 2B,672580,Maikel Garcia,623211,Huascar Brazobán,670032,Nicky Lopez,R,Nick Fortes,663743,7,4,6,True,2023-06-05,Stolen,2B
+7404,2B,3B,Stolen Base 3B,672580,Maikel Garcia,571510,Matthew Boyd,686469,Vinnie Pasquantino,L,Eric Haase,606992,1,1,5,False,2023-05-24,Stolen,3B
+7425,1B,2B,Stolen Base 2B,672580,Maikel Garcia,593958,Eduardo Rodriguez,598265,Jackie Bradley Jr.,L,Jake Rogers,668670,0,0,2,False,2023-05-23,Stolen,2B
+7810,1B,2B,Stolen Base 2B,672580,Maikel Garcia,686610,Ken Waldichuk,686681,Michael Massey,L,Shea Langeliers,669127,1,3,3,False,2023-05-06,Stolen,2B
+7867,2B,3B,Stolen Base 3B,672580,Maikel Garcia,543056,Danny Coulombe,686681,Michael Massey,L,James McCann,543510,7,8,7,False,2023-05-04,Stolen,3B

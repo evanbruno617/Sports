@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1377,2B,,Caught Stealing 3B,452095,Tyler Flowers,594835,Marco Gonzales,621020,Dansby Swanson,L,Mike Zunino,572287,0,0,2,False,2017-08-22,Caught,3B
+227,1B,,Caught Stealing 2B,452095,Tyler Flowers,571800,Drew Hutchison,594809,Adam Eaton,R,Dioner Navarro,425900,3,0,2,False,2015-07-08,Caught,2B
+5236,1B,,Caught Stealing 2B,452095,Tyler Flowers,475416,Justin Masterson,543760,Marcus Semien,R,Carlos Santana,467793,1,0,3,True,2014-05-03,Caught,2B
+2992,1B,,Caught Stealing 2B,452095,Tyler Flowers,475416,Justin Masterson,543760,Marcus Semien,R,Carlos Santana,467793,1,0,3,True,2014-05-03,Caught,2B
+749,2B,,Caught Stealing 3B,452095,Tyler Flowers,594835,Marco Gonzales,621020,Dansby Swanson,L,Mike Zunino,572287,0,0,2,False,2017-08-22,Caught,3B

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+30,1B,2B,Stolen Base 2B,431171,Casey McGehee,592781,Matt Stites,434604,Michael Morse,R,Óscar Hernández,591712,2,5,5,True,2015-07-22,Stolen,2B
+2103,2B,,Caught Stealing 3B,431171,Casey McGehee,453178,Ian Kennedy,435078,Joaquin Arias,R,Derek Norris,519083,0,0,2,True,2015-04-09,Caught,3B
+2339,2B,,Caught Stealing 3B,431171,Casey McGehee,518617,Jake Diekman,434540,Garrett Jones,L,Carlos Ruiz,434563,6,4,7,False,2014-09-25,Caught,3B
+2675,1B,2B,Caught Stealing 2B,431171,Casey McGehee,490063,Matt Garza,542303,Marcell Ozuna,R,Jonathan Lucroy,518960,0,2,3,True,2014-09-09,Caught,2B
+2909,1B,2B,Stolen Base 2B,431171,Casey McGehee,571735,David Hale,434540,Garrett Jones,R,Evan Gattis,594828,0,4,7,True,2014-08-30,Stolen,2B
+3276,1B,2B,Stolen Base 2B,431171,Casey McGehee,518693,Sam Freeman,434540,Garrett Jones,L,A.J. Pierzynski,150229,6,3,7,False,2014-08-11,Stolen,2B
+3721,1B,2B,Stolen Base 2B,431171,Casey McGehee,218596,Tim Hudson,434540,Garrett Jones,R,Buster Posey,457763,1,0,1,False,2014-07-19,Stolen,2B
+4084,1B,2B,Stolen Base 2B,431171,Casey McGehee,448281,Sean Doolittle,434540,Garrett Jones,L,John Jaso,444379,6,6,9,False,2014-06-28,Stolen,2B
+95,2B,,Caught Stealing 3B,431171,Casey McGehee,518617,Jake Diekman,434540,Garrett Jones,L,Carlos Ruiz,434563,6,4,7,False,2014-09-25,Caught,3B
+431,1B,2B,Caught Stealing 2B,431171,Casey McGehee,490063,Matt Garza,542303,Marcell Ozuna,R,Jonathan Lucroy,518960,0,2,3,True,2014-09-09,Caught,2B
+665,1B,2B,Stolen Base 2B,431171,Casey McGehee,571735,David Hale,434540,Garrett Jones,R,Evan Gattis,594828,0,4,7,True,2014-08-30,Stolen,2B
+1032,1B,2B,Stolen Base 2B,431171,Casey McGehee,518693,Sam Freeman,434540,Garrett Jones,L,A.J. Pierzynski,150229,6,3,7,False,2014-08-11,Stolen,2B
+1477,1B,2B,Stolen Base 2B,431171,Casey McGehee,218596,Tim Hudson,434540,Garrett Jones,R,Buster Posey,457763,1,0,1,False,2014-07-19,Stolen,2B
+1840,1B,2B,Stolen Base 2B,431171,Casey McGehee,448281,Sean Doolittle,434540,Garrett Jones,L,John Jaso,444379,6,6,9,False,2014-06-28,Stolen,2B

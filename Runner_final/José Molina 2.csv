@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3648,1B,2B,Stolen Base 2B,150040,José Molina,425794,Adam Wainwright,543606,Jake Odorizzi,R,Tony Cruz,488810,1,1,4,True,2014-07-22,Stolen,2B
+3806,1B,2B,Stolen Base 2B,150040,José Molina,571800,Drew Hutchison,595281,Kevin Kiermaier,R,Dioner Navarro,425900,2,2,4,False,2014-07-12,Stolen,2B
+4281,1B,2B,Stolen Base 2B,150040,José Molina,543054,Jarred Cosart,523253,Logan Forsythe,R,Jason Castro,488771,0,2,3,False,2014-06-20,Stolen,2B
+1404,1B,2B,Stolen Base 2B,150040,José Molina,425794,Adam Wainwright,543606,Jake Odorizzi,R,Tony Cruz,488810,1,1,4,True,2014-07-22,Stolen,2B
+1562,1B,2B,Stolen Base 2B,150040,José Molina,571800,Drew Hutchison,595281,Kevin Kiermaier,R,Dioner Navarro,425900,2,2,4,False,2014-07-12,Stolen,2B
+2037,1B,2B,Stolen Base 2B,150040,José Molina,543054,Jarred Cosart,523253,Logan Forsythe,R,Jason Castro,488771,0,2,3,False,2014-06-20,Stolen,2B

@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,680869,Zack Gelof,693433,Bryan Woo,664913,Seth Brown,R,Luis Torrens,620443,0,1,3,False,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 85.2, 0.61
+1,1,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,663423,Trent Thornton,669127,Shea Langeliers,R,Luis Torrens,620443,0,4,8,False,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 85.2, 0.61
+2,2,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,663423,Trent Thornton,669127,Shea Langeliers,R,Luis Torrens,620443,0,4,8,False,2023-09-18,Stolen,3B,2023,2024,29.8,2024, 85.2, 0.61
+3,3,1B,2B,Stolen Base 2B,680869,Zack Gelof,693433,Bryan Woo,664913,Seth Brown,R,Luis Torrens,620443,0,1,3,False,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 85.2, 0.61
+4,4,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,663423,Trent Thornton,669127,Shea Langeliers,R,Luis Torrens,620443,0,4,8,False,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 85.2, 0.61
+5,5,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,663423,Trent Thornton,669127,Shea Langeliers,R,Luis Torrens,620443,0,4,8,False,2023-09-18,Stolen,3B,2023,2024,29.8,2024, 85.2, 0.61
+6,6,1B,,Caught Stealing 2B,671277,Luis García Jr.,543548,Tommy Milone,657041,Lane Thomas,L,Luis Torrens,620443,0,0,5,False,2022-07-13,Caught,2B,2022,2023,29.4,2023, 80.3, 0.63
+7,7,1B,,Caught Stealing 2B,671277,Luis García Jr.,543548,Tommy Milone,657041,Lane Thomas,L,Luis Torrens,620443,0,0,5,False,2022-07-12,Caught,2B,2022,2023,29.4,2023, 80.3, 0.63
+8,8,1B,2B,Stolen Base 2B,664913,Seth Brown,662253,Andrés Muñoz,665506,Cristian Pache,R,Luis Torrens,620443,1,0,7,False,2022-06-23,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+9,9,1B,2B,Stolen Base 2B,488726,Michael Brantley,594835,Marco Gonzales,608324,Alex Bregman,L,Luis Torrens,620443,0,1,6,True,2022-05-29,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+10,10,1B,2B,Stolen Base 2B,675656,Kevin Smith,592662,Robbie Ray,665506,Cristian Pache,L,Luis Torrens,620443,0,3,6,True,2022-05-25,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+11,11,1B,2B,Stolen Base 2B,664913,Seth Brown,623149,Paul Sewald,675656,Kevin Smith,R,Luis Torrens,620443,2,3,9,True,2022-05-25,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+12,12,1B,2B,Stolen Base 2B,642456,Luis Barrera,623149,Paul Sewald,641914,Sheldon Neuse,R,Luis Torrens,620443,2,4,9,True,2022-05-25,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+13,13,2B,3B,Stolen Base 3B,596115,Trevor Story,489265,Sergio Romo,543877,Christian Vázquez,R,Luis Torrens,620443,5,4,6,False,2022-05-19,Stolen,3B,2022,2023,29.4,2023, 80.3, 0.63
+14,14,1B,2B,Stolen Base 2B,516782,Starling Marte,662253,Andrés Muñoz,596019,Francisco Lindor,R,Luis Torrens,620443,5,4,7,False,2022-05-14,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+15,15,1B,2B,Stolen Base 2B,622534,Manuel Margot,669923,George Kirby,670764,Taylor Walls,R,Luis Torrens,620443,0,0,5,True,2022-05-08,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+16,16,1B,,Caught Stealing 2B,668227,Randy Arozarena,608716,Drew Steckenrider,596847,Ji Man Choi,R,Luis Torrens,620443,0,1,9,True,2022-05-08,Caught,2B,2022,2023,29.4,2023, 80.3, 0.63
+17,17,1B,2B,Stolen Base 2B,623912,Harold Ramírez,592662,Robbie Ray,670623,Isaac Paredes,L,Luis Torrens,620443,0,0,2,True,2022-05-05,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+18,18,1B,2B,Stolen Base 2B,622534,Manuel Margot,592662,Robbie Ray,668227,Randy Arozarena,L,Luis Torrens,620443,0,0,4,True,2022-05-05,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+19,19,3B,,Caught Stealing Home,624585,Jorge Soler,666374,Matt Brash,541645,Avisaíl García,R,Luis Torrens,620443,6,3,2,False,2022-04-29,Caught,Home,2022,2023,29.4,2023, 80.3, 0.63
+20,20,1B,2B,Stolen Base 2B,621433,Brett Phillips,650895,Diego Castillo,650907,René Pinto,R,Luis Torrens,620443,2,1,7,False,2022-04-28,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+21,21,1B,,Caught Stealing 2B,622534,Manuel Margot,650895,Diego Castillo,677551,Wander Franco,R,Luis Torrens,620443,2,1,8,False,2022-04-28,Caught,2B,2022,2023,29.4,2023, 80.3, 0.63
+22,22,1B,2B,Stolen Base 2B,677551,Wander Franco,650895,Diego Castillo,650490,Yandy Díaz,R,Luis Torrens,620443,2,1,8,False,2022-04-28,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+23,23,1B,,Caught Stealing 2B,488726,Michael Brantley,666374,Matt Brash,608324,Alex Bregman,R,Luis Torrens,620443,0,0,1,True,2022-04-17,Caught,2B,2022,2023,29.4,2023, 80.3, 0.63
+24,24,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,650895,Diego Castillo,547989,José Abreu,R,Luis Torrens,620443,2,1,8,False,2022-04-12,Stolen,2B,2022,2023,29.4,2023, 80.3, 0.63
+25,25,2B,3B,Stolen Base 3B,673357,Luis Robert Jr.,650895,Diego Castillo,518735,Yasmani Grandal,R,Luis Torrens,620443,2,1,8,False,2022-04-12,Stolen,3B,2022,2023,29.4,2023, 80.3, 0.63

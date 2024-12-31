@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+101,1B,2B,Stolen Base 2B,502261,Cole Gillespie,430935,Cole Hamels,425772,Jeff Mathis,L,Carlos Ruiz,434563,5,5,3,True,2015-07-19,Stolen,2B
+336,1B,2B,Stolen Base 2B,502261,Cole Gillespie,518748,Justin Grimm,400085,Ichiro Suzuki,R,Miguel Montero,471083,1,2,9,True,2015-07-03,Stolen,2B
+4461,1B,,Caught Stealing 2B,502261,Cole Gillespie,573064,Vidal Nuño,572122,Kyle Seager,L,Brian McCann,435263,1,2,1,False,2014-06-10,Caught,2B
+4658,1B,2B,Stolen Base 2B,502261,Cole Gillespie,592767,Drew Smyly,217100,Willie Bloomquist,L,Alex Avila,488671,3,1,4,False,2014-05-31,Stolen,2B
+5168,1B,2B,Stolen Base 2B,502261,Cole Gillespie,462382,Jim Johnson,475253,Justin Smoak,R,Derek Norris,519083,3,7,9,True,2014-05-06,Stolen,2B
+5386,1B,,Caught Stealing 2B,502261,Cole Gillespie,543726,Robbie Ross Jr.,572287,Mike Zunino,L,J.P. Arencibia,450317,0,2,5,False,2014-04-25,Caught,2B
+2217,1B,,Caught Stealing 2B,502261,Cole Gillespie,573064,Vidal Nuño,572122,Kyle Seager,L,Brian McCann,435263,1,2,1,False,2014-06-10,Caught,2B
+2414,1B,2B,Stolen Base 2B,502261,Cole Gillespie,592767,Drew Smyly,217100,Willie Bloomquist,L,Alex Avila,488671,3,1,4,False,2014-05-31,Stolen,2B
+2924,1B,2B,Stolen Base 2B,502261,Cole Gillespie,462382,Jim Johnson,475253,Justin Smoak,R,Derek Norris,519083,3,7,9,True,2014-05-06,Stolen,2B
+3142,1B,,Caught Stealing 2B,502261,Cole Gillespie,543726,Robbie Ross Jr.,572287,Mike Zunino,L,J.P. Arencibia,450317,0,2,5,False,2014-04-25,Caught,2B

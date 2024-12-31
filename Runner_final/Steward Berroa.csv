@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+235,1B,2B,Stolen Base 2B,672642,Steward Berroa,621363,Colin Poche,687462,Spencer Horwitz,L,Logan Driscoll,686482,1,0,8,True,2024-09-20,Stolen,2B
+1235,1B,,Caught Stealing 2B,672642,Steward Berroa,668968,Hans Crouse,676391,Ernie Clement,R,Logan O'Hoppe,681351,1,4,6,True,2024-08-12,Caught,2B
+1567,1B,2B,Stolen Base 2B,672642,Steward Berroa,669203,Corbin Burnes,543807,George Springer,R,Adley Rutschman,668939,6,1,7,True,2024-07-30,Stolen,2B
+1587,1B,2B,Stolen Base 2B,672642,Steward Berroa,700249,Cade Povich,543807,George Springer,L,Adley Rutschman,668939,1,2,2,True,2024-07-29,Stolen,2B
+1588,1B,2B,Stolen Base 2B,672642,Steward Berroa,700249,Cade Povich,543807,George Springer,L,Adley Rutschman,668939,3,3,4,True,2024-07-29,Stolen,2B
+1668,1B,2B,Stolen Base 2B,672642,Steward Berroa,622250,Josh Sborz,665489,Vladimir Guerrero Jr.,R,Jonah Heim,641680,5,5,9,False,2024-07-26,Stolen,2B
+1868,1B,2B,Stolen Base 2B,672642,Steward Berroa,671345,Jason Foley,457759,Justin Turner,R,Carson Kelly,608348,4,5,8,False,2024-07-19,Stolen,2B
+2372,1B,,Caught Stealing 2B,672642,Steward Berroa,445276,Kenley Jansen,643396,Isiah Kiner-Falefa,R,Tyler Heineman,623168,6,6,9,True,2024-06-24,Caught,2B
+3309,1B,2B,Stolen Base 2B,672642,Steward Berroa,700249,Cade Povich,543807,George Springer,L,Adley Rutschman,668939,1,2,2,True,2024-05-14,Stolen,2B
+3310,1B,2B,Stolen Base 2B,672642,Steward Berroa,700249,Cade Povich,543807,George Springer,L,Adley Rutschman,668939,3,3,4,True,2024-05-14,Stolen,2B

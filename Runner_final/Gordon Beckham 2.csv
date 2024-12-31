@@ -1,0 +1,25 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1484,1B,2B,Stolen Base 2B,493596,Gordon Beckham,471911,Carlos Carrasco,621514,Christin Stewart,R,Roberto Pérez,547379,7,2,9,True,2019-09-17,Stolen,2B
+3267,1B,2B,Stolen Base 2B,493596,Gordon Beckham,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,2B
+3329,1B,,Caught Stealing 2B,493596,Gordon Beckham,670950,Trevor Richards,592348,Niko Goodrum,R,Jorge Alfaro,595751,0,0,1,False,2019-05-23,Caught,2B
+3893,1B,2B,Stolen Base 2B,493596,Gordon Beckham,467100,Iván Nova,606988,Grayson Greiner,R,Welington Castillo,456078,2,0,4,False,2019-04-18,Stolen,2B
+4327,1B,2B,Stolen Base 2B,493596,Gordon Beckham,471911,Carlos Carrasco,621514,Christin Stewart,R,Roberto Pérez,547379,7,2,9,True,2019-09-17,Stolen,2B
+6110,1B,2B,Stolen Base 2B,493596,Gordon Beckham,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,2B
+6172,1B,,Caught Stealing 2B,493596,Gordon Beckham,670950,Trevor Richards,592348,Niko Goodrum,R,Jorge Alfaro,595751,0,0,1,False,2019-05-23,Caught,2B
+6736,1B,2B,Stolen Base 2B,493596,Gordon Beckham,467100,Iván Nova,606988,Grayson Greiner,R,Welington Castillo,456078,2,0,4,False,2019-04-18,Stolen,2B
+6251,1B,2B,Stolen Base 2B,493596,Gordon Beckham,471911,Carlos Carrasco,621514,Christin Stewart,R,Roberto Pérez,547379,7,2,9,True,2019-09-17,Stolen,2B
+8034,1B,2B,Stolen Base 2B,493596,Gordon Beckham,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,2B
+8096,1B,,Caught Stealing 2B,493596,Gordon Beckham,670950,Trevor Richards,592348,Niko Goodrum,R,Jorge Alfaro,595751,0,0,1,False,2019-05-23,Caught,2B
+8660,1B,2B,Stolen Base 2B,493596,Gordon Beckham,467100,Iván Nova,606988,Grayson Greiner,R,Welington Castillo,456078,2,0,4,False,2019-04-18,Stolen,2B
+711,1B,2B,Stolen Base 2B,493596,Gordon Beckham,501563,Simon Castro,571745,Mitch Haniger,R,Josh Phegley,572033,3,6,9,True,2017-09-26,Stolen,2B
+6372,1B,2B,Stolen Base 2B,493596,Gordon Beckham,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,2B
+1799,1B,,Caught Stealing 2B,493596,Gordon Beckham,425492,Ryan Madson,608672,Micah Johnson,R,Salvador Perez,521692,2,2,11,False,2015-04-23,Caught,2B
+3501,1B,2B,Stolen Base 2B,493596,Gordon Beckham,456379,Al Alburquerque,452095,Tyler Flowers,R,Alex Avila,488671,4,4,6,True,2014-07-31,Stolen,2B
+4118,1B,2B,Stolen Base 2B,493596,Gordon Beckham,435045,Sergio Santos,543216,Conor Gillaspie,R,Josh Thole,489365,2,5,8,True,2014-06-27,Stolen,2B
+5358,1B,2B,Stolen Base 2B,493596,Gordon Beckham,456034,David Price,594809,Adam Eaton,L,José Molina,150040,5,1,7,False,2014-04-27,Stolen,2B
+1257,1B,2B,Stolen Base 2B,493596,Gordon Beckham,456379,Al Alburquerque,452095,Tyler Flowers,R,Alex Avila,488671,4,4,6,True,2014-07-31,Stolen,2B
+1874,1B,2B,Stolen Base 2B,493596,Gordon Beckham,435045,Sergio Santos,543216,Conor Gillaspie,R,Josh Thole,489365,2,5,8,True,2014-06-27,Stolen,2B
+3114,1B,2B,Stolen Base 2B,493596,Gordon Beckham,456034,David Price,594809,Adam Eaton,L,José Molina,150040,5,1,7,False,2014-04-27,Stolen,2B
+2337,1B,2B,Stolen Base 2B,493596,Gordon Beckham,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,2B
+83,1B,2B,Stolen Base 2B,493596,Gordon Beckham,501563,Simon Castro,571745,Mitch Haniger,R,Josh Phegley,572033,3,6,9,True,2017-09-26,Stolen,2B
+5744,1B,2B,Stolen Base 2B,493596,Gordon Beckham,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,2B

@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2088,1B,,Caught Stealing 2B,620443,Luis Torrens,663559,Bailey Falter,621438,Tyrone Taylor,L,Joey Bart,663698,0,0,2,True,2024-07-06,Caught,2B

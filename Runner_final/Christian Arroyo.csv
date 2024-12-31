@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2626,1B,2B,Stolen Base 2B,624414,Christian Arroyo,570663,Hansel Robles,592669,Hunter Renfroe,R,Ryan Jeffers,680777,3,0,8,True,2021-04-15,Stolen,2B
+1558,1B,,Caught Stealing 2B,624414,Christian Arroyo,489446,Kirby Yates,657136,Connor Wong,R,Sean Murphy,669221,5,3,8,False,2023-07-26,Caught,2B
+1973,1B,,Caught Stealing 2B,624414,Christian Arroyo,592351,Jon Gray,666152,David Hamilton,R,Jonah Heim,641680,2,0,4,False,2023-07-05,Caught,2B
+2302,1B,,Caught Stealing 2B,624414,Christian Arroyo,592779,Brock Stewart,657136,Connor Wong,R,Christian Vázquez,543877,3,3,6,True,2023-06-21,Caught,2B
+4153,1B,2B,Stolen Base 2B,624414,Christian Arroyo,656605,Mitch Keller,606132,Raimel Tapia,R,Jason Delay,641511,1,4,7,False,2023-04-05,Stolen,2B
+689,1B,2B,Stolen Base 2B,624414,Christian Arroyo,572193,Ryan Tepera,502110,J.D. Martinez,R,Max Stassi,545358,5,1,8,True,2022-06-09,Stolen,2B
+754,1B,2B,Stolen Base 2B,624414,Christian Arroyo,592789,Noah Syndergaard,502110,J.D. Martinez,R,Max Stassi,545358,0,1,5,True,2022-06-06,Stolen,2B
+1467,1B,2B,Stolen Base 2B,624414,Christian Arroyo,666201,Alek Manoah,666915,Bobby Dalbec,R,Alejandro Kirk,672386,1,0,5,True,2022-04-28,Stolen,2B
+4550,1B,2B,Stolen Base 2B,624414,Christian Arroyo,570663,Hansel Robles,592669,Hunter Renfroe,R,Ryan Jeffers,680777,3,0,8,True,2021-04-15,Stolen,2B
+3152,1B,,Caught Stealing 2B,624414,Christian Arroyo,451661,Josh Fields,474832,Brandon Belt,R,Austin Barnes,605131,2,1,7,False,2017-05-16,Caught,2B
+3175,1B,2B,Stolen Base 2B,624414,Christian Arroyo,435221,Brandon McCarthy,607776,Mac Williamson,R,Yasmani Grandal,518735,6,1,6,False,2017-05-15,Stolen,2B
+3246,1B,,Caught Stealing 2B,624414,Christian Arroyo,444857,Scott Feldman,457763,Buster Posey,R,Tucker Barnhart,571466,1,2,4,False,2017-05-12,Caught,2B
+5972,1B,,Caught Stealing 2B,624414,Christian Arroyo,489446,Kirby Yates,657136,Connor Wong,R,Sean Murphy,669221,5,3,8,False,2023-07-26,Caught,2B
+6387,1B,,Caught Stealing 2B,624414,Christian Arroyo,592351,Jon Gray,666152,David Hamilton,R,Jonah Heim,641680,2,0,4,False,2023-07-05,Caught,2B
+6716,1B,,Caught Stealing 2B,624414,Christian Arroyo,592779,Brock Stewart,657136,Connor Wong,R,Christian Vázquez,543877,3,3,6,True,2023-06-21,Caught,2B
+8567,1B,2B,Stolen Base 2B,624414,Christian Arroyo,656605,Mitch Keller,606132,Raimel Tapia,R,Jason Delay,641511,1,4,7,False,2023-04-05,Stolen,2B
+2524,1B,,Caught Stealing 2B,624414,Christian Arroyo,451661,Josh Fields,474832,Brandon Belt,R,Austin Barnes,605131,2,1,7,False,2017-05-16,Caught,2B
+2547,1B,2B,Stolen Base 2B,624414,Christian Arroyo,435221,Brandon McCarthy,607776,Mac Williamson,R,Yasmani Grandal,518735,6,1,6,False,2017-05-15,Stolen,2B
+2618,1B,,Caught Stealing 2B,624414,Christian Arroyo,444857,Scott Feldman,457763,Buster Posey,R,Tucker Barnhart,571466,1,2,4,False,2017-05-12,Caught,2B

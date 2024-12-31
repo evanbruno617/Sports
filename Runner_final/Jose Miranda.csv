@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+356,3B,,Caught Stealing Home,669304,Jose Miranda,663455,Konnor Pilkington,665482,Gilberto Celestino,L,Luke Maile,571912,0,3,4,True,2022-06-28,Caught,Home
+2054,1B,,Caught Stealing 2B,669304,Jose Miranda,650556,Bryan Abreu,467793,Carlos Santana,R,Yainer Diaz,673237,2,2,7,False,2024-07-07,Caught,2B
+2257,1B,2B,Stolen Base 2B,669304,Jose Miranda,669302,Logan Gilbert,622534,Manuel Margot,R,Cal Raleigh,663728,0,0,2,True,2024-06-28,Stolen,2B
+4147,1B,2B,Stolen Base 2B,669304,Jose Miranda,571946,Shelby Miller,650489,Willi Castro,R,Carson Kelly,608348,3,3,9,True,2024-04-13,Stolen,2B

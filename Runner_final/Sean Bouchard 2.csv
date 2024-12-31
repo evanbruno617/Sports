@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+561,1B,,Caught Stealing 2B,656248,Sean Bouchard,690986,Kyle Harrison,453568,Charlie Blackmon,L,Joey Bart,663698,0,3,2,True,2023-09-08,Caught,2B
+2835,1B,2B,Stolen Base 2B,656248,Sean Bouchard,594580,Sam Moll,453568,Charlie Blackmon,L,Tyler Stephenson,663886,4,2,4,False,2024-06-05,Stolen,2B
+2996,1B,2B,Stolen Base 2B,656248,Sean Bouchard,680704,Nick Sandlin,660707,Elehuris Montero,R,Bo Naylor,666310,4,7,6,False,2024-05-28,Stolen,2B
+3027,1B,2B,Stolen Base 2B,656248,Sean Bouchard,605130,Scott Barlow,660707,Elehuris Montero,R,Bo Naylor,666310,7,4,6,False,2024-05-27,Stolen,2B
+3860,1B,2B,Stolen Base 2B,656248,Sean Bouchard,670970,Adrian Morejon,453568,Charlie Blackmon,L,Luis Campusano,669134,7,4,7,False,2024-04-23,Stolen,2B
+4975,1B,,Caught Stealing 2B,656248,Sean Bouchard,690986,Kyle Harrison,453568,Charlie Blackmon,L,Joey Bart,663698,0,3,2,True,2023-09-08,Caught,2B

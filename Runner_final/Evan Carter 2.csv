@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+205,1B,2B,Stolen Base 2B,694497,Evan Carter,682243,Bryce Miller,608369,Corey Seager,R,Cal Raleigh,663728,4,0,5,False,2023-09-22,Stolen,2B
+445,1B,2B,Stolen Base 2B,694497,Evan Carter,670950,Trevor Richards,665750,Leody Taveras,R,Alejandro Kirk,672386,2,5,9,True,2023-09-12,Stolen,2B
+572,1B,2B,Stolen Base 2B,694497,Evan Carter,621112,Paul Blackburn,608369,Corey Seager,R,Shea Langeliers,669127,2,2,2,False,2023-09-08,Stolen,2B
+3677,1B,2B,Stolen Base 2B,694497,Evan Carter,663432,Tanner Rainey,665750,Leody Taveras,R,Keibert Ruiz,660688,7,1,8,False,2024-04-30,Stolen,2B
+4394,1B,2B,Stolen Base 2B,694497,Evan Carter,686752,Ryan Pepiot,666969,Adolis García,R,René Pinto,650907,0,0,1,True,2024-04-01,Stolen,2B
+4619,1B,2B,Stolen Base 2B,694497,Evan Carter,682243,Bryce Miller,608369,Corey Seager,R,Cal Raleigh,663728,4,0,5,False,2023-09-22,Stolen,2B
+4859,1B,2B,Stolen Base 2B,694497,Evan Carter,670950,Trevor Richards,665750,Leody Taveras,R,Alejandro Kirk,672386,2,5,9,True,2023-09-12,Stolen,2B
+4986,1B,2B,Stolen Base 2B,694497,Evan Carter,621112,Paul Blackburn,608369,Corey Seager,R,Shea Langeliers,669127,2,2,2,False,2023-09-08,Stolen,2B

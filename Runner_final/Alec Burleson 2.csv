@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+290,2B,3B,Stolen Base 3B,676475,Alec Burleson,656730,Trevor Megill,571448,Nolan Arenado,R,William Contreras,661388,2,0,1,False,2023-09-19,Stolen,3B
+395,1B,2B,Stolen Base 2B,676475,Alec Burleson,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,2B
+619,1B,2B,Stolen Base 2B,676475,Alec Burleson,675911,Spencer Strider,669242,Tommy Edman,R,Sean Murphy,669221,0,6,3,True,2023-09-06,Stolen,2B
+621,1B,2B,Caught Stealing 3B,676475,Alec Burleson,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B
+3021,1B,,Caught Stealing 2B,676475,Alec Burleson,668933,Graham Ashcraft,663457,Lars Nootbaar,R,Tyler Stephenson,663886,1,3,2,True,2023-05-23,Caught,2B
+29,1B,,Caught Stealing 2B,676475,Alec Burleson,678495,Randy Rodríguez,663609,Luken Baker,R,Curt Casali,592200,0,6,6,True,2024-09-29,Caught,2B
+808,1B,2B,Stolen Base 2B,676475,Alec Burleson,650633,Michael King,571448,Nolan Arenado,R,Kyle Higashioka,543309,0,0,1,False,2024-08-29,Stolen,2B
+1116,1B,2B,Stolen Base 2B,676475,Alec Burleson,676272,Bobby Miller,575929,Willson Contreras,R,Will Smith,669257,1,1,1,False,2024-08-17,Stolen,2B
+1780,1B,,Caught Stealing 2B,676475,Alec Burleson,656605,Mitch Keller,575929,Willson Contreras,R,Joey Bart,663698,0,0,3,True,2024-07-22,Caught,2B
+1949,1B,,Caught Stealing 2B,676475,Alec Burleson,543294,Kyle Hendricks,502671,Paul Goldschmidt,R,Miguel Amaya,665804,0,2,4,False,2024-07-12,Caught,2B
+2069,2B,3B,Stolen Base 3B,676475,Alec Burleson,571670,Dylan Floro,502671,Paul Goldschmidt,R,Riley Adams,656180,2,4,5,True,2024-07-07,Stolen,3B
+2120,1B,2B,Stolen Base 2B,676475,Alec Burleson,571882,Derek Law,575929,Willson Contreras,R,Keibert Ruiz,660688,5,3,7,True,2024-07-05,Stolen,2B
+2262,1B,,Caught Stealing 2B,676475,Alec Burleson,593423,Frankie Montas,502671,Paul Goldschmidt,R,Luke Maile,571912,0,0,1,False,2024-06-28,Caught,2B
+2386,1B,2B,Stolen Base 2B,676475,Alec Burleson,657277,Logan Webb,502671,Paul Goldschmidt,R,Patrick Bailey,672275,1,0,1,False,2024-06-23,Stolen,2B
+2388,1B,2B,Stolen Base 2B,676475,Alec Burleson,657277,Logan Webb,502671,Paul Goldschmidt,R,Patrick Bailey,672275,4,0,2,False,2024-06-23,Stolen,2B
+2415,1B,2B,Stolen Base 2B,676475,Alec Burleson,663855,Jordan Hicks,502671,Paul Goldschmidt,R,Patrick Bailey,672275,2,4,3,False,2024-06-22,Stolen,2B
+3185,1B,2B,Stolen Base 2B,676475,Alec Burleson,672335,Cionel Pérez,671056,Iván Herrera,L,Adley Rutschman,668939,5,3,7,False,2024-05-20,Stolen,2B
+3318,1B,2B,Stolen Base 2B,676475,Alec Burleson,672282,Reid Detmers,666185,Dylan Carlson,L,Logan O'Hoppe,681351,0,2,3,True,2024-05-14,Stolen,2B
+4704,2B,3B,Stolen Base 3B,676475,Alec Burleson,656730,Trevor Megill,571448,Nolan Arenado,R,William Contreras,661388,2,0,1,False,2023-09-19,Stolen,3B
+4809,1B,2B,Stolen Base 2B,676475,Alec Burleson,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,2B
+5033,1B,2B,Stolen Base 2B,676475,Alec Burleson,675911,Spencer Strider,669242,Tommy Edman,R,Sean Murphy,669221,0,6,3,True,2023-09-06,Stolen,2B
+5035,1B,2B,Caught Stealing 3B,676475,Alec Burleson,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B
+7435,1B,,Caught Stealing 2B,676475,Alec Burleson,668933,Graham Ashcraft,663457,Lars Nootbaar,R,Tyler Stephenson,663886,1,3,2,True,2023-05-23,Caught,2B

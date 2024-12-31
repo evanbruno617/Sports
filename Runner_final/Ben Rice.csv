@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2249,2B,,Caught Stealing 3B,700250,Ben Rice,605135,Chris Bassitt,650402,Gleyber Torres,R,Alejandro Kirk,672386,0,0,1,True,2024-06-29,Caught,3B

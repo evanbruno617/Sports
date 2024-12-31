@@ -1,0 +1,91 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,682928,CJ Abrams,543294,Kyle Hendricks,600869,Jeimer Candelario,R,Tucker Barnhart,571466,1,1,3,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+1,1,1B,2B,Stolen Base 2B,671277,Luis García Jr.,657240,Julian Merryweather,669743,Alex Call,R,Tucker Barnhart,571466,3,3,8,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+2,2,1B,2B,Stolen Base 2B,657077,Alex Verdugo,543294,Kyle Hendricks,594807,Adam Duvall,R,Tucker Barnhart,571466,0,4,3,True,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+3,3,1B,2B,Stolen Base 2B,664056,Harrison Bader,543294,Kyle Hendricks,518626,Josh Donaldson,R,Tucker Barnhart,571466,1,0,3,False,2023-07-09,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+4,4,1B,2B,Stolen Base 2B,650402,Gleyber Torres,543294,Kyle Hendricks,519317,Giancarlo Stanton,R,Tucker Barnhart,571466,1,1,5,False,2023-07-09,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+5,5,2B,3B,Stolen Base 3B,655316,Andruw Monasterio,592767,Drew Smyly,605170,Victor Caratini,L,Tucker Barnhart,571466,3,6,4,False,2023-07-03,Stolen,3B,2023,2024,29.8,2024, 76.7, 0.60
+6,6,1B,2B,Stolen Base 2B,686894,Joey Wiemer,592767,Drew Smyly,605170,Victor Caratini,L,Tucker Barnhart,571466,3,6,4,False,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+7,7,1B,2B,Stolen Base 2B,592885,Christian Yelich,643410,Mark Leiter Jr.,642715,Willy Adames,R,Tucker Barnhart,571466,7,6,8,False,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+8,8,1B,2B,Stolen Base 2B,665926,Andrés Giménez,573186,Marcus Stroman,686823,Will Brennan,R,Tucker Barnhart,571466,0,2,4,True,2023-07-01,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+9,9,1B,,Caught Stealing 2B,678225,Ji Hwan Bae,592791,Jameson Taillon,595978,Austin Hedges,R,Tucker Barnhart,571466,3,2,4,True,2023-06-13,Caught,2B,2023,2024,29.8,2024, 76.7, 0.60
+10,10,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,641525,Brandon Dixon,L,Tucker Barnhart,571466,3,0,6,False,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+11,11,1B,2B,Stolen Base 2B,677551,Wander Franco,573186,Marcus Stroman,664040,Brandon Lowe,R,Tucker Barnhart,571466,1,0,7,True,2023-05-29,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+12,12,1B,2B,Stolen Base 2B,516782,Starling Marte,573186,Marcus Stroman,596129,Daniel Vogelbach,R,Tucker Barnhart,571466,4,2,8,True,2023-05-24,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+13,13,1B,2B,Stolen Base 2B,669016,Brandon Marsh,669093,Jeremiah Estrada,664761,Alec Bohm,R,Tucker Barnhart,571466,2,0,8,False,2023-05-21,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+14,14,1B,,Caught Stealing 2B,680777,Ryan Jeffers,669713,Hayden Wesneski,608336,Joey Gallo,R,Tucker Barnhart,571466,5,0,4,False,2023-05-13,Caught,2B,2023,2024,29.8,2024, 76.7, 0.60
+15,15,1B,2B,Stolen Base 2B,645302,Victor Robles,573186,Marcus Stroman,669743,Alex Call,R,Tucker Barnhart,571466,1,1,3,False,2023-05-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+16,16,1B,2B,Stolen Base 2B,657041,Lane Thomas,573186,Marcus Stroman,682928,CJ Abrams,R,Tucker Barnhart,571466,1,1,5,False,2023-05-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+17,17,1B,2B,Stolen Base 2B,645302,Victor Robles,573186,Marcus Stroman,669743,Alex Call,R,Tucker Barnhart,571466,1,1,5,False,2023-05-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+18,18,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,669713,Hayden Wesneski,630105,Jake Cronenworth,R,Tucker Barnhart,571466,3,1,3,True,2023-04-27,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+19,19,1B,2B,Stolen Base 2B,605141,Mookie Betts,676714,Brandon Hughes,571970,Max Muncy,L,Tucker Barnhart,571466,2,3,5,True,2023-04-22,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+20,20,1B,2B,Stolen Base 2B,621035,Chris Taylor,640470,Adbert Alzolay,605131,Austin Barnes,R,Tucker Barnhart,571466,4,6,8,True,2023-04-22,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+21,21,1B,2B,Stolen Base 2B,663897,Luke Williams,665871,Javier Assad,605131,Austin Barnes,R,Tucker Barnhart,571466,0,1,2,True,2023-04-20,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+22,22,1B,2B,Stolen Base 2B,518692,Freddie Freeman,502202,Brad Boxberger,571970,Max Muncy,R,Tucker Barnhart,571466,2,2,8,True,2023-04-20,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+23,23,1B,2B,Stolen Base 2B,571970,Max Muncy,502202,Brad Boxberger,572204,Trayce Thompson,R,Tucker Barnhart,571466,2,2,8,True,2023-04-20,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+24,24,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,657006,Justin Steele,649557,Aledmys Díaz,L,Tucker Barnhart,571466,0,0,1,False,2023-04-19,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+25,25,2B,,Caught Stealing 3B,668843,Conner Capel,657006,Justin Steele,665923,Esteury Ruiz,L,Tucker Barnhart,571466,0,0,3,False,2023-04-19,Caught,3B,2023,2024,29.8,2024, 76.7, 0.60
+26,26,1B,,Caught Stealing 2B,677594,Julio Rodríguez,605242,Michael Fulmer,663728,Cal Raleigh,R,Tucker Barnhart,571466,1,5,9,True,2023-04-12,Caught,2B,2023,2024,29.8,2024, 76.7, 0.60
+27,27,1B,2B,Stolen Base 2B,608671,Travis Jankowski,592791,Jameson Taillon,669352,Bubba Thompson,R,Tucker Barnhart,571466,2,5,4,True,2023-04-09,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+28,28,1B,2B,Stolen Base 2B,668930,Brice Turang,665871,Javier Assad,670712,Mike Brosseau,R,Tucker Barnhart,571466,1,1,8,True,2023-04-01,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+29,29,1B,2B,Stolen Base 2B,682928,CJ Abrams,543294,Kyle Hendricks,600869,Jeimer Candelario,R,Tucker Barnhart,571466,1,1,3,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+30,30,1B,2B,Stolen Base 2B,671277,Luis García Jr.,657240,Julian Merryweather,669743,Alex Call,R,Tucker Barnhart,571466,3,3,8,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+31,31,1B,2B,Stolen Base 2B,657077,Alex Verdugo,543294,Kyle Hendricks,594807,Adam Duvall,R,Tucker Barnhart,571466,0,4,3,True,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+32,32,1B,2B,Stolen Base 2B,664056,Harrison Bader,543294,Kyle Hendricks,518626,Josh Donaldson,R,Tucker Barnhart,571466,1,0,3,False,2023-07-09,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+33,33,1B,2B,Stolen Base 2B,650402,Gleyber Torres,543294,Kyle Hendricks,519317,Giancarlo Stanton,R,Tucker Barnhart,571466,1,1,5,False,2023-07-09,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+34,34,2B,3B,Stolen Base 3B,655316,Andruw Monasterio,592767,Drew Smyly,605170,Victor Caratini,L,Tucker Barnhart,571466,3,6,4,False,2023-07-03,Stolen,3B,2023,2024,29.8,2024, 76.7, 0.60
+35,35,1B,2B,Stolen Base 2B,686894,Joey Wiemer,592767,Drew Smyly,605170,Victor Caratini,L,Tucker Barnhart,571466,3,6,4,False,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+36,36,1B,2B,Stolen Base 2B,592885,Christian Yelich,643410,Mark Leiter Jr.,642715,Willy Adames,R,Tucker Barnhart,571466,7,6,8,False,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+37,37,1B,2B,Stolen Base 2B,665926,Andrés Giménez,573186,Marcus Stroman,686823,Will Brennan,R,Tucker Barnhart,571466,0,2,4,True,2023-07-01,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+38,38,1B,,Caught Stealing 2B,678225,Ji Hwan Bae,592791,Jameson Taillon,595978,Austin Hedges,R,Tucker Barnhart,571466,3,2,4,True,2023-06-13,Caught,2B,2023,2024,29.8,2024, 76.7, 0.60
+39,39,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,641525,Brandon Dixon,L,Tucker Barnhart,571466,3,0,6,False,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+40,40,1B,2B,Stolen Base 2B,677551,Wander Franco,573186,Marcus Stroman,664040,Brandon Lowe,R,Tucker Barnhart,571466,1,0,7,True,2023-05-29,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+41,41,1B,2B,Stolen Base 2B,516782,Starling Marte,573186,Marcus Stroman,596129,Daniel Vogelbach,R,Tucker Barnhart,571466,4,2,8,True,2023-05-24,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+42,42,1B,2B,Stolen Base 2B,669016,Brandon Marsh,669093,Jeremiah Estrada,664761,Alec Bohm,R,Tucker Barnhart,571466,2,0,8,False,2023-05-21,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+43,43,1B,,Caught Stealing 2B,680777,Ryan Jeffers,669713,Hayden Wesneski,608336,Joey Gallo,R,Tucker Barnhart,571466,5,0,4,False,2023-05-13,Caught,2B,2023,2024,29.8,2024, 76.7, 0.60
+44,44,1B,2B,Stolen Base 2B,645302,Victor Robles,573186,Marcus Stroman,669743,Alex Call,R,Tucker Barnhart,571466,1,1,3,False,2023-05-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+45,45,1B,2B,Stolen Base 2B,657041,Lane Thomas,573186,Marcus Stroman,682928,CJ Abrams,R,Tucker Barnhart,571466,1,1,5,False,2023-05-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+46,46,1B,2B,Stolen Base 2B,645302,Victor Robles,573186,Marcus Stroman,669743,Alex Call,R,Tucker Barnhart,571466,1,1,5,False,2023-05-03,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+47,47,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,669713,Hayden Wesneski,630105,Jake Cronenworth,R,Tucker Barnhart,571466,3,1,3,True,2023-04-27,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+48,48,1B,2B,Stolen Base 2B,605141,Mookie Betts,676714,Brandon Hughes,571970,Max Muncy,L,Tucker Barnhart,571466,2,3,5,True,2023-04-22,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+49,49,1B,2B,Stolen Base 2B,621035,Chris Taylor,640470,Adbert Alzolay,605131,Austin Barnes,R,Tucker Barnhart,571466,4,6,8,True,2023-04-22,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+50,50,1B,2B,Stolen Base 2B,663897,Luke Williams,665871,Javier Assad,605131,Austin Barnes,R,Tucker Barnhart,571466,0,1,2,True,2023-04-20,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+51,51,1B,2B,Stolen Base 2B,518692,Freddie Freeman,502202,Brad Boxberger,571970,Max Muncy,R,Tucker Barnhart,571466,2,2,8,True,2023-04-20,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+52,52,1B,2B,Stolen Base 2B,571970,Max Muncy,502202,Brad Boxberger,572204,Trayce Thompson,R,Tucker Barnhart,571466,2,2,8,True,2023-04-20,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+53,53,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,657006,Justin Steele,649557,Aledmys Díaz,L,Tucker Barnhart,571466,0,0,1,False,2023-04-19,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+54,54,2B,,Caught Stealing 3B,668843,Conner Capel,657006,Justin Steele,665923,Esteury Ruiz,L,Tucker Barnhart,571466,0,0,3,False,2023-04-19,Caught,3B,2023,2024,29.8,2024, 76.7, 0.60
+55,55,1B,,Caught Stealing 2B,677594,Julio Rodríguez,605242,Michael Fulmer,663728,Cal Raleigh,R,Tucker Barnhart,571466,1,5,9,True,2023-04-12,Caught,2B,2023,2024,29.8,2024, 76.7, 0.60
+56,56,1B,2B,Stolen Base 2B,608671,Travis Jankowski,592791,Jameson Taillon,669352,Bubba Thompson,R,Tucker Barnhart,571466,2,5,4,True,2023-04-09,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+57,57,1B,2B,Stolen Base 2B,668930,Brice Turang,665871,Javier Assad,670712,Mike Brosseau,R,Tucker Barnhart,571466,1,1,8,True,2023-04-01,Stolen,2B,2023,2024,29.8,2024, 76.7, 0.60
+58,58,1B,2B,Stolen Base 2B,664702,Myles Straw,682051,Garrett Hill,680757,Steven Kwan,R,Tucker Barnhart,571466,2,0,3,True,2022-07-04,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+59,59,1B,,Caught Stealing 2B,670032,Nicky Lopez,669373,Tarik Skubal,595956,Cam Gallagher,L,Tucker Barnhart,571466,0,3,2,True,2022-07-03,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+60,60,1B,2B,Stolen Base 2B,664728,Kyle Isbel,605242,Michael Fulmer,670032,Nicky Lopez,R,Tucker Barnhart,571466,4,7,9,True,2022-07-03,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+61,61,1B,2B,Stolen Base 2B,596115,Trevor Story,671345,Jason Foley,543877,Christian Vázquez,R,Tucker Barnhart,571466,6,2,8,False,2022-06-22,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+62,62,1B,2B,Stolen Base 2B,666969,Adolis García,571800,Drew Hutchison,641680,Jonah Heim,R,Tucker Barnhart,571466,3,1,4,True,2022-06-19,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+63,63,1B,2B,Stolen Base 2B,543760,Marcus Semien,656638,Alex Lange,608369,Corey Seager,R,Tucker Barnhart,571466,3,2,5,True,2022-06-19,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+64,64,2B,3B,Stolen Base 3B,664901,Danny Mendick,676684,Will Vest,683734,Andrew Vaughn,R,Tucker Barnhart,571466,1,5,8,True,2022-06-14,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.64
+65,65,1B,,Caught Stealing 2B,606192,Teoscar Hernández,669373,Tarik Skubal,669289,Santiago Espinal,L,Tucker Barnhart,571466,0,0,2,True,2022-06-12,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+66,66,1B,2B,Stolen Base 2B,543807,George Springer,641729,Joe Jiménez,665489,Vladimir Guerrero Jr.,R,Tucker Barnhart,571466,0,4,7,True,2022-06-12,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+67,67,1B,2B,Stolen Base 2B,608070,José Ramírez,656412,Alex Faedo,647304,Josh Naylor,R,Tucker Barnhart,571466,0,1,4,True,2022-05-28,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+68,68,1B,2B,Stolen Base 2B,664702,Myles Straw,606930,Jacob Barnes,680757,Steven Kwan,R,Tucker Barnhart,571466,0,2,7,True,2022-05-28,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+69,69,1B,2B,Stolen Base 2B,642708,Amed Rosario,656412,Alex Faedo,608070,José Ramírez,R,Tucker Barnhart,571466,0,1,1,False,2022-05-22,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+70,70,1B,,Caught Stealing 2B,676391,Ernie Clement,669373,Tarik Skubal,664702,Myles Straw,L,Tucker Barnhart,571466,0,0,3,False,2022-05-20,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+71,71,1B,2B,Stolen Base 2B,677551,Wander Franco,665621,Rony García,623912,Harold Ramírez,R,Tucker Barnhart,571466,3,0,2,False,2022-05-18,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+72,72,1B,,Caught Stealing 2B,623912,Harold Ramírez,676684,Will Vest,668227,Randy Arozarena,R,Tucker Barnhart,571466,4,0,5,False,2022-05-18,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+73,73,1B,2B,Stolen Base 2B,621433,Brett Phillips,605242,Michael Fulmer,650490,Yandy Díaz,R,Tucker Barnhart,571466,4,1,7,False,2022-05-18,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+74,74,1B,,Caught Stealing 2B,660644,Vidal Bruján,656412,Alex Faedo,595281,Kevin Kiermaier,R,Tucker Barnhart,571466,0,0,2,False,2022-05-16,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+75,75,2B,3B,Stolen Base 3B,656775,Cedric Mullins,593958,Eduardo Rodriguez,623993,Anthony Santander,L,Tucker Barnhart,571466,0,0,1,True,2022-05-13,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.64
+76,76,1B,2B,Stolen Base 2B,622761,Jorge Mateo,593958,Eduardo Rodriguez,623993,Anthony Santander,L,Tucker Barnhart,571466,0,0,1,True,2022-05-13,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+77,77,1B,2B,Stolen Base 2B,643393,Tony Kemp,689225,Beau Brieske,641914,Sheldon Neuse,R,Tucker Barnhart,571466,0,0,1,True,2022-05-12,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+78,78,3B,,Caught Stealing Home,657656,Ramón Laureano,689225,Beau Brieske,675656,Kevin Smith,R,Tucker Barnhart,571466,0,3,1,True,2022-05-12,Caught,Home,2022,2023,29.4,2023, 78.5, 0.64
+79,79,1B,2B,Stolen Base 2B,657656,Ramón Laureano,503449,Wily Peralta,542194,Christian Bethancourt,R,Tucker Barnhart,571466,0,7,5,True,2022-05-11,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+80,80,1B,2B,Stolen Base 2B,663656,Kyle Tucker,641729,Joe Jiménez,665161,Jeremy Peña,R,Tucker Barnhart,571466,3,2,8,False,2022-05-06,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+81,81,1B,,Caught Stealing 2B,514888,Jose Altuve,669373,Tarik Skubal,488726,Michael Brantley,L,Tucker Barnhart,571466,1,0,3,False,2022-05-05,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+82,82,1B,2B,Stolen Base 2B,518692,Freddie Freeman,641302,Tyler Alexander,607208,Trea Turner,L,Tucker Barnhart,571466,0,0,1,False,2022-04-29,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+83,83,1B,2B,Stolen Base 2B,607208,Trea Turner,656638,Alex Lange,457759,Justin Turner,R,Tucker Barnhart,571466,5,1,7,False,2022-04-29,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+84,84,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,641302,Tyler Alexander,592178,Kris Bryant,L,Tucker Barnhart,571466,0,1,3,True,2022-04-24,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+85,85,1B,,Caught Stealing 2B,641857,Ryan McMahon,665621,Rony García,578428,Jose Iglesias,R,Tucker Barnhart,571466,1,6,5,True,2022-04-24,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+86,86,2B,3B,Stolen Base 3B,519203,Anthony Rizzo,641729,Joe Jiménez,519317,Giancarlo Stanton,R,Tucker Barnhart,571466,3,4,8,True,2022-04-20,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.64
+87,87,1B,,Caught Stealing 2B,518934,DJ LeMahieu,641729,Joe Jiménez,650402,Gleyber Torres,R,Tucker Barnhart,571466,3,5,8,True,2022-04-20,Caught,2B,2022,2023,29.4,2023, 78.5, 0.64
+88,88,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,669373,Tarik Skubal,547989,José Abreu,L,Tucker Barnhart,571466,0,1,1,True,2022-04-10,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64
+89,89,1B,2B,Stolen Base 2B,621006,Richie Martin,671345,Jason Foley,572008,Chris Owings,R,Tucker Barnhart,571466,0,1,6,True,2022-04-02,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.64

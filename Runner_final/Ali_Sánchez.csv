@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,2B,2020,2021,29.9
+1,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,3B,2020,2021,29.9
+2,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-25,Stolen,Home,2020,2021,29.9
+3,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,2B,2020,2021,29.9
+4,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,3B,2020,2021,29.9
+5,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-20,Stolen,Home,2020,2021,29.9
+6,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,2B,2020,2021,29.9
+7,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,3B,2020,2021,29.9
+8,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-25,Stolen,Home,2020,2021,29.9
+9,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,2B,2020,2021,29.9
+10,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,3B,2020,2021,29.9
+11,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-20,Stolen,Home,2020,2021,29.9
+12,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,2B,2020,2021,29.9
+13,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,3B,2020,2021,29.9
+14,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-25,Stolen,Home,2020,2021,29.9
+15,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,2B,2020,2021,29.9
+16,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,3B,2020,2021,29.9
+17,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-20,Stolen,Home,2020,2021,29.9

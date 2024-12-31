@@ -1,0 +1,17 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y
+0,0,0,0,1B,2B,Stolen Base 2B,650489,Willi Castro,683155,Joey Estes,571657,Kyle Farmer,R,Tyler Soderstrom,691016,2,0,2,False,2023-09-27,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+1,1,1,1,1B,,Caught Stealing 2B,672284,Jarred Kelenic,661309,Adrián Martínez,664034,Ty France,R,Tyler Soderstrom,691016,3,6,7,True,2023-09-20,Caught,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+2,2,2,2,1B,2B,Stolen Base 2B,664059,Sam Haggerty,660906,Francisco Pérez,664238,Dylan Moore,L,Tyler Soderstrom,691016,3,6,8,True,2023-09-20,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+3,3,3,3,2B,3B,Stolen Base 3B,663656,Kyle Tucker,665622,Luis Medina,676801,Chas McCormick,R,Tyler Soderstrom,691016,1,0,4,True,2023-07-23,Stolen,3B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+4,4,4,4,1B,,Caught Stealing 2B,665161,Jeremy Peña,663385,Chad Smith,643289,Mauricio Dubón,R,Tyler Soderstrom,691016,2,3,9,True,2023-07-23,Caught,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+5,5,5,5,1B,2B,Stolen Base 2B,676801,Chas McCormick,676206,Freddy Tarnok,667452,Corey Julks,R,Tyler Soderstrom,691016,1,2,7,True,2023-07-20,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+6,6,6,6,3B,score,Stolen Base Home,650489,Willi Castro,663687,Hogan Harris,572191,Michael A. Taylor,L,Tyler Soderstrom,691016,4,7,5,True,2023-07-15,Stolen,Home,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+7,7,7,7,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663687,Hogan Harris,572191,Michael A. Taylor,L,Tyler Soderstrom,691016,4,7,5,True,2023-07-15,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+8,8,8,8,1B,2B,Stolen Base 2B,650489,Willi Castro,683155,Joey Estes,571657,Kyle Farmer,R,Tyler Soderstrom,691016,2,0,2,False,2023-09-27,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+9,9,9,9,1B,,Caught Stealing 2B,672284,Jarred Kelenic,661309,Adrián Martínez,664034,Ty France,R,Tyler Soderstrom,691016,3,6,7,True,2023-09-20,Caught,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+10,10,10,10,1B,2B,Stolen Base 2B,664059,Sam Haggerty,660906,Francisco Pérez,664238,Dylan Moore,L,Tyler Soderstrom,691016,3,6,8,True,2023-09-20,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+11,11,11,11,2B,3B,Stolen Base 3B,663656,Kyle Tucker,665622,Luis Medina,676801,Chas McCormick,R,Tyler Soderstrom,691016,1,0,4,True,2023-07-23,Stolen,3B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+12,12,12,12,1B,,Caught Stealing 2B,665161,Jeremy Peña,663385,Chad Smith,643289,Mauricio Dubón,R,Tyler Soderstrom,691016,2,3,9,True,2023-07-23,Caught,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+13,13,13,13,1B,2B,Stolen Base 2B,676801,Chas McCormick,676206,Freddy Tarnok,667452,Corey Julks,R,Tyler Soderstrom,691016,1,2,7,True,2023-07-20,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+14,14,14,14,3B,score,Stolen Base Home,650489,Willi Castro,663687,Hogan Harris,572191,Michael A. Taylor,L,Tyler Soderstrom,691016,4,7,5,True,2023-07-15,Stolen,Home,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9
+15,15,15,15,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663687,Hogan Harris,572191,Michael A. Taylor,L,Tyler Soderstrom,691016,4,7,5,True,2023-07-15,Stolen,2B,2023,2024,27.9,2024,27.9,2024,27.9,2024,27.9

@@ -1,0 +1,91 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,682928,CJ Abrams,571656,Buck Farmer,669743,Alex Call,R,Curt Casali,592200,0,1,5,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+1,1,2B,3B,Stolen Base 3B,682928,CJ Abrams,571656,Buck Farmer,657041,Lane Thomas,R,Curt Casali,592200,2,1,5,False,2023-07-06,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+2,2,1B,2B,Stolen Base 2B,669743,Alex Call,571656,Buck Farmer,657041,Lane Thomas,R,Curt Casali,592200,2,1,5,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+3,3,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,664139,Ian Gibaut,608841,Joey Meneses,R,Curt Casali,592200,2,1,5,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+4,4,1B,,Caught Stealing 2B,676059,Jordan Westburg,673858,Jake Wong,663630,Ryan McKenna,R,Curt Casali,592200,7,3,7,False,2023-06-26,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+5,5,1B,2B,Stolen Base 2B,645277,Ozzie Albies,668933,Graham Ashcraft,663586,Austin Riley,R,Curt Casali,592200,2,4,4,True,2023-06-24,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+6,6,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,611093,Silvino Bracho,645277,Ozzie Albies,R,Curt Casali,592200,4,7,8,True,2023-06-24,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+7,7,1B,2B,Stolen Base 2B,666134,Nolan Jones,594902,Ben Lively,641857,Ryan McMahon,R,Curt Casali,592200,3,1,3,True,2023-06-20,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+8,8,1B,2B,Stolen Base 2B,514888,Jose Altuve,668881,Hunter Greene,663656,Kyle Tucker,R,Curt Casali,592200,0,2,1,False,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+9,9,1B,2B,Stolen Base 2B,665161,Jeremy Peña,668881,Hunter Greene,676694,Jake Meyers,R,Curt Casali,592200,0,2,2,False,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+10,10,1B,2B,Stolen Base 2B,608324,Alex Bregman,668881,Hunter Greene,547989,José Abreu,R,Curt Casali,592200,1,2,3,False,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+11,11,1B,,Caught Stealing 2B,666197,Grae Kessinger,668881,Hunter Greene,667452,Corey Julks,R,Curt Casali,592200,1,5,5,False,2023-06-17,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+12,12,1B,,Caught Stealing 2B,680118,Dairon Blanco,596133,Luke Weaver,521692,Salvador Perez,R,Curt Casali,592200,3,0,2,False,2023-06-12,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+13,13,1B,2B,Stolen Base 2B,658668,Edward Olivares,571656,Buck Farmer,671221,Drew Waters,R,Curt Casali,592200,3,3,8,False,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+14,14,2B,3B,Stolen Base 3B,681987,Nate Eaton,676689,Ricky Karcher,658668,Edward Olivares,R,Curt Casali,592200,4,5,10,False,2023-06-12,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+15,15,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,676689,Ricky Karcher,658668,Edward Olivares,R,Curt Casali,592200,4,5,10,False,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+16,16,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,664139,Ian Gibaut,571448,Nolan Arenado,R,Curt Casali,592200,3,3,7,False,2023-06-11,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+17,17,1B,2B,Stolen Base 2B,678246,Miguel Vargas,622065,Alex Young,605141,Mookie Betts,L,Curt Casali,592200,4,8,6,True,2023-06-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+18,18,1B,2B,Stolen Base 2B,592885,Christian Yelich,668933,Graham Ashcraft,680911,Owen Miller,R,Curt Casali,592200,0,0,1,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+19,19,1B,2B,Stolen Base 2B,668930,Brice Turang,571656,Buck Farmer,680911,Owen Miller,R,Curt Casali,592200,3,3,7,True,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+20,20,1B,2B,Stolen Base 2B,655316,Andruw Monasterio,664747,Alexis Díaz,668930,Brice Turang,R,Curt Casali,592200,3,3,9,True,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+21,21,1B,2B,Stolen Base 2B,669242,Tommy Edman,664747,Alexis Díaz,502671,Paul Goldschmidt,R,Curt Casali,592200,5,5,9,True,2023-05-22,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+22,22,1B,2B,Stolen Base 2B,664056,Harrison Bader,664139,Ian Gibaut,665828,Oswaldo Cabrera,R,Curt Casali,592200,4,7,10,True,2023-05-20,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+23,23,2B,3B,Stolen Base 3B,680814,Peyton Burdick,686651,Levi Stoudt,607732,Jacob Stallings,R,Curt Casali,592200,0,0,2,False,2023-05-13,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+24,24,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,571656,Buck Farmer,624585,Jorge Soler,R,Curt Casali,592200,1,3,5,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+25,25,1B,2B,Stolen Base 2B,462101,Elvis Andrus,668881,Hunter Greene,641313,Tim Anderson,R,Curt Casali,592200,0,0,3,True,2023-05-05,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+26,26,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,668881,Hunter Greene,672478,Jordan Diaz,R,Curt Casali,592200,2,0,2,False,2023-04-29,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+27,27,1B,,Caught Stealing 2B,668843,Conner Capel,668881,Hunter Greene,657656,Ramón Laureano,R,Curt Casali,592200,2,1,5,False,2023-04-29,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+28,28,1B,,Caught Stealing 2B,677649,Ezequiel Duran,664139,Ian Gibaut,641680,Jonah Heim,R,Curt Casali,592200,3,2,8,True,2023-04-26,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+29,29,1B,2B,Stolen Base 2B,669261,Jack Suwinski,668881,Hunter Greene,666801,Rodolfo Castro,R,Curt Casali,592200,1,0,4,False,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+30,30,1B,2B,Stolen Base 2B,467793,Carlos Santana,518585,Fernando Cruz,669261,Jack Suwinski,R,Curt Casali,592200,2,0,8,False,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+31,31,2B,3B,Stolen Base 3B,669261,Jack Suwinski,518585,Fernando Cruz,666801,Rodolfo Castro,R,Curt Casali,592200,2,0,8,False,2023-04-23,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+32,32,1B,,Caught Stealing 2B,677551,Wander Franco,666157,Nick Lodolo,670623,Isaac Paredes,L,Curt Casali,592200,0,7,4,True,2023-04-18,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+33,33,1B,2B,Stolen Base 2B,669016,Brandon Marsh,664139,Ian Gibaut,681082,Bryson Stott,R,Curt Casali,592200,3,2,9,False,2023-04-08,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+34,34,1B,2B,Stolen Base 2B,682928,CJ Abrams,571656,Buck Farmer,669743,Alex Call,R,Curt Casali,592200,0,1,5,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+35,35,2B,3B,Stolen Base 3B,682928,CJ Abrams,571656,Buck Farmer,657041,Lane Thomas,R,Curt Casali,592200,2,1,5,False,2023-07-06,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+36,36,1B,2B,Stolen Base 2B,669743,Alex Call,571656,Buck Farmer,657041,Lane Thomas,R,Curt Casali,592200,2,1,5,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+37,37,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,664139,Ian Gibaut,608841,Joey Meneses,R,Curt Casali,592200,2,1,5,False,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+38,38,1B,,Caught Stealing 2B,676059,Jordan Westburg,673858,Jake Wong,663630,Ryan McKenna,R,Curt Casali,592200,7,3,7,False,2023-06-26,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+39,39,1B,2B,Stolen Base 2B,645277,Ozzie Albies,668933,Graham Ashcraft,663586,Austin Riley,R,Curt Casali,592200,2,4,4,True,2023-06-24,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+40,40,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,611093,Silvino Bracho,645277,Ozzie Albies,R,Curt Casali,592200,4,7,8,True,2023-06-24,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+41,41,1B,2B,Stolen Base 2B,666134,Nolan Jones,594902,Ben Lively,641857,Ryan McMahon,R,Curt Casali,592200,3,1,3,True,2023-06-20,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+42,42,1B,2B,Stolen Base 2B,514888,Jose Altuve,668881,Hunter Greene,663656,Kyle Tucker,R,Curt Casali,592200,0,2,1,False,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+43,43,1B,2B,Stolen Base 2B,665161,Jeremy Peña,668881,Hunter Greene,676694,Jake Meyers,R,Curt Casali,592200,0,2,2,False,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+44,44,1B,2B,Stolen Base 2B,608324,Alex Bregman,668881,Hunter Greene,547989,José Abreu,R,Curt Casali,592200,1,2,3,False,2023-06-17,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+45,45,1B,,Caught Stealing 2B,666197,Grae Kessinger,668881,Hunter Greene,667452,Corey Julks,R,Curt Casali,592200,1,5,5,False,2023-06-17,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+46,46,1B,,Caught Stealing 2B,680118,Dairon Blanco,596133,Luke Weaver,521692,Salvador Perez,R,Curt Casali,592200,3,0,2,False,2023-06-12,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+47,47,1B,2B,Stolen Base 2B,658668,Edward Olivares,571656,Buck Farmer,671221,Drew Waters,R,Curt Casali,592200,3,3,8,False,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+48,48,2B,3B,Stolen Base 3B,681987,Nate Eaton,676689,Ricky Karcher,658668,Edward Olivares,R,Curt Casali,592200,4,5,10,False,2023-06-12,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+49,49,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,676689,Ricky Karcher,658668,Edward Olivares,R,Curt Casali,592200,4,5,10,False,2023-06-12,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+50,50,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,664139,Ian Gibaut,571448,Nolan Arenado,R,Curt Casali,592200,3,3,7,False,2023-06-11,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+51,51,1B,2B,Stolen Base 2B,678246,Miguel Vargas,622065,Alex Young,605141,Mookie Betts,L,Curt Casali,592200,4,8,6,True,2023-06-06,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+52,52,1B,2B,Stolen Base 2B,592885,Christian Yelich,668933,Graham Ashcraft,680911,Owen Miller,R,Curt Casali,592200,0,0,1,True,2023-06-03,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+53,53,1B,2B,Stolen Base 2B,668930,Brice Turang,571656,Buck Farmer,680911,Owen Miller,R,Curt Casali,592200,3,3,7,True,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+54,54,1B,2B,Stolen Base 2B,655316,Andruw Monasterio,664747,Alexis Díaz,668930,Brice Turang,R,Curt Casali,592200,3,3,9,True,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+55,55,1B,2B,Stolen Base 2B,669242,Tommy Edman,664747,Alexis Díaz,502671,Paul Goldschmidt,R,Curt Casali,592200,5,5,9,True,2023-05-22,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+56,56,1B,2B,Stolen Base 2B,664056,Harrison Bader,664139,Ian Gibaut,665828,Oswaldo Cabrera,R,Curt Casali,592200,4,7,10,True,2023-05-20,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+57,57,2B,3B,Stolen Base 3B,680814,Peyton Burdick,686651,Levi Stoudt,607732,Jacob Stallings,R,Curt Casali,592200,0,0,2,False,2023-05-13,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+58,58,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,571656,Buck Farmer,624585,Jorge Soler,R,Curt Casali,592200,1,3,5,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+59,59,1B,2B,Stolen Base 2B,462101,Elvis Andrus,668881,Hunter Greene,641313,Tim Anderson,R,Curt Casali,592200,0,0,3,True,2023-05-05,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+60,60,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,668881,Hunter Greene,672478,Jordan Diaz,R,Curt Casali,592200,2,0,2,False,2023-04-29,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+61,61,1B,,Caught Stealing 2B,668843,Conner Capel,668881,Hunter Greene,657656,Ramón Laureano,R,Curt Casali,592200,2,1,5,False,2023-04-29,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+62,62,1B,,Caught Stealing 2B,677649,Ezequiel Duran,664139,Ian Gibaut,641680,Jonah Heim,R,Curt Casali,592200,3,2,8,True,2023-04-26,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+63,63,1B,2B,Stolen Base 2B,669261,Jack Suwinski,668881,Hunter Greene,666801,Rodolfo Castro,R,Curt Casali,592200,1,0,4,False,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+64,64,1B,2B,Stolen Base 2B,467793,Carlos Santana,518585,Fernando Cruz,669261,Jack Suwinski,R,Curt Casali,592200,2,0,8,False,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+65,65,2B,3B,Stolen Base 3B,669261,Jack Suwinski,518585,Fernando Cruz,666801,Rodolfo Castro,R,Curt Casali,592200,2,0,8,False,2023-04-23,Stolen,3B,2023,2024,29.8,2024, 77.5, 0.60
+66,66,1B,,Caught Stealing 2B,677551,Wander Franco,666157,Nick Lodolo,670623,Isaac Paredes,L,Curt Casali,592200,0,7,4,True,2023-04-18,Caught,2B,2023,2024,29.8,2024, 77.5, 0.60
+67,67,1B,2B,Stolen Base 2B,669016,Brandon Marsh,664139,Ian Gibaut,681082,Bryson Stott,R,Curt Casali,592200,3,2,9,False,2023-04-08,Stolen,2B,2023,2024,29.8,2024, 77.5, 0.60
+68,68,1B,2B,Stolen Base 2B,669450,Cooper Hummel,607074,Carlos Rodón,606466,Ketel Marte,L,Curt Casali,592200,4,2,2,False,2022-07-04,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+69,69,1B,2B,Stolen Base 2B,662139,Daulton Varsho,661440,Mauricio Llovera,672695,Geraldo Perdomo,R,Curt Casali,592200,8,3,8,False,2022-07-04,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+70,70,1B,,Caught Stealing 2B,605244,Aramis Garcia,628708,Yunior Marte,621011,Max Schrock,R,Curt Casali,592200,0,7,3,True,2022-06-26,Caught,2B,2022,2023,29.4,2023, 78.7, 0.58
+71,71,2B,3B,Stolen Base 3B,669222,Nick Senzel,502171,Alex Cobb,456781,Donovan Solano,R,Curt Casali,592200,1,3,5,True,2022-06-24,Stolen,3B,2022,2023,29.4,2023, 78.7, 0.58
+72,72,1B,2B,Stolen Base 2B,663697,Jonathan India,502171,Alex Cobb,456781,Donovan Solano,R,Curt Casali,592200,1,3,5,True,2022-06-24,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+73,73,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,608678,Dominic Leone,663586,Austin Riley,R,Curt Casali,592200,1,1,8,False,2022-06-20,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+74,74,2B,3B,Stolen Base 3B,663647,Ke'Bryan Hayes,622072,Alex Wood,656308,Michael Chavis,L,Curt Casali,592200,1,2,3,False,2022-06-18,Stolen,3B,2022,2023,29.4,2023, 78.7, 0.58
+75,75,1B,,Caught Stealing 2B,641857,Ryan McMahon,657277,Logan Webb,602074,Yonathan Daza,R,Curt Casali,592200,0,0,2,True,2022-06-09,Caught,2B,2022,2023,29.4,2023, 78.7, 0.58
+76,76,2B,3B,Stolen Base 3B,656582,Connor Joe,607074,Carlos Rodón,543068,C.J. Cron,L,Curt Casali,592200,3,2,3,True,2022-06-07,Stolen,3B,2022,2023,29.4,2023, 78.7, 0.58
+77,77,1B,2B,Stolen Base 2B,641658,Garrett Hampson,607074,Carlos Rodón,553869,Elias Díaz,L,Curt Casali,592200,3,2,4,True,2022-06-07,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+78,78,1B,2B,Stolen Base 2B,681082,Bryson Stott,607074,Carlos Rodón,656941,Kyle Schwarber,L,Curt Casali,592200,0,0,3,False,2022-06-01,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+79,79,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,607074,Carlos Rodón,622666,Johan Camargo,L,Curt Casali,592200,1,0,4,False,2022-06-01,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+80,80,1B,,Caught Stealing 2B,596451,Roman Quinn,608678,Dominic Leone,656555,Rhys Hoskins,R,Curt Casali,592200,3,3,9,False,2022-05-30,Caught,2B,2022,2023,29.4,2023, 78.7, 0.58
+81,81,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,596001,Jakob Junis,663757,Trent Grisham,R,Curt Casali,592200,3,4,4,True,2022-05-20,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+82,82,1B,2B,Stolen Base 2B,592518,Manny Machado,596001,Jakob Junis,543333,Eric Hosmer,R,Curt Casali,592200,3,4,5,True,2022-05-20,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+83,83,1B,2B,Stolen Base 2B,595777,Jurickson Profar,643511,Tyler Rogers,571976,Wil Myers,R,Curt Casali,592200,4,6,8,True,2022-05-20,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+84,84,1B,2B,Stolen Base 2B,669242,Tommy Edman,657277,Logan Webb,502671,Paul Goldschmidt,R,Curt Casali,592200,1,0,1,False,2022-05-13,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+85,85,1B,,Caught Stealing 2B,596019,Francisco Lindor,543101,Anthony DeSclafani,643446,Jeff McNeil,R,Curt Casali,592200,5,1,5,False,2022-04-21,Caught,2B,2022,2023,29.4,2023, 78.7, 0.58
+86,86,1B,2B,Stolen Base 2B,543543,Brad Miller,502171,Alex Cobb,543760,Marcus Semien,R,Curt Casali,592200,0,0,1,True,2022-04-01,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+87,87,2B,3B,Stolen Base 3B,543543,Brad Miller,502171,Alex Cobb,608369,Corey Seager,R,Curt Casali,592200,0,1,1,True,2022-04-01,Stolen,3B,2022,2023,29.4,2023, 78.7, 0.58
+88,88,1B,2B,Stolen Base 2B,666969,Adolis García,502171,Alex Cobb,594777,Kole Calhoun,R,Curt Casali,592200,0,1,1,True,2022-04-01,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58
+89,89,1B,2B,Stolen Base 2B,677690,Diosbel Arias,606424,Jarlín García,592714,Josh Sale,L,Curt Casali,592200,6,7,8,True,2022-04-01,Stolen,2B,2022,2023,29.4,2023, 78.7, 0.58

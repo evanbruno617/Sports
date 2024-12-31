@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1917,1B,2B,Stolen Base 2B,677690,Diosbel Arias,606424,Jarlín García,592714,Josh Sale,L,Curt Casali,592200,6,7,8,True,2022-04-01,Stolen,2B

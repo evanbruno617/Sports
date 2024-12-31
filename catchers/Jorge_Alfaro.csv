@@ -1,0 +1,28 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,14,1B,2B,Stolen Base 2B,641658,Garrett Hampson,605483,Blake Snell,656582,Connor Joe,L,Jorge Alfaro,595751,3,2,4,False,2022-07-14,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+1,15,1B,2B,Stolen Base 2B,656582,Connor Joe,622503,Nabil Crismatt,578428,Jose Iglesias,R,Jorge Alfaro,595751,6,5,6,False,2022-07-14,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+2,16,1B,2B,Stolen Base 2B,641857,Ryan McMahon,640455,Sean Manaea,545341,Randal Grichuk,L,Jorge Alfaro,595751,0,1,2,False,2022-07-11,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+3,17,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,605182,Mike Clevinger,641487,J.P. Crawford,R,Jorge Alfaro,595751,0,1,3,True,2022-07-05,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+4,18,1B,2B,Stolen Base 2B,664059,Sam Haggerty,605182,Mike Clevinger,677594,Julio Rodríguez,R,Jorge Alfaro,595751,1,4,4,True,2022-07-05,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+5,19,1B,,Caught Stealing 2B,664238,Dylan Moore,605182,Mike Clevinger,664059,Sam Haggerty,R,Jorge Alfaro,595751,1,4,6,True,2022-07-05,Caught,2B,2022,2023,29.4,2023, 84.2, 0.77
+6,20,2B,3B,Stolen Base 3B,663728,Cal Raleigh,489334,Craig Stammen,457708,Justin Upton,R,Jorge Alfaro,595751,0,7,6,True,2022-07-04,Stolen,3B,2022,2023,29.4,2023, 84.2, 0.77
+7,21,1B,2B,Stolen Base 2B,656941,Kyle Schwarber,605483,Blake Snell,656555,Rhys Hoskins,L,Jorge Alfaro,595751,0,3,5,True,2022-06-25,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+8,22,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605483,Blake Snell,664761,Alec Bohm,L,Jorge Alfaro,595751,2,4,6,True,2022-06-25,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+9,23,1B,,Caught Stealing 2B,602074,Yonathan Daza,607259,Nick Martinez,661531,Brian Serven,R,Jorge Alfaro,595751,0,0,3,True,2022-06-11,Caught,2B,2022,2023,29.4,2023, 84.2, 0.77
+10,24,1B,2B,Stolen Base 2B,516782,Starling Marte,605483,Blake Snell,596019,Francisco Lindor,L,Jorge Alfaro,595751,0,0,1,True,2022-06-06,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+11,25,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605483,Blake Snell,592192,Mark Canha,L,Jorge Alfaro,595751,0,3,3,True,2022-06-06,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+12,26,1B,2B,Stolen Base 2B,607054,Jace Peterson,622503,Nabil Crismatt,543939,Kolten Wong,R,Jorge Alfaro,595751,0,4,7,False,2022-06-04,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+13,27,1B,2B,Stolen Base 2B,607054,Jace Peterson,640455,Sean Manaea,457705,Andrew McCutchen,L,Jorge Alfaro,595751,0,0,3,False,2022-06-02,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+14,28,1B,,Caught Stealing 2B,571448,Nolan Arenado,605483,Blake Snell,660766,Juan Yepez,L,Jorge Alfaro,595751,2,0,3,False,2022-05-31,Caught,2B,2022,2023,29.4,2023, 84.2, 0.77
+15,29,2B,3B,Stolen Base 3B,669242,Tommy Edman,573124,Taylor Rogers,405395,Albert Pujols,L,Jorge Alfaro,595751,3,2,10,False,2022-05-31,Stolen,3B,2022,2023,29.4,2023, 84.2, 0.77
+16,30,1B,2B,Stolen Base 2B,542303,Marcell Ozuna,472610,Luis García,645277,Ozzie Albies,R,Jorge Alfaro,595751,3,3,8,False,2022-05-15,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+17,31,1B,2B,Stolen Base 2B,663586,Austin Riley,640455,Sean Manaea,661388,William Contreras,L,Jorge Alfaro,595751,2,0,4,False,2022-05-14,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+18,32,1B,,Caught Stealing 2B,542364,Rafael Ortega,489334,Craig Stammen,575929,Willson Contreras,R,Jorge Alfaro,595751,5,7,9,True,2022-05-11,Caught,2B,2022,2023,29.4,2023, 84.2, 0.77
+19,33,2B,,Caught Stealing 3B,673548,Seiya Suzuki,669022,MacKenzie Gore,543228,Yan Gomes,L,Jorge Alfaro,595751,0,1,1,True,2022-05-09,Caught,3B,2022,2023,29.4,2023, 84.2, 0.77
+20,34,1B,2B,Stolen Base 2B,518792,Jason Heyward,489334,Craig Stammen,575929,Willson Contreras,R,Jorge Alfaro,595751,0,4,7,True,2022-05-09,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+21,35,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,472610,Luis García,542583,Jesús Aguilar,R,Jorge Alfaro,595751,2,1,8,True,2022-05-05,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+22,36,2B,3B,Stolen Base 3B,606466,Ketel Marte,622503,Nabil Crismatt,572233,Christian Walker,R,Jorge Alfaro,595751,0,0,1,False,2022-04-10,Stolen,3B,2022,2023,29.4,2023, 84.2, 0.77
+23,37,1B,2B,Stolen Base 2B,673461,Yoelqui Céspedes,571871,Ian Krol,672635,Luis Mieses,L,Jorge Alfaro,595751,6,9,9,True,2022-04-05,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+24,38,1B,2B,Stolen Base 2B,643393,Tony Kemp,640455,Sean Manaea,641856,Billy McKinney,L,Jorge Alfaro,595751,1,0,3,False,2022-04-03,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+25,39,1B,2B,Stolen Base 2B,675656,Kevin Smith,659275,Dinelson Lamet,572039,Stephen Piscotty,R,Jorge Alfaro,595751,4,0,5,False,2022-04-03,Stolen,2B,2022,2023,29.4,2023, 84.2, 0.77
+26,40,2B,3B,Stolen Base 3B,547173,Christian Lopes,669022,MacKenzie Gore,669687,Elvis Peralta,L,Jorge Alfaro,595751,4,2,8,False,2022-04-03,Stolen,3B,2022,2023,29.4,2023, 84.2, 0.77

@@ -1,0 +1,2 @@
+,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y,Current_Year_x.1,Sprint_x.1,Current_Year_y.1,Sprint_y.1,Current_Year,Sprint
+0,0,0,0,0,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,407793,John Lackey,518934,DJ LeMahieu,R,Ed Easley,446225,0,0,1,False,2015-06-08,Stolen,2B,2015,2016,27.7,2016,27.7,2016,27.7,2016,27.7,2016,27.7

@@ -1,0 +1,289 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,542340,Jonathan Villar,607644,John Means,606192,Teoscar Hernández,L,Pedro Severino,600474,0,0,1,False,2020-09-26,Stolen,2B,2020,2021,27.3
+1,2B,3B,Stolen Base 3B,542340,Jonathan Villar,542888,Shawn Armstrong,545341,Randal Grichuk,R,Pedro Severino,600474,5,2,8,False,2020-09-26,Stolen,3B,2020,2021,27.3
+2,2B,,Caught Stealing 3B,543877,Christian Vázquez,502171,Alex Cobb,656308,Michael Chavis,R,Pedro Severino,600474,0,3,2,False,2020-09-24,Caught,3B,2020,2021,27.3
+3,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,642121,Cole Sulser,666915,Bobby Dalbec,R,Pedro Severino,600474,4,1,5,False,2020-09-22,Stolen,2B,2020,2021,27.3
+4,1B,,Caught Stealing 2B,458731,Brett Gardner,502171,Alex Cobb,650402,Gleyber Torres,R,Pedro Severino,600474,5,0,3,False,2020-09-11,Caught,2B,2020,2021,27.3
+5,1B,2B,Stolen Base 2B,643565,Mike Tauchman,502171,Alex Cobb,543309,Kyle Higashioka,R,Pedro Severino,600474,5,0,4,False,2020-09-11,Stolen,2B,2020,2021,27.3
+6,1B,,Caught Stealing 2B,458731,Brett Gardner,664045,Thomas Eshelman,640449,Clint Frazier,R,Pedro Severino,600474,5,0,5,False,2020-09-11,Caught,2B,2020,2021,27.3
+7,2B,3B,Stolen Base 3B,607680,Kevin Pillar,612434,Miguel Castro,593428,Xander Bogaerts,R,Pedro Severino,600474,3,2,6,True,2020-08-23,Stolen,3B,2020,2021,27.3
+8,1B,2B,Stolen Base 2B,543877,Christian Vázquez,612434,Miguel Castro,656308,Michael Chavis,R,Pedro Severino,600474,3,2,6,True,2020-08-23,Stolen,2B,2020,2021,27.3
+9,1B,2B,Stolen Base 2B,542340,Jonathan Villar,592879,Asher Wojciechowski,542932,Jon Berti,R,Pedro Severino,600474,2,0,5,False,2020-08-05,Stolen,2B,2020,2021,27.3
+10,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-08-04,Stolen,2B,2020,2021,27.3
+11,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-07-29,Stolen,2B,2020,2021,27.3
+12,1B,2B,Stolen Base 2B,542340,Jonathan Villar,592879,Asher Wojciechowski,542932,Jon Berti,R,Pedro Severino,600474,2,0,5,False,2020-07-27,Stolen,2B,2020,2021,27.3
+13,1B,2B,Stolen Base 2B,645302,Victor Robles,571710,Mychal Givens,607208,Trea Turner,R,Pedro Severino,600474,6,4,7,False,2020-07-21,Stolen,2B,2020,2021,27.3
+14,1B,2B,Stolen Base 2B,542340,Jonathan Villar,607644,John Means,606192,Teoscar Hernández,L,Pedro Severino,600474,0,0,1,False,2020-09-26,Stolen,2B,2020,2021,27.3
+15,2B,3B,Stolen Base 3B,542340,Jonathan Villar,542888,Shawn Armstrong,545341,Randal Grichuk,R,Pedro Severino,600474,5,2,8,False,2020-09-26,Stolen,3B,2020,2021,27.3
+16,2B,,Caught Stealing 3B,543877,Christian Vázquez,502171,Alex Cobb,656308,Michael Chavis,R,Pedro Severino,600474,0,3,2,False,2020-09-24,Caught,3B,2020,2021,27.3
+17,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,642121,Cole Sulser,666915,Bobby Dalbec,R,Pedro Severino,600474,4,1,5,False,2020-09-22,Stolen,2B,2020,2021,27.3
+18,1B,,Caught Stealing 2B,458731,Brett Gardner,502171,Alex Cobb,650402,Gleyber Torres,R,Pedro Severino,600474,5,0,3,False,2020-09-11,Caught,2B,2020,2021,27.3
+19,1B,2B,Stolen Base 2B,643565,Mike Tauchman,502171,Alex Cobb,543309,Kyle Higashioka,R,Pedro Severino,600474,5,0,4,False,2020-09-11,Stolen,2B,2020,2021,27.3
+20,1B,,Caught Stealing 2B,458731,Brett Gardner,664045,Thomas Eshelman,640449,Clint Frazier,R,Pedro Severino,600474,5,0,5,False,2020-09-11,Caught,2B,2020,2021,27.3
+21,2B,3B,Stolen Base 3B,607680,Kevin Pillar,612434,Miguel Castro,593428,Xander Bogaerts,R,Pedro Severino,600474,3,2,6,True,2020-08-23,Stolen,3B,2020,2021,27.3
+22,1B,2B,Stolen Base 2B,543877,Christian Vázquez,612434,Miguel Castro,656308,Michael Chavis,R,Pedro Severino,600474,3,2,6,True,2020-08-23,Stolen,2B,2020,2021,27.3
+23,1B,2B,Stolen Base 2B,542340,Jonathan Villar,592879,Asher Wojciechowski,542932,Jon Berti,R,Pedro Severino,600474,2,0,5,False,2020-08-05,Stolen,2B,2020,2021,27.3
+24,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-08-04,Stolen,2B,2020,2021,27.3
+25,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-07-29,Stolen,2B,2020,2021,27.3
+26,1B,2B,Stolen Base 2B,542340,Jonathan Villar,592879,Asher Wojciechowski,542932,Jon Berti,R,Pedro Severino,600474,2,0,5,False,2020-07-27,Stolen,2B,2020,2021,27.3
+27,1B,2B,Stolen Base 2B,645302,Victor Robles,571710,Mychal Givens,607208,Trea Turner,R,Pedro Severino,600474,6,4,7,False,2020-07-21,Stolen,2B,2020,2021,27.3
+28,1B,2B,Stolen Base 2B,542340,Jonathan Villar,607644,John Means,606192,Teoscar Hernández,L,Pedro Severino,600474,0,0,1,False,2020-09-26,Stolen,2B,2020,2021,27.3
+29,2B,3B,Stolen Base 3B,542340,Jonathan Villar,542888,Shawn Armstrong,545341,Randal Grichuk,R,Pedro Severino,600474,5,2,8,False,2020-09-26,Stolen,3B,2020,2021,27.3
+30,2B,,Caught Stealing 3B,543877,Christian Vázquez,502171,Alex Cobb,656308,Michael Chavis,R,Pedro Severino,600474,0,3,2,False,2020-09-24,Caught,3B,2020,2021,27.3
+31,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,642121,Cole Sulser,666915,Bobby Dalbec,R,Pedro Severino,600474,4,1,5,False,2020-09-22,Stolen,2B,2020,2021,27.3
+32,1B,,Caught Stealing 2B,458731,Brett Gardner,502171,Alex Cobb,650402,Gleyber Torres,R,Pedro Severino,600474,5,0,3,False,2020-09-11,Caught,2B,2020,2021,27.3
+33,1B,2B,Stolen Base 2B,643565,Mike Tauchman,502171,Alex Cobb,543309,Kyle Higashioka,R,Pedro Severino,600474,5,0,4,False,2020-09-11,Stolen,2B,2020,2021,27.3
+34,1B,,Caught Stealing 2B,458731,Brett Gardner,664045,Thomas Eshelman,640449,Clint Frazier,R,Pedro Severino,600474,5,0,5,False,2020-09-11,Caught,2B,2020,2021,27.3
+35,2B,3B,Stolen Base 3B,607680,Kevin Pillar,612434,Miguel Castro,593428,Xander Bogaerts,R,Pedro Severino,600474,3,2,6,True,2020-08-23,Stolen,3B,2020,2021,27.3
+36,1B,2B,Stolen Base 2B,543877,Christian Vázquez,612434,Miguel Castro,656308,Michael Chavis,R,Pedro Severino,600474,3,2,6,True,2020-08-23,Stolen,2B,2020,2021,27.3
+37,1B,2B,Stolen Base 2B,542340,Jonathan Villar,592879,Asher Wojciechowski,542932,Jon Berti,R,Pedro Severino,600474,2,0,5,False,2020-08-05,Stolen,2B,2020,2021,27.3
+38,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-08-04,Stolen,2B,2020,2021,27.3
+39,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-07-29,Stolen,2B,2020,2021,27.3
+40,1B,2B,Stolen Base 2B,542340,Jonathan Villar,592879,Asher Wojciechowski,542932,Jon Berti,R,Pedro Severino,600474,2,0,5,False,2020-07-27,Stolen,2B,2020,2021,27.3
+41,1B,2B,Stolen Base 2B,645302,Victor Robles,571710,Mychal Givens,607208,Trea Turner,R,Pedro Severino,600474,6,4,7,False,2020-07-21,Stolen,2B,2020,2021,27.3
+42,1B,2B,Stolen Base 2B,605480,Mallex Smith,656945,Tanner Scott,621005,Tim Lopes,L,Pedro Severino,600474,6,7,13,True,2019-09-21,Stolen,2B,2019,2020,27.0
+43,1B,2B,Stolen Base 2B,641355,Cody Bellinger,605164,Dylan Bundy,608369,Corey Seager,R,Pedro Severino,600474,1,0,2,True,2019-09-12,Stolen,2B,2019,2020,27.0
+44,1B,2B,Stolen Base 2B,666158,Gavin Lux,605164,Dylan Bundy,571771,Enrique Hernández,R,Pedro Severino,600474,1,1,2,True,2019-09-12,Stolen,2B,2019,2020,27.0
+45,2B,3B,Stolen Base 3B,571771,Enrique Hernández,542947,Richard Bleier,592626,Joc Pederson,L,Pedro Severino,600474,2,4,6,True,2019-09-12,Stolen,3B,2019,2020,27.0
+46,1B,2B,Stolen Base 2B,431145,Russell Martin,542947,Richard Bleier,592626,Joc Pederson,L,Pedro Severino,600474,2,4,6,True,2019-09-12,Stolen,2B,2019,2020,27.0
+47,1B,2B,Stolen Base 2B,592261,Delino DeShields,643316,Paul Fry,425783,Shin-Soo Choo,L,Pedro Severino,600474,2,9,6,True,2019-09-08,Stolen,2B,2019,2020,27.0
+48,1B,2B,Stolen Base 2B,425783,Shin-Soo Choo,612434,Miguel Castro,462101,Elvis Andrus,R,Pedro Severino,600474,1,2,8,True,2019-09-05,Stolen,2B,2019,2020,27.0
+49,1B,2B,Stolen Base 2B,502054,Tommy Pham,656945,Tanner Scott,596847,Ji Man Choi,L,Pedro Severino,600474,4,4,8,False,2019-09-02,Stolen,2B,2019,2020,27.0
+50,1B,2B,Stolen Base 2B,607208,Trea Turner,605156,Aaron Brooks,594809,Adam Eaton,R,Pedro Severino,600474,0,2,1,False,2019-08-27,Stolen,2B,2019,2020,27.0
+51,1B,2B,Stolen Base 2B,643565,Mike Tauchman,612434,Miguel Castro,591971,Breyvic Valera,R,Pedro Severino,600474,0,4,4,True,2019-08-07,Stolen,2B,2019,2020,27.0
+52,1B,2B,Stolen Base 2B,457727,Cameron Maybin,612434,Miguel Castro,458731,Brett Gardner,R,Pedro Severino,600474,1,6,5,True,2019-08-07,Stolen,2B,2019,2020,27.0
+53,2B,3B,Stolen Base 3B,643565,Mike Tauchman,542947,Richard Bleier,518934,DJ LeMahieu,L,Pedro Severino,600474,4,7,8,True,2019-08-06,Stolen,3B,2019,2020,27.0
+54,1B,2B,Stolen Base 2B,664058,David Fletcher,571710,Mychal Givens,545361,Mike Trout,R,Pedro Severino,600474,7,8,9,False,2019-07-27,Stolen,2B,2019,2020,27.0
+55,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,571710,Mychal Givens,664058,David Fletcher,R,Pedro Severino,600474,4,4,8,False,2019-07-25,Stolen,2B,2019,2020,27.0
+56,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,612434,Miguel Castro,571718,Brian Goodwin,R,Pedro Severino,600474,5,5,11,False,2019-07-25,Stolen,2B,2019,2020,27.0
+57,1B,2B,Stolen Base 2B,572233,Christian Walker,542947,Richard Bleier,430945,Adam Jones,L,Pedro Severino,600474,4,2,6,False,2019-07-24,Stolen,2B,2019,2020,27.0
+58,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,612434,Miguel Castro,572233,Christian Walker,R,Pedro Severino,600474,6,3,8,False,2019-07-22,Stolen,2B,2019,2020,27.0
+59,1B,2B,Stolen Base 2B,605141,Mookie Betts,571710,Mychal Givens,646240,Rafael Devers,R,Pedro Severino,600474,5,0,9,True,2019-07-21,Stolen,2B,2019,2020,27.0
+60,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-07-13,Stolen,2B,2019,2020,27.0
+61,1B,2B,Stolen Base 2B,650490,Yandy Díaz,612434,Miguel Castro,596847,Ji Man Choi,R,Pedro Severino,600474,6,3,7,False,2019-07-01,Stolen,2B,2019,2020,27.0
+62,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,605164,Dylan Bundy,543333,Eric Hosmer,R,Pedro Severino,600474,1,3,2,True,2019-06-26,Stolen,2B,2019,2020,27.0
+63,1B,2B,Stolen Base 2B,622534,Manuel Margot,542888,Shawn Armstrong,665487,Fernando Tatis Jr.,R,Pedro Severino,600474,3,6,6,True,2019-06-26,Stolen,2B,2019,2020,27.0
+64,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,542947,Richard Bleier,543333,Eric Hosmer,L,Pedro Severino,600474,4,10,8,True,2019-06-26,Stolen,2B,2019,2020,27.0
+65,2B,3B,Stolen Base 3B,641487,J.P. Crawford,605164,Dylan Bundy,596129,Daniel Vogelbach,R,Pedro Severino,600474,0,2,1,False,2019-06-20,Stolen,3B,2019,2020,27.0
+66,2B,3B,Stolen Base 3B,605480,Mallex Smith,643316,Paul Fry,553882,Omar Narváez,L,Pedro Severino,600474,4,2,7,False,2019-06-20,Stolen,3B,2019,2020,27.0
+67,1B,2B,Stolen Base 2B,605141,Mookie Betts,605276,David Hess,543877,Christian Vázquez,R,Pedro Severino,600474,3,8,10,True,2019-06-16,Stolen,2B,2019,2020,27.0
+68,1B,2B,Stolen Base 2B,571788,Brock Holt,612434,Miguel Castro,656308,Michael Chavis,R,Pedro Severino,600474,2,7,9,True,2019-06-15,Stolen,2B,2019,2020,27.0
+69,1B,2B,Stolen Base 2B,571912,Luke Maile,605276,David Hess,624415,Cavan Biggio,R,Pedro Severino,600474,1,0,5,True,2019-06-12,Stolen,2B,2019,2020,27.0
+70,1B,2B,Stolen Base 2B,642133,Rowdy Tellez,643316,Paul Fry,520471,Freddy Galvis,L,Pedro Severino,600474,6,8,9,True,2019-06-12,Stolen,2B,2019,2020,27.0
+71,1B,,Caught Stealing 2B,643393,Tony Kemp,605164,Dylan Bundy,605233,Derek Fisher,R,Pedro Severino,600474,2,0,5,False,2019-06-09,Caught,2B,2019,2020,27.0
+72,1B,2B,Stolen Base 2B,605233,Derek Fisher,605164,Dylan Bundy,608324,Alex Bregman,R,Pedro Severino,600474,2,0,6,False,2019-06-09,Stolen,2B,2019,2020,27.0
+73,1B,2B,Stolen Base 2B,592261,Delino DeShields,605164,Dylan Bundy,462101,Elvis Andrus,R,Pedro Severino,600474,2,5,3,False,2019-06-04,Stolen,2B,2019,2020,27.0
+74,2B,3B,Stolen Base 3B,543281,Josh Harrison,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,3B,2019,2020,27.0
+75,1B,2B,Stolen Base 2B,493596,Gordon Beckham,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,2B,2019,2020,27.0
+76,1B,2B,Stolen Base 2B,608070,José Ramírez,612434,Miguel Castro,471865,Carlos González,R,Pedro Severino,600474,4,1,8,False,2019-05-18,Stolen,2B,2019,2020,27.0
+77,3B,,Caught Stealing Home,471865,Carlos González,573185,Dan Straily,641343,Jake Bauers,R,Pedro Severino,600474,3,5,3,False,2019-05-16,Caught,Home,2019,2020,27.0
+78,1B,,Caught Stealing 2B,646240,Rafael Devers,571710,Mychal Givens,456488,Eduardo Núñez,R,Pedro Severino,600474,1,1,9,True,2019-05-08,Caught,2B,2019,2020,27.0
+79,1B,2B,Stolen Base 2B,605141,Mookie Betts,606162,Yefry Ramírez,502110,J.D. Martinez,R,Pedro Severino,600474,1,2,12,True,2019-05-08,Stolen,2B,2019,2020,27.0
+80,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-05-05,Stolen,2B,2019,2020,27.0
+81,3B,,Caught Stealing Home,547989,José Abreu,605276,David Hess,547170,Nicky Delmonico,R,Pedro Severino,600474,4,0,3,False,2019-05-01,Caught,Home,2019,2020,27.0
+82,1B,2B,Stolen Base 2B,621439,Byron Buxton,642231,Jimmy Yacabonis,570731,Jonathan Schoop,R,Pedro Severino,600474,6,2,8,False,2019-04-27,Stolen,2B,2019,2020,27.0
+83,1B,,Caught Stealing 2B,596847,Ji Man Choi,488768,Andrew Cashner,650490,Yandy Díaz,R,Pedro Severino,600474,2,2,3,False,2019-04-18,Caught,2B,2019,2020,27.0
+84,1B,2B,Stolen Base 2B,502054,Tommy Pham,488768,Andrew Cashner,596847,Ji Man Choi,R,Pedro Severino,600474,2,3,5,False,2019-04-18,Stolen,2B,2019,2020,27.0
+85,2B,,Caught Stealing 3B,502054,Tommy Pham,571710,Mychal Givens,596847,Ji Man Choi,R,Pedro Severino,600474,5,5,9,False,2019-04-18,Caught,3B,2019,2020,27.0
+86,1B,,Caught Stealing 2B,643217,Andrew Benintendi,488768,Andrew Cashner,605141,Mookie Betts,R,Pedro Severino,600474,0,2,1,False,2019-04-13,Caught,2B,2019,2020,27.0
+87,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,501992,Nate Karns,520471,Freddy Galvis,R,Pedro Severino,600474,1,0,2,False,2019-04-03,Caught,2B,2019,2020,27.0
+88,1B,2B,Stolen Base 2B,605480,Mallex Smith,656945,Tanner Scott,621005,Tim Lopes,L,Pedro Severino,600474,6,7,13,True,2019-09-21,Stolen,2B,2019,2020,27.0
+89,1B,2B,Stolen Base 2B,641355,Cody Bellinger,605164,Dylan Bundy,608369,Corey Seager,R,Pedro Severino,600474,1,0,2,True,2019-09-12,Stolen,2B,2019,2020,27.0
+90,1B,2B,Stolen Base 2B,666158,Gavin Lux,605164,Dylan Bundy,571771,Enrique Hernández,R,Pedro Severino,600474,1,1,2,True,2019-09-12,Stolen,2B,2019,2020,27.0
+91,2B,3B,Stolen Base 3B,571771,Enrique Hernández,542947,Richard Bleier,592626,Joc Pederson,L,Pedro Severino,600474,2,4,6,True,2019-09-12,Stolen,3B,2019,2020,27.0
+92,1B,2B,Stolen Base 2B,431145,Russell Martin,542947,Richard Bleier,592626,Joc Pederson,L,Pedro Severino,600474,2,4,6,True,2019-09-12,Stolen,2B,2019,2020,27.0
+93,1B,2B,Stolen Base 2B,592261,Delino DeShields,643316,Paul Fry,425783,Shin-Soo Choo,L,Pedro Severino,600474,2,9,6,True,2019-09-08,Stolen,2B,2019,2020,27.0
+94,1B,2B,Stolen Base 2B,425783,Shin-Soo Choo,612434,Miguel Castro,462101,Elvis Andrus,R,Pedro Severino,600474,1,2,8,True,2019-09-05,Stolen,2B,2019,2020,27.0
+95,1B,2B,Stolen Base 2B,502054,Tommy Pham,656945,Tanner Scott,596847,Ji Man Choi,L,Pedro Severino,600474,4,4,8,False,2019-09-02,Stolen,2B,2019,2020,27.0
+96,1B,2B,Stolen Base 2B,607208,Trea Turner,605156,Aaron Brooks,594809,Adam Eaton,R,Pedro Severino,600474,0,2,1,False,2019-08-27,Stolen,2B,2019,2020,27.0
+97,1B,2B,Stolen Base 2B,643565,Mike Tauchman,612434,Miguel Castro,591971,Breyvic Valera,R,Pedro Severino,600474,0,4,4,True,2019-08-07,Stolen,2B,2019,2020,27.0
+98,1B,2B,Stolen Base 2B,457727,Cameron Maybin,612434,Miguel Castro,458731,Brett Gardner,R,Pedro Severino,600474,1,6,5,True,2019-08-07,Stolen,2B,2019,2020,27.0
+99,2B,3B,Stolen Base 3B,643565,Mike Tauchman,542947,Richard Bleier,518934,DJ LeMahieu,L,Pedro Severino,600474,4,7,8,True,2019-08-06,Stolen,3B,2019,2020,27.0
+100,1B,2B,Stolen Base 2B,664058,David Fletcher,571710,Mychal Givens,545361,Mike Trout,R,Pedro Severino,600474,7,8,9,False,2019-07-27,Stolen,2B,2019,2020,27.0
+101,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,571710,Mychal Givens,664058,David Fletcher,R,Pedro Severino,600474,4,4,8,False,2019-07-25,Stolen,2B,2019,2020,27.0
+102,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,612434,Miguel Castro,571718,Brian Goodwin,R,Pedro Severino,600474,5,5,11,False,2019-07-25,Stolen,2B,2019,2020,27.0
+103,1B,2B,Stolen Base 2B,572233,Christian Walker,542947,Richard Bleier,430945,Adam Jones,L,Pedro Severino,600474,4,2,6,False,2019-07-24,Stolen,2B,2019,2020,27.0
+104,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,612434,Miguel Castro,572233,Christian Walker,R,Pedro Severino,600474,6,3,8,False,2019-07-22,Stolen,2B,2019,2020,27.0
+105,1B,2B,Stolen Base 2B,605141,Mookie Betts,571710,Mychal Givens,646240,Rafael Devers,R,Pedro Severino,600474,5,0,9,True,2019-07-21,Stolen,2B,2019,2020,27.0
+106,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-07-13,Stolen,2B,2019,2020,27.0
+107,1B,2B,Stolen Base 2B,650490,Yandy Díaz,612434,Miguel Castro,596847,Ji Man Choi,R,Pedro Severino,600474,6,3,7,False,2019-07-01,Stolen,2B,2019,2020,27.0
+108,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,605164,Dylan Bundy,543333,Eric Hosmer,R,Pedro Severino,600474,1,3,2,True,2019-06-26,Stolen,2B,2019,2020,27.0
+109,1B,2B,Stolen Base 2B,622534,Manuel Margot,542888,Shawn Armstrong,665487,Fernando Tatis Jr.,R,Pedro Severino,600474,3,6,6,True,2019-06-26,Stolen,2B,2019,2020,27.0
+110,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,542947,Richard Bleier,543333,Eric Hosmer,L,Pedro Severino,600474,4,10,8,True,2019-06-26,Stolen,2B,2019,2020,27.0
+111,2B,3B,Stolen Base 3B,641487,J.P. Crawford,605164,Dylan Bundy,596129,Daniel Vogelbach,R,Pedro Severino,600474,0,2,1,False,2019-06-20,Stolen,3B,2019,2020,27.0
+112,2B,3B,Stolen Base 3B,605480,Mallex Smith,643316,Paul Fry,553882,Omar Narváez,L,Pedro Severino,600474,4,2,7,False,2019-06-20,Stolen,3B,2019,2020,27.0
+113,1B,2B,Stolen Base 2B,605141,Mookie Betts,605276,David Hess,543877,Christian Vázquez,R,Pedro Severino,600474,3,8,10,True,2019-06-16,Stolen,2B,2019,2020,27.0
+114,1B,2B,Stolen Base 2B,571788,Brock Holt,612434,Miguel Castro,656308,Michael Chavis,R,Pedro Severino,600474,2,7,9,True,2019-06-15,Stolen,2B,2019,2020,27.0
+115,1B,2B,Stolen Base 2B,571912,Luke Maile,605276,David Hess,624415,Cavan Biggio,R,Pedro Severino,600474,1,0,5,True,2019-06-12,Stolen,2B,2019,2020,27.0
+116,1B,2B,Stolen Base 2B,642133,Rowdy Tellez,643316,Paul Fry,520471,Freddy Galvis,L,Pedro Severino,600474,6,8,9,True,2019-06-12,Stolen,2B,2019,2020,27.0
+117,1B,,Caught Stealing 2B,643393,Tony Kemp,605164,Dylan Bundy,605233,Derek Fisher,R,Pedro Severino,600474,2,0,5,False,2019-06-09,Caught,2B,2019,2020,27.0
+118,1B,2B,Stolen Base 2B,605233,Derek Fisher,605164,Dylan Bundy,608324,Alex Bregman,R,Pedro Severino,600474,2,0,6,False,2019-06-09,Stolen,2B,2019,2020,27.0
+119,1B,2B,Stolen Base 2B,592261,Delino DeShields,605164,Dylan Bundy,462101,Elvis Andrus,R,Pedro Severino,600474,2,5,3,False,2019-06-04,Stolen,2B,2019,2020,27.0
+120,2B,3B,Stolen Base 3B,543281,Josh Harrison,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,3B,2019,2020,27.0
+121,1B,2B,Stolen Base 2B,493596,Gordon Beckham,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,2B,2019,2020,27.0
+122,1B,2B,Stolen Base 2B,608070,José Ramírez,612434,Miguel Castro,471865,Carlos González,R,Pedro Severino,600474,4,1,8,False,2019-05-18,Stolen,2B,2019,2020,27.0
+123,3B,,Caught Stealing Home,471865,Carlos González,573185,Dan Straily,641343,Jake Bauers,R,Pedro Severino,600474,3,5,3,False,2019-05-16,Caught,Home,2019,2020,27.0
+124,1B,,Caught Stealing 2B,646240,Rafael Devers,571710,Mychal Givens,456488,Eduardo Núñez,R,Pedro Severino,600474,1,1,9,True,2019-05-08,Caught,2B,2019,2020,27.0
+125,1B,2B,Stolen Base 2B,605141,Mookie Betts,606162,Yefry Ramírez,502110,J.D. Martinez,R,Pedro Severino,600474,1,2,12,True,2019-05-08,Stolen,2B,2019,2020,27.0
+126,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-05-05,Stolen,2B,2019,2020,27.0
+127,3B,,Caught Stealing Home,547989,José Abreu,605276,David Hess,547170,Nicky Delmonico,R,Pedro Severino,600474,4,0,3,False,2019-05-01,Caught,Home,2019,2020,27.0
+128,1B,2B,Stolen Base 2B,621439,Byron Buxton,642231,Jimmy Yacabonis,570731,Jonathan Schoop,R,Pedro Severino,600474,6,2,8,False,2019-04-27,Stolen,2B,2019,2020,27.0
+129,1B,,Caught Stealing 2B,596847,Ji Man Choi,488768,Andrew Cashner,650490,Yandy Díaz,R,Pedro Severino,600474,2,2,3,False,2019-04-18,Caught,2B,2019,2020,27.0
+130,1B,2B,Stolen Base 2B,502054,Tommy Pham,488768,Andrew Cashner,596847,Ji Man Choi,R,Pedro Severino,600474,2,3,5,False,2019-04-18,Stolen,2B,2019,2020,27.0
+131,2B,,Caught Stealing 3B,502054,Tommy Pham,571710,Mychal Givens,596847,Ji Man Choi,R,Pedro Severino,600474,5,5,9,False,2019-04-18,Caught,3B,2019,2020,27.0
+132,1B,,Caught Stealing 2B,643217,Andrew Benintendi,488768,Andrew Cashner,605141,Mookie Betts,R,Pedro Severino,600474,0,2,1,False,2019-04-13,Caught,2B,2019,2020,27.0
+133,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,501992,Nate Karns,520471,Freddy Galvis,R,Pedro Severino,600474,1,0,2,False,2019-04-03,Caught,2B,2019,2020,27.0
+134,1B,2B,Stolen Base 2B,605480,Mallex Smith,656945,Tanner Scott,621005,Tim Lopes,L,Pedro Severino,600474,6,7,13,True,2019-09-21,Stolen,2B,2019,2020,27.0
+135,1B,2B,Stolen Base 2B,641355,Cody Bellinger,605164,Dylan Bundy,608369,Corey Seager,R,Pedro Severino,600474,1,0,2,True,2019-09-12,Stolen,2B,2019,2020,27.0
+136,1B,2B,Stolen Base 2B,666158,Gavin Lux,605164,Dylan Bundy,571771,Enrique Hernández,R,Pedro Severino,600474,1,1,2,True,2019-09-12,Stolen,2B,2019,2020,27.0
+137,2B,3B,Stolen Base 3B,571771,Enrique Hernández,542947,Richard Bleier,592626,Joc Pederson,L,Pedro Severino,600474,2,4,6,True,2019-09-12,Stolen,3B,2019,2020,27.0
+138,1B,2B,Stolen Base 2B,431145,Russell Martin,542947,Richard Bleier,592626,Joc Pederson,L,Pedro Severino,600474,2,4,6,True,2019-09-12,Stolen,2B,2019,2020,27.0
+139,1B,2B,Stolen Base 2B,592261,Delino DeShields,643316,Paul Fry,425783,Shin-Soo Choo,L,Pedro Severino,600474,2,9,6,True,2019-09-08,Stolen,2B,2019,2020,27.0
+140,1B,2B,Stolen Base 2B,425783,Shin-Soo Choo,612434,Miguel Castro,462101,Elvis Andrus,R,Pedro Severino,600474,1,2,8,True,2019-09-05,Stolen,2B,2019,2020,27.0
+141,1B,2B,Stolen Base 2B,502054,Tommy Pham,656945,Tanner Scott,596847,Ji Man Choi,L,Pedro Severino,600474,4,4,8,False,2019-09-02,Stolen,2B,2019,2020,27.0
+142,1B,2B,Stolen Base 2B,607208,Trea Turner,605156,Aaron Brooks,594809,Adam Eaton,R,Pedro Severino,600474,0,2,1,False,2019-08-27,Stolen,2B,2019,2020,27.0
+143,1B,2B,Stolen Base 2B,643565,Mike Tauchman,612434,Miguel Castro,591971,Breyvic Valera,R,Pedro Severino,600474,0,4,4,True,2019-08-07,Stolen,2B,2019,2020,27.0
+144,1B,2B,Stolen Base 2B,457727,Cameron Maybin,612434,Miguel Castro,458731,Brett Gardner,R,Pedro Severino,600474,1,6,5,True,2019-08-07,Stolen,2B,2019,2020,27.0
+145,2B,3B,Stolen Base 3B,643565,Mike Tauchman,542947,Richard Bleier,518934,DJ LeMahieu,L,Pedro Severino,600474,4,7,8,True,2019-08-06,Stolen,3B,2019,2020,27.0
+146,1B,2B,Stolen Base 2B,664058,David Fletcher,571710,Mychal Givens,545361,Mike Trout,R,Pedro Severino,600474,7,8,9,False,2019-07-27,Stolen,2B,2019,2020,27.0
+147,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,571710,Mychal Givens,664058,David Fletcher,R,Pedro Severino,600474,4,4,8,False,2019-07-25,Stolen,2B,2019,2020,27.0
+148,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,612434,Miguel Castro,571718,Brian Goodwin,R,Pedro Severino,600474,5,5,11,False,2019-07-25,Stolen,2B,2019,2020,27.0
+149,1B,2B,Stolen Base 2B,572233,Christian Walker,542947,Richard Bleier,430945,Adam Jones,L,Pedro Severino,600474,4,2,6,False,2019-07-24,Stolen,2B,2019,2020,27.0
+150,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,612434,Miguel Castro,572233,Christian Walker,R,Pedro Severino,600474,6,3,8,False,2019-07-22,Stolen,2B,2019,2020,27.0
+151,1B,2B,Stolen Base 2B,605141,Mookie Betts,571710,Mychal Givens,646240,Rafael Devers,R,Pedro Severino,600474,5,0,9,True,2019-07-21,Stolen,2B,2019,2020,27.0
+152,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-07-13,Stolen,2B,2019,2020,27.0
+153,1B,2B,Stolen Base 2B,650490,Yandy Díaz,612434,Miguel Castro,596847,Ji Man Choi,R,Pedro Severino,600474,6,3,7,False,2019-07-01,Stolen,2B,2019,2020,27.0
+154,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,605164,Dylan Bundy,543333,Eric Hosmer,R,Pedro Severino,600474,1,3,2,True,2019-06-26,Stolen,2B,2019,2020,27.0
+155,1B,2B,Stolen Base 2B,622534,Manuel Margot,542888,Shawn Armstrong,665487,Fernando Tatis Jr.,R,Pedro Severino,600474,3,6,6,True,2019-06-26,Stolen,2B,2019,2020,27.0
+156,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,542947,Richard Bleier,543333,Eric Hosmer,L,Pedro Severino,600474,4,10,8,True,2019-06-26,Stolen,2B,2019,2020,27.0
+157,2B,3B,Stolen Base 3B,641487,J.P. Crawford,605164,Dylan Bundy,596129,Daniel Vogelbach,R,Pedro Severino,600474,0,2,1,False,2019-06-20,Stolen,3B,2019,2020,27.0
+158,2B,3B,Stolen Base 3B,605480,Mallex Smith,643316,Paul Fry,553882,Omar Narváez,L,Pedro Severino,600474,4,2,7,False,2019-06-20,Stolen,3B,2019,2020,27.0
+159,1B,2B,Stolen Base 2B,605141,Mookie Betts,605276,David Hess,543877,Christian Vázquez,R,Pedro Severino,600474,3,8,10,True,2019-06-16,Stolen,2B,2019,2020,27.0
+160,1B,2B,Stolen Base 2B,571788,Brock Holt,612434,Miguel Castro,656308,Michael Chavis,R,Pedro Severino,600474,2,7,9,True,2019-06-15,Stolen,2B,2019,2020,27.0
+161,1B,2B,Stolen Base 2B,571912,Luke Maile,605276,David Hess,624415,Cavan Biggio,R,Pedro Severino,600474,1,0,5,True,2019-06-12,Stolen,2B,2019,2020,27.0
+162,1B,2B,Stolen Base 2B,642133,Rowdy Tellez,643316,Paul Fry,520471,Freddy Galvis,L,Pedro Severino,600474,6,8,9,True,2019-06-12,Stolen,2B,2019,2020,27.0
+163,1B,,Caught Stealing 2B,643393,Tony Kemp,605164,Dylan Bundy,605233,Derek Fisher,R,Pedro Severino,600474,2,0,5,False,2019-06-09,Caught,2B,2019,2020,27.0
+164,1B,2B,Stolen Base 2B,605233,Derek Fisher,605164,Dylan Bundy,608324,Alex Bregman,R,Pedro Severino,600474,2,0,6,False,2019-06-09,Stolen,2B,2019,2020,27.0
+165,1B,2B,Stolen Base 2B,592261,Delino DeShields,605164,Dylan Bundy,462101,Elvis Andrus,R,Pedro Severino,600474,2,5,3,False,2019-06-04,Stolen,2B,2019,2020,27.0
+166,2B,3B,Stolen Base 3B,543281,Josh Harrison,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,3B,2019,2020,27.0
+167,1B,2B,Stolen Base 2B,493596,Gordon Beckham,542888,Shawn Armstrong,621514,Christin Stewart,R,Pedro Severino,600474,5,3,9,True,2019-05-27,Stolen,2B,2019,2020,27.0
+168,1B,2B,Stolen Base 2B,608070,José Ramírez,612434,Miguel Castro,471865,Carlos González,R,Pedro Severino,600474,4,1,8,False,2019-05-18,Stolen,2B,2019,2020,27.0
+169,3B,,Caught Stealing Home,471865,Carlos González,573185,Dan Straily,641343,Jake Bauers,R,Pedro Severino,600474,3,5,3,False,2019-05-16,Caught,Home,2019,2020,27.0
+170,1B,,Caught Stealing 2B,646240,Rafael Devers,571710,Mychal Givens,456488,Eduardo Núñez,R,Pedro Severino,600474,1,1,9,True,2019-05-08,Caught,2B,2019,2020,27.0
+171,1B,2B,Stolen Base 2B,605141,Mookie Betts,606162,Yefry Ramírez,502110,J.D. Martinez,R,Pedro Severino,600474,1,2,12,True,2019-05-08,Stolen,2B,2019,2020,27.0
+172,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-05-05,Stolen,2B,2019,2020,27.0
+173,3B,,Caught Stealing Home,547989,José Abreu,605276,David Hess,547170,Nicky Delmonico,R,Pedro Severino,600474,4,0,3,False,2019-05-01,Caught,Home,2019,2020,27.0
+174,1B,2B,Stolen Base 2B,621439,Byron Buxton,642231,Jimmy Yacabonis,570731,Jonathan Schoop,R,Pedro Severino,600474,6,2,8,False,2019-04-27,Stolen,2B,2019,2020,27.0
+175,1B,,Caught Stealing 2B,596847,Ji Man Choi,488768,Andrew Cashner,650490,Yandy Díaz,R,Pedro Severino,600474,2,2,3,False,2019-04-18,Caught,2B,2019,2020,27.0
+176,1B,2B,Stolen Base 2B,502054,Tommy Pham,488768,Andrew Cashner,596847,Ji Man Choi,R,Pedro Severino,600474,2,3,5,False,2019-04-18,Stolen,2B,2019,2020,27.0
+177,2B,,Caught Stealing 3B,502054,Tommy Pham,571710,Mychal Givens,596847,Ji Man Choi,R,Pedro Severino,600474,5,5,9,False,2019-04-18,Caught,3B,2019,2020,27.0
+178,1B,,Caught Stealing 2B,643217,Andrew Benintendi,488768,Andrew Cashner,605141,Mookie Betts,R,Pedro Severino,600474,0,2,1,False,2019-04-13,Caught,2B,2019,2020,27.0
+179,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,501992,Nate Karns,520471,Freddy Galvis,R,Pedro Severino,600474,1,0,2,False,2019-04-03,Caught,2B,2019,2020,27.0
+180,1B,2B,Stolen Base 2B,665750,Leody Taveras,621098,Eric Hanhold,660634,Yonny Hernández,R,Pedro Severino,600474,2,3,7,True,2021-09-26,Stolen,2B,2021,2022,26.8
+181,3B,score,Stolen Base Home,666969,Adolis García,621098,Eric Hanhold,571788,Brock Holt,R,Pedro Severino,600474,5,8,9,True,2021-09-24,Stolen,Home,2021,2022,26.8
+182,1B,2B,Stolen Base 2B,669256,Nick Solak,621098,Eric Hanhold,571788,Brock Holt,R,Pedro Severino,600474,5,8,9,True,2021-09-24,Stolen,2B,2021,2022,26.8
+183,1B,2B,Stolen Base 2B,543760,Marcus Semien,622253,Dillon Tate,665489,Vladimir Guerrero Jr.,R,Pedro Severino,600474,10,7,6,True,2021-09-11,Stolen,2B,2021,2022,26.8
+184,1B,,Caught Stealing 2B,658668,Edward Olivares,518774,Matt Harvey,593160,Whit Merrifield,R,Pedro Severino,600474,0,1,3,True,2021-09-08,Caught,2B,2021,2022,26.8
+185,2B,3B,Stolen Base 3B,593160,Whit Merrifield,518774,Matt Harvey,670032,Nicky Lopez,R,Pedro Severino,600474,0,2,3,True,2021-09-08,Stolen,3B,2021,2022,26.8
+186,1B,2B,Stolen Base 2B,593160,Whit Merrifield,649144,Alex Wells,670032,Nicky Lopez,L,Pedro Severino,600474,4,1,3,True,2021-09-07,Stolen,2B,2021,2022,26.8
+187,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,595939,Chris Ellis,543807,George Springer,R,Pedro Severino,600474,0,1,3,False,2021-08-30,Stolen,2B,2021,2022,26.8
+188,2B,3B,Stolen Base 3B,502481,Jarrod Dyson,595939,Chris Ellis,543760,Marcus Semien,R,Pedro Severino,600474,0,1,3,False,2021-08-30,Stolen,3B,2021,2022,26.8
+189,1B,2B,Stolen Base 2B,543807,George Springer,595939,Chris Ellis,543760,Marcus Semien,R,Pedro Severino,600474,0,1,3,False,2021-08-30,Stolen,2B,2021,2022,26.8
+190,1B,,Caught Stealing 2B,680776,Jarren Duran,605347,Jorge López,543877,Christian Vázquez,R,Pedro Severino,600474,4,0,1,False,2021-08-14,Caught,2B,2021,2022,26.8
+191,1B,2B,Stolen Base 2B,516782,Starling Marte,641632,Conner Greene,542583,Jesús Aguilar,R,Pedro Severino,600474,3,7,8,True,2021-07-27,Stolen,2B,2021,2022,26.8
+192,1B,2B,Stolen Base 2B,605119,Brian Anderson,641632,Conner Greene,506702,Sandy León,R,Pedro Severino,600474,3,7,9,True,2021-07-27,Stolen,2B,2021,2022,26.8
+193,1B,,Caught Stealing 2B,668227,Randy Arozarena,657093,Spenser Watkins,642336,Francisco Mejía,R,Pedro Severino,600474,0,2,4,False,2021-07-19,Caught,2B,2021,2022,26.8
+194,1B,,Caught Stealing 2B,643217,Andrew Benintendi,491624,César Valdez,641531,Hunter Dozier,R,Pedro Severino,600474,6,1,6,False,2021-07-16,Caught,2B,2021,2022,26.8
+195,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,643316,Paul Fry,665120,Jared Walsh,L,Pedro Severino,600474,8,7,9,False,2021-07-02,Stolen,2B,2021,2022,26.8
+196,1B,,Caught Stealing 2B,663656,Kyle Tucker,595263,Mickey Jannis,647351,Abraham Toro,R,Pedro Severino,600474,0,6,5,True,2021-06-23,Caught,2B,2021,2022,26.8
+197,1B,2B,Stolen Base 2B,666182,Bo Bichette,518774,Matt Harvey,665489,Vladimir Guerrero Jr.,R,Pedro Severino,600474,1,1,5,True,2021-06-20,Stolen,2B,2021,2022,26.8
+198,2B,,Caught Stealing 3B,592696,Eddie Rosario,669211,Keegan Akin,425784,René Rivera,L,Pedro Severino,600474,1,2,2,False,2021-06-16,Caught,3B,2021,2022,26.8
+199,1B,2B,Stolen Base 2B,664040,Brandon Lowe,643316,Paul Fry,670764,Taylor Walls,L,Pedro Severino,600474,4,2,8,False,2021-06-11,Stolen,2B,2021,2022,26.8
+200,1B,2B,Stolen Base 2B,605548,Bradley Zimmer,642121,Cole Sulser,514917,César Hernández,R,Pedro Severino,600474,0,1,7,True,2021-06-04,Stolen,2B,2021,2022,26.8
+201,1B,2B,Stolen Base 2B,641313,Tim Anderson,622253,Dillon Tate,663611,Nick Madrigal,R,Pedro Severino,600474,2,1,7,False,2021-05-30,Stolen,2B,2021,2022,26.8
+202,1B,2B,Stolen Base 2B,641313,Tim Anderson,542888,Shawn Armstrong,660162,Yoán Moncada,R,Pedro Severino,600474,7,4,6,False,2021-05-29,Stolen,2B,2021,2022,26.8
+203,1B,,Caught Stealing 2B,656941,Kyle Schwarber,518774,Matt Harvey,516770,Starlin Castro,R,Pedro Severino,600474,5,4,5,False,2021-05-23,Caught,2B,2021,2022,26.8
+204,1B,2B,Stolen Base 2B,657077,Alex Verdugo,518774,Matt Harvey,502110,J.D. Martinez,R,Pedro Severino,600474,0,0,3,True,2021-05-07,Stolen,2B,2021,2022,26.8
+205,2B,3B,Stolen Base 3B,646240,Rafael Devers,518774,Matt Harvey,543877,Christian Vázquez,R,Pedro Severino,600474,0,0,4,True,2021-05-07,Stolen,3B,2021,2022,26.8
+206,2B,3B,Stolen Base 3B,543877,Christian Vázquez,622253,Dillon Tate,592669,Hunter Renfroe,R,Pedro Severino,600474,2,5,8,True,2021-05-07,Stolen,3B,2021,2022,26.8
+207,1B,,Caught Stealing 2B,664059,Sam Haggerty,607644,John Means,641487,J.P. Crawford,L,Pedro Severino,600474,0,2,3,False,2021-05-05,Caught,2B,2021,2022,26.8
+208,1B,2B,Stolen Base 2B,592192,Mark Canha,518774,Matt Harvey,657656,Ramón Laureano,R,Pedro Severino,600474,0,0,1,False,2021-05-01,Stolen,2B,2021,2022,26.8
+209,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,669145,Bruce Zimmermann,542583,Jesús Aguilar,L,Pedro Severino,600474,0,0,3,False,2021-04-21,Stolen,2B,2021,2022,26.8
+210,1B,2B,Stolen Base 2B,666211,Taylor Trammell,518774,Matt Harvey,664238,Dylan Moore,R,Pedro Severino,600474,2,0,2,True,2021-04-15,Stolen,2B,2021,2022,26.8
+211,1B,2B,Stolen Base 2B,664059,Sam Haggerty,518774,Matt Harvey,571745,Mitch Haniger,R,Pedro Severino,600474,2,2,5,True,2021-04-15,Stolen,2B,2021,2022,26.8
+212,2B,3B,Stolen Base 3B,543877,Christian Vázquez,518774,Matt Harvey,503556,Marwin Gonzalez,R,Pedro Severino,600474,0,2,1,True,2021-04-08,Stolen,3B,2021,2022,26.8
+213,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,518774,Matt Harvey,624414,Christian Arroyo,R,Pedro Severino,600474,0,2,1,True,2021-04-08,Stolen,2B,2021,2022,26.8
+214,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,518774,Matt Harvey,666915,Bobby Dalbec,R,Pedro Severino,600474,0,0,2,False,2021-04-03,Stolen,2B,2021,2022,26.8
+215,1B,2B,Stolen Base 2B,665750,Leody Taveras,621098,Eric Hanhold,660634,Yonny Hernández,R,Pedro Severino,600474,2,3,7,True,2021-09-26,Stolen,2B,2021,2022,26.8
+216,3B,score,Stolen Base Home,666969,Adolis García,621098,Eric Hanhold,571788,Brock Holt,R,Pedro Severino,600474,5,8,9,True,2021-09-24,Stolen,Home,2021,2022,26.8
+217,1B,2B,Stolen Base 2B,669256,Nick Solak,621098,Eric Hanhold,571788,Brock Holt,R,Pedro Severino,600474,5,8,9,True,2021-09-24,Stolen,2B,2021,2022,26.8
+218,1B,2B,Stolen Base 2B,543760,Marcus Semien,622253,Dillon Tate,665489,Vladimir Guerrero Jr.,R,Pedro Severino,600474,10,7,6,True,2021-09-11,Stolen,2B,2021,2022,26.8
+219,1B,,Caught Stealing 2B,658668,Edward Olivares,518774,Matt Harvey,593160,Whit Merrifield,R,Pedro Severino,600474,0,1,3,True,2021-09-08,Caught,2B,2021,2022,26.8
+220,2B,3B,Stolen Base 3B,593160,Whit Merrifield,518774,Matt Harvey,670032,Nicky Lopez,R,Pedro Severino,600474,0,2,3,True,2021-09-08,Stolen,3B,2021,2022,26.8
+221,1B,2B,Stolen Base 2B,593160,Whit Merrifield,649144,Alex Wells,670032,Nicky Lopez,L,Pedro Severino,600474,4,1,3,True,2021-09-07,Stolen,2B,2021,2022,26.8
+222,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,595939,Chris Ellis,543807,George Springer,R,Pedro Severino,600474,0,1,3,False,2021-08-30,Stolen,2B,2021,2022,26.8
+223,2B,3B,Stolen Base 3B,502481,Jarrod Dyson,595939,Chris Ellis,543760,Marcus Semien,R,Pedro Severino,600474,0,1,3,False,2021-08-30,Stolen,3B,2021,2022,26.8
+224,1B,2B,Stolen Base 2B,543807,George Springer,595939,Chris Ellis,543760,Marcus Semien,R,Pedro Severino,600474,0,1,3,False,2021-08-30,Stolen,2B,2021,2022,26.8
+225,1B,,Caught Stealing 2B,680776,Jarren Duran,605347,Jorge López,543877,Christian Vázquez,R,Pedro Severino,600474,4,0,1,False,2021-08-14,Caught,2B,2021,2022,26.8
+226,1B,2B,Stolen Base 2B,516782,Starling Marte,641632,Conner Greene,542583,Jesús Aguilar,R,Pedro Severino,600474,3,7,8,True,2021-07-27,Stolen,2B,2021,2022,26.8
+227,1B,2B,Stolen Base 2B,605119,Brian Anderson,641632,Conner Greene,506702,Sandy León,R,Pedro Severino,600474,3,7,9,True,2021-07-27,Stolen,2B,2021,2022,26.8
+228,1B,,Caught Stealing 2B,668227,Randy Arozarena,657093,Spenser Watkins,642336,Francisco Mejía,R,Pedro Severino,600474,0,2,4,False,2021-07-19,Caught,2B,2021,2022,26.8
+229,1B,,Caught Stealing 2B,643217,Andrew Benintendi,491624,César Valdez,641531,Hunter Dozier,R,Pedro Severino,600474,6,1,6,False,2021-07-16,Caught,2B,2021,2022,26.8
+230,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,643316,Paul Fry,665120,Jared Walsh,L,Pedro Severino,600474,8,7,9,False,2021-07-02,Stolen,2B,2021,2022,26.8
+231,1B,,Caught Stealing 2B,663656,Kyle Tucker,595263,Mickey Jannis,647351,Abraham Toro,R,Pedro Severino,600474,0,6,5,True,2021-06-23,Caught,2B,2021,2022,26.8
+232,1B,2B,Stolen Base 2B,666182,Bo Bichette,518774,Matt Harvey,665489,Vladimir Guerrero Jr.,R,Pedro Severino,600474,1,1,5,True,2021-06-20,Stolen,2B,2021,2022,26.8
+233,2B,,Caught Stealing 3B,592696,Eddie Rosario,669211,Keegan Akin,425784,René Rivera,L,Pedro Severino,600474,1,2,2,False,2021-06-16,Caught,3B,2021,2022,26.8
+234,1B,2B,Stolen Base 2B,664040,Brandon Lowe,643316,Paul Fry,670764,Taylor Walls,L,Pedro Severino,600474,4,2,8,False,2021-06-11,Stolen,2B,2021,2022,26.8
+235,1B,2B,Stolen Base 2B,605548,Bradley Zimmer,642121,Cole Sulser,514917,César Hernández,R,Pedro Severino,600474,0,1,7,True,2021-06-04,Stolen,2B,2021,2022,26.8
+236,1B,2B,Stolen Base 2B,641313,Tim Anderson,622253,Dillon Tate,663611,Nick Madrigal,R,Pedro Severino,600474,2,1,7,False,2021-05-30,Stolen,2B,2021,2022,26.8
+237,1B,2B,Stolen Base 2B,641313,Tim Anderson,542888,Shawn Armstrong,660162,Yoán Moncada,R,Pedro Severino,600474,7,4,6,False,2021-05-29,Stolen,2B,2021,2022,26.8
+238,1B,,Caught Stealing 2B,656941,Kyle Schwarber,518774,Matt Harvey,516770,Starlin Castro,R,Pedro Severino,600474,5,4,5,False,2021-05-23,Caught,2B,2021,2022,26.8
+239,1B,2B,Stolen Base 2B,657077,Alex Verdugo,518774,Matt Harvey,502110,J.D. Martinez,R,Pedro Severino,600474,0,0,3,True,2021-05-07,Stolen,2B,2021,2022,26.8
+240,2B,3B,Stolen Base 3B,646240,Rafael Devers,518774,Matt Harvey,543877,Christian Vázquez,R,Pedro Severino,600474,0,0,4,True,2021-05-07,Stolen,3B,2021,2022,26.8
+241,2B,3B,Stolen Base 3B,543877,Christian Vázquez,622253,Dillon Tate,592669,Hunter Renfroe,R,Pedro Severino,600474,2,5,8,True,2021-05-07,Stolen,3B,2021,2022,26.8
+242,1B,,Caught Stealing 2B,664059,Sam Haggerty,607644,John Means,641487,J.P. Crawford,L,Pedro Severino,600474,0,2,3,False,2021-05-05,Caught,2B,2021,2022,26.8
+243,1B,2B,Stolen Base 2B,592192,Mark Canha,518774,Matt Harvey,657656,Ramón Laureano,R,Pedro Severino,600474,0,0,1,False,2021-05-01,Stolen,2B,2021,2022,26.8
+244,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,669145,Bruce Zimmermann,542583,Jesús Aguilar,L,Pedro Severino,600474,0,0,3,False,2021-04-21,Stolen,2B,2021,2022,26.8
+245,1B,2B,Stolen Base 2B,666211,Taylor Trammell,518774,Matt Harvey,664238,Dylan Moore,R,Pedro Severino,600474,2,0,2,True,2021-04-15,Stolen,2B,2021,2022,26.8
+246,1B,2B,Stolen Base 2B,664059,Sam Haggerty,518774,Matt Harvey,571745,Mitch Haniger,R,Pedro Severino,600474,2,2,5,True,2021-04-15,Stolen,2B,2021,2022,26.8
+247,2B,3B,Stolen Base 3B,543877,Christian Vázquez,518774,Matt Harvey,503556,Marwin Gonzalez,R,Pedro Severino,600474,0,2,1,True,2021-04-08,Stolen,3B,2021,2022,26.8
+248,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,518774,Matt Harvey,624414,Christian Arroyo,R,Pedro Severino,600474,0,2,1,True,2021-04-08,Stolen,2B,2021,2022,26.8
+249,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,518774,Matt Harvey,666915,Bobby Dalbec,R,Pedro Severino,600474,0,0,2,False,2021-04-03,Stolen,2B,2021,2022,26.8
+250,1B,2B,Stolen Base 2B,572816,Corey Dickerson,544931,Stephen Strasburg,465041,Francisco Cervelli,R,Pedro Severino,600474,0,1,1,True,2018-05-02,Stolen,2B,2018,2019,27.9
+251,1B,,Caught Stealing 2B,516782,Starling Marte,544931,Stephen Strasburg,605137,Josh Bell,R,Pedro Severino,600474,2,1,3,True,2018-05-02,Caught,2B,2018,2019,27.9
+252,1B,,Caught Stealing 2B,501571,Juan Lagares,461829,Gio González,621512,Tomás Nido,L,Pedro Severino,600474,0,0,2,False,2018-04-17,Caught,2B,2018,2019,27.9
+253,1B,,Caught Stealing 2B,467827,Gerardo Parra,543699,Tanner Roark,455104,Chris Iannetta,R,Pedro Severino,600474,1,2,6,True,2018-04-13,Caught,2B,2018,2019,27.9
+254,1B,2B,Stolen Base 2B,471865,Carlos González,641627,Trevor Gott,455104,Chris Iannetta,R,Pedro Severino,600474,1,2,9,True,2018-04-13,Stolen,2B,2018,2019,27.9
+255,1B,2B,Stolen Base 2B,542255,Ender Inciarte,448281,Sean Doolittle,645277,Ozzie Albies,L,Pedro Severino,600474,2,2,10,True,2018-04-11,Stolen,2B,2018,2019,27.9
+256,2B,3B,Stolen Base 3B,542255,Ender Inciarte,448281,Sean Doolittle,435559,Kurt Suzuki,L,Pedro Severino,600474,2,2,10,True,2018-04-11,Stolen,3B,2018,2019,27.9
+257,1B,2B,Stolen Base 2B,518692,Freddie Freeman,448281,Sean Doolittle,435559,Kurt Suzuki,L,Pedro Severino,600474,2,2,10,True,2018-04-11,Stolen,2B,2018,2019,27.9
+258,3B,,Caught Stealing Home,542255,Ender Inciarte,448281,Sean Doolittle,435559,Kurt Suzuki,L,Pedro Severino,600474,2,2,10,True,2018-04-11,Caught,Home,2018,2019,27.9
+259,2B,,Caught Stealing 3B,645277,Ozzie Albies,544931,Stephen Strasburg,518692,Freddie Freeman,R,Pedro Severino,600474,0,0,1,True,2018-04-10,Caught,3B,2018,2019,27.9
+260,1B,2B,Stolen Base 2B,453943,Todd Frazier,425492,Ryan Madson,518595,Travis d'Arnaud,R,Pedro Severino,600474,5,5,8,True,2018-04-08,Stolen,2B,2018,2019,27.9
+261,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,425492,Ryan Madson,642708,Amed Rosario,R,Pedro Severino,600474,2,3,8,True,2018-04-07,Stolen,2B,2018,2019,27.9
+262,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543699,Tanner Roark,518692,Freddie Freeman,R,Pedro Severino,600474,1,5,4,False,2018-04-02,Stolen,2B,2018,2019,27.9
+263,2B,,Caught Stealing 3B,520471,Freddy Galvis,543699,Tanner Roark,571437,Aaron Altherr,R,Pedro Severino,600474,3,1,3,False,2017-09-27,Caught,3B,2017,2018,27.6
+264,1B,2B,Stolen Base 2B,514917,César Hernández,544836,Enny Romero,520471,Freddy Galvis,L,Pedro Severino,600474,7,5,8,False,2017-09-27,Stolen,2B,2017,2018,27.6
+265,1B,2B,Stolen Base 2B,493114,Norichika Aoki,429719,Edwin Jackson,452678,Asdrúbal Cabrera,R,Pedro Severino,600474,1,3,3,False,2017-09-22,Stolen,2B,2017,2018,27.6
+266,1B,2B,Stolen Base 2B,501571,Juan Lagares,429719,Edwin Jackson,608325,Gavin Cecchini,R,Pedro Severino,600474,1,6,5,False,2017-09-22,Stolen,2B,2017,2018,27.6
+267,1B,,Caught Stealing 2B,642708,Amed Rosario,458006,Matt Albers,501571,Juan Lagares,R,Pedro Severino,600474,7,6,8,False,2017-09-22,Caught,2B,2017,2018,27.6
+268,2B,,Caught Stealing 3B,520471,Freddy Galvis,543699,Tanner Roark,571437,Aaron Altherr,R,Pedro Severino,600474,3,1,3,False,2017-09-27,Caught,3B,2017,2018,27.6
+269,1B,2B,Stolen Base 2B,514917,César Hernández,544836,Enny Romero,520471,Freddy Galvis,L,Pedro Severino,600474,7,5,8,False,2017-09-27,Stolen,2B,2017,2018,27.6
+270,1B,2B,Stolen Base 2B,493114,Norichika Aoki,429719,Edwin Jackson,452678,Asdrúbal Cabrera,R,Pedro Severino,600474,1,3,3,False,2017-09-22,Stolen,2B,2017,2018,27.6
+271,1B,2B,Stolen Base 2B,501571,Juan Lagares,429719,Edwin Jackson,608325,Gavin Cecchini,R,Pedro Severino,600474,1,6,5,False,2017-09-22,Stolen,2B,2017,2018,27.6
+272,1B,,Caught Stealing 2B,642708,Amed Rosario,458006,Matt Albers,501571,Juan Lagares,R,Pedro Severino,600474,7,6,8,False,2017-09-22,Caught,2B,2017,2018,27.6
+273,2B,3B,Stolen Base 3B,516416,Jean Segura,605452,Joe Ross,571875,Jake Lamb,R,Pedro Severino,600474,0,0,1,True,2016-09-29,Stolen,3B,2016,2017,27.9
+274,2B,,Caught Stealing 3B,605480,Mallex Smith,430634,Sean Burnett,611177,Adonis García,L,Pedro Severino,600474,7,3,8,False,2016-09-17,Caught,3B,2016,2017,27.9
+275,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,625643,Reynaldo López,434636,Ángel Pagán,R,Pedro Severino,600474,0,0,1,False,2016-07-30,Stolen,2B,2016,2017,27.9
+276,1B,,Caught Stealing 2B,546318,Odúbel Herrera,543699,Tanner Roark,520471,Freddy Galvis,R,Pedro Severino,600474,0,0,1,True,2016-04-28,Caught,2B,2016,2017,27.9
+277,1B,2B,Stolen Base 2B,514917,César Hernández,543699,Tanner Roark,605400,Aaron Nola,R,Pedro Severino,600474,0,0,5,True,2016-04-28,Stolen,2B,2016,2017,27.9
+278,2B,3B,Stolen Base 3B,516416,Jean Segura,605452,Joe Ross,571875,Jake Lamb,R,Pedro Severino,600474,0,0,1,True,2016-09-29,Stolen,3B,2016,2017,27.9
+279,2B,,Caught Stealing 3B,605480,Mallex Smith,430634,Sean Burnett,611177,Adonis García,L,Pedro Severino,600474,7,3,8,False,2016-09-17,Caught,3B,2016,2017,27.9
+280,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,625643,Reynaldo López,434636,Ángel Pagán,R,Pedro Severino,600474,0,0,1,False,2016-07-30,Stolen,2B,2016,2017,27.9
+281,1B,,Caught Stealing 2B,546318,Odúbel Herrera,543699,Tanner Roark,520471,Freddy Galvis,R,Pedro Severino,600474,0,0,1,True,2016-04-28,Caught,2B,2016,2017,27.9
+282,1B,2B,Stolen Base 2B,514917,César Hernández,543699,Tanner Roark,605400,Aaron Nola,R,Pedro Severino,600474,0,0,5,True,2016-04-28,Stolen,2B,2016,2017,27.9
+283,2B,3B,Stolen Base 3B,516416,Jean Segura,605452,Joe Ross,571875,Jake Lamb,R,Pedro Severino,600474,0,0,1,True,2016-09-29,Stolen,3B,2016,2017,27.9
+284,2B,,Caught Stealing 3B,605480,Mallex Smith,430634,Sean Burnett,611177,Adonis García,L,Pedro Severino,600474,7,3,8,False,2016-09-17,Caught,3B,2016,2017,27.9
+285,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,625643,Reynaldo López,434636,Ángel Pagán,R,Pedro Severino,600474,0,0,1,False,2016-07-30,Stolen,2B,2016,2017,27.9
+286,1B,,Caught Stealing 2B,546318,Odúbel Herrera,543699,Tanner Roark,520471,Freddy Galvis,R,Pedro Severino,600474,0,0,1,True,2016-04-28,Caught,2B,2016,2017,27.9
+287,1B,2B,Stolen Base 2B,514917,César Hernández,543699,Tanner Roark,605400,Aaron Nola,R,Pedro Severino,600474,0,0,5,True,2016-04-28,Stolen,2B,2016,2017,27.9

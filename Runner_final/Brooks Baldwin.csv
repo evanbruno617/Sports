@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+886,1B,2B,Stolen Base 2B,681460,Brooks Baldwin,680744,Ty Madden,670032,Nicky Lopez,R,Dillon Dingler,693307,1,0,3,False,2024-08-26,Stolen,2B
+1063,1B,2B,Stolen Base 2B,681460,Brooks Baldwin,690986,Kyle Harrison,672820,Lenyn Sosa,L,Curt Casali,592200,0,0,5,True,2024-08-19,Stolen,2B
+1630,1B,2B,Stolen Base 2B,681460,Brooks Baldwin,693433,Bryan Woo,642020,Chuckie Robinson,R,Cal Raleigh,663728,1,3,4,False,2024-07-27,Stolen,2B
+1766,1B,2B,Stolen Base 2B,681460,Brooks Baldwin,547179,Michael Lorenzen,686676,Korey Lee,R,Jonah Heim,641680,1,2,4,True,2024-07-22,Stolen,2B

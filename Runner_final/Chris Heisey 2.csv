@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+6120,2B,,Caught Stealing 3B,502317,Chris Heisey,605388,Adam Morgan,457787,Danny Espinosa,L,Cameron Rupp,519237,3,0,4,False,2016-06-12,Caught,3B
+3053,1B,2B,Stolen Base 2B,502317,Chris Heisey,429722,Ervin Santana,446359,Zack Cozart,R,Evan Gattis,594828,1,0,7,False,2014-08-23,Stolen,2B
+3407,3B,score,Caught Stealing 2B,502317,Chris Heisey,471911,Carlos Carrasco,502117,Kristopher Negrón,R,Yan Gomes,543228,1,6,5,True,2014-08-05,Caught,2B
+3584,2B,3B,Stolen Base 3B,502317,Chris Heisey,461829,Gio González,430910,Brayan Peña,L,Wilson Ramos,467092,1,0,5,False,2014-07-26,Stolen,3B
+3899,1B,2B,Stolen Base 2B,502317,Chris Heisey,475243,Travis Wood,421124,Ramon Santiago,L,John Baker,434633,4,2,6,False,2014-07-08,Stolen,2B
+4209,1B,2B,Stolen Base 2B,502317,Chris Heisey,444468,Héctor Rondón,571740,Billy Hamilton,R,Welington Castillo,456078,1,2,9,True,2014-06-23,Stolen,2B
+4944,1B,2B,Stolen Base 2B,502317,Chris Heisey,424324,Cliff Lee,408252,Brandon Phillips,L,Wil Nieves,408242,0,1,1,True,2014-05-18,Stolen,2B
+5281,2B,3B,Stolen Base 3B,502317,Chris Heisey,462136,Marco Estrada,408252,Brandon Phillips,R,Jonathan Lucroy,518960,1,1,5,False,2014-05-01,Stolen,3B
+5342,1B,2B,Stolen Base 2B,502317,Chris Heisey,475243,Travis Wood,421124,Ramon Santiago,L,John Baker,434633,4,2,6,False,2014-04-28,Stolen,2B
+5646,2B,3B,Stolen Base 3B,502317,Chris Heisey,434538,Francisco Liriano,430910,Brayan Peña,L,Tony Sanchez,506997,1,0,6,False,2014-04-16,Stolen,3B
+5671,1B,2B,Stolen Base 2B,502317,Chris Heisey,543037,Gerrit Cole,458015,Joey Votto,R,Russell Martin,431145,1,2,5,False,2014-04-15,Stolen,2B
+5792,1B,2B,Stolen Base 2B,502317,Chris Heisey,571946,Shelby Miller,519023,Devin Mesoraco,R,Yadier Molina,425877,0,3,6,True,2014-04-09,Stolen,2B
+809,1B,2B,Stolen Base 2B,502317,Chris Heisey,429722,Ervin Santana,446359,Zack Cozart,R,Evan Gattis,594828,1,0,7,False,2014-08-23,Stolen,2B
+1163,3B,score,Caught Stealing 2B,502317,Chris Heisey,471911,Carlos Carrasco,502117,Kristopher Negrón,R,Yan Gomes,543228,1,6,5,True,2014-08-05,Caught,2B
+1340,2B,3B,Stolen Base 3B,502317,Chris Heisey,461829,Gio González,430910,Brayan Peña,L,Wilson Ramos,467092,1,0,5,False,2014-07-26,Stolen,3B
+1655,1B,2B,Stolen Base 2B,502317,Chris Heisey,475243,Travis Wood,421124,Ramon Santiago,L,John Baker,434633,4,2,6,False,2014-07-08,Stolen,2B
+1965,1B,2B,Stolen Base 2B,502317,Chris Heisey,444468,Héctor Rondón,571740,Billy Hamilton,R,Welington Castillo,456078,1,2,9,True,2014-06-23,Stolen,2B
+2700,1B,2B,Stolen Base 2B,502317,Chris Heisey,424324,Cliff Lee,408252,Brandon Phillips,L,Wil Nieves,408242,0,1,1,True,2014-05-18,Stolen,2B
+3037,2B,3B,Stolen Base 3B,502317,Chris Heisey,462136,Marco Estrada,408252,Brandon Phillips,R,Jonathan Lucroy,518960,1,1,5,False,2014-05-01,Stolen,3B
+3098,1B,2B,Stolen Base 2B,502317,Chris Heisey,475243,Travis Wood,421124,Ramon Santiago,L,John Baker,434633,4,2,6,False,2014-04-28,Stolen,2B
+3402,2B,3B,Stolen Base 3B,502317,Chris Heisey,434538,Francisco Liriano,430910,Brayan Peña,L,Tony Sanchez,506997,1,0,6,False,2014-04-16,Stolen,3B
+3427,1B,2B,Stolen Base 2B,502317,Chris Heisey,543037,Gerrit Cole,458015,Joey Votto,R,Russell Martin,431145,1,2,5,False,2014-04-15,Stolen,2B
+3548,1B,2B,Stolen Base 2B,502317,Chris Heisey,571946,Shelby Miller,519023,Devin Mesoraco,R,Yadier Molina,425877,0,3,6,True,2014-04-09,Stolen,2B
+2085,2B,,Caught Stealing 3B,502317,Chris Heisey,605388,Adam Morgan,457787,Danny Espinosa,L,Cameron Rupp,519237,3,0,4,False,2016-06-12,Caught,3B
+5492,2B,,Caught Stealing 3B,502317,Chris Heisey,605388,Adam Morgan,457787,Danny Espinosa,L,Cameron Rupp,519237,3,0,4,False,2016-06-12,Caught,3B

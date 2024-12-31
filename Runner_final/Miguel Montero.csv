@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3887,1B,2B,Stolen Base 2B,471083,Miguel Montero,605200,Zach Davies,445055,Jon Jay,R,Jett Bandy,542908,0,4,1,True,2017-04-09,Stolen,2B
+6609,1B,2B,Stolen Base 2B,471083,Miguel Montero,502624,Chase Anderson,451594,Dexter Fowler,R,Jonathan Lucroy,518960,1,0,6,True,2016-05-17,Stolen,2B
+2934,1B,,Caught Stealing 2B,471083,Miguel Montero,548357,Christian Bergman,571875,Jake Lamb,R,Michael McKenry,502374,0,0,2,False,2014-08-29,Caught,2B
+3863,1B,,Caught Stealing 2B,471083,Miguel Montero,543135,Nathan Eovaldi,445988,Martín Prado,R,Jeff Mathis,425772,0,1,7,False,2014-07-09,Caught,2B
+4480,1B,,Caught Stealing 2B,471083,Miguel Montero,502748,Brad Peacock,445988,Martín Prado,R,Jason Castro,488771,1,0,4,False,2014-06-10,Caught,2B
+4874,1B,,Caught Stealing 2B,471083,Miguel Montero,608379,Michael Wacha,445988,Martín Prado,R,Yadier Molina,425877,0,0,2,True,2014-05-21,Caught,2B
+690,1B,,Caught Stealing 2B,471083,Miguel Montero,548357,Christian Bergman,571875,Jake Lamb,R,Michael McKenry,502374,0,0,2,False,2014-08-29,Caught,2B
+1619,1B,,Caught Stealing 2B,471083,Miguel Montero,543135,Nathan Eovaldi,445988,Martín Prado,R,Jeff Mathis,425772,0,1,7,False,2014-07-09,Caught,2B
+2236,1B,,Caught Stealing 2B,471083,Miguel Montero,502748,Brad Peacock,445988,Martín Prado,R,Jason Castro,488771,1,0,4,False,2014-06-10,Caught,2B
+2630,1B,,Caught Stealing 2B,471083,Miguel Montero,608379,Michael Wacha,445988,Martín Prado,R,Yadier Molina,425877,0,0,2,True,2014-05-21,Caught,2B
+2574,1B,2B,Stolen Base 2B,471083,Miguel Montero,502624,Chase Anderson,451594,Dexter Fowler,R,Jonathan Lucroy,518960,1,0,6,True,2016-05-17,Stolen,2B
+3259,1B,2B,Stolen Base 2B,471083,Miguel Montero,605200,Zach Davies,445055,Jon Jay,R,Jett Bandy,542908,0,4,1,True,2017-04-09,Stolen,2B
+5981,1B,2B,Stolen Base 2B,471083,Miguel Montero,502624,Chase Anderson,451594,Dexter Fowler,R,Jonathan Lucroy,518960,1,0,6,True,2016-05-17,Stolen,2B

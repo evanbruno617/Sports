@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+267,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,594987,Casey Sadler,578428,Jose Iglesias,R,Tom Murphy,608596,3,3,7,True,2021-09-15,Stolen,2B
+2167,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,656288,Griffin Canning,656308,Michael Chavis,R,Drew Butera,460077,2,0,2,False,2021-05-14,Stolen,2B
+4015,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,663556,Shane McClanahan,571771,Enrique Hernández,L,Francisco Mejía,642336,3,0,5,True,2023-04-11,Stolen,2B
+366,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,592332,Kevin Gausman,608701,Rob Refsnyder,R,Alejandro Kirk,672386,1,0,3,True,2022-06-27,Stolen,2B
+726,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,661383,Oliver Ortega,571771,Enrique Hernández,R,Max Stassi,545358,5,4,6,True,2022-06-07,Stolen,2B
+2191,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,594987,Casey Sadler,578428,Jose Iglesias,R,Tom Murphy,608596,3,3,7,True,2021-09-15,Stolen,2B
+4091,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,656288,Griffin Canning,656308,Michael Chavis,R,Drew Butera,460077,2,0,2,False,2021-05-14,Stolen,2B
+2545,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,596133,Luke Weaver,665839,Enmanuel Valdez,R,Jose Trevino,624431,7,3,7,False,2024-06-16,Stolen,2B
+3691,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,694738,Landen Roupp,624512,Reese McGuire,R,Patrick Bailey,672275,4,0,7,False,2024-04-30,Stolen,2B
+3724,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,669713,Hayden Wesneski,680776,Jarren Duran,R,Miguel Amaya,665804,1,0,2,False,2024-04-28,Stolen,2B
+8429,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,663556,Shane McClanahan,571771,Enrique Hernández,L,Francisco Mejía,642336,3,0,5,True,2023-04-11,Stolen,2B

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+6820,1B,2B,Stolen Base 2B,666560,ByungHo Park,518858,Nate Jones,542455,Oswaldo Arcia,R,Dioner Navarro,425900,10,4,8,True,2016-05-06,Stolen,2B
+2785,1B,2B,Stolen Base 2B,666560,ByungHo Park,518858,Nate Jones,542455,Oswaldo Arcia,R,Dioner Navarro,425900,10,4,8,True,2016-05-06,Stolen,2B
+6192,1B,2B,Stolen Base 2B,666560,ByungHo Park,518858,Nate Jones,542455,Oswaldo Arcia,R,Dioner Navarro,425900,10,4,8,True,2016-05-06,Stolen,2B

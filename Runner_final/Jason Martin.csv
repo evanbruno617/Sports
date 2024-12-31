@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1236,1B,2B,Stolen Base 2B,641829,Jason Martin,543272,Brad Hand,607732,Jacob Stallings,L,Roberto Pérez,547379,2,4,7,False,2020-07-22,Stolen,2B
+4049,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B
+4124,1B,2B,Stolen Base 2B,641829,Jason Martin,543699,Tanner Roark,592567,Colin Moran,R,Curt Casali,592200,0,0,1,False,2019-04-06,Stolen,2B
+290,1B,2B,Stolen Base 2B,641829,Jason Martin,621076,James Kaprielian,660634,Yonny Hernández,R,Yan Gomes,543228,0,3,4,True,2021-09-12,Stolen,2B
+1224,1B,2B,Stolen Base 2B,641829,Jason Martin,605135,Chris Bassitt,669256,Nick Solak,R,Sean Murphy,669221,0,2,3,False,2021-07-11,Stolen,2B
+1757,1B,,Caught Stealing 2B,641829,Jason Martin,643511,Tyler Rogers,642201,Eli White,R,Chadwick Tromp,644433,3,3,10,False,2021-06-09,Caught,2B
+1892,1B,2B,Stolen Base 2B,641829,Jason Martin,623149,Paul Sewald,669256,Nick Solak,R,Tom Murphy,608596,4,2,8,True,2021-05-30,Stolen,2B
+4079,1B,2B,Stolen Base 2B,641829,Jason Martin,543272,Brad Hand,607732,Jacob Stallings,L,Roberto Pérez,547379,2,4,7,False,2020-07-22,Stolen,2B
+6892,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B
+6967,1B,2B,Stolen Base 2B,641829,Jason Martin,543699,Tanner Roark,592567,Colin Moran,R,Curt Casali,592200,0,0,1,False,2019-04-06,Stolen,2B
+2214,1B,2B,Stolen Base 2B,641829,Jason Martin,621076,James Kaprielian,660634,Yonny Hernández,R,Yan Gomes,543228,0,3,4,True,2021-09-12,Stolen,2B
+3148,1B,2B,Stolen Base 2B,641829,Jason Martin,605135,Chris Bassitt,669256,Nick Solak,R,Sean Murphy,669221,0,2,3,False,2021-07-11,Stolen,2B
+3681,1B,,Caught Stealing 2B,641829,Jason Martin,643511,Tyler Rogers,642201,Eli White,R,Chadwick Tromp,644433,3,3,10,False,2021-06-09,Caught,2B
+3816,1B,2B,Stolen Base 2B,641829,Jason Martin,623149,Paul Sewald,669256,Nick Solak,R,Tom Murphy,608596,4,2,8,True,2021-05-30,Stolen,2B
+6003,1B,2B,Stolen Base 2B,641829,Jason Martin,543272,Brad Hand,607732,Jacob Stallings,L,Roberto Pérez,547379,2,4,7,False,2020-07-22,Stolen,2B
+8816,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B
+8891,1B,2B,Stolen Base 2B,641829,Jason Martin,543699,Tanner Roark,592567,Colin Moran,R,Curt Casali,592200,0,0,1,False,2019-04-06,Stolen,2B

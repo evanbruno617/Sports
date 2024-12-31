@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1919,1B,,Caught Stealing 2B,593523,Marco Hernández,592767,Drew Smyly,598265,Jackie Bradley Jr.,L,J.T. Realmuto,592663,2,0,2,False,2019-08-21,Caught,2B
+2021,1B,,Caught Stealing 2B,593523,Marco Hernández,663531,Logan Allen,605141,Mookie Betts,L,Kevin Plawecki,608700,1,5,8,True,2019-08-14,Caught,2B
+2579,1B,2B,Stolen Base 2B,593523,Marco Hernández,598286,Nick Ramirez,605141,Mookie Betts,L,John Hicks,543308,1,2,5,True,2019-07-07,Stolen,2B
+4762,1B,,Caught Stealing 2B,593523,Marco Hernández,592767,Drew Smyly,598265,Jackie Bradley Jr.,L,J.T. Realmuto,592663,2,0,2,False,2019-08-21,Caught,2B
+4864,1B,,Caught Stealing 2B,593523,Marco Hernández,663531,Logan Allen,605141,Mookie Betts,L,Kevin Plawecki,608700,1,5,8,True,2019-08-14,Caught,2B
+5422,1B,2B,Stolen Base 2B,593523,Marco Hernández,598286,Nick Ramirez,605141,Mookie Betts,L,John Hicks,543308,1,2,5,True,2019-07-07,Stolen,2B
+6686,1B,,Caught Stealing 2B,593523,Marco Hernández,592767,Drew Smyly,598265,Jackie Bradley Jr.,L,J.T. Realmuto,592663,2,0,2,False,2019-08-21,Caught,2B
+6788,1B,,Caught Stealing 2B,593523,Marco Hernández,663531,Logan Allen,605141,Mookie Betts,L,Kevin Plawecki,608700,1,5,8,True,2019-08-14,Caught,2B
+7346,1B,2B,Stolen Base 2B,593523,Marco Hernández,598286,Nick Ramirez,605141,Mookie Betts,L,John Hicks,543308,1,2,5,True,2019-07-07,Stolen,2B
+3637,1B,,Caught Stealing 2B,593523,Marco Hernández,592233,Stefan Crichton,593428,Xander Bogaerts,R,Welington Castillo,456078,0,5,6,True,2017-04-23,Caught,2B
+7194,1B,2B,Stolen Base 2B,593523,Marco Hernández,592717,Aaron Sanchez,605141,Mookie Betts,R,Russell Martin,431145,1,2,5,False,2016-04-17,Stolen,2B
+3159,1B,2B,Stolen Base 2B,593523,Marco Hernández,592717,Aaron Sanchez,605141,Mookie Betts,R,Russell Martin,431145,1,2,5,False,2016-04-17,Stolen,2B
+3009,1B,,Caught Stealing 2B,593523,Marco Hernández,592233,Stefan Crichton,593428,Xander Bogaerts,R,Welington Castillo,456078,0,5,6,True,2017-04-23,Caught,2B
+6566,1B,2B,Stolen Base 2B,593523,Marco Hernández,592717,Aaron Sanchez,605141,Mookie Betts,R,Russell Martin,431145,1,2,5,False,2016-04-17,Stolen,2B

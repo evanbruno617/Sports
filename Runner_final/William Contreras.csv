@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+292,1B,2B,Stolen Base 2B,661388,William Contreras,596271,Casey Lawrence,467793,Carlos Santana,R,Andrew Knizner,668800,3,6,9,True,2023-09-19,Stolen,2B
+578,1B,2B,Stolen Base 2B,661388,William Contreras,642528,Jonathan Loáisiga,467793,Carlos Santana,R,Austin Wells,669224,2,4,7,True,2023-09-08,Stolen,2B
+641,1B,2B,Stolen Base 2B,661388,William Contreras,675989,Cody Bolton,467793,Carlos Santana,R,Jason Delay,641511,1,3,5,True,2023-09-06,Stolen,2B
+810,1B,2B,Stolen Base 2B,661388,William Contreras,543294,Kyle Hendricks,467793,Carlos Santana,R,Yan Gomes,543228,2,1,5,True,2023-08-30,Stolen,2B
+1608,3B,,Caught Stealing Home,661388,William Contreras,668933,Graham Ashcraft,686217,Sal Frelick,R,Tyler Stephenson,663886,1,2,3,False,2023-07-24,Caught,Home
+2192,1B,2B,Stolen Base 2B,661388,William Contreras,434378,Justin Verlander,680911,Owen Miller,R,Francisco Alvarez,682626,1,0,5,True,2023-06-26,Stolen,2B
+452,1B,2B,Stolen Base 2B,661388,William Contreras,643511,Tyler Rogers,606115,Orlando Arcia,R,Austin Wynns,642851,3,3,9,False,2022-06-22,Stolen,2B
+1293,1B,2B,Stolen Base 2B,661388,William Contreras,676879,Aaron Ashby,660670,Ronald Acuña Jr.,L,Omar Narváez,553882,5,0,4,False,2022-05-08,Stolen,2B
+58,1B,2B,Stolen Base 2B,661388,William Contreras,493603,Adam Ottavino,687401,Joey Ortiz,R,Francisco Alvarez,682626,7,2,7,False,2024-09-27,Stolen,2B
+111,1B,2B,Stolen Base 2B,661388,William Contreras,682847,Luis L. Ortiz,642715,Willy Adames,R,Yasmani Grandal,518735,0,1,4,True,2024-09-25,Stolen,2B
+336,1B,2B,Stolen Base 2B,661388,William Contreras,621383,Tanner Banks,596142,Gary Sánchez,L,J.T. Realmuto,592663,6,2,7,False,2024-09-16,Stolen,2B
+811,3B,score,Stolen Base Home,661388,William Contreras,806185,Hayden Birdsong,669003,Garrett Mitchell,R,Patrick Bailey,672275,3,0,3,False,2024-08-29,Stolen,Home
+1236,2B,,Caught Stealing 3B,661388,William Contreras,477132,Clayton Kershaw,656555,Rhys Hoskins,L,Will Smith,669257,0,0,2,False,2024-08-12,Caught,3B
+2670,1B,2B,Stolen Base 2B,661388,William Contreras,641835,Tim Mayza,592885,Christian Yelich,L,Alejandro Kirk,672386,3,1,6,False,2024-06-12,Stolen,2B
+2966,1B,2B,Stolen Base 2B,661388,William Contreras,543294,Kyle Hendricks,592885,Christian Yelich,R,Yan Gomes,543228,8,4,7,False,2024-05-29,Stolen,2B
+3530,1B,2B,Caught Stealing 3B,661388,William Contreras,519293,Will Smith,668930,Brice Turang,L,Salvador Perez,521692,3,2,8,True,2024-05-06,Caught,3B
+3621,1B,2B,Stolen Base 2B,661388,William Contreras,640470,Adbert Alzolay,642715,Willy Adames,R,Miguel Amaya,665804,1,2,8,True,2024-05-03,Stolen,2B
+3818,1B,2B,Stolen Base 2B,661388,William Contreras,656605,Mitch Keller,641343,Jake Bauers,R,Joey Bart,663698,3,3,5,True,2024-04-25,Stolen,2B
+4120,1B,2B,Stolen Base 2B,661388,William Contreras,669203,Corbin Burnes,656555,Rhys Hoskins,R,Adley Rutschman,668939,3,3,5,True,2024-04-14,Stolen,2B
+4706,1B,2B,Stolen Base 2B,661388,William Contreras,596271,Casey Lawrence,467793,Carlos Santana,R,Andrew Knizner,668800,3,6,9,True,2023-09-19,Stolen,2B
+4992,1B,2B,Stolen Base 2B,661388,William Contreras,642528,Jonathan Loáisiga,467793,Carlos Santana,R,Austin Wells,669224,2,4,7,True,2023-09-08,Stolen,2B
+5055,1B,2B,Stolen Base 2B,661388,William Contreras,675989,Cody Bolton,467793,Carlos Santana,R,Jason Delay,641511,1,3,5,True,2023-09-06,Stolen,2B
+5224,1B,2B,Stolen Base 2B,661388,William Contreras,543294,Kyle Hendricks,467793,Carlos Santana,R,Yan Gomes,543228,2,1,5,True,2023-08-30,Stolen,2B
+6022,3B,,Caught Stealing Home,661388,William Contreras,668933,Graham Ashcraft,686217,Sal Frelick,R,Tyler Stephenson,663886,1,2,3,False,2023-07-24,Caught,Home
+6606,1B,2B,Stolen Base 2B,661388,William Contreras,434378,Justin Verlander,680911,Owen Miller,R,Francisco Alvarez,682626,1,0,5,True,2023-06-26,Stolen,2B

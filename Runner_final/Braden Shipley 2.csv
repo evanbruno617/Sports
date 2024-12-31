@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+5019,1B,2B,Stolen Base 2B,640463,Braden Shipley,592789,Noah Syndergaard,516416,Jean Segura,R,René Rivera,425784,0,3,4,True,2016-08-11,Stolen,2B
+984,1B,2B,Stolen Base 2B,640463,Braden Shipley,592789,Noah Syndergaard,516416,Jean Segura,R,René Rivera,425784,0,3,4,True,2016-08-11,Stolen,2B
+4391,1B,2B,Stolen Base 2B,640463,Braden Shipley,592789,Noah Syndergaard,516416,Jean Segura,R,René Rivera,425784,0,3,4,True,2016-08-11,Stolen,2B

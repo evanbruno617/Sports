@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,664983,Jake McCarthy,448179,Rich Hill,606466,Ketel Marte,L,Henry Davis,680779,0,0,3,False,2023-07-07,Stolen,2B,2023,2024,29.8
+1,1B,2B,Stolen Base 2B,664983,Jake McCarthy,448179,Rich Hill,606466,Ketel Marte,L,Henry Davis,680779,4,0,4,False,2023-07-07,Stolen,2B,2023,2024,29.8
+2,1B,,Caught Stealing 2B,605113,Nick Ahmed,670990,Yohan Ramírez,664983,Jake McCarthy,R,Henry Davis,680779,5,1,5,False,2023-07-07,Caught,2B,2023,2024,29.8
+3,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,666971,Lourdes Gurriel Jr.,R,Henry Davis,680779,5,1,6,False,2023-07-07,Stolen,2B,2023,2024,29.8
+4,2B,3B,Stolen Base 3B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,3B,2023,2024,29.8
+5,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,2B,2023,2024,29.8
+6,1B,2B,Stolen Base 2B,664983,Jake McCarthy,448179,Rich Hill,606466,Ketel Marte,L,Henry Davis,680779,0,0,3,False,2023-07-07,Stolen,2B,2023,2024,29.8
+7,1B,2B,Stolen Base 2B,664983,Jake McCarthy,448179,Rich Hill,606466,Ketel Marte,L,Henry Davis,680779,4,0,4,False,2023-07-07,Stolen,2B,2023,2024,29.8
+8,1B,,Caught Stealing 2B,605113,Nick Ahmed,670990,Yohan Ramírez,664983,Jake McCarthy,R,Henry Davis,680779,5,1,5,False,2023-07-07,Caught,2B,2023,2024,29.8
+9,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,666971,Lourdes Gurriel Jr.,R,Henry Davis,680779,5,1,6,False,2023-07-07,Stolen,2B,2023,2024,29.8
+10,2B,3B,Stolen Base 3B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,3B,2023,2024,29.8
+11,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,2B,2023,2024,29.8

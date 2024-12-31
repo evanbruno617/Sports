@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3239,1B,2B,Stolen Base 2B,488671,Alex Avila,622608,Antonio Senzatela,518876,Merrill Kelly,R,Chris Iannetta,455104,0,0,2,True,2019-05-28,Stolen,2B
+6082,1B,2B,Stolen Base 2B,488671,Alex Avila,622608,Antonio Senzatela,518876,Merrill Kelly,R,Chris Iannetta,455104,0,0,2,True,2019-05-28,Stolen,2B
+8006,1B,2B,Stolen Base 2B,488671,Alex Avila,622608,Antonio Senzatela,518876,Merrill Kelly,R,Chris Iannetta,455104,0,0,2,True,2019-05-28,Stolen,2B
+2623,1B,,Caught Stealing 2B,488671,Alex Avila,425844,Zack Greinke,408234,Miguel Cabrera,R,Jeff Mathis,425772,0,2,1,False,2017-06-13,Caught,2B
+4809,1B,,Caught Stealing 2B,488671,Alex Avila,407890,Colby Lewis,592206,Nick Castellanos,R,Robinson Chirinos,455139,2,3,4,False,2014-05-25,Caught,2B
+5476,1B,,Caught Stealing 2B,488671,Alex Avila,489056,Charlie Leesman,461865,Andrew Romine,L,Adrian Nieto,543589,1,1,2,False,2014-04-22,Caught,2B
+5944,1B,,Caught Stealing 2B,488671,Alex Avila,450306,Jason Vargas,435079,Ian Kinsler,L,Brett Hayes,451109,0,0,3,False,2014-04-02,Caught,2B
+2565,1B,,Caught Stealing 2B,488671,Alex Avila,407890,Colby Lewis,592206,Nick Castellanos,R,Robinson Chirinos,455139,2,3,4,False,2014-05-25,Caught,2B
+3232,1B,,Caught Stealing 2B,488671,Alex Avila,489056,Charlie Leesman,461865,Andrew Romine,L,Adrian Nieto,543589,1,1,2,False,2014-04-22,Caught,2B
+3700,1B,,Caught Stealing 2B,488671,Alex Avila,450306,Jason Vargas,435079,Ian Kinsler,L,Brett Hayes,451109,0,0,3,False,2014-04-02,Caught,2B
+1995,1B,,Caught Stealing 2B,488671,Alex Avila,425844,Zack Greinke,408234,Miguel Cabrera,R,Jeff Mathis,425772,0,2,1,False,2017-06-13,Caught,2B

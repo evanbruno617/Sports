@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2799,1B,2B,Stolen Base 2B,502273,Mike Freeman,605513,Spencer Turnbull,596019,Francisco Lindor,R,John Hicks,543308,1,0,3,False,2019-06-22,Stolen,2B
+3516,1B,,Caught Stealing 2B,502273,Mike Freeman,605156,Aaron Brooks,547379,Roberto Pérez,R,Nick Hundley,460026,1,0,5,True,2019-05-11,Caught,2B
+3602,1B,,Caught Stealing 2B,502273,Mike Freeman,608337,Lucas Giolito,596019,Francisco Lindor,R,James McCann,543510,0,1,3,False,2019-05-07,Caught,2B
+1247,1B,2B,Stolen Base 2B,502273,Mike Freeman,642547,Freddy Peralta,663697,Jonathan India,R,Omar Narváez,553882,1,0,3,True,2021-07-10,Stolen,2B
+1454,1B,,Caught Stealing 2B,502273,Mike Freeman,663559,Bailey Falter,663697,Jonathan India,L,Andrew Knapp,595284,2,2,4,False,2021-06-28,Caught,2B
+1838,1B,,Caught Stealing 2B,502273,Mike Freeman,663559,Bailey Falter,663697,Jonathan India,L,Andrew Knapp,595284,2,2,4,False,2021-06-02,Caught,2B
+5642,1B,2B,Stolen Base 2B,502273,Mike Freeman,605513,Spencer Turnbull,596019,Francisco Lindor,R,John Hicks,543308,1,0,3,False,2019-06-22,Stolen,2B
+6359,1B,,Caught Stealing 2B,502273,Mike Freeman,605156,Aaron Brooks,547379,Roberto Pérez,R,Nick Hundley,460026,1,0,5,True,2019-05-11,Caught,2B
+6445,1B,,Caught Stealing 2B,502273,Mike Freeman,608337,Lucas Giolito,596019,Francisco Lindor,R,James McCann,543510,0,1,3,False,2019-05-07,Caught,2B
+3171,1B,2B,Stolen Base 2B,502273,Mike Freeman,642547,Freddy Peralta,663697,Jonathan India,R,Omar Narváez,553882,1,0,3,True,2021-07-10,Stolen,2B
+3378,1B,,Caught Stealing 2B,502273,Mike Freeman,663559,Bailey Falter,663697,Jonathan India,L,Andrew Knapp,595284,2,2,4,False,2021-06-28,Caught,2B
+3762,1B,,Caught Stealing 2B,502273,Mike Freeman,663559,Bailey Falter,663697,Jonathan India,L,Andrew Knapp,595284,2,2,4,False,2021-06-02,Caught,2B
+7566,1B,2B,Stolen Base 2B,502273,Mike Freeman,605513,Spencer Turnbull,596019,Francisco Lindor,R,John Hicks,543308,1,0,3,False,2019-06-22,Stolen,2B
+8283,1B,,Caught Stealing 2B,502273,Mike Freeman,605156,Aaron Brooks,547379,Roberto Pérez,R,Nick Hundley,460026,1,0,5,True,2019-05-11,Caught,2B
+8369,1B,,Caught Stealing 2B,502273,Mike Freeman,608337,Lucas Giolito,596019,Francisco Lindor,R,James McCann,543510,0,1,3,False,2019-05-07,Caught,2B

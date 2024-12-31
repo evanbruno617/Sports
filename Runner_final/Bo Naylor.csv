@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+321,1B,2B,Stolen Base 2B,666310,Bo Naylor,656353,Tucker Davidson,664702,Myles Straw,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B
+372,1B,2B,Stolen Base 2B,666310,Bo Naylor,641540,Dane Dunning,664702,Myles Straw,R,Jonah Heim,641680,0,0,2,False,2023-09-16,Stolen,2B
+474,1B,2B,Stolen Base 2B,666310,Bo Naylor,605154,John Brebbia,664702,Myles Straw,R,Joey Bart,663698,3,2,7,True,2023-09-11,Stolen,2B
+662,1B,2B,Stolen Base 2B,666310,Bo Naylor,543243,Sonny Gray,664702,Myles Straw,R,Christian Vázquez,543877,3,2,5,False,2023-09-05,Stolen,2B
+1544,1B,2B,Stolen Base 2B,666310,Bo Naylor,656302,Dylan Cease,664702,Myles Straw,R,Seby Zavala,664874,3,4,6,True,2023-07-27,Stolen,2B
+113,1B,,Caught Stealing 2B,666310,Bo Naylor,596001,Jakob Junis,680757,Steven Kwan,R,Tyler Stephenson,663886,1,0,3,False,2024-09-25,Caught,2B
+500,1B,2B,Stolen Base 2B,666310,Bo Naylor,680897,Nick Nastrini,677587,Brayan Rocchio,R,Korey Lee,686676,0,5,6,True,2024-09-09,Stolen,2B
+501,2B,3B,Stolen Base 3B,666310,Bo Naylor,680897,Nick Nastrini,700932,Kyle Manzardo,R,Korey Lee,686676,1,5,8,True,2024-09-09,Stolen,3B
+1112,1B,,Caught Stealing 2B,666310,Bo Naylor,642547,Freddy Peralta,677587,Brayan Rocchio,R,Gary Sánchez,596142,1,0,3,True,2024-08-17,Caught,2B
+1420,1B,2B,Stolen Base 2B,666310,Bo Naylor,668678,Zac Gallen,677587,Brayan Rocchio,R,Gabriel Moreno,672515,3,2,2,False,2024-08-05,Stolen,2B
+1706,1B,2B,Stolen Base 2B,666310,Bo Naylor,689225,Beau Brieske,680757,Steven Kwan,R,Carson Kelly,608348,1,1,8,False,2024-07-24,Stolen,2B
+2152,1B,2B,Stolen Base 2B,666310,Bo Naylor,641771,Chad Kuhl,677587,Brayan Rocchio,R,Korey Lee,686676,5,1,3,False,2024-07-04,Stolen,2B
+4046,1B,2B,Stolen Base 2B,666310,Bo Naylor,669711,Greg Weissert,664314,Estevan Florial,R,Connor Wong,657136,6,6,10,True,2024-04-16,Stolen,2B
+4150,1B,,Caught Stealing 2B,666310,Bo Naylor,657376,Clarke Schmidt,677587,Brayan Rocchio,R,Jose Trevino,624431,0,1,2,False,2024-04-13,Caught,2B
+4152,1B,,Caught Stealing 2B,666310,Bo Naylor,657376,Clarke Schmidt,677587,Brayan Rocchio,R,Jose Trevino,624431,0,1,2,False,2024-04-12,Caught,2B
+4735,1B,2B,Stolen Base 2B,666310,Bo Naylor,656353,Tucker Davidson,664702,Myles Straw,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B
+4786,1B,2B,Stolen Base 2B,666310,Bo Naylor,641540,Dane Dunning,664702,Myles Straw,R,Jonah Heim,641680,0,0,2,False,2023-09-16,Stolen,2B
+4888,1B,2B,Stolen Base 2B,666310,Bo Naylor,605154,John Brebbia,664702,Myles Straw,R,Joey Bart,663698,3,2,7,True,2023-09-11,Stolen,2B
+5076,1B,2B,Stolen Base 2B,666310,Bo Naylor,543243,Sonny Gray,664702,Myles Straw,R,Christian Vázquez,543877,3,2,5,False,2023-09-05,Stolen,2B
+5958,1B,2B,Stolen Base 2B,666310,Bo Naylor,656302,Dylan Cease,664702,Myles Straw,R,Seby Zavala,664874,3,4,6,True,2023-07-27,Stolen,2B

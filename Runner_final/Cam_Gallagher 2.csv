@@ -1,0 +1,224 @@
+,Unnamed: 0.1,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y,Current_Year,Sprint
+0,0,0,1B,2B,Stolen Base 2B,641313,Tim Anderson,518774,Matt Harvey,547989,José Abreu,R,Cam Gallagher,595956,0,0,1,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+1,1,1,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,672578,Carlos Hernández,608577,Nomar Mazara,R,Cam Gallagher,595956,0,2,6,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+2,2,2,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,664856,Chance Adams,664901,Danny Mendick,R,Cam Gallagher,595956,0,5,7,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+3,3,3,1B,2B,Stolen Base 2B,641313,Tim Anderson,534910,Jesse Hahn,660162,Yoán Moncada,R,Cam Gallagher,595956,3,4,6,True,2020-09-04,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+4,4,4,1B,2B,Stolen Base 2B,663611,Nick Madrigal,518813,Greg Holland,518735,Yasmani Grandal,R,Cam Gallagher,595956,2,2,9,False,2020-08-30,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+5,5,5,1B,2B,Stolen Base 2B,669242,Tommy Edman,596001,Jakob Junis,543543,Brad Miller,R,Cam Gallagher,595956,1,2,3,False,2020-08-26,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+6,6,6,1B,2B,Stolen Base 2B,641313,Tim Anderson,518774,Matt Harvey,547989,José Abreu,R,Cam Gallagher,595956,0,0,1,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+7,7,7,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,672578,Carlos Hernández,608577,Nomar Mazara,R,Cam Gallagher,595956,0,2,6,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+8,8,8,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,664856,Chance Adams,664901,Danny Mendick,R,Cam Gallagher,595956,0,5,7,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+9,9,9,1B,2B,Stolen Base 2B,641313,Tim Anderson,534910,Jesse Hahn,660162,Yoán Moncada,R,Cam Gallagher,595956,3,4,6,True,2020-09-04,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+10,10,10,1B,2B,Stolen Base 2B,663611,Nick Madrigal,518813,Greg Holland,518735,Yasmani Grandal,R,Cam Gallagher,595956,2,2,9,False,2020-08-30,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+11,11,11,1B,2B,Stolen Base 2B,669242,Tommy Edman,596001,Jakob Junis,543543,Brad Miller,R,Cam Gallagher,595956,1,2,3,False,2020-08-26,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+12,12,12,1B,2B,Stolen Base 2B,641313,Tim Anderson,518774,Matt Harvey,547989,José Abreu,R,Cam Gallagher,595956,0,0,1,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+13,13,13,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,672578,Carlos Hernández,608577,Nomar Mazara,R,Cam Gallagher,595956,0,2,6,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+14,14,14,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,664856,Chance Adams,664901,Danny Mendick,R,Cam Gallagher,595956,0,5,7,True,2020-09-06,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+15,15,15,1B,2B,Stolen Base 2B,641313,Tim Anderson,534910,Jesse Hahn,660162,Yoán Moncada,R,Cam Gallagher,595956,3,4,6,True,2020-09-04,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+16,16,16,1B,2B,Stolen Base 2B,663611,Nick Madrigal,518813,Greg Holland,518735,Yasmani Grandal,R,Cam Gallagher,595956,2,2,9,False,2020-08-30,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+17,17,17,1B,2B,Stolen Base 2B,669242,Tommy Edman,596001,Jakob Junis,543543,Brad Miller,R,Cam Gallagher,595956,1,2,3,False,2020-08-26,Stolen,2B,2020,2021,28.2,2021,28.2,2021,28.2
+18,18,18,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,0,0,1,True,2019-07-31,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+19,19,19,1B,2B,Stolen Base 2B,624415,Cavan Biggio,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,1,1,6,True,2019-07-31,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+20,20,20,1B,,Caught Stealing 2B,640458,Óscar Mercado,642098,Glenn Sparkman,502273,Mike Freeman,R,Cam Gallagher,595956,0,5,2,True,2019-07-27,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+21,21,21,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605347,Jorge López,640458,Óscar Mercado,R,Cam Gallagher,595956,1,5,7,True,2019-07-26,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+22,22,22,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605130,Scott Barlow,621020,Dansby Swanson,R,Cam Gallagher,595956,1,2,7,False,2019-07-23,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+23,23,23,1B,2B,Stolen Base 2B,592348,Niko Goodrum,605347,Jorge López,543308,John Hicks,R,Cam Gallagher,595956,3,6,3,True,2019-07-14,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+24,24,24,2B,3B,Stolen Base 3B,592348,Niko Goodrum,605347,Jorge López,493596,Gordon Beckham,R,Cam Gallagher,595956,3,8,3,True,2019-07-14,Stolen,3B,2019,2020,28.7,2020,28.7,2020,28.7
+25,25,25,1B,,Caught Stealing 2B,607208,Trea Turner,642098,Glenn Sparkman,594809,Adam Eaton,R,Cam Gallagher,595956,4,0,2,False,2019-07-06,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+26,26,26,1B,2B,Stolen Base 2B,453286,Max Scherzer,642098,Glenn Sparkman,607208,Trea Turner,R,Cam Gallagher,595956,4,0,4,False,2019-07-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+27,27,27,1B,2B,Stolen Base 2B,594809,Adam Eaton,605347,Jorge López,665742,Juan Soto,R,Cam Gallagher,595956,6,0,7,False,2019-07-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+28,28,28,1B,,Caught Stealing 2B,608700,Kevin Plawecki,456701,Homer Bailey,656252,Bobby Bradley,R,Cam Gallagher,595956,0,1,2,True,2019-07-04,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+29,29,29,1B,2B,Stolen Base 2B,596019,Francisco Lindor,503449,Wily Peralta,640458,Óscar Mercado,R,Cam Gallagher,595956,3,6,7,True,2019-07-04,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+30,30,30,1B,2B,Stolen Base 2B,596019,Francisco Lindor,596001,Jakob Junis,467793,Carlos Santana,R,Cam Gallagher,595956,0,0,1,False,2019-06-26,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+31,31,31,1B,,Caught Stealing 2B,596146,Max Kepler,641745,Brad Keller,641598,Mitch Garver,R,Cam Gallagher,595956,0,0,1,False,2019-06-14,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+32,32,32,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,543169,Brian Flynn,598265,Jackie Bradley Jr.,L,Cam Gallagher,595956,2,4,4,True,2019-06-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+33,33,33,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,605130,Scott Barlow,607752,Sam Travis,R,Cam Gallagher,595956,3,4,7,True,2019-06-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+34,34,34,1B,2B,Stolen Base 2B,608577,Nomar Mazara,605130,Scott Barlow,452254,Hunter Pence,R,Cam Gallagher,595956,3,1,8,False,2019-06-02,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+35,35,35,1B,2B,Stolen Base 2B,608597,Ronald Guzmán,518617,Jake Diekman,643396,Isiah Kiner-Falefa,L,Cam Gallagher,595956,5,1,8,False,2019-06-02,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+36,36,36,1B,2B,Stolen Base 2B,542454,Danny Santana,543169,Brian Flynn,452678,Asdrúbal Cabrera,L,Cam Gallagher,595956,4,1,5,False,2019-06-01,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+37,37,37,1B,2B,Stolen Base 2B,640449,Clint Frazier,502202,Brad Boxberger,570482,Gio Urshela,R,Cam Gallagher,595956,4,6,7,True,2019-05-25,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+38,38,38,1B,2B,Stolen Base 2B,640449,Clint Frazier,502202,Brad Boxberger,570482,Gio Urshela,R,Cam Gallagher,595956,4,6,7,True,2019-05-24,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+39,39,39,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,596001,Jakob Junis,642715,Willy Adames,R,Cam Gallagher,595956,3,2,7,True,2019-05-01,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+40,40,40,2B,3B,Stolen Base 3B,545361,Mike Trout,456701,Homer Bailey,592743,Andrelton Simmons,R,Cam Gallagher,595956,0,4,3,True,2019-04-28,Stolen,3B,2019,2020,28.7,2020,28.7,2020,28.7
+41,41,41,1B,,Caught Stealing 2B,592743,Andrelton Simmons,456701,Homer Bailey,600303,Tommy La Stella,R,Cam Gallagher,595956,0,4,3,True,2019-04-28,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+42,42,42,1B,2B,Stolen Base 2B,641313,Tim Anderson,605347,Jorge López,456078,Welington Castillo,R,Cam Gallagher,595956,0,1,2,False,2019-04-16,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+43,43,43,1B,2B,Stolen Base 2B,542921,Tim Beckham,641571,Heath Fillmyer,553882,Omar Narváez,R,Cam Gallagher,595956,1,1,2,True,2019-04-10,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+44,44,44,1B,2B,Stolen Base 2B,605480,Mallex Smith,453178,Ian Kennedy,571745,Mitch Haniger,R,Cam Gallagher,595956,3,5,7,True,2019-04-10,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+45,45,45,1B,2B,Stolen Base 2B,621439,Byron Buxton,503449,Wily Peralta,592696,Eddie Rosario,R,Cam Gallagher,595956,6,7,9,True,2019-04-03,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+46,46,46,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,0,0,1,True,2019-07-31,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+47,47,47,1B,2B,Stolen Base 2B,624415,Cavan Biggio,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,1,1,6,True,2019-07-31,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+48,48,48,1B,,Caught Stealing 2B,640458,Óscar Mercado,642098,Glenn Sparkman,502273,Mike Freeman,R,Cam Gallagher,595956,0,5,2,True,2019-07-27,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+49,49,49,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605347,Jorge López,640458,Óscar Mercado,R,Cam Gallagher,595956,1,5,7,True,2019-07-26,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+50,50,50,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605130,Scott Barlow,621020,Dansby Swanson,R,Cam Gallagher,595956,1,2,7,False,2019-07-23,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+51,51,51,1B,2B,Stolen Base 2B,592348,Niko Goodrum,605347,Jorge López,543308,John Hicks,R,Cam Gallagher,595956,3,6,3,True,2019-07-14,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+52,52,52,2B,3B,Stolen Base 3B,592348,Niko Goodrum,605347,Jorge López,493596,Gordon Beckham,R,Cam Gallagher,595956,3,8,3,True,2019-07-14,Stolen,3B,2019,2020,28.7,2020,28.7,2020,28.7
+53,53,53,1B,,Caught Stealing 2B,607208,Trea Turner,642098,Glenn Sparkman,594809,Adam Eaton,R,Cam Gallagher,595956,4,0,2,False,2019-07-06,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+54,54,54,1B,2B,Stolen Base 2B,453286,Max Scherzer,642098,Glenn Sparkman,607208,Trea Turner,R,Cam Gallagher,595956,4,0,4,False,2019-07-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+55,55,55,1B,2B,Stolen Base 2B,594809,Adam Eaton,605347,Jorge López,665742,Juan Soto,R,Cam Gallagher,595956,6,0,7,False,2019-07-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+56,56,56,1B,,Caught Stealing 2B,608700,Kevin Plawecki,456701,Homer Bailey,656252,Bobby Bradley,R,Cam Gallagher,595956,0,1,2,True,2019-07-04,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+57,57,57,1B,2B,Stolen Base 2B,596019,Francisco Lindor,503449,Wily Peralta,640458,Óscar Mercado,R,Cam Gallagher,595956,3,6,7,True,2019-07-04,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+58,58,58,1B,2B,Stolen Base 2B,596019,Francisco Lindor,596001,Jakob Junis,467793,Carlos Santana,R,Cam Gallagher,595956,0,0,1,False,2019-06-26,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+59,59,59,1B,,Caught Stealing 2B,596146,Max Kepler,641745,Brad Keller,641598,Mitch Garver,R,Cam Gallagher,595956,0,0,1,False,2019-06-14,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+60,60,60,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,543169,Brian Flynn,598265,Jackie Bradley Jr.,L,Cam Gallagher,595956,2,4,4,True,2019-06-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+61,61,61,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,605130,Scott Barlow,607752,Sam Travis,R,Cam Gallagher,595956,3,4,7,True,2019-06-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+62,62,62,1B,2B,Stolen Base 2B,608577,Nomar Mazara,605130,Scott Barlow,452254,Hunter Pence,R,Cam Gallagher,595956,3,1,8,False,2019-06-02,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+63,63,63,1B,2B,Stolen Base 2B,608597,Ronald Guzmán,518617,Jake Diekman,643396,Isiah Kiner-Falefa,L,Cam Gallagher,595956,5,1,8,False,2019-06-02,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+64,64,64,1B,2B,Stolen Base 2B,542454,Danny Santana,543169,Brian Flynn,452678,Asdrúbal Cabrera,L,Cam Gallagher,595956,4,1,5,False,2019-06-01,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+65,65,65,1B,2B,Stolen Base 2B,640449,Clint Frazier,502202,Brad Boxberger,570482,Gio Urshela,R,Cam Gallagher,595956,4,6,7,True,2019-05-25,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+66,66,66,1B,2B,Stolen Base 2B,640449,Clint Frazier,502202,Brad Boxberger,570482,Gio Urshela,R,Cam Gallagher,595956,4,6,7,True,2019-05-24,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+67,67,67,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,596001,Jakob Junis,642715,Willy Adames,R,Cam Gallagher,595956,3,2,7,True,2019-05-01,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+68,68,68,2B,3B,Stolen Base 3B,545361,Mike Trout,456701,Homer Bailey,592743,Andrelton Simmons,R,Cam Gallagher,595956,0,4,3,True,2019-04-28,Stolen,3B,2019,2020,28.7,2020,28.7,2020,28.7
+69,69,69,1B,,Caught Stealing 2B,592743,Andrelton Simmons,456701,Homer Bailey,600303,Tommy La Stella,R,Cam Gallagher,595956,0,4,3,True,2019-04-28,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+70,70,70,1B,2B,Stolen Base 2B,641313,Tim Anderson,605347,Jorge López,456078,Welington Castillo,R,Cam Gallagher,595956,0,1,2,False,2019-04-16,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+71,71,71,1B,2B,Stolen Base 2B,542921,Tim Beckham,641571,Heath Fillmyer,553882,Omar Narváez,R,Cam Gallagher,595956,1,1,2,True,2019-04-10,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+72,72,72,1B,2B,Stolen Base 2B,605480,Mallex Smith,453178,Ian Kennedy,571745,Mitch Haniger,R,Cam Gallagher,595956,3,5,7,True,2019-04-10,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+73,73,73,1B,2B,Stolen Base 2B,621439,Byron Buxton,503449,Wily Peralta,592696,Eddie Rosario,R,Cam Gallagher,595956,6,7,9,True,2019-04-03,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+74,74,74,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,0,0,1,True,2019-07-31,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+75,75,75,1B,2B,Stolen Base 2B,624415,Cavan Biggio,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,1,1,6,True,2019-07-31,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+76,76,76,1B,,Caught Stealing 2B,640458,Óscar Mercado,642098,Glenn Sparkman,502273,Mike Freeman,R,Cam Gallagher,595956,0,5,2,True,2019-07-27,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+77,77,77,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605347,Jorge López,640458,Óscar Mercado,R,Cam Gallagher,595956,1,5,7,True,2019-07-26,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+78,78,78,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605130,Scott Barlow,621020,Dansby Swanson,R,Cam Gallagher,595956,1,2,7,False,2019-07-23,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+79,79,79,1B,2B,Stolen Base 2B,592348,Niko Goodrum,605347,Jorge López,543308,John Hicks,R,Cam Gallagher,595956,3,6,3,True,2019-07-14,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+80,80,80,2B,3B,Stolen Base 3B,592348,Niko Goodrum,605347,Jorge López,493596,Gordon Beckham,R,Cam Gallagher,595956,3,8,3,True,2019-07-14,Stolen,3B,2019,2020,28.7,2020,28.7,2020,28.7
+81,81,81,1B,,Caught Stealing 2B,607208,Trea Turner,642098,Glenn Sparkman,594809,Adam Eaton,R,Cam Gallagher,595956,4,0,2,False,2019-07-06,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+82,82,82,1B,2B,Stolen Base 2B,453286,Max Scherzer,642098,Glenn Sparkman,607208,Trea Turner,R,Cam Gallagher,595956,4,0,4,False,2019-07-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+83,83,83,1B,2B,Stolen Base 2B,594809,Adam Eaton,605347,Jorge López,665742,Juan Soto,R,Cam Gallagher,595956,6,0,7,False,2019-07-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+84,84,84,1B,,Caught Stealing 2B,608700,Kevin Plawecki,456701,Homer Bailey,656252,Bobby Bradley,R,Cam Gallagher,595956,0,1,2,True,2019-07-04,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+85,85,85,1B,2B,Stolen Base 2B,596019,Francisco Lindor,503449,Wily Peralta,640458,Óscar Mercado,R,Cam Gallagher,595956,3,6,7,True,2019-07-04,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+86,86,86,1B,2B,Stolen Base 2B,596019,Francisco Lindor,596001,Jakob Junis,467793,Carlos Santana,R,Cam Gallagher,595956,0,0,1,False,2019-06-26,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+87,87,87,1B,,Caught Stealing 2B,596146,Max Kepler,641745,Brad Keller,641598,Mitch Garver,R,Cam Gallagher,595956,0,0,1,False,2019-06-14,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+88,88,88,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,543169,Brian Flynn,598265,Jackie Bradley Jr.,L,Cam Gallagher,595956,2,4,4,True,2019-06-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+89,89,89,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,605130,Scott Barlow,607752,Sam Travis,R,Cam Gallagher,595956,3,4,7,True,2019-06-06,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+90,90,90,1B,2B,Stolen Base 2B,608577,Nomar Mazara,605130,Scott Barlow,452254,Hunter Pence,R,Cam Gallagher,595956,3,1,8,False,2019-06-02,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+91,91,91,1B,2B,Stolen Base 2B,608597,Ronald Guzmán,518617,Jake Diekman,643396,Isiah Kiner-Falefa,L,Cam Gallagher,595956,5,1,8,False,2019-06-02,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+92,92,92,1B,2B,Stolen Base 2B,542454,Danny Santana,543169,Brian Flynn,452678,Asdrúbal Cabrera,L,Cam Gallagher,595956,4,1,5,False,2019-06-01,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+93,93,93,1B,2B,Stolen Base 2B,640449,Clint Frazier,502202,Brad Boxberger,570482,Gio Urshela,R,Cam Gallagher,595956,4,6,7,True,2019-05-25,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+94,94,94,1B,2B,Stolen Base 2B,640449,Clint Frazier,502202,Brad Boxberger,570482,Gio Urshela,R,Cam Gallagher,595956,4,6,7,True,2019-05-24,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+95,95,95,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,596001,Jakob Junis,642715,Willy Adames,R,Cam Gallagher,595956,3,2,7,True,2019-05-01,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+96,96,96,2B,3B,Stolen Base 3B,545361,Mike Trout,456701,Homer Bailey,592743,Andrelton Simmons,R,Cam Gallagher,595956,0,4,3,True,2019-04-28,Stolen,3B,2019,2020,28.7,2020,28.7,2020,28.7
+97,97,97,1B,,Caught Stealing 2B,592743,Andrelton Simmons,456701,Homer Bailey,600303,Tommy La Stella,R,Cam Gallagher,595956,0,4,3,True,2019-04-28,Caught,2B,2019,2020,28.7,2020,28.7,2020,28.7
+98,98,98,1B,2B,Stolen Base 2B,641313,Tim Anderson,605347,Jorge López,456078,Welington Castillo,R,Cam Gallagher,595956,0,1,2,False,2019-04-16,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+99,99,99,1B,2B,Stolen Base 2B,542921,Tim Beckham,641571,Heath Fillmyer,553882,Omar Narváez,R,Cam Gallagher,595956,1,1,2,True,2019-04-10,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+100,100,100,1B,2B,Stolen Base 2B,605480,Mallex Smith,453178,Ian Kennedy,571745,Mitch Haniger,R,Cam Gallagher,595956,3,5,7,True,2019-04-10,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+101,101,101,1B,2B,Stolen Base 2B,621439,Byron Buxton,503449,Wily Peralta,592696,Eddie Rosario,R,Cam Gallagher,595956,6,7,9,True,2019-04-03,Stolen,2B,2019,2020,28.7,2020,28.7,2020,28.7
+102,102,102,1B,2B,Stolen Base 2B,640458,Óscar Mercado,622092,Kyle Zimmer,664702,Myles Straw,R,Cam Gallagher,595956,1,5,9,True,2021-09-30,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+103,103,103,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,663460,Kris Bubic,641933,Tyler O'Neill,L,Cam Gallagher,595956,0,1,1,True,2021-08-15,Stolen,3B,2021,2022,28.4,2022,28.4,2022,28.4
+104,104,104,2B,3B,Stolen Base 3B,642180,Tyler Wade,663903,Brady Singer,518934,DJ LeMahieu,R,Cam Gallagher,595956,1,4,4,True,2021-08-11,Stolen,3B,2021,2022,28.4,2022,28.4,2022,28.4
+105,105,105,1B,,Caught Stealing 2B,623205,Andrew Velazquez,663992,Richard Lovelady,642180,Tyler Wade,L,Cam Gallagher,595956,1,5,5,True,2021-08-11,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+106,106,106,1B,2B,Stolen Base 2B,642180,Tyler Wade,593619,Domingo Tapia,518934,DJ LeMahieu,R,Cam Gallagher,595956,2,5,6,True,2021-08-11,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+107,107,107,1B,2B,Stolen Base 2B,642180,Tyler Wade,641394,Jake Brentz,458731,Brett Gardner,L,Cam Gallagher,595956,1,1,8,True,2021-08-09,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+108,108,108,1B,,Caught Stealing 2B,668731,Akil Baddoo,663903,Brady Singer,600869,Jeimer Candelario,R,Cam Gallagher,595956,0,0,1,True,2021-06-16,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+109,109,109,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,0,0,1,False,2021-05-27,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+110,110,110,1B,,Caught Stealing 2B,621563,Joey Wendle,663903,Brady Singer,670764,Taylor Walls,R,Cam Gallagher,595956,3,0,1,False,2021-05-27,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+111,111,111,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,3,0,3,False,2021-05-27,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+112,112,112,1B,2B,Stolen Base 2B,621433,Brett Phillips,641745,Brad Keller,640457,Austin Meadows,R,Cam Gallagher,595956,0,0,3,False,2021-05-25,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+113,113,113,1B,,Caught Stealing 2B,621563,Joey Wendle,641745,Brad Keller,670764,Taylor Walls,R,Cam Gallagher,595956,1,1,4,False,2021-05-25,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+114,114,114,1B,2B,Stolen Base 2B,543939,Kolten Wong,641745,Brad Keller,456715,Lorenzo Cain,R,Cam Gallagher,595956,2,1,3,True,2021-05-19,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+115,115,115,1B,2B,Stolen Base 2B,592885,Christian Yelich,605130,Scott Barlow,553882,Omar Narváez,R,Cam Gallagher,595956,2,3,7,True,2021-05-19,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+116,116,116,1B,2B,Stolen Base 2B,641313,Tim Anderson,663903,Brady Singer,594809,Adam Eaton,R,Cam Gallagher,595956,2,1,5,False,2021-05-16,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+117,117,117,1B,2B,Stolen Base 2B,640458,Óscar Mercado,622092,Kyle Zimmer,664702,Myles Straw,R,Cam Gallagher,595956,1,5,9,True,2021-09-30,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+118,118,118,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,663460,Kris Bubic,641933,Tyler O'Neill,L,Cam Gallagher,595956,0,1,1,True,2021-08-15,Stolen,3B,2021,2022,28.4,2022,28.4,2022,28.4
+119,119,119,2B,3B,Stolen Base 3B,642180,Tyler Wade,663903,Brady Singer,518934,DJ LeMahieu,R,Cam Gallagher,595956,1,4,4,True,2021-08-11,Stolen,3B,2021,2022,28.4,2022,28.4,2022,28.4
+120,120,120,1B,,Caught Stealing 2B,623205,Andrew Velazquez,663992,Richard Lovelady,642180,Tyler Wade,L,Cam Gallagher,595956,1,5,5,True,2021-08-11,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+121,121,121,1B,2B,Stolen Base 2B,642180,Tyler Wade,593619,Domingo Tapia,518934,DJ LeMahieu,R,Cam Gallagher,595956,2,5,6,True,2021-08-11,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+122,122,122,1B,2B,Stolen Base 2B,642180,Tyler Wade,641394,Jake Brentz,458731,Brett Gardner,L,Cam Gallagher,595956,1,1,8,True,2021-08-09,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+123,123,123,1B,,Caught Stealing 2B,668731,Akil Baddoo,663903,Brady Singer,600869,Jeimer Candelario,R,Cam Gallagher,595956,0,0,1,True,2021-06-16,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+124,124,124,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,0,0,1,False,2021-05-27,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+125,125,125,1B,,Caught Stealing 2B,621563,Joey Wendle,663903,Brady Singer,670764,Taylor Walls,R,Cam Gallagher,595956,3,0,1,False,2021-05-27,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+126,126,126,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,3,0,3,False,2021-05-27,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+127,127,127,1B,2B,Stolen Base 2B,621433,Brett Phillips,641745,Brad Keller,640457,Austin Meadows,R,Cam Gallagher,595956,0,0,3,False,2021-05-25,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+128,128,128,1B,,Caught Stealing 2B,621563,Joey Wendle,641745,Brad Keller,670764,Taylor Walls,R,Cam Gallagher,595956,1,1,4,False,2021-05-25,Caught,2B,2021,2022,28.4,2022,28.4,2022,28.4
+129,129,129,1B,2B,Stolen Base 2B,543939,Kolten Wong,641745,Brad Keller,456715,Lorenzo Cain,R,Cam Gallagher,595956,2,1,3,True,2021-05-19,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+130,130,130,1B,2B,Stolen Base 2B,592885,Christian Yelich,605130,Scott Barlow,553882,Omar Narváez,R,Cam Gallagher,595956,2,3,7,True,2021-05-19,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+131,131,131,1B,2B,Stolen Base 2B,641313,Tim Anderson,663903,Brady Singer,594809,Adam Eaton,R,Cam Gallagher,595956,2,1,5,False,2021-05-16,Stolen,2B,2021,2022,28.4,2022,28.4,2022,28.4
+132,132,132,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669456,Shane Bieber,666181,Will Benson,R,Cam Gallagher,595956,4,0,5,True,2023-09-27,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+133,133,133,1B,2B,Stolen Base 2B,670770,TJ Friedl,669456,Shane Bieber,687952,Christian Encarnacion-Strand,R,Cam Gallagher,595956,4,1,6,True,2023-09-27,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+134,134,134,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,625643,Reynaldo López,666181,Will Benson,R,Cam Gallagher,595956,4,1,7,True,2023-09-27,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+135,135,135,1B,2B,Stolen Base 2B,650489,Willi Castro,668909,Gavin Williams,680777,Ryan Jeffers,R,Cam Gallagher,595956,2,0,5,True,2023-09-06,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+136,136,136,1B,,Caught Stealing 2B,680777,Ryan Jeffers,625643,Reynaldo López,666397,Edouard Julien,R,Cam Gallagher,595956,2,1,7,True,2023-09-06,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+137,137,137,1B,2B,Stolen Base 2B,666139,Josh Lowe,669212,Eli Morgan,623912,Harold Ramírez,R,Cam Gallagher,595956,2,3,7,False,2023-08-12,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+138,138,138,1B,2B,Stolen Base 2B,668227,Randy Arozarena,663986,Trevor Stephan,670623,Isaac Paredes,R,Cam Gallagher,595956,2,5,8,False,2023-08-12,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+139,139,139,1B,2B,Stolen Base 2B,664040,Brandon Lowe,661403,Emmanuel Clase,668227,Randy Arozarena,R,Cam Gallagher,595956,6,5,9,False,2023-08-12,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+140,140,140,1B,,Caught Stealing 2B,676694,Jake Meyers,668909,Gavin Williams,455117,Martín Maldonado,R,Cam Gallagher,595956,0,0,3,False,2023-08-01,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+141,141,141,1B,,Caught Stealing 2B,667452,Corey Julks,669456,Shane Bieber,608324,Alex Bregman,R,Cam Gallagher,595956,2,0,4,True,2023-06-11,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+142,142,142,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,675916,James Karinchak,624414,Christian Arroyo,R,Cam Gallagher,595956,3,2,6,True,2023-06-08,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+143,143,143,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,663474,Triston McKenzie,593871,Jorge Polanco,R,Cam Gallagher,595956,0,0,3,False,2023-06-04,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+144,144,144,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,675916,James Karinchak,593871,Jorge Polanco,R,Cam Gallagher,595956,0,0,6,False,2023-06-04,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+145,145,145,1B,,Caught Stealing 2B,656775,Cedric Mullins,671106,Logan Allen,669720,Austin Hays,L,Cam Gallagher,595956,0,0,1,False,2023-05-29,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+146,146,146,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,661403,Emmanuel Clase,596129,Daniel Vogelbach,R,Cam Gallagher,595956,8,9,10,False,2023-05-19,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+147,147,147,1B,,Caught Stealing 2B,641313,Tim Anderson,671106,Logan Allen,673357,Luis Robert Jr.,L,Cam Gallagher,595956,0,0,3,False,2023-05-18,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+148,148,148,1B,,Caught Stealing 2B,669394,Jake Burger,671106,Logan Allen,518735,Yasmani Grandal,L,Cam Gallagher,595956,1,1,5,False,2023-05-18,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+149,149,149,1B,2B,Stolen Base 2B,682985,Riley Greene,669456,Shane Bieber,665155,Nick Maton,R,Cam Gallagher,595956,0,0,1,True,2023-05-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+150,150,150,1B,2B,Stolen Base 2B,595879,Javier Báez,669456,Shane Bieber,679529,Spencer Torkelson,R,Cam Gallagher,595956,1,0,3,True,2023-05-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+151,151,151,1B,2B,Stolen Base 2B,656716,Zach McKinstry,669456,Shane Bieber,682985,Riley Greene,R,Cam Gallagher,595956,1,0,5,True,2023-05-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+152,152,152,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,675916,James Karinchak,596146,Max Kepler,R,Cam Gallagher,595956,2,0,8,True,2023-05-07,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+153,153,153,1B,2B,Stolen Base 2B,641658,Garrett Hampson,675916,James Karinchak,541645,Avisaíl García,R,Cam Gallagher,595956,1,2,6,True,2023-04-22,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+154,154,154,2B,3B,Stolen Base 3B,650559,Bryan De La Cruz,669212,Eli Morgan,542932,Jon Berti,R,Cam Gallagher,595956,1,3,7,True,2023-04-22,Stolen,3B,2023,2024,27.1,2024,27.1,2024,27.1
+155,155,155,1B,2B,Stolen Base 2B,641658,Garrett Hampson,675916,James Karinchak,541645,Avisaíl García,R,Cam Gallagher,595956,1,2,6,True,2023-04-21,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+156,156,156,2B,3B,Stolen Base 3B,650559,Bryan De La Cruz,669212,Eli Morgan,542932,Jon Berti,R,Cam Gallagher,595956,1,3,7,True,2023-04-21,Stolen,3B,2023,2024,27.1,2024,27.1,2024,27.1
+157,157,157,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,668676,Zach Plesac,672284,Jarred Kelenic,R,Cam Gallagher,595956,1,2,6,True,2023-04-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+158,158,158,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,663986,Trevor Stephan,664034,Ty France,R,Cam Gallagher,595956,3,3,10,True,2023-04-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+159,159,159,1B,2B,Stolen Base 2B,664059,Sam Haggerty,660853,Enyel De Los Santos,641487,J.P. Crawford,R,Cam Gallagher,595956,3,5,11,True,2023-04-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+160,160,160,1B,2B,Stolen Base 2B,607054,Jace Peterson,683769,Hunter Gaddis,664913,Seth Brown,R,Cam Gallagher,595956,0,0,1,False,2023-04-05,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+161,161,161,1B,2B,Stolen Base 2B,668843,Conner Capel,669212,Eli Morgan,676116,Ryan Noda,R,Cam Gallagher,595956,4,4,9,False,2023-04-05,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+162,162,162,2B,3B,Stolen Base 3B,668843,Conner Capel,669212,Eli Morgan,669397,Nick Allen,R,Cam Gallagher,595956,4,4,9,False,2023-04-05,Stolen,3B,2023,2024,27.1,2024,27.1,2024,27.1
+163,163,163,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,650644,Aaron Civale,664034,Ty France,R,Cam Gallagher,595956,0,0,1,False,2023-04-01,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+164,164,164,1B,,Caught Stealing 2B,606192,Teoscar Hernández,650644,Aaron Civale,600303,Tommy La Stella,R,Cam Gallagher,595956,0,0,2,False,2023-04-01,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+165,165,165,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669456,Shane Bieber,666181,Will Benson,R,Cam Gallagher,595956,4,0,5,True,2023-09-27,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+166,166,166,1B,2B,Stolen Base 2B,670770,TJ Friedl,669456,Shane Bieber,687952,Christian Encarnacion-Strand,R,Cam Gallagher,595956,4,1,6,True,2023-09-27,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+167,167,167,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,625643,Reynaldo López,666181,Will Benson,R,Cam Gallagher,595956,4,1,7,True,2023-09-27,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+168,168,168,1B,2B,Stolen Base 2B,650489,Willi Castro,668909,Gavin Williams,680777,Ryan Jeffers,R,Cam Gallagher,595956,2,0,5,True,2023-09-06,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+169,169,169,1B,,Caught Stealing 2B,680777,Ryan Jeffers,625643,Reynaldo López,666397,Edouard Julien,R,Cam Gallagher,595956,2,1,7,True,2023-09-06,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+170,170,170,1B,2B,Stolen Base 2B,666139,Josh Lowe,669212,Eli Morgan,623912,Harold Ramírez,R,Cam Gallagher,595956,2,3,7,False,2023-08-12,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+171,171,171,1B,2B,Stolen Base 2B,668227,Randy Arozarena,663986,Trevor Stephan,670623,Isaac Paredes,R,Cam Gallagher,595956,2,5,8,False,2023-08-12,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+172,172,172,1B,2B,Stolen Base 2B,664040,Brandon Lowe,661403,Emmanuel Clase,668227,Randy Arozarena,R,Cam Gallagher,595956,6,5,9,False,2023-08-12,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+173,173,173,1B,,Caught Stealing 2B,676694,Jake Meyers,668909,Gavin Williams,455117,Martín Maldonado,R,Cam Gallagher,595956,0,0,3,False,2023-08-01,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+174,174,174,1B,,Caught Stealing 2B,667452,Corey Julks,669456,Shane Bieber,608324,Alex Bregman,R,Cam Gallagher,595956,2,0,4,True,2023-06-11,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+175,175,175,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,675916,James Karinchak,624414,Christian Arroyo,R,Cam Gallagher,595956,3,2,6,True,2023-06-08,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+176,176,176,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,663474,Triston McKenzie,593871,Jorge Polanco,R,Cam Gallagher,595956,0,0,3,False,2023-06-04,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+177,177,177,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,675916,James Karinchak,593871,Jorge Polanco,R,Cam Gallagher,595956,0,0,6,False,2023-06-04,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+178,178,178,1B,,Caught Stealing 2B,656775,Cedric Mullins,671106,Logan Allen,669720,Austin Hays,L,Cam Gallagher,595956,0,0,1,False,2023-05-29,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+179,179,179,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,661403,Emmanuel Clase,596129,Daniel Vogelbach,R,Cam Gallagher,595956,8,9,10,False,2023-05-19,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+180,180,180,1B,,Caught Stealing 2B,641313,Tim Anderson,671106,Logan Allen,673357,Luis Robert Jr.,L,Cam Gallagher,595956,0,0,3,False,2023-05-18,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+181,181,181,1B,,Caught Stealing 2B,669394,Jake Burger,671106,Logan Allen,518735,Yasmani Grandal,L,Cam Gallagher,595956,1,1,5,False,2023-05-18,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+182,182,182,1B,2B,Stolen Base 2B,682985,Riley Greene,669456,Shane Bieber,665155,Nick Maton,R,Cam Gallagher,595956,0,0,1,True,2023-05-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+183,183,183,1B,2B,Stolen Base 2B,595879,Javier Báez,669456,Shane Bieber,679529,Spencer Torkelson,R,Cam Gallagher,595956,1,0,3,True,2023-05-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+184,184,184,1B,2B,Stolen Base 2B,656716,Zach McKinstry,669456,Shane Bieber,682985,Riley Greene,R,Cam Gallagher,595956,1,0,5,True,2023-05-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+185,185,185,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,675916,James Karinchak,596146,Max Kepler,R,Cam Gallagher,595956,2,0,8,True,2023-05-07,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+186,186,186,1B,2B,Stolen Base 2B,641658,Garrett Hampson,675916,James Karinchak,541645,Avisaíl García,R,Cam Gallagher,595956,1,2,6,True,2023-04-22,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+187,187,187,2B,3B,Stolen Base 3B,650559,Bryan De La Cruz,669212,Eli Morgan,542932,Jon Berti,R,Cam Gallagher,595956,1,3,7,True,2023-04-22,Stolen,3B,2023,2024,27.1,2024,27.1,2024,27.1
+188,188,188,1B,2B,Stolen Base 2B,641658,Garrett Hampson,675916,James Karinchak,541645,Avisaíl García,R,Cam Gallagher,595956,1,2,6,True,2023-04-21,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+189,189,189,2B,3B,Stolen Base 3B,650559,Bryan De La Cruz,669212,Eli Morgan,542932,Jon Berti,R,Cam Gallagher,595956,1,3,7,True,2023-04-21,Stolen,3B,2023,2024,27.1,2024,27.1,2024,27.1
+190,190,190,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,668676,Zach Plesac,672284,Jarred Kelenic,R,Cam Gallagher,595956,1,2,6,True,2023-04-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+191,191,191,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,663986,Trevor Stephan,664034,Ty France,R,Cam Gallagher,595956,3,3,10,True,2023-04-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+192,192,192,1B,2B,Stolen Base 2B,664059,Sam Haggerty,660853,Enyel De Los Santos,641487,J.P. Crawford,R,Cam Gallagher,595956,3,5,11,True,2023-04-09,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+193,193,193,1B,2B,Stolen Base 2B,607054,Jace Peterson,683769,Hunter Gaddis,664913,Seth Brown,R,Cam Gallagher,595956,0,0,1,False,2023-04-05,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+194,194,194,1B,2B,Stolen Base 2B,668843,Conner Capel,669212,Eli Morgan,676116,Ryan Noda,R,Cam Gallagher,595956,4,4,9,False,2023-04-05,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+195,195,195,2B,3B,Stolen Base 3B,668843,Conner Capel,669212,Eli Morgan,669397,Nick Allen,R,Cam Gallagher,595956,4,4,9,False,2023-04-05,Stolen,3B,2023,2024,27.1,2024,27.1,2024,27.1
+196,196,196,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,650644,Aaron Civale,664034,Ty France,R,Cam Gallagher,595956,0,0,1,False,2023-04-01,Stolen,2B,2023,2024,27.1,2024,27.1,2024,27.1
+197,197,197,1B,,Caught Stealing 2B,606192,Teoscar Hernández,650644,Aaron Civale,600303,Tommy La Stella,R,Cam Gallagher,595956,0,0,2,False,2023-04-01,Caught,2B,2023,2024,27.1,2024,27.1,2024,27.1
+198,198,198,1B,2B,Stolen Base 2B,650489,Willi Castro,641745,Brad Keller,679529,Spencer Torkelson,R,Cam Gallagher,595956,0,0,2,True,2022-07-11,Stolen,2B,2022,2023,27.2,2023,27.2,2023,27.2
+199,199,199,1B,2B,Stolen Base 2B,608070,José Ramírez,425844,Zack Greinke,614177,Franmil Reyes,R,Cam Gallagher,595956,0,0,1,True,2022-07-10,Stolen,2B,2022,2023,27.2,2023,27.2,2023,27.2
+200,200,200,1B,,Caught Stealing 2B,682985,Riley Greene,663903,Brady Singer,605612,Harold Castro,R,Cam Gallagher,595956,0,3,3,False,2022-07-03,Caught,2B,2022,2023,27.2,2023,27.2,2023,27.2
+201,201,201,1B,2B,Stolen Base 2B,657656,Ramón Laureano,641745,Brad Keller,664913,Seth Brown,R,Cam Gallagher,595956,0,1,1,True,2022-06-25,Stolen,2B,2022,2023,27.2,2023,27.2,2023,27.2
+202,202,202,1B,,Caught Stealing 2B,462101,Elvis Andrus,641745,Brad Keller,669397,Nick Allen,R,Cam Gallagher,595956,0,2,2,True,2022-06-25,Caught,2B,2022,2023,27.2,2023,27.2,2023,27.2
+203,203,203,1B,2B,Stolen Base 2B,650489,Willi Castro,641745,Brad Keller,679529,Spencer Torkelson,R,Cam Gallagher,595956,0,0,2,True,2022-04-17,Stolen,2B,2022,2023,27.2,2023,27.2,2023,27.2
+204,204,204,2B,3B,Stolen Base 3B,592444,JaCoby Jones,434628,Jason Hammel,578428,Jose Iglesias,R,Cam Gallagher,595956,1,0,5,False,2018-04-20,Stolen,3B,2018,2019,28.7,2019,28.7,2019,28.7
+205,205,205,1B,2B,Stolen Base 2B,435079,Ian Kinsler,434628,Jason Hammel,545361,Mike Trout,R,Cam Gallagher,595956,0,0,3,True,2018-04-13,Stolen,2B,2018,2019,28.7,2019,28.7,2019,28.7
+206,206,206,1B,2B,Stolen Base 2B,435079,Ian Kinsler,434628,Jason Hammel,457708,Justin Upton,R,Cam Gallagher,595956,4,2,5,True,2018-04-13,Stolen,2B,2018,2019,28.7,2019,28.7,2019,28.7
+207,207,207,1B,2B,Stolen Base 2B,605548,Bradley Zimmer,518748,Justin Grimm,596019,Francisco Lindor,R,Cam Gallagher,595956,0,1,8,False,2018-04-08,Stolen,2B,2018,2019,28.7,2019,28.7,2019,28.7
+208,208,208,2B,3B,Stolen Base 3B,592444,JaCoby Jones,434628,Jason Hammel,578428,Jose Iglesias,R,Cam Gallagher,595956,1,0,5,False,2018-04-04,Stolen,3B,2018,2019,28.7,2019,28.7,2019,28.7
+209,209,209,1B,2B,Stolen Base 2B,571681,Rey Fuentes,596001,Jakob Junis,444482,David Peralta,R,Cam Gallagher,595956,1,1,5,True,2017-09-30,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+210,210,210,1B,2B,Stolen Base 2B,605548,Bradley Zimmer,434628,Jason Hammel,543228,Yan Gomes,R,Cam Gallagher,595956,2,0,3,True,2017-08-20,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+211,211,211,1B,2B,Stolen Base 2B,596019,Francisco Lindor,434628,Jason Hammel,608070,José Ramírez,R,Cam Gallagher,595956,3,3,5,True,2017-08-20,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+212,212,212,1B,2B,Stolen Base 2B,543939,Kolten Wong,502239,Trevor Cahill,545341,Randal Grichuk,R,Cam Gallagher,595956,0,3,2,False,2017-08-09,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+213,213,213,1B,2B,Stolen Base 2B,451594,Dexter Fowler,502239,Trevor Cahill,425877,Yadier Molina,R,Cam Gallagher,595956,2,3,3,False,2017-08-09,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+214,214,214,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,596001,Jakob Junis,429664,Robinson Canó,R,Cam Gallagher,595956,0,0,1,True,2017-08-06,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+215,215,215,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,596001,Jakob Junis,429664,Robinson Canó,R,Cam Gallagher,595956,0,0,1,True,2017-08-05,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+216,216,216,1B,2B,Stolen Base 2B,571681,Rey Fuentes,596001,Jakob Junis,444482,David Peralta,R,Cam Gallagher,595956,1,1,5,True,2017-09-30,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+217,217,217,1B,2B,Stolen Base 2B,605548,Bradley Zimmer,434628,Jason Hammel,543228,Yan Gomes,R,Cam Gallagher,595956,2,0,3,True,2017-08-20,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+218,218,218,1B,2B,Stolen Base 2B,596019,Francisco Lindor,434628,Jason Hammel,608070,José Ramírez,R,Cam Gallagher,595956,3,3,5,True,2017-08-20,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+219,219,219,1B,2B,Stolen Base 2B,543939,Kolten Wong,502239,Trevor Cahill,545341,Randal Grichuk,R,Cam Gallagher,595956,0,3,2,False,2017-08-09,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+220,220,220,1B,2B,Stolen Base 2B,451594,Dexter Fowler,502239,Trevor Cahill,425877,Yadier Molina,R,Cam Gallagher,595956,2,3,3,False,2017-08-09,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+221,221,221,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,596001,Jakob Junis,429664,Robinson Canó,R,Cam Gallagher,595956,0,0,1,True,2017-08-06,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8
+222,222,222,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,596001,Jakob Junis,429664,Robinson Canó,R,Cam Gallagher,595956,0,0,1,True,2017-08-05,Stolen,2B,2017,2018,28.8,2018,28.8,2018,28.8

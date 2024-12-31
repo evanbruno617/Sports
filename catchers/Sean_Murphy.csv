@@ -1,0 +1,225 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,682928,CJ Abrams,675911,Spencer Strider,660688,Keibert Ruiz,R,Sean Murphy,669221,0,1,1,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+1,1,1B,2B,Stolen Base 2B,696285,Jacob Young,675911,Spencer Strider,682928,CJ Abrams,R,Sean Murphy,669221,0,3,2,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+2,2,1B,2B,Stolen Base 2B,696285,Jacob Young,675911,Spencer Strider,657041,Lane Thomas,R,Sean Murphy,669221,1,3,4,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+3,3,1B,2B,Stolen Base 2B,621020,Dansby Swanson,489446,Kirby Yates,600869,Jeimer Candelario,R,Sean Murphy,669221,3,3,9,True,2023-09-27,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+4,4,1B,2B,Stolen Base 2B,621020,Dansby Swanson,693821,Bryce Elder,543228,Yan Gomes,R,Sean Murphy,669221,0,1,2,True,2023-09-26,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+5,5,1B,2B,Stolen Base 2B,663538,Nico Hoerner,693821,Bryce Elder,641355,Cody Bellinger,R,Sean Murphy,669221,0,2,3,True,2023-09-26,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+6,6,3B,,Caught Stealing Home,691718,Pete Crow-Armstrong,623451,Jackson Stephens,673548,Seiya Suzuki,R,Sean Murphy,669221,0,5,4,True,2023-09-26,Caught,Home,2023,2024,29.8,2024, 84.8, 0.69
+7,7,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,543272,Brad Hand,621550,Patrick Wisdom,L,Sean Murphy,669221,5,6,8,True,2023-09-26,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+8,8,1B,,Caught Stealing 2B,642086,Dominic Smith,642216,Allan Winans,608841,Joey Meneses,R,Sean Murphy,669221,2,1,5,False,2023-09-24,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+9,9,1B,2B,Stolen Base 2B,682928,CJ Abrams,450203,Charlie Morton,657041,Lane Thomas,R,Sean Murphy,669221,0,3,1,False,2023-09-22,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+10,10,1B,2B,Stolen Base 2B,696285,Jacob Young,670241,Darius Vines,682928,CJ Abrams,R,Sean Murphy,669221,3,4,4,False,2023-09-22,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+11,11,1B,2B,Stolen Base 2B,669016,Brandon Marsh,445926,Jesse Chavez,595909,Jake Cave,R,Sean Murphy,669221,2,4,6,True,2023-09-20,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+12,12,2B,3B,Stolen Base 3B,679032,Johan Rojas,621345,A.J. Minter,664761,Alec Bohm,L,Sean Murphy,669221,4,4,10,True,2023-09-20,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+13,13,1B,2B,Stolen Base 2B,547180,Bryce Harper,621345,A.J. Minter,664761,Alec Bohm,L,Sean Murphy,669221,4,4,10,True,2023-09-20,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+14,14,2B,3B,Stolen Base 3B,650333,Luis Arraez,623451,Jackson Stephens,493329,Yuli Gurriel,R,Sean Murphy,669221,5,3,4,False,2023-09-16,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+15,15,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,623451,Jackson Stephens,542932,Jon Berti,R,Sean Murphy,669221,5,4,5,False,2023-09-16,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+16,16,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,621345,A.J. Minter,542932,Jon Berti,L,Sean Murphy,669221,5,5,7,False,2023-09-16,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+17,17,2B,3B,Stolen Base 3B,665862,Jazz Chisholm Jr.,621345,A.J. Minter,542932,Jon Berti,L,Sean Murphy,669221,5,5,7,False,2023-09-16,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+18,18,1B,2B,Stolen Base 2B,669261,Jack Suwinski,543859,Michael Tonkin,678225,Ji Hwan Bae,R,Sean Murphy,669221,3,6,5,True,2023-09-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+19,19,1B,2B,Stolen Base 2B,669261,Jack Suwinski,489446,Kirby Yates,669707,Jared Triolo,R,Sean Murphy,669221,4,8,9,True,2023-09-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+20,20,2B,3B,Stolen Base 3B,669357,Nolan Gorman,675911,Spencer Strider,575929,Willson Contreras,R,Sean Murphy,669221,0,3,1,True,2023-09-06,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+21,21,1B,2B,Stolen Base 2B,571448,Nolan Arenado,675911,Spencer Strider,575929,Willson Contreras,R,Sean Murphy,669221,0,3,1,True,2023-09-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+22,22,2B,3B,Stolen Base 3B,669242,Tommy Edman,675911,Spencer Strider,663457,Lars Nootbaar,R,Sean Murphy,669221,0,4,2,True,2023-09-06,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+23,23,1B,2B,Stolen Base 2B,676475,Alec Burleson,675911,Spencer Strider,669242,Tommy Edman,R,Sean Murphy,669221,0,6,3,True,2023-09-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+24,24,2B,,Caught Stealing 3B,575929,Willson Contreras,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B,2023,2024,29.8,2024, 84.8, 0.69
+25,25,1B,2B,Caught Stealing 3B,676475,Alec Burleson,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B,2023,2024,29.8,2024, 84.8, 0.69
+26,26,1B,2B,Stolen Base 2B,680700,Richie Palacios,543272,Brad Hand,691023,Jordan Walker,L,Sean Murphy,669221,6,11,9,True,2023-09-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+27,27,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,489446,Kirby Yates,669242,Tommy Edman,R,Sean Murphy,669221,3,9,8,True,2023-09-05,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+28,28,1B,2B,Stolen Base 2B,642708,Amed Rosario,621345,A.J. Minter,571771,Enrique Hernández,L,Sean Murphy,669221,1,1,8,False,2023-09-02,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+29,29,1B,2B,Stolen Base 2B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+30,30,2B,,Caught Stealing 3B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Caught,3B,2023,2024,29.8,2024, 84.8, 0.69
+31,31,1B,2B,Stolen Base 2B,641355,Cody Bellinger,693821,Bryce Elder,621020,Dansby Swanson,R,Sean Murphy,669221,4,0,1,False,2023-08-05,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+32,32,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,675911,Spencer Strider,592669,Hunter Renfroe,R,Sean Murphy,669221,2,1,6,True,2023-08-01,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+33,33,1B,,Caught Stealing 2B,624414,Christian Arroyo,489446,Kirby Yates,657136,Connor Wong,R,Sean Murphy,669221,5,3,8,False,2023-07-26,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+34,34,1B,2B,Stolen Base 2B,680776,Jarren Duran,450203,Charlie Morton,457759,Justin Turner,R,Sean Murphy,669221,2,1,2,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+35,35,1B,2B,Stolen Base 2B,644374,Yu Chang,450203,Charlie Morton,680776,Jarren Duran,R,Sean Murphy,669221,3,1,4,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+36,36,1B,2B,Stolen Base 2B,680776,Jarren Duran,450203,Charlie Morton,457759,Justin Turner,R,Sean Murphy,669221,3,1,4,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+37,37,1B,2B,Stolen Base 2B,664983,Jake McCarthy,450203,Charlie Morton,682998,Corbin Carroll,R,Sean Murphy,669221,1,1,3,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+38,38,1B,2B,Stolen Base 2B,664983,Jake McCarthy,476595,Lucas Luetge,572233,Christian Walker,L,Sean Murphy,669221,2,5,9,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+39,39,1B,2B,Stolen Base 2B,682998,Corbin Carroll,489446,Kirby Yates,572233,Christian Walker,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+40,40,2B,3B,Stolen Base 3B,682998,Corbin Carroll,489446,Kirby Yates,666971,Lourdes Gurriel Jr.,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+41,41,1B,2B,Stolen Base 2B,572233,Christian Walker,489446,Kirby Yates,666971,Lourdes Gurriel Jr.,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+42,42,1B,,Caught Stealing 2B,668227,Randy Arozarena,668678,Zac Gallen,608369,Corey Seager,R,Sean Murphy,669221,0,0,1,False,2023-07-11,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+43,43,1B,,Caught Stealing 2B,650490,Yandy Díaz,450203,Charlie Morton,677551,Wander Franco,R,Sean Murphy,669221,1,0,3,False,2023-07-07,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+44,44,1B,2B,Stolen Base 2B,664040,Brandon Lowe,450203,Charlie Morton,642350,Jose Siri,R,Sean Murphy,669221,1,2,5,False,2023-07-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+45,45,1B,,Caught Stealing 2B,623912,Harold Ramírez,621345,A.J. Minter,622534,Manuel Margot,L,Sean Murphy,669221,1,2,7,False,2023-07-07,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+46,46,1B,2B,Stolen Base 2B,671289,Tyler Freeman,489446,Kirby Yates,664702,Myles Straw,R,Sean Murphy,669221,3,4,7,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+47,47,1B,2B,Stolen Base 2B,680757,Steven Kwan,489446,Kirby Yates,642708,Amed Rosario,R,Sean Murphy,669221,5,4,7,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+48,48,1B,2B,Stolen Base 2B,665926,Andrés Giménez,641729,Joe Jiménez,681807,David Fry,R,Sean Murphy,669221,5,4,8,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+49,49,1B,2B,Stolen Base 2B,681807,David Fry,641729,Joe Jiménez,664702,Myles Straw,R,Sean Murphy,669221,5,4,8,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+50,50,1B,2B,Stolen Base 2B,642708,Amed Rosario,693821,Bryce Elder,647304,Josh Naylor,R,Sean Murphy,669221,0,2,3,False,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+51,51,1B,2B,Stolen Base 2B,670770,TJ Friedl,450203,Charlie Morton,680574,Matt McLain,R,Sean Murphy,669221,0,0,1,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+52,52,1B,2B,Stolen Base 2B,668715,Spencer Steer,621345,A.J. Minter,663697,Jonathan India,L,Sean Murphy,669221,4,6,7,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+53,53,1B,2B,Stolen Base 2B,621028,Kevin Newman,621345,A.J. Minter,670770,TJ Friedl,L,Sean Murphy,669221,4,7,8,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+54,54,1B,2B,Stolen Base 2B,686668,Brenton Doyle,700363,AJ Smith-Shawver,595777,Jurickson Profar,R,Sean Murphy,669221,6,2,5,True,2023-06-15,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+55,55,1B,2B,Stolen Base 2B,657041,Lane Thomas,700363,AJ Smith-Shawver,671277,Luis García Jr.,R,Sean Murphy,669221,0,1,1,True,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+56,56,1B,,Caught Stealing 2B,671277,Luis García Jr.,700363,AJ Smith-Shawver,600869,Jeimer Candelario,R,Sean Murphy,669221,0,1,1,True,2023-06-09,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+57,57,1B,2B,Stolen Base 2B,669743,Alex Call,543521,Collin McHugh,657041,Lane Thomas,R,Sean Murphy,669221,1,2,7,True,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+58,58,1B,,Caught Stealing 2B,656976,Pavin Smith,675911,Spencer Strider,682998,Corbin Carroll,R,Sean Murphy,669221,0,1,3,False,2023-06-03,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+59,59,1B,,Caught Stealing 2B,672695,Geraldo Perdomo,450203,Charlie Morton,606466,Ketel Marte,R,Sean Murphy,669221,2,1,3,False,2023-06-02,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+60,60,1B,2B,Stolen Base 2B,607208,Trea Turner,450203,Charlie Morton,547180,Bryce Harper,R,Sean Murphy,669221,0,0,3,True,2023-05-27,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+61,61,1B,,Caught Stealing 2B,571970,Max Muncy,621345,A.J. Minter,502110,J.D. Martinez,L,Sean Murphy,669221,5,8,7,True,2023-05-22,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+62,62,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,489446,Kirby Yates,672284,Jarred Kelenic,R,Sean Murphy,669221,2,5,7,True,2023-05-20,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+63,63,1B,,Caught Stealing 2B,672284,Jarred Kelenic,693821,Bryce Elder,553993,Eugenio Suárez,R,Sean Murphy,669221,1,0,4,True,2023-05-19,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+64,64,1B,2B,Stolen Base 2B,665750,Leody Taveras,669276,Dylan Lee,543760,Marcus Semien,L,Sean Murphy,669221,5,1,7,False,2023-05-16,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+65,65,1B,2B,Stolen Base 2B,593160,Whit Merrifield,669276,Dylan Lee,672386,Alejandro Kirk,L,Sean Murphy,669221,2,2,6,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+66,66,2B,3B,Stolen Base 3B,595281,Kevin Kiermaier,621345,A.J. Minter,666182,Bo Bichette,L,Sean Murphy,669221,3,2,7,False,2023-05-13,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+67,67,1B,2B,Stolen Base 2B,543807,George Springer,621345,A.J. Minter,666182,Bo Bichette,L,Sean Murphy,669221,3,2,7,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+68,68,1B,2B,Stolen Base 2B,593160,Whit Merrifield,641729,Joe Jiménez,672386,Alejandro Kirk,R,Sean Murphy,669221,4,2,8,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+69,69,2B,3B,Stolen Base 3B,593160,Whit Merrifield,641729,Joe Jiménez,672386,Alejandro Kirk,R,Sean Murphy,669221,4,2,8,False,2023-05-13,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+70,70,1B,2B,Stolen Base 2B,593160,Whit Merrifield,675911,Spencer Strider,595281,Kevin Kiermaier,R,Sean Murphy,669221,0,0,5,False,2023-05-12,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+71,71,1B,2B,Stolen Base 2B,680776,Jarren Duran,450203,Charlie Morton,671213,Triston Casas,R,Sean Murphy,669221,4,0,2,True,2023-05-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+72,72,1B,2B,Stolen Base 2B,622761,Jorge Mateo,445926,Jesse Chavez,663624,Ryan Mountcastle,R,Sean Murphy,669221,1,2,10,True,2023-05-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+73,73,1B,2B,Stolen Base 2B,624428,Adam Frazier,675911,Spencer Strider,622761,Jorge Mateo,R,Sean Murphy,669221,1,2,4,True,2023-05-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+74,74,1B,,Caught Stealing 2B,624428,Adam Frazier,623433,Nick Anderson,622761,Jorge Mateo,R,Sean Murphy,669221,3,4,6,True,2023-05-06,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+75,75,1B,2B,Stolen Base 2B,542932,Jon Berti,689266,Dylan Dodd,624585,Jorge Soler,L,Sean Murphy,669221,2,1,1,False,2023-05-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+76,76,1B,,Caught Stealing 2B,663743,Nick Fortes,689266,Dylan Dodd,680814,Peyton Burdick,L,Sean Murphy,669221,3,4,6,False,2023-05-04,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+77,77,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,543521,Collin McHugh,624585,Jorge Soler,R,Sean Murphy,669221,4,8,4,False,2023-05-03,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+78,78,1B,2B,Stolen Base 2B,596019,Francisco Lindor,675911,Spencer Strider,643446,Jeff McNeil,R,Sean Murphy,669221,1,3,1,False,2023-05-01,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+79,79,1B,2B,Stolen Base 2B,516782,Starling Marte,675911,Spencer Strider,596019,Francisco Lindor,R,Sean Murphy,669221,1,6,3,False,2023-05-01,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+80,80,1B,2B,Stolen Base 2B,643446,Jeff McNeil,608331,Max Fried,592192,Mark Canha,L,Sean Murphy,669221,0,0,2,False,2023-04-28,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+81,81,1B,2B,Stolen Base 2B,493329,Yuli Gurriel,450203,Charlie Morton,542932,Jon Berti,R,Sean Murphy,669221,1,0,2,True,2023-04-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+82,82,1B,2B,Stolen Base 2B,665161,Jeremy Peña,489446,Kirby Yates,667452,Corey Julks,R,Sean Murphy,669221,3,5,8,True,2023-04-22,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+83,83,1B,2B,Stolen Base 2B,643289,Mauricio Dubón,693821,Bryce Elder,608324,Alex Bregman,R,Sean Murphy,669221,4,1,5,True,2023-04-21,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+84,84,1B,,Caught Stealing 2B,667452,Corey Julks,623433,Nick Anderson,676694,Jake Meyers,R,Sean Murphy,669221,4,4,8,True,2023-04-21,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+85,85,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,450203,Charlie Morton,543592,Austin Nola,R,Sean Murphy,669221,0,0,2,False,2023-04-19,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+86,86,2B,3B,Stolen Base 3B,640492,José Azocar,608331,Max Fried,593428,Xander Bogaerts,L,Sean Murphy,669221,0,2,2,False,2023-04-17,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+87,87,1B,2B,Stolen Base 2B,641531,Hunter Dozier,693821,Bryce Elder,670032,Nicky Lopez,R,Sean Murphy,669221,1,1,2,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+88,88,1B,2B,Stolen Base 2B,641584,Jake Fraley,657140,Kyle Wright,663886,Tyler Stephenson,R,Sean Murphy,669221,0,0,1,True,2023-04-11,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+89,89,1B,2B,Stolen Base 2B,641584,Jake Fraley,543859,Michael Tonkin,663886,Tyler Stephenson,R,Sean Murphy,669221,2,4,4,True,2023-04-11,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+90,90,1B,2B,Stolen Base 2B,663697,Jonathan India,669276,Dylan Lee,656413,Stuart Fairchild,L,Sean Murphy,669221,7,6,8,True,2023-04-11,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+91,91,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,450203,Charlie Morton,596059,Rougned Odor,R,Sean Murphy,669221,0,2,4,True,2023-04-08,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+92,92,2B,3B,Stolen Base 3B,665742,Juan Soto,694363,Jared Shuster,443558,Nelson Cruz,L,Sean Murphy,669221,0,1,1,True,2023-04-07,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+93,93,1B,2B,Stolen Base 2B,592518,Manny Machado,694363,Jared Shuster,443558,Nelson Cruz,L,Sean Murphy,669221,0,1,1,True,2023-04-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+94,94,1B,2B,Stolen Base 2B,640492,José Azocar,694363,Jared Shuster,665742,Juan Soto,L,Sean Murphy,669221,0,2,2,True,2023-04-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+95,95,1B,,Caught Stealing 2B,671277,Luis García Jr.,694363,Jared Shuster,645302,Victor Robles,L,Sean Murphy,669221,4,1,4,False,2023-04-02,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+96,96,1B,2B,Stolen Base 2B,682928,CJ Abrams,675911,Spencer Strider,660688,Keibert Ruiz,R,Sean Murphy,669221,0,1,1,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+97,97,1B,2B,Stolen Base 2B,696285,Jacob Young,675911,Spencer Strider,682928,CJ Abrams,R,Sean Murphy,669221,0,3,2,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+98,98,1B,2B,Stolen Base 2B,696285,Jacob Young,675911,Spencer Strider,657041,Lane Thomas,R,Sean Murphy,669221,1,3,4,True,2023-09-30,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+99,99,1B,2B,Stolen Base 2B,621020,Dansby Swanson,489446,Kirby Yates,600869,Jeimer Candelario,R,Sean Murphy,669221,3,3,9,True,2023-09-27,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+100,100,1B,2B,Stolen Base 2B,621020,Dansby Swanson,693821,Bryce Elder,543228,Yan Gomes,R,Sean Murphy,669221,0,1,2,True,2023-09-26,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+101,101,1B,2B,Stolen Base 2B,663538,Nico Hoerner,693821,Bryce Elder,641355,Cody Bellinger,R,Sean Murphy,669221,0,2,3,True,2023-09-26,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+102,102,3B,,Caught Stealing Home,691718,Pete Crow-Armstrong,623451,Jackson Stephens,673548,Seiya Suzuki,R,Sean Murphy,669221,0,5,4,True,2023-09-26,Caught,Home,2023,2024,29.8,2024, 84.8, 0.69
+103,103,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,543272,Brad Hand,621550,Patrick Wisdom,L,Sean Murphy,669221,5,6,8,True,2023-09-26,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+104,104,1B,,Caught Stealing 2B,642086,Dominic Smith,642216,Allan Winans,608841,Joey Meneses,R,Sean Murphy,669221,2,1,5,False,2023-09-24,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+105,105,1B,2B,Stolen Base 2B,682928,CJ Abrams,450203,Charlie Morton,657041,Lane Thomas,R,Sean Murphy,669221,0,3,1,False,2023-09-22,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+106,106,1B,2B,Stolen Base 2B,696285,Jacob Young,670241,Darius Vines,682928,CJ Abrams,R,Sean Murphy,669221,3,4,4,False,2023-09-22,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+107,107,1B,2B,Stolen Base 2B,669016,Brandon Marsh,445926,Jesse Chavez,595909,Jake Cave,R,Sean Murphy,669221,2,4,6,True,2023-09-20,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+108,108,2B,3B,Stolen Base 3B,679032,Johan Rojas,621345,A.J. Minter,664761,Alec Bohm,L,Sean Murphy,669221,4,4,10,True,2023-09-20,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+109,109,1B,2B,Stolen Base 2B,547180,Bryce Harper,621345,A.J. Minter,664761,Alec Bohm,L,Sean Murphy,669221,4,4,10,True,2023-09-20,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+110,110,2B,3B,Stolen Base 3B,650333,Luis Arraez,623451,Jackson Stephens,493329,Yuli Gurriel,R,Sean Murphy,669221,5,3,4,False,2023-09-16,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+111,111,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,623451,Jackson Stephens,542932,Jon Berti,R,Sean Murphy,669221,5,4,5,False,2023-09-16,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+112,112,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,621345,A.J. Minter,542932,Jon Berti,L,Sean Murphy,669221,5,5,7,False,2023-09-16,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+113,113,2B,3B,Stolen Base 3B,665862,Jazz Chisholm Jr.,621345,A.J. Minter,542932,Jon Berti,L,Sean Murphy,669221,5,5,7,False,2023-09-16,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+114,114,1B,2B,Stolen Base 2B,669261,Jack Suwinski,543859,Michael Tonkin,678225,Ji Hwan Bae,R,Sean Murphy,669221,3,6,5,True,2023-09-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+115,115,1B,2B,Stolen Base 2B,669261,Jack Suwinski,489446,Kirby Yates,669707,Jared Triolo,R,Sean Murphy,669221,4,8,9,True,2023-09-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+116,116,2B,3B,Stolen Base 3B,669357,Nolan Gorman,675911,Spencer Strider,575929,Willson Contreras,R,Sean Murphy,669221,0,3,1,True,2023-09-06,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+117,117,1B,2B,Stolen Base 2B,571448,Nolan Arenado,675911,Spencer Strider,575929,Willson Contreras,R,Sean Murphy,669221,0,3,1,True,2023-09-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+118,118,2B,3B,Stolen Base 3B,669242,Tommy Edman,675911,Spencer Strider,663457,Lars Nootbaar,R,Sean Murphy,669221,0,4,2,True,2023-09-06,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+119,119,1B,2B,Stolen Base 2B,676475,Alec Burleson,675911,Spencer Strider,669242,Tommy Edman,R,Sean Murphy,669221,0,6,3,True,2023-09-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+120,120,2B,,Caught Stealing 3B,575929,Willson Contreras,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B,2023,2024,29.8,2024, 84.8, 0.69
+121,121,1B,2B,Caught Stealing 3B,676475,Alec Burleson,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B,2023,2024,29.8,2024, 84.8, 0.69
+122,122,1B,2B,Stolen Base 2B,680700,Richie Palacios,543272,Brad Hand,691023,Jordan Walker,L,Sean Murphy,669221,6,11,9,True,2023-09-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+123,123,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,489446,Kirby Yates,669242,Tommy Edman,R,Sean Murphy,669221,3,9,8,True,2023-09-05,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+124,124,1B,2B,Stolen Base 2B,642708,Amed Rosario,621345,A.J. Minter,571771,Enrique Hernández,L,Sean Murphy,669221,1,1,8,False,2023-09-02,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+125,125,1B,2B,Stolen Base 2B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+126,126,2B,,Caught Stealing 3B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Caught,3B,2023,2024,29.8,2024, 84.8, 0.69
+127,127,1B,2B,Stolen Base 2B,641355,Cody Bellinger,693821,Bryce Elder,621020,Dansby Swanson,R,Sean Murphy,669221,4,0,1,False,2023-08-05,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+128,128,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,675911,Spencer Strider,592669,Hunter Renfroe,R,Sean Murphy,669221,2,1,6,True,2023-08-01,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+129,129,1B,,Caught Stealing 2B,624414,Christian Arroyo,489446,Kirby Yates,657136,Connor Wong,R,Sean Murphy,669221,5,3,8,False,2023-07-26,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+130,130,1B,2B,Stolen Base 2B,680776,Jarren Duran,450203,Charlie Morton,457759,Justin Turner,R,Sean Murphy,669221,2,1,2,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+131,131,1B,2B,Stolen Base 2B,644374,Yu Chang,450203,Charlie Morton,680776,Jarren Duran,R,Sean Murphy,669221,3,1,4,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+132,132,1B,2B,Stolen Base 2B,680776,Jarren Duran,450203,Charlie Morton,457759,Justin Turner,R,Sean Murphy,669221,3,1,4,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+133,133,1B,2B,Stolen Base 2B,664983,Jake McCarthy,450203,Charlie Morton,682998,Corbin Carroll,R,Sean Murphy,669221,1,1,3,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+134,134,1B,2B,Stolen Base 2B,664983,Jake McCarthy,476595,Lucas Luetge,572233,Christian Walker,L,Sean Murphy,669221,2,5,9,True,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+135,135,1B,2B,Stolen Base 2B,682998,Corbin Carroll,489446,Kirby Yates,572233,Christian Walker,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+136,136,2B,3B,Stolen Base 3B,682998,Corbin Carroll,489446,Kirby Yates,666971,Lourdes Gurriel Jr.,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+137,137,1B,2B,Stolen Base 2B,572233,Christian Walker,489446,Kirby Yates,666971,Lourdes Gurriel Jr.,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+138,138,1B,,Caught Stealing 2B,668227,Randy Arozarena,668678,Zac Gallen,608369,Corey Seager,R,Sean Murphy,669221,0,0,1,False,2023-07-11,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+139,139,1B,,Caught Stealing 2B,650490,Yandy Díaz,450203,Charlie Morton,677551,Wander Franco,R,Sean Murphy,669221,1,0,3,False,2023-07-07,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+140,140,1B,2B,Stolen Base 2B,664040,Brandon Lowe,450203,Charlie Morton,642350,Jose Siri,R,Sean Murphy,669221,1,2,5,False,2023-07-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+141,141,1B,,Caught Stealing 2B,623912,Harold Ramírez,621345,A.J. Minter,622534,Manuel Margot,L,Sean Murphy,669221,1,2,7,False,2023-07-07,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+142,142,1B,2B,Stolen Base 2B,671289,Tyler Freeman,489446,Kirby Yates,664702,Myles Straw,R,Sean Murphy,669221,3,4,7,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+143,143,1B,2B,Stolen Base 2B,680757,Steven Kwan,489446,Kirby Yates,642708,Amed Rosario,R,Sean Murphy,669221,5,4,7,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+144,144,1B,2B,Stolen Base 2B,665926,Andrés Giménez,641729,Joe Jiménez,681807,David Fry,R,Sean Murphy,669221,5,4,8,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+145,145,1B,2B,Stolen Base 2B,681807,David Fry,641729,Joe Jiménez,664702,Myles Straw,R,Sean Murphy,669221,5,4,8,False,2023-07-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+146,146,1B,2B,Stolen Base 2B,642708,Amed Rosario,693821,Bryce Elder,647304,Josh Naylor,R,Sean Murphy,669221,0,2,3,False,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+147,147,1B,2B,Stolen Base 2B,670770,TJ Friedl,450203,Charlie Morton,680574,Matt McLain,R,Sean Murphy,669221,0,0,1,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+148,148,1B,2B,Stolen Base 2B,668715,Spencer Steer,621345,A.J. Minter,663697,Jonathan India,L,Sean Murphy,669221,4,6,7,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+149,149,1B,2B,Stolen Base 2B,621028,Kevin Newman,621345,A.J. Minter,670770,TJ Friedl,L,Sean Murphy,669221,4,7,8,False,2023-06-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+150,150,1B,2B,Stolen Base 2B,686668,Brenton Doyle,700363,AJ Smith-Shawver,595777,Jurickson Profar,R,Sean Murphy,669221,6,2,5,True,2023-06-15,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+151,151,1B,2B,Stolen Base 2B,657041,Lane Thomas,700363,AJ Smith-Shawver,671277,Luis García Jr.,R,Sean Murphy,669221,0,1,1,True,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+152,152,1B,,Caught Stealing 2B,671277,Luis García Jr.,700363,AJ Smith-Shawver,600869,Jeimer Candelario,R,Sean Murphy,669221,0,1,1,True,2023-06-09,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+153,153,1B,2B,Stolen Base 2B,669743,Alex Call,543521,Collin McHugh,657041,Lane Thomas,R,Sean Murphy,669221,1,2,7,True,2023-06-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+154,154,1B,,Caught Stealing 2B,656976,Pavin Smith,675911,Spencer Strider,682998,Corbin Carroll,R,Sean Murphy,669221,0,1,3,False,2023-06-03,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+155,155,1B,,Caught Stealing 2B,672695,Geraldo Perdomo,450203,Charlie Morton,606466,Ketel Marte,R,Sean Murphy,669221,2,1,3,False,2023-06-02,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+156,156,1B,2B,Stolen Base 2B,607208,Trea Turner,450203,Charlie Morton,547180,Bryce Harper,R,Sean Murphy,669221,0,0,3,True,2023-05-27,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+157,157,1B,,Caught Stealing 2B,571970,Max Muncy,621345,A.J. Minter,502110,J.D. Martinez,L,Sean Murphy,669221,5,8,7,True,2023-05-22,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+158,158,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,489446,Kirby Yates,672284,Jarred Kelenic,R,Sean Murphy,669221,2,5,7,True,2023-05-20,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+159,159,1B,,Caught Stealing 2B,672284,Jarred Kelenic,693821,Bryce Elder,553993,Eugenio Suárez,R,Sean Murphy,669221,1,0,4,True,2023-05-19,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+160,160,1B,2B,Stolen Base 2B,665750,Leody Taveras,669276,Dylan Lee,543760,Marcus Semien,L,Sean Murphy,669221,5,1,7,False,2023-05-16,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+161,161,1B,2B,Stolen Base 2B,593160,Whit Merrifield,669276,Dylan Lee,672386,Alejandro Kirk,L,Sean Murphy,669221,2,2,6,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+162,162,2B,3B,Stolen Base 3B,595281,Kevin Kiermaier,621345,A.J. Minter,666182,Bo Bichette,L,Sean Murphy,669221,3,2,7,False,2023-05-13,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+163,163,1B,2B,Stolen Base 2B,543807,George Springer,621345,A.J. Minter,666182,Bo Bichette,L,Sean Murphy,669221,3,2,7,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+164,164,1B,2B,Stolen Base 2B,593160,Whit Merrifield,641729,Joe Jiménez,672386,Alejandro Kirk,R,Sean Murphy,669221,4,2,8,False,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+165,165,2B,3B,Stolen Base 3B,593160,Whit Merrifield,641729,Joe Jiménez,672386,Alejandro Kirk,R,Sean Murphy,669221,4,2,8,False,2023-05-13,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+166,166,1B,2B,Stolen Base 2B,593160,Whit Merrifield,675911,Spencer Strider,595281,Kevin Kiermaier,R,Sean Murphy,669221,0,0,5,False,2023-05-12,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+167,167,1B,2B,Stolen Base 2B,680776,Jarren Duran,450203,Charlie Morton,671213,Triston Casas,R,Sean Murphy,669221,4,0,2,True,2023-05-09,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+168,168,1B,2B,Stolen Base 2B,622761,Jorge Mateo,445926,Jesse Chavez,663624,Ryan Mountcastle,R,Sean Murphy,669221,1,2,10,True,2023-05-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+169,169,1B,2B,Stolen Base 2B,624428,Adam Frazier,675911,Spencer Strider,622761,Jorge Mateo,R,Sean Murphy,669221,1,2,4,True,2023-05-06,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+170,170,1B,,Caught Stealing 2B,624428,Adam Frazier,623433,Nick Anderson,622761,Jorge Mateo,R,Sean Murphy,669221,3,4,6,True,2023-05-06,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+171,171,1B,2B,Stolen Base 2B,542932,Jon Berti,689266,Dylan Dodd,624585,Jorge Soler,L,Sean Murphy,669221,2,1,1,False,2023-05-04,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+172,172,1B,,Caught Stealing 2B,663743,Nick Fortes,689266,Dylan Dodd,680814,Peyton Burdick,L,Sean Murphy,669221,3,4,6,False,2023-05-04,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+173,173,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,543521,Collin McHugh,624585,Jorge Soler,R,Sean Murphy,669221,4,8,4,False,2023-05-03,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+174,174,1B,2B,Stolen Base 2B,596019,Francisco Lindor,675911,Spencer Strider,643446,Jeff McNeil,R,Sean Murphy,669221,1,3,1,False,2023-05-01,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+175,175,1B,2B,Stolen Base 2B,516782,Starling Marte,675911,Spencer Strider,596019,Francisco Lindor,R,Sean Murphy,669221,1,6,3,False,2023-05-01,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+176,176,1B,2B,Stolen Base 2B,643446,Jeff McNeil,608331,Max Fried,592192,Mark Canha,L,Sean Murphy,669221,0,0,2,False,2023-04-28,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+177,177,1B,2B,Stolen Base 2B,493329,Yuli Gurriel,450203,Charlie Morton,542932,Jon Berti,R,Sean Murphy,669221,1,0,2,True,2023-04-25,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+178,178,1B,2B,Stolen Base 2B,665161,Jeremy Peña,489446,Kirby Yates,667452,Corey Julks,R,Sean Murphy,669221,3,5,8,True,2023-04-22,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+179,179,1B,2B,Stolen Base 2B,643289,Mauricio Dubón,693821,Bryce Elder,608324,Alex Bregman,R,Sean Murphy,669221,4,1,5,True,2023-04-21,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+180,180,1B,,Caught Stealing 2B,667452,Corey Julks,623433,Nick Anderson,676694,Jake Meyers,R,Sean Murphy,669221,4,4,8,True,2023-04-21,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+181,181,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,450203,Charlie Morton,543592,Austin Nola,R,Sean Murphy,669221,0,0,2,False,2023-04-19,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+182,182,2B,3B,Stolen Base 3B,640492,José Azocar,608331,Max Fried,593428,Xander Bogaerts,L,Sean Murphy,669221,0,2,2,False,2023-04-17,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+183,183,1B,2B,Stolen Base 2B,641531,Hunter Dozier,693821,Bryce Elder,670032,Nicky Lopez,R,Sean Murphy,669221,1,1,2,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+184,184,1B,2B,Stolen Base 2B,641584,Jake Fraley,657140,Kyle Wright,663886,Tyler Stephenson,R,Sean Murphy,669221,0,0,1,True,2023-04-11,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+185,185,1B,2B,Stolen Base 2B,641584,Jake Fraley,543859,Michael Tonkin,663886,Tyler Stephenson,R,Sean Murphy,669221,2,4,4,True,2023-04-11,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+186,186,1B,2B,Stolen Base 2B,663697,Jonathan India,669276,Dylan Lee,656413,Stuart Fairchild,L,Sean Murphy,669221,7,6,8,True,2023-04-11,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+187,187,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,450203,Charlie Morton,596059,Rougned Odor,R,Sean Murphy,669221,0,2,4,True,2023-04-08,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+188,188,2B,3B,Stolen Base 3B,665742,Juan Soto,694363,Jared Shuster,443558,Nelson Cruz,L,Sean Murphy,669221,0,1,1,True,2023-04-07,Stolen,3B,2023,2024,29.8,2024, 84.8, 0.69
+189,189,1B,2B,Stolen Base 2B,592518,Manny Machado,694363,Jared Shuster,443558,Nelson Cruz,L,Sean Murphy,669221,0,1,1,True,2023-04-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+190,190,1B,2B,Stolen Base 2B,640492,José Azocar,694363,Jared Shuster,665742,Juan Soto,L,Sean Murphy,669221,0,2,2,True,2023-04-07,Stolen,2B,2023,2024,29.8,2024, 84.8, 0.69
+191,191,1B,,Caught Stealing 2B,671277,Luis García Jr.,694363,Jared Shuster,645302,Victor Robles,L,Sean Murphy,669221,4,1,4,False,2023-04-02,Caught,2B,2023,2024,29.8,2024, 84.8, 0.69
+192,192,1B,2B,Stolen Base 2B,543760,Marcus Semien,621112,Paul Blackburn,608369,Corey Seager,R,Sean Murphy,669221,1,0,1,False,2022-07-13,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+193,193,1B,2B,Stolen Base 2B,665750,Leody Taveras,621112,Paul Blackburn,543543,Brad Miller,R,Sean Murphy,669221,5,0,1,False,2022-07-13,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+194,194,1B,2B,Stolen Base 2B,543760,Marcus Semien,621112,Paul Blackburn,608369,Corey Seager,R,Sean Murphy,669221,5,0,5,False,2022-07-13,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+195,195,1B,2B,Stolen Base 2B,666969,Adolis García,621076,James Kaprielian,663993,Nathaniel Lowe,R,Sean Murphy,669221,2,1,4,False,2022-07-12,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+196,196,1B,2B,Stolen Base 2B,665750,Leody Taveras,669912,Kirby Snead,594777,Kole Calhoun,L,Sean Murphy,669221,6,6,11,False,2022-07-12,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+197,197,1B,2B,Stolen Base 2B,665750,Leody Taveras,661309,Adrián Martínez,669701,Josh Smith,R,Sean Murphy,669221,2,0,2,False,2022-07-11,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+198,198,1B,,Caught Stealing 2B,666182,Bo Bichette,661309,Adrián Martínez,672386,Alejandro Kirk,R,Sean Murphy,669221,4,3,5,True,2022-07-05,Caught,2B,2022,2023,29.4,2023, 86.5, 0.68
+199,199,2B,,Caught Stealing 3B,677594,Julio Rodríguez,594580,Sam Moll,608385,Jesse Winker,L,Sean Murphy,669221,2,0,6,False,2022-07-03,Caught,3B,2022,2023,29.4,2023, 86.5, 0.68
+200,200,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,593423,Frankie Montas,608336,Joey Gallo,R,Sean Murphy,669221,2,0,5,False,2022-06-28,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+201,201,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,621112,Paul Blackburn,592450,Aaron Judge,R,Sean Murphy,669221,3,5,5,False,2022-06-27,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+202,202,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,621112,Paul Blackburn,608385,Jesse Winker,R,Sean Murphy,669221,0,3,3,True,2022-06-22,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+203,203,1B,2B,Stolen Base 2B,593160,Whit Merrifield,643493,Austin Pruitt,521692,Salvador Perez,R,Sean Murphy,669221,1,5,6,True,2022-06-17,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+204,204,1B,,Caught Stealing 2B,665926,Andrés Giménez,593423,Frankie Montas,680911,Owen Miller,R,Sean Murphy,669221,0,1,2,False,2022-06-11,Caught,2B,2022,2023,29.4,2023, 86.5, 0.68
+205,205,1B,2B,Stolen Base 2B,680757,Steven Kwan,640462,A.J. Puk,647304,Josh Naylor,L,Sean Murphy,669221,2,4,6,False,2022-06-09,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+206,206,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,657649,Jared Koenig,621020,Dansby Swanson,L,Sean Murphy,669221,0,0,1,False,2022-06-08,Caught,2B,2022,2023,29.4,2023, 86.5, 0.68
+207,207,1B,,Caught Stealing 2B,621020,Dansby Swanson,608344,Cole Irvin,663586,Austin Riley,L,Sean Murphy,669221,2,2,5,False,2022-06-07,Caught,2B,2022,2023,29.4,2023, 86.5, 0.68
+208,208,1B,2B,Stolen Base 2B,596115,Trevor Story,572125,Sam Selman,614173,Franchy Cordero,L,Sean Murphy,669221,0,4,8,True,2022-06-03,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+209,209,1B,2B,Stolen Base 2B,642350,Jose Siri,621112,Paul Blackburn,455117,Martín Maldonado,R,Sean Murphy,669221,0,2,5,True,2022-05-30,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+210,210,1B,2B,Stolen Base 2B,543760,Marcus Semien,666204,Dany Jiménez,608369,Corey Seager,R,Sean Murphy,669221,5,4,9,True,2022-05-29,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+211,211,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,666204,Dany Jiménez,628451,Andy Ibáñez,R,Sean Murphy,669221,5,7,9,True,2022-05-27,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+212,212,1B,2B,Stolen Base 2B,543760,Marcus Semien,592473,Adam Kolarek,608369,Corey Seager,L,Sean Murphy,669221,5,8,9,True,2022-05-27,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+213,213,1B,,Caught Stealing 2B,624428,Adam Frazier,621076,James Kaprielian,677594,Julio Rodríguez,R,Sean Murphy,669221,0,1,1,False,2022-05-24,Caught,2B,2022,2023,29.4,2023, 86.5, 0.68
+214,214,1B,2B,Stolen Base 2B,650859,Luis Rengifo,518748,Justin Grimm,669016,Brandon Marsh,R,Sean Murphy,669221,4,0,7,False,2022-05-22,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+215,215,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,621112,Paul Blackburn,543685,Anthony Rendon,R,Sean Murphy,669221,1,1,1,False,2022-05-20,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+216,216,1B,,Caught Stealing 2B,660271,Shohei Ohtani,593423,Frankie Montas,543685,Anthony Rendon,R,Sean Murphy,669221,1,2,5,True,2022-05-15,Caught,2B,2022,2023,29.4,2023, 86.5, 0.68
+217,217,1B,2B,Stolen Base 2B,593871,Jorge Polanco,666204,Dany Jiménez,570482,Gio Urshela,R,Sean Murphy,669221,4,3,8,False,2022-05-08,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+218,218,2B,3B,Stolen Base 3B,668227,Randy Arozarena,593423,Frankie Montas,622534,Manuel Margot,R,Sean Murphy,669221,0,0,6,True,2022-05-04,Stolen,3B,2022,2023,29.4,2023, 86.5, 0.68
+219,219,1B,2B,Stolen Base 2B,664702,Myles Straw,621076,James Kaprielian,680757,Steven Kwan,R,Sean Murphy,669221,0,1,2,True,2022-05-01,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+220,220,1B,2B,Stolen Base 2B,608070,José Ramírez,621076,James Kaprielian,680911,Owen Miller,R,Sean Murphy,669221,0,1,3,True,2022-05-01,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+221,221,1B,2B,Stolen Base 2B,596103,Austin Slater,669912,Kirby Snead,474832,Brandon Belt,L,Sean Murphy,669221,0,1,8,False,2022-04-27,Stolen,2B,2022,2023,29.4,2023, 86.5, 0.68
+222,222,2B,3B,Stolen Base 3B,543543,Brad Miller,642758,Domingo Acevedo,543760,Marcus Semien,R,Sean Murphy,669221,0,2,8,True,2022-04-23,Stolen,3B,2022,2023,29.4,2023, 86.5, 0.68
+223,223,1B,,Caught Stealing 2B,665489,Vladimir Guerrero Jr.,621112,Paul Blackburn,666971,Lourdes Gurriel Jr.,R,Sean Murphy,669221,1,0,1,False,2022-04-16,Caught,2B,2022,2023,29.4,2023, 86.5, 0.68

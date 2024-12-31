@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,592348,Niko Goodrum,663531,Logan Allen,592444,JaCoby Jones,L,Beau Taylor,607333,1,4,5,True,2020-08-23,Stolen,2B,2020,2021,28.5
+1,2B,,Caught Stealing 3B,570481,Erik González,669456,Shane Bieber,605137,Josh Bell,R,Beau Taylor,607333,0,1,3,False,2020-08-20,Caught,3B,2020,2021,28.5
+2,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,643256,Adam Cimber,544725,Leury García,R,Beau Taylor,607333,0,4,9,True,2020-07-29,Stolen,2B,2020,2021,28.5
+3,1B,2B,Stolen Base 2B,592348,Niko Goodrum,663531,Logan Allen,592444,JaCoby Jones,L,Beau Taylor,607333,1,4,5,True,2020-08-23,Stolen,2B,2020,2021,28.5
+4,2B,,Caught Stealing 3B,570481,Erik González,669456,Shane Bieber,605137,Josh Bell,R,Beau Taylor,607333,0,1,3,False,2020-08-20,Caught,3B,2020,2021,28.5
+5,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,643256,Adam Cimber,544725,Leury García,R,Beau Taylor,607333,0,4,9,True,2020-07-29,Stolen,2B,2020,2021,28.5
+6,1B,2B,Stolen Base 2B,592348,Niko Goodrum,663531,Logan Allen,592444,JaCoby Jones,L,Beau Taylor,607333,1,4,5,True,2020-08-23,Stolen,2B,2020,2021,28.5
+7,2B,,Caught Stealing 3B,570481,Erik González,669456,Shane Bieber,605137,Josh Bell,R,Beau Taylor,607333,0,1,3,False,2020-08-20,Caught,3B,2020,2021,28.5
+8,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,643256,Adam Cimber,544725,Leury García,R,Beau Taylor,607333,0,4,9,True,2020-07-29,Stolen,2B,2020,2021,28.5
+9,1B,2B,Stolen Base 2B,460075,Ryan Braun,456701,Homer Bailey,519346,Eric Thames,R,Beau Taylor,607333,0,1,1,True,2019-08-01,Stolen,2B,2019,2020,28.1
+10,1B,,Caught Stealing 2B,605480,Mallex Smith,642152,Lou Trivino,641487,J.P. Crawford,R,Beau Taylor,607333,3,2,8,True,2019-06-16,Caught,2B,2019,2020,28.1
+11,2B,,Caught Stealing 3B,650490,Yandy Díaz,474463,Brett Anderson,640457,Austin Meadows,L,Beau Taylor,607333,0,0,3,False,2019-06-12,Caught,3B,2019,2020,28.1
+12,1B,2B,Stolen Base 2B,460075,Ryan Braun,456701,Homer Bailey,519346,Eric Thames,R,Beau Taylor,607333,0,1,1,True,2019-08-01,Stolen,2B,2019,2020,28.1
+13,1B,,Caught Stealing 2B,605480,Mallex Smith,642152,Lou Trivino,641487,J.P. Crawford,R,Beau Taylor,607333,3,2,8,True,2019-06-16,Caught,2B,2019,2020,28.1
+14,2B,,Caught Stealing 3B,650490,Yandy Díaz,474463,Brett Anderson,640457,Austin Meadows,L,Beau Taylor,607333,0,0,3,False,2019-06-12,Caught,3B,2019,2020,28.1
+15,1B,2B,Stolen Base 2B,460075,Ryan Braun,456701,Homer Bailey,519346,Eric Thames,R,Beau Taylor,607333,0,1,1,True,2019-08-01,Stolen,2B,2019,2020,28.1
+16,1B,,Caught Stealing 2B,605480,Mallex Smith,642152,Lou Trivino,641487,J.P. Crawford,R,Beau Taylor,607333,3,2,8,True,2019-06-16,Caught,2B,2019,2020,28.1
+17,2B,,Caught Stealing 3B,650490,Yandy Díaz,474463,Brett Anderson,640457,Austin Meadows,L,Beau Taylor,607333,0,0,3,False,2019-06-12,Caught,3B,2019,2020,28.1
+18,2B,3B,Stolen Base 3B,672018,Dasan Brown,664042,Travis Lakins Sr.,678742,Rainer Nunez,R,Beau Taylor,607333,2,1,5,False,2022-04-05,Stolen,3B,2022,2024,26.9
+19,1B,2B,Stolen Base 2B,641741,Gosuke Katoh,664042,Travis Lakins Sr.,678742,Rainer Nunez,R,Beau Taylor,607333,2,1,5,False,2022-04-05,Stolen,2B,2022,2024,26.9
+20,1B,2B,Stolen Base 2B,672018,Dasan Brown,595939,Chris Ellis,641741,Gosuke Katoh,R,Beau Taylor,607333,2,1,7,False,2022-04-05,Stolen,2B,2022,2024,26.9

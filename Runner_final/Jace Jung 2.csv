@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1155,1B,,Caught Stealing 2B,690291,Jace Jung,543037,Gerrit Cole,669234,Justyn-Henry Malloy,R,Jose Trevino,624431,0,1,4,False,2024-08-16,Caught,2B

@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2359,3B,,Caught Stealing Home,547172,Tony Wolters,641816,Tyler Mahle,664023,Ian Happ,R,Tucker Barnhart,571466,2,2,2,True,2021-05-02,Caught,Home
+4283,3B,,Caught Stealing Home,547172,Tony Wolters,641816,Tyler Mahle,664023,Ian Happ,R,Tucker Barnhart,571466,2,2,2,True,2021-05-02,Caught,Home
+2850,2B,,Caught Stealing 3B,547172,Tony Wolters,453385,Clayton Richard,518934,DJ LeMahieu,L,Austin Hedges,595978,1,4,4,True,2017-06-02,Caught,3B
+4071,1B,,Caught Stealing 2B,547172,Tony Wolters,502188,Jeff Samardzija,453568,Charlie Blackmon,R,Buster Posey,457763,0,0,3,True,2016-09-28,Caught,2B
+5414,1B,2B,Stolen Base 2B,547172,Tony Wolters,606291,Mauricio Cabrera,453568,Charlie Blackmon,R,Anthony Recker,489232,7,3,6,False,2016-07-23,Stolen,2B
+7247,1B,2B,Stolen Base 2B,547172,Tony Wolters,519166,Neil Ramírez,488681,Brandon Barnes,R,Miguel Montero,471083,1,5,8,True,2016-04-15,Stolen,2B
+7254,1B,2B,Stolen Base 2B,547172,Tony Wolters,430912,Matt Cain,407822,Jorge De La Rosa,R,Trevor Brown,623143,3,1,5,False,2016-04-14,Stolen,2B
+7255,1B,2B,Stolen Base 2B,547172,Tony Wolters,519326,Hunter Strickland,542436,Cristhian Adames,R,Trevor Brown,623143,9,6,8,False,2016-04-14,Stolen,2B
+36,1B,,Caught Stealing 2B,547172,Tony Wolters,502188,Jeff Samardzija,453568,Charlie Blackmon,R,Buster Posey,457763,0,0,3,True,2016-09-28,Caught,2B
+1379,1B,2B,Stolen Base 2B,547172,Tony Wolters,606291,Mauricio Cabrera,453568,Charlie Blackmon,R,Anthony Recker,489232,7,3,6,False,2016-07-23,Stolen,2B
+3212,1B,2B,Stolen Base 2B,547172,Tony Wolters,519166,Neil Ramírez,488681,Brandon Barnes,R,Miguel Montero,471083,1,5,8,True,2016-04-15,Stolen,2B
+3219,1B,2B,Stolen Base 2B,547172,Tony Wolters,430912,Matt Cain,407822,Jorge De La Rosa,R,Trevor Brown,623143,3,1,5,False,2016-04-14,Stolen,2B
+3220,1B,2B,Stolen Base 2B,547172,Tony Wolters,519326,Hunter Strickland,542436,Cristhian Adames,R,Trevor Brown,623143,9,6,8,False,2016-04-14,Stolen,2B
+2222,2B,,Caught Stealing 3B,547172,Tony Wolters,453385,Clayton Richard,518934,DJ LeMahieu,L,Austin Hedges,595978,1,4,4,True,2017-06-02,Caught,3B
+3443,1B,,Caught Stealing 2B,547172,Tony Wolters,502188,Jeff Samardzija,453568,Charlie Blackmon,R,Buster Posey,457763,0,0,3,True,2016-09-28,Caught,2B
+4786,1B,2B,Stolen Base 2B,547172,Tony Wolters,606291,Mauricio Cabrera,453568,Charlie Blackmon,R,Anthony Recker,489232,7,3,6,False,2016-07-23,Stolen,2B
+6619,1B,2B,Stolen Base 2B,547172,Tony Wolters,519166,Neil Ramírez,488681,Brandon Barnes,R,Miguel Montero,471083,1,5,8,True,2016-04-15,Stolen,2B
+6626,1B,2B,Stolen Base 2B,547172,Tony Wolters,430912,Matt Cain,407822,Jorge De La Rosa,R,Trevor Brown,623143,3,1,5,False,2016-04-14,Stolen,2B
+6627,1B,2B,Stolen Base 2B,547172,Tony Wolters,519326,Hunter Strickland,542436,Cristhian Adames,R,Trevor Brown,623143,9,6,8,False,2016-04-14,Stolen,2B

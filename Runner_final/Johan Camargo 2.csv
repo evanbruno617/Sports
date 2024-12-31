@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3731,1B,2B,Stolen Base 2B,622666,Johan Camargo,592351,Jon Gray,518692,Freddie Freeman,R,Tony Wolters,547172,2,2,5,False,2019-04-27,Stolen,2B
+6574,1B,2B,Stolen Base 2B,622666,Johan Camargo,592351,Jon Gray,518692,Freddie Freeman,R,Tony Wolters,547172,2,2,5,False,2019-04-27,Stolen,2B
+8498,1B,2B,Stolen Base 2B,622666,Johan Camargo,592351,Jon Gray,518692,Freddie Freeman,R,Tony Wolters,547172,2,2,5,False,2019-04-27,Stolen,2B

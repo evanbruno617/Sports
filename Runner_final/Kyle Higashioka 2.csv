@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+119,1B,,Caught Stealing 2B,543309,Kyle Higashioka,676710,Kutter Crawford,592450,Aaron Judge,R,Christian Vázquez,543877,1,1,5,True,2022-07-09,Caught,2B
+121,1B,2B,Stolen Base 2B,543309,Kyle Higashioka,683618,Edgardo Henriquez,665487,Fernando Tatis Jr.,R,Will Smith,669257,1,4,7,True,2024-09-24,Stolen,2B
+1344,1B,2B,Stolen Base 2B,543309,Kyle Higashioka,670280,David Bednar,650333,Luis Arraez,R,Joey Bart,663698,5,7,9,True,2024-08-08,Stolen,2B

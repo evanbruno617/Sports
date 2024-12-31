@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,624585,Jorge Soler,462515,Miguel Socolovich,471083,Miguel Montero,R,Tony Cruz,488810,5,4,8,False,2015-07-08,Stolen,2B,2015,2016,27.4
+1,1B,2B,Stolen Base 2B,451594,Dexter Fowler,544928,Tyler Lyons,624585,Jorge Soler,L,Tony Cruz,488810,0,0,1,False,2015-07-07,Stolen,2B,2015,2016,27.4
+2,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,595307,Seth Maness,519184,Ben Revere,R,Tony Cruz,488810,6,1,6,False,2015-06-21,Stolen,2B,2015,2016,27.4
+3,1B,2B,Stolen Base 2B,444843,Andre Ethier,518771,Mitch Harris,571771,Enrique Hernández,R,Tony Cruz,488810,2,1,6,False,2015-06-07,Stolen,2B,2015,2016,27.4
+4,1B,2B,Stolen Base 2B,519203,Anthony Rizzo,453646,Carlos Villanueva,592178,Kris Bryant,R,Tony Cruz,488810,4,8,6,True,2015-05-04,Stolen,2B,2015,2016,27.4
+5,1B,2B,Stolen Base 2B,516809,Junior Lake,462515,Miguel Socolovich,456078,Welington Castillo,R,Tony Cruz,488810,6,8,7,True,2015-05-04,Stolen,2B,2015,2016,27.4
+6,1B,,Caught Stealing 2B,516416,Jean Segura,593372,Carlos Martinez,467827,Gerardo Parra,R,Tony Cruz,488810,0,2,3,False,2015-04-24,Caught,2B,2015,2016,27.4
+7,1B,2B,Stolen Base 2B,451594,Dexter Fowler,544928,Tyler Lyons,624585,Jorge Soler,L,Tony Cruz,488810,0,0,1,False,2015-04-07,Stolen,2B,2015,2016,27.4
+8,1B,2B,Stolen Base 2B,608703,Matt Reynolds,477229,Jordan Walden,543590,Kirk Nieuwenhuis,R,Tony Cruz,488810,4,5,9,False,2015-04-01,Stolen,2B,2015,2016,27.4

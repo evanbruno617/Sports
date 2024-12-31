@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+624,1B,2B,Caught Stealing Home,676646,Zach Reks,456501,Johnny Cueto,543760,Marcus Semien,R,Seby Zavala,664874,1,3,4,True,2022-06-12,Caught,Home
+1428,1B,,Caught Stealing 2B,676646,Zach Reks,693821,Bryce Elder,669256,Nick Solak,R,Travis d'Arnaud,518595,3,1,4,False,2022-04-30,Caught,2B

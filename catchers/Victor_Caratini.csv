@@ -1,0 +1,128 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,666624,Christopher Morel,676961,Caleb Boushley,643565,Mike Tauchman,R,Victor Caratini,605170,3,3,10,True,2023-09-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+1,1,1B,2B,Stolen Base 2B,671277,Luis García Jr.,605540,Brandon Woodruff,686452,Drew Millas,R,Victor Caratini,605170,0,1,5,True,2023-09-17,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+2,2,1B,2B,Stolen Base 2B,696285,Jacob Young,600986,Thyago Vieira,682928,CJ Abrams,R,Victor Caratini,605170,1,1,10,True,2023-09-17,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+3,3,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,669203,Corbin Burnes,683011,Anthony Volpe,R,Victor Caratini,605170,0,0,5,False,2023-09-10,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+4,4,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605177,Andrew Chafin,681082,Bryson Stott,L,Victor Caratini,605170,2,4,8,True,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+5,5,1B,2B,Stolen Base 2B,679032,Johan Rojas,669060,Bryse Wilson,592206,Nick Castellanos,R,Victor Caratini,605170,2,4,9,True,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+6,6,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,489119,Wade Miley,553869,Elias Díaz,L,Victor Caratini,605170,0,0,1,True,2023-08-08,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+7,7,1B,2B,Stolen Base 2B,678894,Liover Peguero,669203,Corbin Burnes,675961,Alika Williams,R,Victor Caratini,605170,0,0,5,True,2023-08-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+8,8,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,669203,Corbin Burnes,663845,Alfonso Rivas III,R,Victor Caratini,605170,1,2,6,True,2023-08-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+9,9,1B,,Caught Stealing 2B,669743,Alex Call,669203,Corbin Burnes,682928,CJ Abrams,R,Victor Caratini,605170,1,1,5,False,2023-07-31,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+10,10,1B,2B,Stolen Base 2B,682928,CJ Abrams,669203,Corbin Burnes,657041,Lane Thomas,R,Victor Caratini,605170,2,1,5,False,2023-07-31,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+11,11,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,527054,Julio Teheran,645277,Ozzie Albies,R,Victor Caratini,605170,1,0,1,False,2023-07-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+12,12,1B,2B,Stolen Base 2B,641584,Jake Fraley,669060,Bryse Wilson,458015,Joey Votto,R,Victor Caratini,605170,0,2,8,True,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+13,13,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,527054,Julio Teheran,645277,Ozzie Albies,R,Victor Caratini,605170,0,0,1,True,2023-07-23,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+14,14,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669203,Corbin Burnes,458015,Joey Votto,R,Victor Caratini,605170,4,2,5,True,2023-07-07,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+15,15,2B,3B,Stolen Base 3B,663538,Nico Hoerner,642547,Freddy Peralta,673548,Seiya Suzuki,R,Victor Caratini,605170,0,1,3,True,2023-07-06,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+16,16,1B,2B,Stolen Base 2B,664023,Ian Happ,642547,Freddy Peralta,673548,Seiya Suzuki,R,Victor Caratini,605170,0,1,3,True,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+17,17,1B,2B,Stolen Base 2B,676724,Jared Young,527054,Julio Teheran,664023,Ian Happ,R,Victor Caratini,605170,0,0,1,True,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+18,18,2B,3B,Stolen Base 3B,592192,Mark Canha,642207,Devin Williams,641645,Luis Guillorme,R,Victor Caratini,605170,2,3,9,False,2023-06-29,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+19,19,1B,,Caught Stealing 2B,664702,Myles Straw,606303,Joel Payamps,672356,Gabriel Arias,R,Victor Caratini,605170,4,4,8,False,2023-06-25,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+20,20,1B,2B,Stolen Base 2B,650489,Willi Castro,642207,Devin Williams,456781,Donovan Solano,R,Victor Caratini,605170,5,5,9,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+21,21,1B,,Caught Stealing 2B,664913,Seth Brown,527054,Julio Teheran,657656,Ramón Laureano,R,Victor Caratini,605170,0,1,6,True,2023-06-10,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+22,22,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,665625,Elvis Peguero,676116,Ryan Noda,R,Victor Caratini,605170,0,1,8,True,2023-06-10,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+23,23,1B,2B,Stolen Base 2B,607054,Jace Peterson,642207,Devin Williams,681146,Jonah Bride,R,Victor Caratini,605170,1,1,9,True,2023-06-10,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+24,24,1B,2B,Stolen Base 2B,641584,Jake Fraley,669203,Corbin Burnes,663886,Tyler Stephenson,R,Victor Caratini,605170,0,2,2,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+25,25,1B,2B,Stolen Base 2B,666181,Will Benson,669203,Corbin Burnes,571912,Luke Maile,R,Victor Caratini,605170,3,3,4,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+26,26,1B,2B,Stolen Base 2B,663697,Jonathan India,657265,Peter Strzelecki,641584,Jake Fraley,R,Victor Caratini,605170,3,3,8,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+27,27,1B,2B,Stolen Base 2B,666181,Will Benson,642207,Devin Williams,668715,Spencer Steer,R,Victor Caratini,605170,3,3,9,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+28,28,2B,3B,Stolen Base 3B,621028,Kevin Newman,665625,Elvis Peguero,663886,Tyler Stephenson,R,Victor Caratini,605170,3,3,10,False,2023-06-02,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+29,29,1B,2B,Stolen Base 2B,663697,Jonathan India,665625,Elvis Peguero,663886,Tyler Stephenson,R,Victor Caratini,605170,3,3,10,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+30,30,1B,2B,Stolen Base 2B,642731,Thairo Estrada,527054,Julio Teheran,624424,Michael Conforto,R,Victor Caratini,605170,0,0,1,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+31,31,1B,2B,Stolen Base 2B,669477,Casey Schmitt,527054,Julio Teheran,672275,Patrick Bailey,R,Victor Caratini,605170,0,0,5,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+32,32,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,527054,Julio Teheran,642731,Thairo Estrada,R,Victor Caratini,605170,0,1,5,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+33,33,1B,2B,Stolen Base 2B,624424,Michael Conforto,656730,Trevor Megill,571745,Mitch Haniger,R,Victor Caratini,605170,0,1,6,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+34,34,1B,2B,Stolen Base 2B,669242,Tommy Edman,669203,Corbin Burnes,663457,Lars Nootbaar,R,Victor Caratini,605170,1,0,2,False,2023-05-17,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+35,35,1B,2B,Stolen Base 2B,518692,Freddie Freeman,641778,Eric Lauer,669257,Will Smith,L,Victor Caratini,605170,0,2,1,True,2023-05-09,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+36,36,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,2,2,False,2023-05-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+37,37,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,4,5,False,2023-05-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+38,38,1B,2B,Stolen Base 2B,686668,Brenton Doyle,606303,Joel Payamps,553869,Elias Díaz,R,Victor Caratini,605170,4,4,7,False,2023-05-04,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+39,39,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,665625,Elvis Peguero,543685,Anthony Rendon,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+40,40,2B,3B,Stolen Base 3B,660271,Shohei Ohtani,657265,Peter Strzelecki,592273,Brandon Drury,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+41,41,1B,2B,Stolen Base 2B,543685,Anthony Rendon,657265,Peter Strzelecki,592273,Brandon Drury,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+42,42,1B,2B,Stolen Base 2B,680776,Jarren Duran,642770,Javy Guerra,657136,Connor Wong,R,Victor Caratini,605170,4,7,8,True,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+43,43,1B,2B,Stolen Base 2B,644374,Yu Chang,642770,Javy Guerra,657077,Alex Verdugo,R,Victor Caratini,605170,4,7,8,True,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+44,44,1B,2B,Stolen Base 2B,676609,José Caballero,669060,Bryse Wilson,641487,J.P. Crawford,R,Victor Caratini,605170,5,6,11,False,2023-04-18,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+45,45,1B,2B,Stolen Base 2B,640492,José Azocar,681402,Gus Varland,592518,Manny Machado,R,Victor Caratini,605170,8,3,8,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+46,46,1B,2B,Stolen Base 2B,663538,Nico Hoerner,641778,Eric Lauer,621020,Dansby Swanson,L,Victor Caratini,605170,1,0,1,False,2023-04-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+47,47,1B,,Caught Stealing 2B,621020,Dansby Swanson,641778,Eric Lauer,641820,Trey Mancini,L,Victor Caratini,605170,1,0,1,False,2023-04-02,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+48,48,1B,2B,Stolen Base 2B,666624,Christopher Morel,676961,Caleb Boushley,643565,Mike Tauchman,R,Victor Caratini,605170,3,3,10,True,2023-09-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+49,49,1B,2B,Stolen Base 2B,671277,Luis García Jr.,605540,Brandon Woodruff,686452,Drew Millas,R,Victor Caratini,605170,0,1,5,True,2023-09-17,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+50,50,1B,2B,Stolen Base 2B,696285,Jacob Young,600986,Thyago Vieira,682928,CJ Abrams,R,Victor Caratini,605170,1,1,10,True,2023-09-17,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+51,51,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,669203,Corbin Burnes,683011,Anthony Volpe,R,Victor Caratini,605170,0,0,5,False,2023-09-10,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+52,52,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605177,Andrew Chafin,681082,Bryson Stott,L,Victor Caratini,605170,2,4,8,True,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+53,53,1B,2B,Stolen Base 2B,679032,Johan Rojas,669060,Bryse Wilson,592206,Nick Castellanos,R,Victor Caratini,605170,2,4,9,True,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+54,54,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,489119,Wade Miley,553869,Elias Díaz,L,Victor Caratini,605170,0,0,1,True,2023-08-08,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+55,55,1B,2B,Stolen Base 2B,678894,Liover Peguero,669203,Corbin Burnes,675961,Alika Williams,R,Victor Caratini,605170,0,0,5,True,2023-08-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+56,56,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,669203,Corbin Burnes,663845,Alfonso Rivas III,R,Victor Caratini,605170,1,2,6,True,2023-08-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+57,57,1B,,Caught Stealing 2B,669743,Alex Call,669203,Corbin Burnes,682928,CJ Abrams,R,Victor Caratini,605170,1,1,5,False,2023-07-31,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+58,58,1B,2B,Stolen Base 2B,682928,CJ Abrams,669203,Corbin Burnes,657041,Lane Thomas,R,Victor Caratini,605170,2,1,5,False,2023-07-31,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+59,59,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,527054,Julio Teheran,645277,Ozzie Albies,R,Victor Caratini,605170,1,0,1,False,2023-07-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+60,60,1B,2B,Stolen Base 2B,641584,Jake Fraley,669060,Bryse Wilson,458015,Joey Votto,R,Victor Caratini,605170,0,2,8,True,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+61,61,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,527054,Julio Teheran,645277,Ozzie Albies,R,Victor Caratini,605170,0,0,1,True,2023-07-23,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+62,62,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669203,Corbin Burnes,458015,Joey Votto,R,Victor Caratini,605170,4,2,5,True,2023-07-07,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+63,63,2B,3B,Stolen Base 3B,663538,Nico Hoerner,642547,Freddy Peralta,673548,Seiya Suzuki,R,Victor Caratini,605170,0,1,3,True,2023-07-06,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+64,64,1B,2B,Stolen Base 2B,664023,Ian Happ,642547,Freddy Peralta,673548,Seiya Suzuki,R,Victor Caratini,605170,0,1,3,True,2023-07-06,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+65,65,1B,2B,Stolen Base 2B,676724,Jared Young,527054,Julio Teheran,664023,Ian Happ,R,Victor Caratini,605170,0,0,1,True,2023-07-03,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+66,66,2B,3B,Stolen Base 3B,592192,Mark Canha,642207,Devin Williams,641645,Luis Guillorme,R,Victor Caratini,605170,2,3,9,False,2023-06-29,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+67,67,1B,,Caught Stealing 2B,664702,Myles Straw,606303,Joel Payamps,672356,Gabriel Arias,R,Victor Caratini,605170,4,4,8,False,2023-06-25,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+68,68,1B,2B,Stolen Base 2B,650489,Willi Castro,642207,Devin Williams,456781,Donovan Solano,R,Victor Caratini,605170,5,5,9,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+69,69,1B,,Caught Stealing 2B,664913,Seth Brown,527054,Julio Teheran,657656,Ramón Laureano,R,Victor Caratini,605170,0,1,6,True,2023-06-10,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+70,70,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,665625,Elvis Peguero,676116,Ryan Noda,R,Victor Caratini,605170,0,1,8,True,2023-06-10,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+71,71,1B,2B,Stolen Base 2B,607054,Jace Peterson,642207,Devin Williams,681146,Jonah Bride,R,Victor Caratini,605170,1,1,9,True,2023-06-10,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+72,72,1B,2B,Stolen Base 2B,641584,Jake Fraley,669203,Corbin Burnes,663886,Tyler Stephenson,R,Victor Caratini,605170,0,2,2,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+73,73,1B,2B,Stolen Base 2B,666181,Will Benson,669203,Corbin Burnes,571912,Luke Maile,R,Victor Caratini,605170,3,3,4,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+74,74,1B,2B,Stolen Base 2B,663697,Jonathan India,657265,Peter Strzelecki,641584,Jake Fraley,R,Victor Caratini,605170,3,3,8,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+75,75,1B,2B,Stolen Base 2B,666181,Will Benson,642207,Devin Williams,668715,Spencer Steer,R,Victor Caratini,605170,3,3,9,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+76,76,2B,3B,Stolen Base 3B,621028,Kevin Newman,665625,Elvis Peguero,663886,Tyler Stephenson,R,Victor Caratini,605170,3,3,10,False,2023-06-02,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+77,77,1B,2B,Stolen Base 2B,663697,Jonathan India,665625,Elvis Peguero,663886,Tyler Stephenson,R,Victor Caratini,605170,3,3,10,False,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+78,78,1B,2B,Stolen Base 2B,642731,Thairo Estrada,527054,Julio Teheran,624424,Michael Conforto,R,Victor Caratini,605170,0,0,1,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+79,79,1B,2B,Stolen Base 2B,669477,Casey Schmitt,527054,Julio Teheran,672275,Patrick Bailey,R,Victor Caratini,605170,0,0,5,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+80,80,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,527054,Julio Teheran,642731,Thairo Estrada,R,Victor Caratini,605170,0,1,5,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+81,81,1B,2B,Stolen Base 2B,624424,Michael Conforto,656730,Trevor Megill,571745,Mitch Haniger,R,Victor Caratini,605170,0,1,6,True,2023-05-25,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+82,82,1B,2B,Stolen Base 2B,669242,Tommy Edman,669203,Corbin Burnes,663457,Lars Nootbaar,R,Victor Caratini,605170,1,0,2,False,2023-05-17,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+83,83,1B,2B,Stolen Base 2B,518692,Freddie Freeman,641778,Eric Lauer,669257,Will Smith,L,Victor Caratini,605170,0,2,1,True,2023-05-09,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+84,84,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,2,2,False,2023-05-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+85,85,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,4,5,False,2023-05-05,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+86,86,1B,2B,Stolen Base 2B,686668,Brenton Doyle,606303,Joel Payamps,553869,Elias Díaz,R,Victor Caratini,605170,4,4,7,False,2023-05-04,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+87,87,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,665625,Elvis Peguero,543685,Anthony Rendon,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+88,88,2B,3B,Stolen Base 3B,660271,Shohei Ohtani,657265,Peter Strzelecki,592273,Brandon Drury,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,3B,2023,2024,29.8,2024, 80.4, 0.66
+89,89,1B,2B,Stolen Base 2B,543685,Anthony Rendon,657265,Peter Strzelecki,592273,Brandon Drury,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+90,90,1B,2B,Stolen Base 2B,680776,Jarren Duran,642770,Javy Guerra,657136,Connor Wong,R,Victor Caratini,605170,4,7,8,True,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+91,91,1B,2B,Stolen Base 2B,644374,Yu Chang,642770,Javy Guerra,657077,Alex Verdugo,R,Victor Caratini,605170,4,7,8,True,2023-04-23,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+92,92,1B,2B,Stolen Base 2B,676609,José Caballero,669060,Bryse Wilson,641487,J.P. Crawford,R,Victor Caratini,605170,5,6,11,False,2023-04-18,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+93,93,1B,2B,Stolen Base 2B,640492,José Azocar,681402,Gus Varland,592518,Manny Machado,R,Victor Caratini,605170,8,3,8,False,2023-04-15,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+94,94,1B,2B,Stolen Base 2B,663538,Nico Hoerner,641778,Eric Lauer,621020,Dansby Swanson,L,Victor Caratini,605170,1,0,1,False,2023-04-02,Stolen,2B,2023,2024,29.8,2024, 80.4, 0.66
+95,95,1B,,Caught Stealing 2B,621020,Dansby Swanson,641778,Eric Lauer,641820,Trey Mancini,L,Victor Caratini,605170,1,0,1,False,2023-04-02,Caught,2B,2023,2024,29.8,2024, 80.4, 0.66
+96,96,1B,2B,Stolen Base 2B,664023,Ian Happ,608718,Brent Suter,673548,Seiya Suzuki,L,Victor Caratini,605170,2,8,6,True,2022-07-05,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+97,97,3B,score,Stolen Base Home,542364,Rafael Ortega,608718,Brent Suter,673548,Seiya Suzuki,L,Victor Caratini,605170,2,8,6,True,2022-07-05,Stolen,Home,2022,2023,29.4,2023, 78.5, 0.71
+98,98,2B,3B,Stolen Base 3B,663538,Nico Hoerner,623352,Josh Hader,543228,Yan Gomes,L,Victor Caratini,605170,1,2,9,True,2022-07-04,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.71
+99,99,1B,2B,Stolen Base 2B,542364,Rafael Ortega,502202,Brad Boxberger,663845,Alfonso Rivas III,R,Victor Caratini,605170,2,2,10,True,2022-07-04,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+100,100,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,641627,Trevor Gott,668804,Bryan Reynolds,R,Victor Caratini,605170,4,2,5,False,2022-07-02,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+101,101,2B,3B,Stolen Base 3B,668227,Randy Arozarena,641778,Eric Lauer,596847,Ji Man Choi,L,Victor Caratini,605170,0,1,4,False,2022-06-29,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.71
+102,102,1B,2B,Stolen Base 2B,623912,Harold Ramírez,641778,Eric Lauer,596847,Ji Man Choi,L,Victor Caratini,605170,0,1,4,False,2022-06-29,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+103,103,1B,2B,Stolen Base 2B,668227,Randy Arozarena,642207,Devin Williams,623912,Harold Ramírez,R,Victor Caratini,605170,3,4,8,False,2022-06-29,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+104,104,1B,2B,Stolen Base 2B,666185,Dylan Carlson,657265,Peter Strzelecki,664056,Harrison Bader,R,Victor Caratini,605170,2,6,8,True,2022-06-21,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+105,105,1B,,Caught Stealing 2B,671277,Luis García Jr.,641778,Eric Lauer,657041,Lane Thomas,L,Victor Caratini,605170,4,1,4,False,2022-06-11,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+106,106,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605288,Adrian Houser,544369,Didi Gregorius,R,Victor Caratini,605170,0,5,6,True,2022-06-08,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+107,107,2B,3B,Stolen Base 3B,663757,Trent Grisham,571948,Hoby Milner,543592,Austin Nola,L,Victor Caratini,605170,0,5,5,True,2022-06-03,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.71
+108,108,1B,,Caught Stealing 2B,642727,Sergio Alcántara,608718,Brent Suter,595777,Jurickson Profar,L,Victor Caratini,605170,1,3,6,True,2022-06-02,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+109,109,1B,2B,Stolen Base 2B,640449,Clint Frazier,641778,Eric Lauer,666624,Christopher Morel,L,Victor Caratini,605170,1,0,2,False,2022-05-31,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+110,110,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,641778,Eric Lauer,643524,Frank Schwindel,L,Victor Caratini,605170,1,3,3,False,2022-05-31,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+111,111,2B,3B,Stolen Base 3B,666624,Christopher Morel,676879,Aaron Ashby,664023,Ian Happ,L,Victor Caratini,605170,1,2,6,False,2022-05-30,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.71
+112,112,1B,,Caught Stealing 2B,680977,Brendan Donovan,605288,Adrian Houser,663457,Lars Nootbaar,R,Victor Caratini,605170,5,0,3,False,2022-05-28,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+113,113,1B,,Caught Stealing 2B,592518,Manny Machado,669203,Corbin Burnes,595777,Jurickson Profar,R,Victor Caratini,605170,1,1,5,False,2022-05-24,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+114,114,1B,,Caught Stealing 2B,543829,Dee Strange-Gordon,605540,Brandon Woodruff,514917,César Hernández,R,Victor Caratini,605170,2,1,3,True,2022-05-21,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+115,115,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,502202,Brad Boxberger,663586,Austin Riley,R,Victor Caratini,605170,0,1,8,True,2022-05-17,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+116,116,1B,2B,Stolen Base 2B,541645,Avisaíl García,641627,Trevor Gott,660821,Jesús Sánchez,R,Victor Caratini,605170,4,1,6,False,2022-05-14,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+117,117,1B,,Caught Stealing 2B,607732,Jacob Stallings,669203,Corbin Burnes,665862,Jazz Chisholm Jr.,R,Victor Caratini,605170,1,1,5,False,2022-05-13,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+118,118,2B,3B,Caught Stealing 2B,670770,TJ Friedl,642547,Freddy Peralta,502054,Tommy Pham,R,Victor Caratini,605170,1,0,3,False,2022-05-10,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+119,119,1B,,Caught Stealing 2B,592273,Brandon Drury,642547,Freddy Peralta,502054,Tommy Pham,R,Victor Caratini,605170,1,0,3,False,2022-05-10,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+120,120,1B,2B,Stolen Base 2B,645277,Ozzie Albies,669203,Corbin Burnes,518595,Travis d'Arnaud,R,Victor Caratini,605170,0,0,4,False,2022-05-07,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+121,121,1B,,Caught Stealing 2B,645277,Ozzie Albies,669203,Corbin Burnes,518595,Travis d'Arnaud,R,Victor Caratini,605170,2,0,6,False,2022-05-07,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+122,122,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,606131,Luis Perdomo,621566,Matt Olson,R,Victor Caratini,605170,2,1,7,False,2022-05-07,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+123,123,1B,2B,Stolen Base 2B,571657,Kyle Farmer,641627,Trevor Gott,664670,Alejo Lopez,R,Victor Caratini,605170,7,3,6,True,2022-05-04,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+124,124,1B,,Caught Stealing 2B,670768,Luis González,641627,Trevor Gott,642731,Thairo Estrada,R,Victor Caratini,605170,1,0,7,True,2022-04-25,Caught,2B,2022,2023,29.4,2023, 78.5, 0.71
+125,125,1B,2B,Stolen Base 2B,622761,Jorge Mateo,605288,Adrian Houser,455139,Robinson Chirinos,R,Victor Caratini,605170,0,0,2,False,2022-04-11,Stolen,2B,2022,2023,29.4,2023, 78.5, 0.71
+126,126,2B,3B,Stolen Base 3B,666624,Christopher Morel,676879,Aaron Ashby,664023,Ian Happ,L,Victor Caratini,605170,1,2,6,False,2022-04-08,Stolen,3B,2022,2023,29.4,2023, 78.5, 0.71

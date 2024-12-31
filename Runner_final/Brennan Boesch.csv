@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1882,1B,2B,Stolen Base 2B,453269,Brennan Boesch,477229,Jordan Walden,571466,Tucker Barnhart,R,Yadier Molina,425877,2,1,9,True,2015-04-19,Stolen,2B
+2474,1B,2B,Stolen Base 2B,453269,Brennan Boesch,433587,Félix Hernández,543068,C.J. Cron,R,Mike Zunino,572287,0,0,6,False,2014-09-18,Stolen,2B
+2660,1B,2B,Stolen Base 2B,453269,Brennan Boesch,457754,Jon Edwards,518577,Collin Cowgill,R,Tomás Telis,542513,0,4,7,True,2014-09-10,Stolen,2B
+5616,1B,2B,Stolen Base 2B,453269,Brennan Boesch,502381,Luke Gregerson,430947,Erick Aybar,R,John Jaso,444379,4,4,10,False,2014-04-16,Stolen,2B
+230,1B,2B,Stolen Base 2B,453269,Brennan Boesch,433587,Félix Hernández,543068,C.J. Cron,R,Mike Zunino,572287,0,0,6,False,2014-09-18,Stolen,2B
+416,1B,2B,Stolen Base 2B,453269,Brennan Boesch,457754,Jon Edwards,518577,Collin Cowgill,R,Tomás Telis,542513,0,4,7,True,2014-09-10,Stolen,2B
+3372,1B,2B,Stolen Base 2B,453269,Brennan Boesch,502381,Luke Gregerson,430947,Erick Aybar,R,John Jaso,444379,4,4,10,False,2014-04-16,Stolen,2B

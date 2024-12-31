@@ -1,0 +1,44 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1034,1B,2B,Stolen Base 2B,647304,Josh Naylor,595014,Blake Treinen,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,2,4,8,False,2020-08-04,Stolen,2B
+2700,1B,,Caught Stealing 2B,647304,Josh Naylor,608379,Michael Wacha,435079,Ian Kinsler,R,Yadier Molina,425877,0,0,2,False,2019-06-28,Caught,2B
+3060,1B,2B,Stolen Base 2B,647304,Josh Naylor,448281,Sean Doolittle,595978,Austin Hedges,L,Yan Gomes,543228,5,4,9,False,2019-06-07,Stolen,2B
+2294,2B,3B,Stolen Base 3B,647304,Josh Naylor,663903,Brady Singer,595978,Austin Hedges,R,Salvador Perez,521692,2,0,5,True,2021-05-05,Stolen,3B
+3877,1B,2B,Stolen Base 2B,647304,Josh Naylor,595014,Blake Treinen,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,2,4,8,False,2020-08-04,Stolen,2B
+5543,1B,,Caught Stealing 2B,647304,Josh Naylor,608379,Michael Wacha,435079,Ian Kinsler,R,Yadier Molina,425877,0,0,2,False,2019-06-28,Caught,2B
+5903,1B,2B,Stolen Base 2B,647304,Josh Naylor,448281,Sean Doolittle,595978,Austin Hedges,L,Yan Gomes,543228,5,4,9,False,2019-06-07,Stolen,2B
+98,1B,,Caught Stealing 2B,647304,Josh Naylor,650960,Daniel Duarte,671289,Tyler Freeman,R,Tyler Stephenson,663886,3,0,3,False,2023-09-27,Caught,2B
+237,1B,2B,Stolen Base 2B,647304,Josh Naylor,672335,Cionel Pérez,671289,Tyler Freeman,L,Adley Rutschman,668939,2,2,8,False,2023-09-21,Stolen,2B
+374,1B,2B,Stolen Base 2B,647304,Josh Naylor,519293,Will Smith,594777,Kole Calhoun,L,Jonah Heim,641680,0,1,7,False,2023-09-16,Stolen,2B
+440,1B,2B,Stolen Base 2B,647304,Josh Naylor,640455,Sean Manaea,681807,David Fry,L,Blake Sabol,666165,0,0,1,True,2023-09-12,Stolen,2B
+596,1B,2B,Stolen Base 2B,647304,Josh Naylor,646242,Jhonathan Díaz,657656,Ramón Laureano,L,Chad Wallach,595453,0,0,1,True,2023-09-07,Stolen,2B
+1811,2B,3B,Stolen Base 3B,647304,Josh Naylor,571760,Andrew Heaney,605137,Josh Bell,L,Jonah Heim,641680,2,0,6,True,2023-07-15,Stolen,3B
+2357,1B,2B,Stolen Base 2B,647304,Josh Naylor,605200,Zach Davies,671289,Tyler Freeman,R,Gabriel Moreno,672515,1,5,3,True,2023-06-18,Stolen,2B
+2557,1B,,Caught Stealing 2B,647304,Josh Naylor,656232,Brandon Bielak,605137,Josh Bell,R,César Salazar,663967,2,0,3,False,2023-06-11,Caught,2B
+2827,2B,3B,Stolen Base 3B,647304,Josh Naylor,657508,Mike Baumann,605137,Josh Bell,R,Adley Rutschman,668939,7,9,5,True,2023-05-31,Stolen,3B
+3266,1B,2B,Stolen Base 2B,647304,Josh Naylor,542881,Tyler Anderson,672356,Gabriel Arias,L,Matt Thaiss,642136,1,0,2,False,2023-05-12,Stolen,2B
+3572,1B,2B,Stolen Base 2B,647304,Josh Naylor,678394,Brayan Bello,605137,Josh Bell,R,Connor Wong,657136,3,1,4,True,2023-04-29,Stolen,2B
+3735,1B,2B,Stolen Base 2B,647304,Josh Naylor,666200,Jesús Luzardo,572287,Mike Zunino,L,Nick Fortes,663743,3,1,3,False,2023-04-23,Stolen,2B
+531,1B,2B,Stolen Base 2B,647304,Josh Naylor,681911,Alex Vesia,680911,Owen Miller,L,Will Smith,669257,1,1,6,True,2022-06-17,Stolen,2B
+4218,2B,3B,Stolen Base 3B,647304,Josh Naylor,663903,Brady Singer,595978,Austin Hedges,R,Salvador Perez,521692,2,0,5,True,2021-05-05,Stolen,3B
+5801,1B,2B,Stolen Base 2B,647304,Josh Naylor,595014,Blake Treinen,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,2,4,8,False,2020-08-04,Stolen,2B
+7467,1B,,Caught Stealing 2B,647304,Josh Naylor,608379,Michael Wacha,435079,Ian Kinsler,R,Yadier Molina,425877,0,0,2,False,2019-06-28,Caught,2B
+7827,1B,2B,Stolen Base 2B,647304,Josh Naylor,448281,Sean Doolittle,595978,Austin Hedges,L,Yan Gomes,543228,5,4,9,False,2019-06-07,Stolen,2B
+695,2B,3B,Stolen Base 3B,647304,Josh Naylor,672578,Carlos Hernández,678877,Jhonkensy Noel,R,Freddy Fermin,666023,1,4,8,True,2024-09-02,Stolen,3B
+1707,1B,2B,Stolen Base 2B,647304,Josh Naylor,689225,Beau Brieske,678877,Jhonkensy Noel,R,Carson Kelly,608348,2,1,8,False,2024-07-24,Stolen,2B
+2028,1B,2B,Stolen Base 2B,647304,Josh Naylor,628317,Kenta Maeda,678877,Jhonkensy Noel,R,Carson Kelly,608348,0,4,3,True,2024-07-09,Stolen,2B
+3324,1B,2B,Stolen Base 2B,647304,Josh Naylor,681982,Grant Anderson,686823,Will Brennan,R,Jonah Heim,641680,4,7,9,True,2024-05-14,Stolen,2B
+3788,1B,2B,Stolen Base 2B,647304,Josh Naylor,519242,Chris Sale,681807,David Fry,L,Travis d'Arnaud,518595,0,1,1,True,2024-04-26,Stolen,2B
+3816,1B,2B,Stolen Base 2B,647304,Josh Naylor,455119,Chris Martin,681807,David Fry,R,Reese McGuire,624512,6,4,7,False,2024-04-25,Stolen,2B
+4111,2B,,Caught Stealing 3B,647304,Josh Naylor,641482,Nestor Cortes,681807,David Fry,L,Jose Trevino,624431,2,3,3,False,2024-04-14,Caught,3B
+4512,1B,,Caught Stealing 2B,647304,Josh Naylor,650960,Daniel Duarte,671289,Tyler Freeman,R,Tyler Stephenson,663886,3,0,3,False,2023-09-27,Caught,2B
+4651,1B,2B,Stolen Base 2B,647304,Josh Naylor,672335,Cionel Pérez,671289,Tyler Freeman,L,Adley Rutschman,668939,2,2,8,False,2023-09-21,Stolen,2B
+4788,1B,2B,Stolen Base 2B,647304,Josh Naylor,519293,Will Smith,594777,Kole Calhoun,L,Jonah Heim,641680,0,1,7,False,2023-09-16,Stolen,2B
+4854,1B,2B,Stolen Base 2B,647304,Josh Naylor,640455,Sean Manaea,681807,David Fry,L,Blake Sabol,666165,0,0,1,True,2023-09-12,Stolen,2B
+5010,1B,2B,Stolen Base 2B,647304,Josh Naylor,646242,Jhonathan Díaz,657656,Ramón Laureano,L,Chad Wallach,595453,0,0,1,True,2023-09-07,Stolen,2B
+6225,2B,3B,Stolen Base 3B,647304,Josh Naylor,571760,Andrew Heaney,605137,Josh Bell,L,Jonah Heim,641680,2,0,6,True,2023-07-15,Stolen,3B
+6771,1B,2B,Stolen Base 2B,647304,Josh Naylor,605200,Zach Davies,671289,Tyler Freeman,R,Gabriel Moreno,672515,1,5,3,True,2023-06-18,Stolen,2B
+6971,1B,,Caught Stealing 2B,647304,Josh Naylor,656232,Brandon Bielak,605137,Josh Bell,R,César Salazar,663967,2,0,3,False,2023-06-11,Caught,2B
+7241,2B,3B,Stolen Base 3B,647304,Josh Naylor,657508,Mike Baumann,605137,Josh Bell,R,Adley Rutschman,668939,7,9,5,True,2023-05-31,Stolen,3B
+7680,1B,2B,Stolen Base 2B,647304,Josh Naylor,542881,Tyler Anderson,672356,Gabriel Arias,L,Matt Thaiss,642136,1,0,2,False,2023-05-12,Stolen,2B
+7986,1B,2B,Stolen Base 2B,647304,Josh Naylor,678394,Brayan Bello,605137,Josh Bell,R,Connor Wong,657136,3,1,4,True,2023-04-29,Stolen,2B
+8149,1B,2B,Stolen Base 2B,647304,Josh Naylor,666200,Jesús Luzardo,572287,Mike Zunino,L,Nick Fortes,663743,3,1,3,False,2023-04-23,Stolen,2B

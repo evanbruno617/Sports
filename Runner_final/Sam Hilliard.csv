@@ -1,0 +1,41 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+649,1B,2B,Stolen Base 2B,656541,Sam Hilliard,661255,Yoan López,460077,Drew Butera,R,Stephen Vogt,519390,1,2,6,True,2020-08-26,Stolen,2B
+732,1B,2B,Stolen Base 2B,656541,Sam Hilliard,669160,Dustin May,547172,Tony Wolters,R,Austin Barnes,605131,2,1,5,True,2020-08-22,Stolen,2B
+1021,1B,2B,Stolen Base 2B,656541,Sam Hilliard,657277,Logan Webb,547172,Tony Wolters,R,Tyler Heineman,623168,1,0,3,False,2020-08-05,Stolen,2B
+1260,1B,2B,Stolen Base 2B,656541,Sam Hilliard,605288,Adrian Houser,453568,Charlie Blackmon,R,Jacob Nottingham,641924,0,2,1,False,2019-09-29,Stolen,2B
+1261,2B,3B,Stolen Base 3B,656541,Sam Hilliard,605288,Adrian Houser,453568,Charlie Blackmon,R,Jacob Nottingham,641924,0,2,1,False,2019-09-29,Stolen,3B
+44,1B,2B,Stolen Base 2B,656541,Sam Hilliard,608723,Austin Voth,624513,Dom Nuñez,R,Riley Adams,656180,6,5,3,False,2021-09-29,Stolen,2B
+239,1B,2B,Stolen Base 2B,656541,Sam Hilliard,640448,Kyle Finnegan,606132,Raimel Tapia,R,Keibert Ruiz,660688,8,8,9,True,2021-09-17,Stolen,2B
+504,1B,2B,Stolen Base 2B,656541,Sam Hilliard,669952,Mitch White,624513,Dom Nuñez,R,Austin Barnes,605131,0,3,4,True,2021-08-29,Stolen,2B
+954,1B,2B,Stolen Base 2B,656541,Sam Hilliard,506433,Yu Darvish,608566,Germán Márquez,R,Victor Caratini,605170,0,0,3,True,2021-07-31,Stolen,2B
+3492,1B,2B,Stolen Base 2B,656541,Sam Hilliard,661255,Yoan López,460077,Drew Butera,R,Stephen Vogt,519390,1,2,6,True,2020-08-26,Stolen,2B
+3575,1B,2B,Stolen Base 2B,656541,Sam Hilliard,669160,Dustin May,547172,Tony Wolters,R,Austin Barnes,605131,2,1,5,True,2020-08-22,Stolen,2B
+3864,1B,2B,Stolen Base 2B,656541,Sam Hilliard,657277,Logan Webb,547172,Tony Wolters,R,Tyler Heineman,623168,1,0,3,False,2020-08-05,Stolen,2B
+4103,1B,2B,Stolen Base 2B,656541,Sam Hilliard,605288,Adrian Houser,453568,Charlie Blackmon,R,Jacob Nottingham,641924,0,2,1,False,2019-09-29,Stolen,2B
+4104,2B,3B,Stolen Base 3B,656541,Sam Hilliard,605288,Adrian Houser,453568,Charlie Blackmon,R,Jacob Nottingham,641924,0,2,1,False,2019-09-29,Stolen,3B
+3711,1B,2B,Stolen Base 2B,656541,Sam Hilliard,665795,Edward Cabrera,501303,Ehire Adrianza,R,Jacob Stallings,607732,0,0,2,False,2023-04-24,Stolen,2B
+3808,1B,2B,Stolen Base 2B,656541,Sam Hilliard,472610,Luis García,607680,Kevin Pillar,R,Austin Nola,543592,1,0,8,True,2023-04-19,Stolen,2B
+3976,1B,2B,Stolen Base 2B,656541,Sam Hilliard,664139,Ian Gibaut,660670,Ronald Acuña Jr.,R,Luke Maile,571912,4,4,7,False,2023-04-12,Stolen,2B
+39,1B,2B,Stolen Base 2B,656541,Sam Hilliard,622503,Nabil Crismatt,641658,Garrett Hampson,R,Austin Nola,543592,3,6,6,False,2022-07-13,Stolen,2B
+1188,1B,2B,Stolen Base 2B,656541,Sam Hilliard,425844,Zack Greinke,453568,Charlie Blackmon,R,Salvador Perez,521692,3,2,2,False,2022-05-13,Stolen,2B
+1343,1B,2B,Stolen Base 2B,656541,Sam Hilliard,518876,Merrill Kelly,578428,Jose Iglesias,R,Daulton Varsho,662139,0,1,2,True,2022-05-06,Stolen,2B
+1641,1B,,Caught Stealing 2B,656541,Sam Hilliard,605400,Aaron Nola,578428,Jose Iglesias,R,J.T. Realmuto,592663,0,0,5,False,2022-04-18,Caught,2B
+1968,1B,2B,Stolen Base 2B,656541,Sam Hilliard,608723,Austin Voth,624513,Dom Nuñez,R,Riley Adams,656180,6,5,3,False,2021-09-29,Stolen,2B
+2163,1B,2B,Stolen Base 2B,656541,Sam Hilliard,640448,Kyle Finnegan,606132,Raimel Tapia,R,Keibert Ruiz,660688,8,8,9,True,2021-09-17,Stolen,2B
+2428,1B,2B,Stolen Base 2B,656541,Sam Hilliard,669952,Mitch White,624513,Dom Nuñez,R,Austin Barnes,605131,0,3,4,True,2021-08-29,Stolen,2B
+2878,1B,2B,Stolen Base 2B,656541,Sam Hilliard,506433,Yu Darvish,608566,Germán Márquez,R,Victor Caratini,605170,0,0,3,True,2021-07-31,Stolen,2B
+5416,1B,2B,Stolen Base 2B,656541,Sam Hilliard,661255,Yoan López,460077,Drew Butera,R,Stephen Vogt,519390,1,2,6,True,2020-08-26,Stolen,2B
+5499,1B,2B,Stolen Base 2B,656541,Sam Hilliard,669160,Dustin May,547172,Tony Wolters,R,Austin Barnes,605131,2,1,5,True,2020-08-22,Stolen,2B
+5788,1B,2B,Stolen Base 2B,656541,Sam Hilliard,657277,Logan Webb,547172,Tony Wolters,R,Tyler Heineman,623168,1,0,3,False,2020-08-05,Stolen,2B
+6027,1B,2B,Stolen Base 2B,656541,Sam Hilliard,605288,Adrian Houser,453568,Charlie Blackmon,R,Jacob Nottingham,641924,0,2,1,False,2019-09-29,Stolen,2B
+6028,2B,3B,Stolen Base 3B,656541,Sam Hilliard,605288,Adrian Houser,453568,Charlie Blackmon,R,Jacob Nottingham,641924,0,2,1,False,2019-09-29,Stolen,3B
+181,1B,2B,Stolen Base 2B,656541,Sam Hilliard,681911,Alex Vesia,666134,Nolan Jones,L,Hunter Feduccia,676439,3,4,6,True,2024-09-21,Stolen,2B
+636,1B,,Caught Stealing 2B,656541,Sam Hilliard,450203,Charlie Morton,453568,Charlie Blackmon,R,Travis d'Arnaud,518595,4,2,4,True,2024-09-04,Caught,2B
+1513,1B,2B,Stolen Base 2B,656541,Sam Hilliard,668968,Hans Crouse,686668,Brenton Doyle,R,Logan O'Hoppe,681351,4,5,10,True,2024-08-01,Stolen,2B
+1958,1B,2B,Stolen Base 2B,656541,Sam Hilliard,621242,Edwin Díaz,453568,Charlie Blackmon,R,Francisco Alvarez,682626,7,6,9,True,2024-07-12,Stolen,2B
+2073,1B,2B,Stolen Base 2B,656541,Sam Hilliard,607625,Seth Lugo,453568,Charlie Blackmon,R,Salvador Perez,521692,2,0,5,False,2024-07-06,Stolen,2B
+2221,2B,3B,Stolen Base 3B,656541,Sam Hilliard,621051,Steven Wilson,666134,Nolan Jones,R,Korey Lee,686676,2,2,10,True,2024-06-30,Stolen,3B
+2402,1B,,Caught Stealing 2B,656541,Sam Hilliard,640451,Hunter Harvey,666134,Nolan Jones,R,Keibert Ruiz,660688,6,7,8,False,2024-06-22,Caught,2B
+8125,1B,2B,Stolen Base 2B,656541,Sam Hilliard,665795,Edward Cabrera,501303,Ehire Adrianza,R,Jacob Stallings,607732,0,0,2,False,2023-04-24,Stolen,2B
+8222,1B,2B,Stolen Base 2B,656541,Sam Hilliard,472610,Luis García,607680,Kevin Pillar,R,Austin Nola,543592,1,0,8,True,2023-04-19,Stolen,2B
+8390,1B,2B,Stolen Base 2B,656541,Sam Hilliard,664139,Ian Gibaut,660670,Ronald Acuña Jr.,R,Luke Maile,571912,4,4,7,False,2023-04-12,Stolen,2B

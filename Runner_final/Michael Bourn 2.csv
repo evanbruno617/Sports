@@ -1,0 +1,94 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4066,1B,2B,Stolen Base 2B,456422,Michael Bourn,573186,Marcus Stroman,429666,J.J. Hardy,R,Russell Martin,431145,0,2,7,True,2016-09-29,Stolen,2B
+4090,1B,2B,Stolen Base 2B,456422,Michael Bourn,532077,Roberto Osuna,547957,Hyun Soo Kim,R,Russell Martin,431145,2,3,9,True,2016-09-28,Stolen,2B
+4703,1B,2B,Stolen Base 2B,456422,Michael Bourn,595001,Josh A. Smith,456078,Welington Castillo,R,Ramón Cabrera,541608,6,2,5,False,2016-08-28,Stolen,2B
+4897,2B,3B,Stolen Base 3B,456422,Michael Bourn,592789,Noah Syndergaard,630111,Yasmany Tomás,R,René Rivera,425784,0,0,1,False,2016-08-16,Stolen,3B
+4966,2B,3B,Stolen Base 3B,456422,Michael Bourn,453329,Clay Buchholz,571875,Jake Lamb,R,Sandy León,506702,1,1,4,True,2016-08-13,Stolen,3B
+5034,1B,2B,Caught Stealing Home,456422,Michael Bourn,112526,Bartolo Colon,502671,Paul Goldschmidt,R,Travis d'Arnaud,518595,0,0,1,True,2016-08-10,Caught,Home
+5039,1B,2B,Stolen Base 2B,456422,Michael Bourn,544727,Jeurys Familia,502671,Paul Goldschmidt,R,Travis d'Arnaud,518595,2,2,10,True,2016-08-10,Stolen,2B
+5065,1B,2B,Stolen Base 2B,456422,Michael Bourn,571927,Steven Matz,502671,Paul Goldschmidt,L,Travis d'Arnaud,518595,0,0,1,True,2016-08-09,Stolen,2B
+5578,1B,2B,Stolen Base 2B,456422,Michael Bourn,445276,Kenley Jansen,571875,Jake Lamb,R,Yasmani Grandal,518735,1,1,9,False,2016-07-16,Stolen,2B
+5716,1B,2B,Stolen Base 2B,456422,Michael Bourn,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,2B
+5838,1B,,Caught Stealing 2B,456422,Michael Bourn,591693,Edubray Ramos,502671,Paul Goldschmidt,R,Cameron Rupp,519237,0,2,6,False,2016-06-27,Caught,2B
+5860,1B,2B,Stolen Base 2B,456422,Michael Bourn,457429,Boone Logan,430001,Rickie Weeks Jr.,L,Nick Hundley,460026,7,7,8,True,2016-06-26,Stolen,2B
+5897,1B,2B,Stolen Base 2B,456422,Michael Bourn,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,2B
+5902,1B,2B,Stolen Base 2B,456422,Michael Bourn,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Nick Hundley,460026,9,10,9,True,2016-06-24,Stolen,2B
+6032,2B,2B,Caught Stealing 3B,456422,Michael Bourn,605388,Adam Morgan,456078,Welington Castillo,L,Cameron Rupp,519237,2,3,5,True,2016-06-17,Caught,3B
+6314,1B,,Caught Stealing 2B,456422,Michael Bourn,606965,Chris Devenski,502671,Paul Goldschmidt,R,Evan Gattis,594828,0,3,8,True,2016-06-02,Caught,2B
+6392,1B,2B,Stolen Base 2B,456422,Michael Bourn,606131,Luis Perdomo,502671,Paul Goldschmidt,R,Derek Norris,519083,7,1,4,False,2016-05-28,Stolen,2B
+6433,2B,3B,Stolen Base 3B,456422,Michael Bourn,543037,Gerrit Cole,592273,Brandon Drury,R,Francisco Cervelli,465041,0,1,1,True,2016-05-26,Stolen,3B
+6627,1B,2B,Stolen Base 2B,456422,Michael Bourn,571969,Conor Mullee,571875,Jake Lamb,R,Austin Romine,519222,7,2,6,False,2016-05-16,Stolen,2B
+291,1B,2B,Stolen Base 2B,456422,Michael Bourn,543037,Gerrit Cole,547379,Roberto Pérez,R,Chris Stewart,455755,0,2,2,True,2015-07-05,Stolen,2B
+383,1B,,Caught Stealing 2B,456422,Michael Bourn,541640,Erasmo Ramírez,543401,Jason Kipnis,R,Curt Casali,592200,0,1,6,True,2015-06-30,Caught,2B
+384,1B,2B,Stolen Base 2B,456422,Michael Bourn,544993,Steve Geltz,543401,Jason Kipnis,R,Curt Casali,592200,0,4,7,True,2015-06-30,Stolen,2B
+906,1B,2B,Stolen Base 2B,456422,Michael Bourn,432934,Chris Young,547379,Roberto Pérez,R,Salvador Perez,521692,0,0,3,True,2015-06-04,Stolen,2B
+1069,1B,2B,Stolen Base 2B,456422,Michael Bourn,407890,Colby Lewis,547379,Roberto Pérez,R,Robinson Chirinos,455139,7,0,3,False,2015-05-27,Stolen,2B
+1194,1B,2B,Stolen Base 2B,456422,Michael Bourn,453222,Scott Carroll,543401,Jason Kipnis,R,Tyler Flowers,452095,0,5,8,True,2015-05-21,Stolen,2B
+1277,1B,,Caught Stealing 2B,456422,Michael Bourn,607259,Nick Martinez,547379,Roberto Pérez,R,Robinson Chirinos,455139,0,0,2,True,2015-05-17,Caught,2B
+1688,1B,2B,Stolen Base 2B,456422,Michael Bourn,425386,Jeremy Guthrie,543401,Jason Kipnis,R,Salvador Perez,521692,2,1,2,False,2015-04-28,Stolen,2B
+2050,2B,3B,Stolen Base 3B,456422,Michael Bourn,543456,Kyle Lobstein,543401,Jason Kipnis,L,James McCann,543510,0,3,1,False,2015-04-12,Stolen,3B
+2097,1B,,Caught Stealing 2B,456422,Michael Bourn,430580,Alfredo Simon,488726,Michael Brantley,R,Alex Avila,488671,0,0,1,False,2015-04-10,Caught,2B
+2643,1B,2B,Stolen Base 2B,456422,Michael Bourn,592091,A.J. Achter,608070,José Ramírez,R,Kurt Suzuki,435559,7,1,6,False,2014-09-11,Stolen,2B
+2806,1B,,Caught Stealing 2B,456422,Michael Bourn,457435,Phil Coke,488726,Michael Brantley,L,Bryan Holaday,592407,4,4,9,False,2014-09-04,Caught,2B
+2912,1B,2B,Stolen Base 2B,456422,Michael Bourn,448306,James Shields,608070,José Ramírez,R,Salvador Perez,521692,0,0,3,True,2014-08-30,Stolen,2B
+3175,2B,3B,Stolen Base 3B,456422,Michael Bourn,592332,Kevin Gausman,467793,Carlos Santana,R,Nick Hundley,460026,0,0,1,False,2014-08-17,Stolen,3B
+4033,1B,2B,Stolen Base 2B,456422,Michael Bourn,429717,Dan Haren,452678,Asdrúbal Cabrera,R,A.J. Ellis,454560,0,0,3,True,2014-06-30,Stolen,2B
+4541,1B,2B,Stolen Base 2B,456422,Michael Bourn,519344,Nick Tepesch,488726,Michael Brantley,R,Robinson Chirinos,455139,1,1,5,True,2014-06-07,Stolen,2B
+4634,1B,2B,Stolen Base 2B,456422,Michael Bourn,407793,John Lackey,452678,Asdrúbal Cabrera,R,A.J. Pierzynski,150229,0,0,1,False,2014-06-02,Stolen,2B
+4856,1B,2B,Stolen Base 2B,456422,Michael Bourn,502032,Bud Norris,488726,Michael Brantley,R,Caleb Joseph,543376,0,0,1,True,2014-05-23,Stolen,2B
+4915,2B,3B,Stolen Base 3B,456422,Michael Bourn,434378,Justin Verlander,452678,Asdrúbal Cabrera,R,Alex Avila,488671,5,1,2,False,2014-05-20,Stolen,3B
+5449,1B,,Caught Stealing 2B,456422,Michael Bourn,516969,Kelvin Herrera,430897,Nick Swisher,R,Salvador Perez,521692,3,3,7,False,2014-04-23,Caught,2B
+5532,1B,2B,Stolen Base 2B,456422,Michael Bourn,446399,Brett Cecil,467793,Carlos Santana,L,Josh Thole,489365,6,4,7,False,2014-04-20,Stolen,2B
+5601,1B,2B,Stolen Base 2B,456422,Michael Bourn,456379,Al Alburquerque,430897,Nick Swisher,R,Alex Avila,488671,5,3,6,True,2014-04-17,Stolen,2B
+5605,1B,,Caught Stealing 2B,456422,Michael Bourn,501955,Joba Chamberlain,449107,Mike Aviles,R,Alex Avila,488671,6,5,8,True,2014-04-17,Caught,2B
+399,1B,2B,Stolen Base 2B,456422,Michael Bourn,592091,A.J. Achter,608070,José Ramírez,R,Kurt Suzuki,435559,7,1,6,False,2014-09-11,Stolen,2B
+562,1B,,Caught Stealing 2B,456422,Michael Bourn,457435,Phil Coke,488726,Michael Brantley,L,Bryan Holaday,592407,4,4,9,False,2014-09-04,Caught,2B
+668,1B,2B,Stolen Base 2B,456422,Michael Bourn,448306,James Shields,608070,José Ramírez,R,Salvador Perez,521692,0,0,3,True,2014-08-30,Stolen,2B
+931,2B,3B,Stolen Base 3B,456422,Michael Bourn,592332,Kevin Gausman,467793,Carlos Santana,R,Nick Hundley,460026,0,0,1,False,2014-08-17,Stolen,3B
+1789,1B,2B,Stolen Base 2B,456422,Michael Bourn,429717,Dan Haren,452678,Asdrúbal Cabrera,R,A.J. Ellis,454560,0,0,3,True,2014-06-30,Stolen,2B
+2297,1B,2B,Stolen Base 2B,456422,Michael Bourn,519344,Nick Tepesch,488726,Michael Brantley,R,Robinson Chirinos,455139,1,1,5,True,2014-06-07,Stolen,2B
+2390,1B,2B,Stolen Base 2B,456422,Michael Bourn,407793,John Lackey,452678,Asdrúbal Cabrera,R,A.J. Pierzynski,150229,0,0,1,False,2014-06-02,Stolen,2B
+2612,1B,2B,Stolen Base 2B,456422,Michael Bourn,502032,Bud Norris,488726,Michael Brantley,R,Caleb Joseph,543376,0,0,1,True,2014-05-23,Stolen,2B
+2671,2B,3B,Stolen Base 3B,456422,Michael Bourn,434378,Justin Verlander,452678,Asdrúbal Cabrera,R,Alex Avila,488671,5,1,2,False,2014-05-20,Stolen,3B
+3205,1B,,Caught Stealing 2B,456422,Michael Bourn,516969,Kelvin Herrera,430897,Nick Swisher,R,Salvador Perez,521692,3,3,7,False,2014-04-23,Caught,2B
+3288,1B,2B,Stolen Base 2B,456422,Michael Bourn,446399,Brett Cecil,467793,Carlos Santana,L,Josh Thole,489365,6,4,7,False,2014-04-20,Stolen,2B
+3357,1B,2B,Stolen Base 2B,456422,Michael Bourn,456379,Al Alburquerque,430897,Nick Swisher,R,Alex Avila,488671,5,3,6,True,2014-04-17,Stolen,2B
+3361,1B,,Caught Stealing 2B,456422,Michael Bourn,501955,Joba Chamberlain,449107,Mike Aviles,R,Alex Avila,488671,6,5,8,True,2014-04-17,Caught,2B
+31,1B,2B,Stolen Base 2B,456422,Michael Bourn,573186,Marcus Stroman,429666,J.J. Hardy,R,Russell Martin,431145,0,2,7,True,2016-09-29,Stolen,2B
+55,1B,2B,Stolen Base 2B,456422,Michael Bourn,532077,Roberto Osuna,547957,Hyun Soo Kim,R,Russell Martin,431145,2,3,9,True,2016-09-28,Stolen,2B
+668,1B,2B,Stolen Base 2B,456422,Michael Bourn,595001,Josh A. Smith,456078,Welington Castillo,R,Ramón Cabrera,541608,6,2,5,False,2016-08-28,Stolen,2B
+862,2B,3B,Stolen Base 3B,456422,Michael Bourn,592789,Noah Syndergaard,630111,Yasmany Tomás,R,René Rivera,425784,0,0,1,False,2016-08-16,Stolen,3B
+931,2B,3B,Stolen Base 3B,456422,Michael Bourn,453329,Clay Buchholz,571875,Jake Lamb,R,Sandy León,506702,1,1,4,True,2016-08-13,Stolen,3B
+999,1B,2B,Caught Stealing Home,456422,Michael Bourn,112526,Bartolo Colon,502671,Paul Goldschmidt,R,Travis d'Arnaud,518595,0,0,1,True,2016-08-10,Caught,Home
+1004,1B,2B,Stolen Base 2B,456422,Michael Bourn,544727,Jeurys Familia,502671,Paul Goldschmidt,R,Travis d'Arnaud,518595,2,2,10,True,2016-08-10,Stolen,2B
+1030,1B,2B,Stolen Base 2B,456422,Michael Bourn,571927,Steven Matz,502671,Paul Goldschmidt,L,Travis d'Arnaud,518595,0,0,1,True,2016-08-09,Stolen,2B
+1543,1B,2B,Stolen Base 2B,456422,Michael Bourn,445276,Kenley Jansen,571875,Jake Lamb,R,Yasmani Grandal,518735,1,1,9,False,2016-07-16,Stolen,2B
+1681,1B,2B,Stolen Base 2B,456422,Michael Bourn,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,2B
+1803,1B,,Caught Stealing 2B,456422,Michael Bourn,591693,Edubray Ramos,502671,Paul Goldschmidt,R,Cameron Rupp,519237,0,2,6,False,2016-06-27,Caught,2B
+1825,1B,2B,Stolen Base 2B,456422,Michael Bourn,457429,Boone Logan,430001,Rickie Weeks Jr.,L,Nick Hundley,460026,7,7,8,True,2016-06-26,Stolen,2B
+1862,1B,2B,Stolen Base 2B,456422,Michael Bourn,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,2B
+1867,1B,2B,Stolen Base 2B,456422,Michael Bourn,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Nick Hundley,460026,9,10,9,True,2016-06-24,Stolen,2B
+1997,2B,2B,Caught Stealing 3B,456422,Michael Bourn,605388,Adam Morgan,456078,Welington Castillo,L,Cameron Rupp,519237,2,3,5,True,2016-06-17,Caught,3B
+2279,1B,,Caught Stealing 2B,456422,Michael Bourn,606965,Chris Devenski,502671,Paul Goldschmidt,R,Evan Gattis,594828,0,3,8,True,2016-06-02,Caught,2B
+2357,1B,2B,Stolen Base 2B,456422,Michael Bourn,606131,Luis Perdomo,502671,Paul Goldschmidt,R,Derek Norris,519083,7,1,4,False,2016-05-28,Stolen,2B
+2398,2B,3B,Stolen Base 3B,456422,Michael Bourn,543037,Gerrit Cole,592273,Brandon Drury,R,Francisco Cervelli,465041,0,1,1,True,2016-05-26,Stolen,3B
+2592,1B,2B,Stolen Base 2B,456422,Michael Bourn,571969,Conor Mullee,571875,Jake Lamb,R,Austin Romine,519222,7,2,6,False,2016-05-16,Stolen,2B
+3438,1B,2B,Stolen Base 2B,456422,Michael Bourn,573186,Marcus Stroman,429666,J.J. Hardy,R,Russell Martin,431145,0,2,7,True,2016-09-29,Stolen,2B
+3462,1B,2B,Stolen Base 2B,456422,Michael Bourn,532077,Roberto Osuna,547957,Hyun Soo Kim,R,Russell Martin,431145,2,3,9,True,2016-09-28,Stolen,2B
+4075,1B,2B,Stolen Base 2B,456422,Michael Bourn,595001,Josh A. Smith,456078,Welington Castillo,R,Ramón Cabrera,541608,6,2,5,False,2016-08-28,Stolen,2B
+4269,2B,3B,Stolen Base 3B,456422,Michael Bourn,592789,Noah Syndergaard,630111,Yasmany Tomás,R,René Rivera,425784,0,0,1,False,2016-08-16,Stolen,3B
+4338,2B,3B,Stolen Base 3B,456422,Michael Bourn,453329,Clay Buchholz,571875,Jake Lamb,R,Sandy León,506702,1,1,4,True,2016-08-13,Stolen,3B
+4406,1B,2B,Caught Stealing Home,456422,Michael Bourn,112526,Bartolo Colon,502671,Paul Goldschmidt,R,Travis d'Arnaud,518595,0,0,1,True,2016-08-10,Caught,Home
+4411,1B,2B,Stolen Base 2B,456422,Michael Bourn,544727,Jeurys Familia,502671,Paul Goldschmidt,R,Travis d'Arnaud,518595,2,2,10,True,2016-08-10,Stolen,2B
+4437,1B,2B,Stolen Base 2B,456422,Michael Bourn,571927,Steven Matz,502671,Paul Goldschmidt,L,Travis d'Arnaud,518595,0,0,1,True,2016-08-09,Stolen,2B
+4950,1B,2B,Stolen Base 2B,456422,Michael Bourn,445276,Kenley Jansen,571875,Jake Lamb,R,Yasmani Grandal,518735,1,1,9,False,2016-07-16,Stolen,2B
+5088,1B,2B,Stolen Base 2B,456422,Michael Bourn,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,2B
+5210,1B,,Caught Stealing 2B,456422,Michael Bourn,591693,Edubray Ramos,502671,Paul Goldschmidt,R,Cameron Rupp,519237,0,2,6,False,2016-06-27,Caught,2B
+5232,1B,2B,Stolen Base 2B,456422,Michael Bourn,457429,Boone Logan,430001,Rickie Weeks Jr.,L,Nick Hundley,460026,7,7,8,True,2016-06-26,Stolen,2B
+5269,1B,2B,Stolen Base 2B,456422,Michael Bourn,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,2B
+5274,1B,2B,Stolen Base 2B,456422,Michael Bourn,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Nick Hundley,460026,9,10,9,True,2016-06-24,Stolen,2B
+5404,2B,2B,Caught Stealing 3B,456422,Michael Bourn,605388,Adam Morgan,456078,Welington Castillo,L,Cameron Rupp,519237,2,3,5,True,2016-06-17,Caught,3B
+5686,1B,,Caught Stealing 2B,456422,Michael Bourn,606965,Chris Devenski,502671,Paul Goldschmidt,R,Evan Gattis,594828,0,3,8,True,2016-06-02,Caught,2B
+5764,1B,2B,Stolen Base 2B,456422,Michael Bourn,606131,Luis Perdomo,502671,Paul Goldschmidt,R,Derek Norris,519083,7,1,4,False,2016-05-28,Stolen,2B
+5805,2B,3B,Stolen Base 3B,456422,Michael Bourn,543037,Gerrit Cole,592273,Brandon Drury,R,Francisco Cervelli,465041,0,1,1,True,2016-05-26,Stolen,3B
+5999,1B,2B,Stolen Base 2B,456422,Michael Bourn,571969,Conor Mullee,571875,Jake Lamb,R,Austin Romine,519222,7,2,6,False,2016-05-16,Stolen,2B

@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4523,1B,2B,Stolen Base 2B,407885,Mark Ellis,571800,Drew Hutchison,488810,Tony Cruz,R,Erik Kratz,456124,0,2,2,True,2014-06-08,Stolen,2B
+4596,1B,2B,Stolen Base 2B,407885,Mark Ellis,450306,Jason Vargas,572761,Matt Carpenter,L,Brett Hayes,451109,0,1,2,True,2014-06-04,Stolen,2B
+5054,1B,2B,Stolen Base 2B,407885,Mark Ellis,450203,Charlie Morton,425509,Jhonny Peralta,R,Tony Sanchez,506997,0,4,4,True,2014-05-11,Stolen,2B
+5126,1B,2B,Stolen Base 2B,407885,Mark Ellis,434538,Francisco Liriano,608379,Michael Wacha,L,Tony Sanchez,506997,2,3,4,True,2014-05-09,Stolen,2B
+2279,1B,2B,Stolen Base 2B,407885,Mark Ellis,571800,Drew Hutchison,488810,Tony Cruz,R,Erik Kratz,456124,0,2,2,True,2014-06-08,Stolen,2B
+2352,1B,2B,Stolen Base 2B,407885,Mark Ellis,450306,Jason Vargas,572761,Matt Carpenter,L,Brett Hayes,451109,0,1,2,True,2014-06-04,Stolen,2B
+2810,1B,2B,Stolen Base 2B,407885,Mark Ellis,450203,Charlie Morton,425509,Jhonny Peralta,R,Tony Sanchez,506997,0,4,4,True,2014-05-11,Stolen,2B
+2882,1B,2B,Stolen Base 2B,407885,Mark Ellis,434538,Francisco Liriano,608379,Michael Wacha,L,Tony Sanchez,506997,2,3,4,True,2014-05-09,Stolen,2B

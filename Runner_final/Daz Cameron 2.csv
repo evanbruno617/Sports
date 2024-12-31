@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+77,1B,2B,Stolen Base 2B,663662,Daz Cameron,605130,Scott Barlow,622682,Victor Reyes,R,Salvador Perez,521692,4,4,6,True,2020-09-24,Stolen,2B
+168,1B,2B,Stolen Base 2B,663662,Daz Cameron,607481,Aaron Bummer,670623,Isaac Paredes,L,Yasmani Grandal,518735,3,2,7,False,2021-09-21,Stolen,2B
+1346,1B,2B,Stolen Base 2B,663662,Daz Cameron,676051,Codi Heuer,605612,Harold Castro,R,Zack Collins,641470,6,2,8,False,2021-07-04,Stolen,2B
+1544,1B,2B,Stolen Base 2B,663662,Daz Cameron,621052,Alex Reyes,650489,Willi Castro,R,Yadier Molina,425877,5,2,8,False,2021-06-23,Stolen,2B
+1580,1B,2B,Stolen Base 2B,663662,Daz Cameron,628452,Raisel Iglesias,608577,Nomar Mazara,R,Max Stassi,545358,3,5,10,True,2021-06-20,Stolen,2B
+1738,1B,2B,Stolen Base 2B,663662,Daz Cameron,605441,Yacksel Ríos,592348,Niko Goodrum,R,Tom Murphy,608596,7,3,7,False,2021-06-10,Stolen,2B
+2920,1B,2B,Stolen Base 2B,663662,Daz Cameron,605130,Scott Barlow,622682,Victor Reyes,R,Salvador Perez,521692,4,4,6,True,2020-09-24,Stolen,2B
+879,1B,2B,Stolen Base 2B,663662,Daz Cameron,573668,Juan Minaya,571466,Tucker Barnhart,R,Ryan Jeffers,680777,4,0,6,False,2022-05-31,Stolen,2B
+1688,1B,2B,Stolen Base 2B,663662,Daz Cameron,663460,Kris Bubic,572863,Dustin Garneau,L,Salvador Perez,521692,1,1,2,True,2022-04-16,Stolen,2B
+2092,1B,2B,Stolen Base 2B,663662,Daz Cameron,607481,Aaron Bummer,670623,Isaac Paredes,L,Yasmani Grandal,518735,3,2,7,False,2021-09-21,Stolen,2B
+3270,1B,2B,Stolen Base 2B,663662,Daz Cameron,676051,Codi Heuer,605612,Harold Castro,R,Zack Collins,641470,6,2,8,False,2021-07-04,Stolen,2B
+3468,1B,2B,Stolen Base 2B,663662,Daz Cameron,621052,Alex Reyes,650489,Willi Castro,R,Yadier Molina,425877,5,2,8,False,2021-06-23,Stolen,2B
+3504,1B,2B,Stolen Base 2B,663662,Daz Cameron,628452,Raisel Iglesias,608577,Nomar Mazara,R,Max Stassi,545358,3,5,10,True,2021-06-20,Stolen,2B
+3662,1B,2B,Stolen Base 2B,663662,Daz Cameron,605441,Yacksel Ríos,592348,Niko Goodrum,R,Tom Murphy,608596,7,3,7,False,2021-06-10,Stolen,2B
+4844,1B,2B,Stolen Base 2B,663662,Daz Cameron,605130,Scott Barlow,622682,Victor Reyes,R,Salvador Perez,521692,4,4,6,True,2020-09-24,Stolen,2B
+583,1B,2B,Stolen Base 2B,663662,Daz Cameron,676684,Will Vest,680869,Zack Gelof,R,Jake Rogers,668670,2,1,6,False,2024-09-06,Stolen,2B
+917,1B,2B,Stolen Base 2B,663662,Daz Cameron,593423,Frankie Montas,680869,Zack Gelof,R,Gary Sánchez,596142,4,2,6,False,2024-08-25,Stolen,2B
+990,1B,2B,Stolen Base 2B,663662,Daz Cameron,605488,Jeffrey Springs,671732,Lawrence Butler,L,Rob Brantly,542963,3,0,3,False,2024-08-22,Stolen,2B
+1623,1B,2B,Stolen Base 2B,663662,Daz Cameron,542881,Tyler Anderson,680474,Max Schuemann,L,Logan O'Hoppe,681351,1,3,4,True,2024-07-27,Stolen,2B
+2903,1B,2B,Stolen Base 2B,663662,Daz Cameron,623474,Jimmy Herget,680869,Zack Gelof,R,Travis d'Arnaud,518595,3,8,5,True,2024-06-01,Stolen,2B

@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2198,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,593576,Héctor Neris,444482,David Peralta,R,Martín Maldonado,455117,4,4,8,False,2023-06-25,Stolen,2B
+594,1B,,Caught Stealing 2B,676356,Jonny DeLuca,665152,Dean Kremer,676609,José Caballero,R,Adley Rutschman,668939,0,0,5,True,2024-09-06,Caught,2B
+596,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,622554,Seranthony Domínguez,676609,José Caballero,R,Adley Rutschman,668939,2,0,9,True,2024-09-06,Stolen,2B
+671,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,701581,David Festa,666018,Jonathan Aranda,R,Ryan Jeffers,680777,0,1,2,False,2024-09-03,Stolen,2B
+686,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,680573,Simeon Woods Richardson,650490,Yandy Díaz,R,Christian Vázquez,543877,3,4,4,False,2024-09-02,Stolen,2B
+934,1B,,Caught Stealing 2B,676356,Jonny DeLuca,477132,Clayton Kershaw,676609,José Caballero,L,Will Smith,669257,3,5,5,True,2024-08-24,Caught,2B
+954,1B,,Caught Stealing 2B,676356,Jonny DeLuca,656629,Michael Kopech,642350,Jose Siri,R,Will Smith,669257,3,3,9,True,2024-08-23,Caught,2B
+1007,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,687765,Mitch Spence,656577,Alex Jackson,R,Kyle McCann,668832,1,1,5,True,2024-08-21,Stolen,2B
+1008,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,687765,Mitch Spence,650490,Yandy Díaz,R,Kyle McCann,668832,2,4,7,True,2024-08-21,Stolen,2B
+1091,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,518876,Merrill Kelly,670764,Taylor Walls,R,Adrian Del Castillo,680728,5,0,6,False,2024-08-18,Stolen,2B
+1092,2B,3B,Stolen Base 3B,676356,Jonny DeLuca,573009,Joe Mantiply,666185,Dylan Carlson,L,Adrian Del Castillo,680728,5,0,6,False,2024-08-18,Stolen,3B
+1263,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,544150,Albert Suárez,664040,Brandon Lowe,R,James McCann,543510,0,1,5,False,2024-08-11,Stolen,2B
+1617,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,668881,Hunter Greene,666163,Ben Rortvedt,R,Austin Wynns,642851,0,1,7,False,2024-07-28,Stolen,2B
+1810,1B,,Caught Stealing 2B,676356,Jonny DeLuca,596133,Luke Weaver,676609,José Caballero,R,Austin Wells,669224,3,6,9,True,2024-07-21,Caught,2B
+2083,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,622250,Josh Sborz,664040,Brandon Lowe,R,Andrew Knizner,668800,2,0,7,True,2024-07-06,Stolen,2B
+2281,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,607179,Jordan Weems,676609,José Caballero,R,Keibert Ruiz,660688,3,1,8,False,2024-06-28,Stolen,2B
+2660,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,593576,Héctor Neris,670764,Taylor Walls,R,Yan Gomes,543228,3,4,9,False,2024-06-12,Stolen,2B
+3224,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,666201,Alek Manoah,666163,Ben Rortvedt,R,Alejandro Kirk,672386,3,0,5,True,2024-05-19,Stolen,2B
+3252,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,592332,Kevin Gausman,642708,Amed Rosario,R,Danny Jansen,643376,0,0,4,True,2024-05-18,Stolen,2B
+3327,1B,,Caught Stealing 2B,676356,Jonny DeLuca,601713,Nick Pivetta,680700,Richie Palacios,R,Reese McGuire,624512,2,1,5,True,2024-05-14,Caught,2B
+3576,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,681035,Christian Scott,642350,Jose Siri,R,Tomás Nido,621512,1,1,5,False,2024-05-04,Stolen,2B
+3609,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,500779,Jose Quintana,678554,Curtis Mead,L,Tomás Nido,621512,7,3,3,False,2024-05-03,Stolen,2B
+6612,1B,2B,Stolen Base 2B,676356,Jonny DeLuca,593576,Héctor Neris,444482,David Peralta,R,Martín Maldonado,455117,4,4,8,False,2023-06-25,Stolen,2B

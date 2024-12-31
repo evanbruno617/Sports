@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1604,1B,,Caught Stealing 2B,623182,Patrick Kivlehan,659275,Dinelson Lamet,571466,Tucker Barnhart,R,Luis Torrens,620443,2,1,4,False,2017-08-10,Caught,2B
+2271,1B,2B,Stolen Base 2B,623182,Patrick Kivlehan,605218,Carl Edwards Jr.,571740,Billy Hamilton,R,Willson Contreras,575929,5,3,8,False,2017-07-01,Stolen,2B
+3115,2B,,Caught Stealing 3B,623182,Patrick Kivlehan,542881,Tyler Anderson,571740,Billy Hamilton,L,Tony Wolters,547172,1,2,5,False,2017-05-19,Caught,3B
+976,1B,,Caught Stealing 2B,623182,Patrick Kivlehan,659275,Dinelson Lamet,571466,Tucker Barnhart,R,Luis Torrens,620443,2,1,4,False,2017-08-10,Caught,2B
+1643,1B,2B,Stolen Base 2B,623182,Patrick Kivlehan,605218,Carl Edwards Jr.,571740,Billy Hamilton,R,Willson Contreras,575929,5,3,8,False,2017-07-01,Stolen,2B
+2487,2B,,Caught Stealing 3B,623182,Patrick Kivlehan,542881,Tyler Anderson,571740,Billy Hamilton,L,Tony Wolters,547172,1,2,5,False,2017-05-19,Caught,3B

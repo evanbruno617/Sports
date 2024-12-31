@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4169,1B,,Caught Stealing 2B,434661,Nate McLouth,462136,Marco Estrada,506702,Sandy León,R,Martín Maldonado,455117,0,1,2,True,2014-06-25,Caught,2B
+4739,1B,2B,Stolen Base 2B,434661,Nate McLouth,445197,Mike Dunn,430668,Scott Hairston,L,Jarrod Saltalamacchia,457454,4,4,8,False,2014-05-28,Stolen,2B
+4785,1B,2B,Stolen Base 2B,434661,Nate McLouth,445197,Mike Dunn,452655,Denard Span,L,Jarrod Saltalamacchia,457454,2,3,7,False,2014-05-26,Stolen,2B
+4817,1B,2B,Stolen Base 2B,434661,Nate McLouth,543037,Gerrit Cole,452655,Denard Span,R,Russell Martin,431145,0,0,3,True,2014-05-24,Stolen,2B
+5008,1B,2B,Stolen Base 2B,434661,Nate McLouth,435221,Brandon McCarthy,450729,Doug Fister,R,Miguel Montero,471083,1,0,6,True,2014-05-14,Stolen,2B
+1925,1B,,Caught Stealing 2B,434661,Nate McLouth,462136,Marco Estrada,506702,Sandy León,R,Martín Maldonado,455117,0,1,2,True,2014-06-25,Caught,2B
+2495,1B,2B,Stolen Base 2B,434661,Nate McLouth,445197,Mike Dunn,430668,Scott Hairston,L,Jarrod Saltalamacchia,457454,4,4,8,False,2014-05-28,Stolen,2B
+2541,1B,2B,Stolen Base 2B,434661,Nate McLouth,445197,Mike Dunn,452655,Denard Span,L,Jarrod Saltalamacchia,457454,2,3,7,False,2014-05-26,Stolen,2B
+2573,1B,2B,Stolen Base 2B,434661,Nate McLouth,543037,Gerrit Cole,452655,Denard Span,R,Russell Martin,431145,0,0,3,True,2014-05-24,Stolen,2B
+2764,1B,2B,Stolen Base 2B,434661,Nate McLouth,435221,Brandon McCarthy,450729,Doug Fister,R,Miguel Montero,471083,1,0,6,True,2014-05-14,Stolen,2B

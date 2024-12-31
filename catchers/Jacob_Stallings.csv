@@ -1,0 +1,131 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,668930,Brice Turang,665795,Edward Cabrera,621438,Tyrone Taylor,R,Jacob Stallings,607732,4,1,5,True,2023-09-24,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+1,1,1B,2B,Stolen Base 2B,677595,Ronny Mauricio,665795,Edward Cabrera,553882,Omar Narváez,R,Jacob Stallings,607732,0,0,5,True,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+2,2,1B,2B,Stolen Base 2B,596019,Francisco Lindor,640462,A.J. Puk,621466,DJ Stewart,L,Jacob Stallings,607732,1,1,6,True,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+3,3,1B,2B,Stolen Base 2B,668930,Brice Turang,595345,Steven Okert,621438,Tyrone Taylor,L,Jacob Stallings,607732,4,2,7,False,2023-09-14,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+4,4,1B,2B,Stolen Base 2B,592206,Nick Castellanos,646241,Enmanuel De Jesus,656941,Kyle Schwarber,L,Jacob Stallings,607732,5,0,4,False,2023-09-09,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+5,5,1B,2B,Stolen Base 2B,607208,Trea Turner,691587,Eury Pérez,547180,Bryce Harper,R,Jacob Stallings,607732,2,0,3,False,2023-09-08,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+6,6,1B,2B,Stolen Base 2B,547180,Bryce Harper,691587,Eury Pérez,592206,Nick Castellanos,R,Jacob Stallings,607732,2,0,3,False,2023-09-08,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+7,7,1B,2B,Stolen Base 2B,681082,Bryson Stott,691587,Eury Pérez,592663,J.T. Realmuto,R,Jacob Stallings,607732,2,0,4,False,2023-09-08,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+8,8,1B,2B,Stolen Base 2B,696285,Jacob Young,645261,Sandy Alcantara,682928,CJ Abrams,R,Jacob Stallings,607732,3,3,5,False,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+9,9,1B,,Caught Stealing 2B,668227,Randy Arozarena,645261,Sandy Alcantara,670623,Isaac Paredes,R,Jacob Stallings,607732,1,1,3,True,2023-08-29,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+10,10,1B,,Caught Stealing 2B,666906,Jake Alu,691587,Eury Pérez,656180,Riley Adams,R,Jacob Stallings,607732,0,1,5,True,2023-08-26,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+11,11,1B,2B,Stolen Base 2B,666906,Jake Alu,502085,David Robertson,656180,Riley Adams,R,Jacob Stallings,607732,2,3,9,True,2023-08-26,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+12,12,1B,2B,Stolen Base 2B,543760,Marcus Semien,645261,Sandy Alcantara,663993,Nathaniel Lowe,R,Jacob Stallings,607732,3,0,3,False,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+13,13,1B,2B,Stolen Base 2B,666139,Josh Lowe,665795,Edward Cabrera,542194,Christian Bethancourt,R,Jacob Stallings,607732,1,0,2,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+14,14,1B,2B,Stolen Base 2B,669357,Nolan Gorman,623211,Huascar Brazobán,671056,Iván Herrera,R,Jacob Stallings,607732,6,2,7,False,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+15,15,1B,2B,Stolen Base 2B,656775,Cedric Mullins,645261,Sandy Alcantara,543305,Aaron Hicks,R,Jacob Stallings,607732,0,0,2,False,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+16,16,1B,,Caught Stealing 2B,571771,Enrique Hernández,645261,Sandy Alcantara,666152,David Hamilton,R,Jacob Stallings,607732,1,6,5,False,2023-06-27,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+17,17,1B,2B,Stolen Base 2B,676609,José Caballero,665795,Edward Cabrera,641487,J.P. Crawford,R,Jacob Stallings,607732,3,0,2,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+18,18,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,665795,Edward Cabrera,663728,Cal Raleigh,R,Jacob Stallings,607732,3,0,4,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+19,19,1B,2B,Stolen Base 2B,676609,José Caballero,665795,Edward Cabrera,641487,J.P. Crawford,R,Jacob Stallings,607732,5,0,4,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+20,20,1B,,Caught Stealing 2B,643217,Andrew Benintendi,645261,Sandy Alcantara,673357,Luis Robert Jr.,R,Jacob Stallings,607732,1,0,6,False,2023-06-10,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+21,21,1B,2B,Stolen Base 2B,462101,Elvis Andrus,595345,Steven Okert,643217,Andrew Benintendi,L,Jacob Stallings,607732,1,0,8,False,2023-06-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+22,22,1B,,Caught Stealing 2B,669004,MJ Melendez,665795,Edward Cabrera,677951,Bobby Witt Jr.,R,Jacob Stallings,607732,3,1,4,True,2023-06-07,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+23,23,1B,2B,Stolen Base 2B,643393,Tony Kemp,665795,Edward Cabrera,665923,Esteury Ruiz,R,Jacob Stallings,607732,2,0,3,True,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+24,24,1B,2B,Stolen Base 2B,687263,Zach Neto,665795,Edward Cabrera,666160,Mickey Moniak,R,Jacob Stallings,607732,1,2,5,False,2023-05-27,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+25,25,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,623211,Huascar Brazobán,592669,Hunter Renfroe,R,Jacob Stallings,607732,3,4,7,False,2023-05-27,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+26,26,1B,2B,Stolen Base 2B,686668,Brenton Doyle,608638,JT Chargois,678662,Ezequiel Tovar,R,Jacob Stallings,607732,3,2,7,False,2023-05-22,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+27,27,1B,2B,Stolen Base 2B,663697,Jonathan India,645261,Sandy Alcantara,641584,Jake Fraley,R,Jacob Stallings,607732,4,4,8,True,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+28,28,1B,2B,Stolen Base 2B,641584,Jake Fraley,645261,Sandy Alcantara,668715,Spencer Steer,R,Jacob Stallings,607732,4,4,8,True,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+29,29,1B,2B,Stolen Base 2B,592656,Henry Ramos,691587,Eury Pérez,571976,Wil Myers,R,Jacob Stallings,607732,0,0,2,True,2023-05-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+30,30,2B,3B,Stolen Base 3B,669222,Nick Senzel,691587,Eury Pérez,571976,Wil Myers,R,Jacob Stallings,607732,0,1,4,True,2023-05-12,Stolen,3B,2023,2024,29.8,2024, 81.1, 0.69
+31,31,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,656945,Tanner Scott,676480,Jose Barrero,L,Jacob Stallings,607732,4,2,7,True,2023-05-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+32,32,1B,2B,Stolen Base 2B,672695,Geraldo Perdomo,595345,Steven Okert,677950,Alek Thomas,L,Jacob Stallings,607732,4,3,4,False,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+33,33,1B,2B,Stolen Base 2B,592696,Eddie Rosario,645261,Sandy Alcantara,645277,Ozzie Albies,R,Jacob Stallings,607732,0,3,5,True,2023-05-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+34,34,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,598264,Matt Barnes,621566,Matt Olson,R,Jacob Stallings,607732,0,3,6,True,2023-05-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+35,35,1B,2B,Stolen Base 2B,656541,Sam Hilliard,665795,Edward Cabrera,501303,Ehire Adrianza,R,Jacob Stallings,607732,0,0,2,False,2023-04-24,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+36,36,1B,2B,Stolen Base 2B,642731,Thairo Estrada,665795,Edward Cabrera,573262,Mike Yastrzemski,R,Jacob Stallings,607732,0,2,1,True,2023-04-18,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+37,37,1B,,Caught Stealing 2B,573262,Mike Yastrzemski,665795,Edward Cabrera,605204,J.D. Davis,R,Jacob Stallings,607732,0,2,3,True,2023-04-18,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+38,38,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623211,Huascar Brazobán,656976,Pavin Smith,R,Jacob Stallings,607732,5,0,7,True,2023-04-14,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+39,39,1B,2B,Stolen Base 2B,681082,Bryson Stott,665795,Edward Cabrera,607208,Trea Turner,R,Jacob Stallings,607732,0,0,1,False,2023-04-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+40,40,1B,2B,Stolen Base 2B,607208,Trea Turner,665795,Edward Cabrera,592663,J.T. Realmuto,R,Jacob Stallings,607732,0,0,1,False,2023-04-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+41,41,1B,2B,Stolen Base 2B,681082,Bryson Stott,645261,Sandy Alcantara,607208,Trea Turner,R,Jacob Stallings,607732,2,0,3,False,2023-04-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+42,42,1B,2B,Stolen Base 2B,607208,Trea Turner,645261,Sandy Alcantara,656941,Kyle Schwarber,R,Jacob Stallings,607732,2,0,3,False,2023-04-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+43,43,1B,2B,Stolen Base 2B,502054,Tommy Pham,598264,Matt Barnes,516782,Starling Marte,R,Jacob Stallings,607732,1,5,9,True,2023-04-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+44,44,1B,2B,Stolen Base 2B,668930,Brice Turang,665795,Edward Cabrera,621438,Tyrone Taylor,R,Jacob Stallings,607732,4,1,5,True,2023-09-24,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+45,45,1B,2B,Stolen Base 2B,677595,Ronny Mauricio,665795,Edward Cabrera,553882,Omar Narváez,R,Jacob Stallings,607732,0,0,5,True,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+46,46,1B,2B,Stolen Base 2B,596019,Francisco Lindor,640462,A.J. Puk,621466,DJ Stewart,L,Jacob Stallings,607732,1,1,6,True,2023-09-18,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+47,47,1B,2B,Stolen Base 2B,668930,Brice Turang,595345,Steven Okert,621438,Tyrone Taylor,L,Jacob Stallings,607732,4,2,7,False,2023-09-14,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+48,48,1B,2B,Stolen Base 2B,592206,Nick Castellanos,646241,Enmanuel De Jesus,656941,Kyle Schwarber,L,Jacob Stallings,607732,5,0,4,False,2023-09-09,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+49,49,1B,2B,Stolen Base 2B,607208,Trea Turner,691587,Eury Pérez,547180,Bryce Harper,R,Jacob Stallings,607732,2,0,3,False,2023-09-08,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+50,50,1B,2B,Stolen Base 2B,547180,Bryce Harper,691587,Eury Pérez,592206,Nick Castellanos,R,Jacob Stallings,607732,2,0,3,False,2023-09-08,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+51,51,1B,2B,Stolen Base 2B,681082,Bryson Stott,691587,Eury Pérez,592663,J.T. Realmuto,R,Jacob Stallings,607732,2,0,4,False,2023-09-08,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+52,52,1B,2B,Stolen Base 2B,696285,Jacob Young,645261,Sandy Alcantara,682928,CJ Abrams,R,Jacob Stallings,607732,3,3,5,False,2023-09-03,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+53,53,1B,,Caught Stealing 2B,668227,Randy Arozarena,645261,Sandy Alcantara,670623,Isaac Paredes,R,Jacob Stallings,607732,1,1,3,True,2023-08-29,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+54,54,1B,,Caught Stealing 2B,666906,Jake Alu,691587,Eury Pérez,656180,Riley Adams,R,Jacob Stallings,607732,0,1,5,True,2023-08-26,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+55,55,1B,2B,Stolen Base 2B,666906,Jake Alu,502085,David Robertson,656180,Riley Adams,R,Jacob Stallings,607732,2,3,9,True,2023-08-26,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+56,56,1B,2B,Stolen Base 2B,543760,Marcus Semien,645261,Sandy Alcantara,663993,Nathaniel Lowe,R,Jacob Stallings,607732,3,0,3,False,2023-08-06,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+57,57,1B,2B,Stolen Base 2B,666139,Josh Lowe,665795,Edward Cabrera,542194,Christian Bethancourt,R,Jacob Stallings,607732,1,0,2,False,2023-07-25,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+58,58,1B,2B,Stolen Base 2B,669357,Nolan Gorman,623211,Huascar Brazobán,671056,Iván Herrera,R,Jacob Stallings,607732,6,2,7,False,2023-07-19,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+59,59,1B,2B,Stolen Base 2B,656775,Cedric Mullins,645261,Sandy Alcantara,543305,Aaron Hicks,R,Jacob Stallings,607732,0,0,2,False,2023-07-14,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+60,60,1B,,Caught Stealing 2B,571771,Enrique Hernández,645261,Sandy Alcantara,666152,David Hamilton,R,Jacob Stallings,607732,1,6,5,False,2023-06-27,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+61,61,1B,2B,Stolen Base 2B,676609,José Caballero,665795,Edward Cabrera,641487,J.P. Crawford,R,Jacob Stallings,607732,3,0,2,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+62,62,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,665795,Edward Cabrera,663728,Cal Raleigh,R,Jacob Stallings,607732,3,0,4,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+63,63,1B,2B,Stolen Base 2B,676609,José Caballero,665795,Edward Cabrera,641487,J.P. Crawford,R,Jacob Stallings,607732,5,0,4,False,2023-06-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+64,64,1B,,Caught Stealing 2B,643217,Andrew Benintendi,645261,Sandy Alcantara,673357,Luis Robert Jr.,R,Jacob Stallings,607732,1,0,6,False,2023-06-10,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+65,65,1B,2B,Stolen Base 2B,462101,Elvis Andrus,595345,Steven Okert,643217,Andrew Benintendi,L,Jacob Stallings,607732,1,0,8,False,2023-06-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+66,66,1B,,Caught Stealing 2B,669004,MJ Melendez,665795,Edward Cabrera,677951,Bobby Witt Jr.,R,Jacob Stallings,607732,3,1,4,True,2023-06-07,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+67,67,1B,2B,Stolen Base 2B,643393,Tony Kemp,665795,Edward Cabrera,665923,Esteury Ruiz,R,Jacob Stallings,607732,2,0,3,True,2023-06-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+68,68,1B,2B,Stolen Base 2B,687263,Zach Neto,665795,Edward Cabrera,666160,Mickey Moniak,R,Jacob Stallings,607732,1,2,5,False,2023-05-27,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+69,69,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,623211,Huascar Brazobán,592669,Hunter Renfroe,R,Jacob Stallings,607732,3,4,7,False,2023-05-27,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+70,70,1B,2B,Stolen Base 2B,686668,Brenton Doyle,608638,JT Chargois,678662,Ezequiel Tovar,R,Jacob Stallings,607732,3,2,7,False,2023-05-22,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+71,71,1B,2B,Stolen Base 2B,663697,Jonathan India,645261,Sandy Alcantara,641584,Jake Fraley,R,Jacob Stallings,607732,4,4,8,True,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+72,72,1B,2B,Stolen Base 2B,641584,Jake Fraley,645261,Sandy Alcantara,668715,Spencer Steer,R,Jacob Stallings,607732,4,4,8,True,2023-05-13,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+73,73,1B,2B,Stolen Base 2B,592656,Henry Ramos,691587,Eury Pérez,571976,Wil Myers,R,Jacob Stallings,607732,0,0,2,True,2023-05-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+74,74,2B,3B,Stolen Base 3B,669222,Nick Senzel,691587,Eury Pérez,571976,Wil Myers,R,Jacob Stallings,607732,0,1,4,True,2023-05-12,Stolen,3B,2023,2024,29.8,2024, 81.1, 0.69
+75,75,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,656945,Tanner Scott,676480,Jose Barrero,L,Jacob Stallings,607732,4,2,7,True,2023-05-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+76,76,1B,2B,Stolen Base 2B,672695,Geraldo Perdomo,595345,Steven Okert,677950,Alek Thomas,L,Jacob Stallings,607732,4,3,4,False,2023-05-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+77,77,1B,2B,Stolen Base 2B,592696,Eddie Rosario,645261,Sandy Alcantara,645277,Ozzie Albies,R,Jacob Stallings,607732,0,3,5,True,2023-05-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+78,78,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,598264,Matt Barnes,621566,Matt Olson,R,Jacob Stallings,607732,0,3,6,True,2023-05-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+79,79,1B,2B,Stolen Base 2B,656541,Sam Hilliard,665795,Edward Cabrera,501303,Ehire Adrianza,R,Jacob Stallings,607732,0,0,2,False,2023-04-24,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+80,80,1B,2B,Stolen Base 2B,642731,Thairo Estrada,665795,Edward Cabrera,573262,Mike Yastrzemski,R,Jacob Stallings,607732,0,2,1,True,2023-04-18,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+81,81,1B,,Caught Stealing 2B,573262,Mike Yastrzemski,665795,Edward Cabrera,605204,J.D. Davis,R,Jacob Stallings,607732,0,2,3,True,2023-04-18,Caught,2B,2023,2024,29.8,2024, 81.1, 0.69
+82,82,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623211,Huascar Brazobán,656976,Pavin Smith,R,Jacob Stallings,607732,5,0,7,True,2023-04-14,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+83,83,1B,2B,Stolen Base 2B,681082,Bryson Stott,665795,Edward Cabrera,607208,Trea Turner,R,Jacob Stallings,607732,0,0,1,False,2023-04-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+84,84,1B,2B,Stolen Base 2B,607208,Trea Turner,665795,Edward Cabrera,592663,J.T. Realmuto,R,Jacob Stallings,607732,0,0,1,False,2023-04-12,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+85,85,1B,2B,Stolen Base 2B,681082,Bryson Stott,645261,Sandy Alcantara,607208,Trea Turner,R,Jacob Stallings,607732,2,0,3,False,2023-04-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+86,86,1B,2B,Stolen Base 2B,607208,Trea Turner,645261,Sandy Alcantara,656941,Kyle Schwarber,R,Jacob Stallings,607732,2,0,3,False,2023-04-10,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+87,87,1B,2B,Stolen Base 2B,502054,Tommy Pham,598264,Matt Barnes,516782,Starling Marte,R,Jacob Stallings,607732,1,5,9,True,2023-04-02,Stolen,2B,2023,2024,29.8,2024, 81.1, 0.69
+88,88,1B,2B,Stolen Base 2B,650859,Luis Rengifo,645261,Sandy Alcantara,545358,Max Stassi,R,Jacob Stallings,607732,1,0,5,True,2022-07-05,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+89,89,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,645261,Sandy Alcantara,621493,Taylor Ward,R,Jacob Stallings,607732,2,0,7,True,2022-07-05,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+90,90,1B,2B,Stolen Base 2B,671277,Luis García Jr.,542914,Anthony Bass,657041,Lane Thomas,R,Jacob Stallings,607732,3,6,7,False,2022-07-01,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+91,91,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,645261,Sandy Alcantara,680977,Brendan Donovan,R,Jacob Stallings,607732,0,0,3,False,2022-06-29,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+92,92,1B,2B,Stolen Base 2B,669242,Tommy Edman,641154,Pablo López,680977,Brendan Donovan,R,Jacob Stallings,607732,4,0,5,False,2022-06-27,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+93,93,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,669432,Trevor Rogers,544369,Didi Gregorius,L,Jacob Stallings,607732,1,4,3,False,2022-06-14,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+94,94,1B,2B,Stolen Base 2B,663837,Matt Vierling,542914,Anthony Bass,656555,Rhys Hoskins,R,Jacob Stallings,607732,3,2,9,False,2022-06-13,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+95,95,1B,2B,Stolen Base 2B,663656,Kyle Tucker,641154,Pablo López,493329,Yuli Gurriel,R,Jacob Stallings,607732,1,2,2,False,2022-06-10,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+96,96,1B,2B,Stolen Base 2B,645302,Victor Robles,645261,Sandy Alcantara,514917,César Hernández,R,Jacob Stallings,607732,0,0,5,True,2022-06-08,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+97,97,1B,2B,Stolen Base 2B,642731,Thairo Estrada,666129,Braxton Garrett,613564,Jason Vosler,L,Jacob Stallings,607732,0,0,2,True,2022-06-05,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+98,98,2B,3B,Stolen Base 3B,642731,Thairo Estrada,666129,Braxton Garrett,592200,Curt Casali,L,Jacob Stallings,607732,0,0,4,True,2022-06-05,Stolen,3B,2022,2023,29.4,2023, 82.2, 0.68
+99,99,1B,2B,Stolen Base 2B,613564,Jason Vosler,666129,Braxton Garrett,592200,Curt Casali,L,Jacob Stallings,607732,0,0,4,True,2022-06-05,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+100,100,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,645261,Sandy Alcantara,621020,Dansby Swanson,R,Jacob Stallings,607732,1,2,6,False,2022-05-28,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+101,101,1B,2B,Stolen Base 2B,621020,Dansby Swanson,645261,Sandy Alcantara,594807,Adam Duvall,R,Jacob Stallings,607732,1,1,5,True,2022-05-22,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+102,102,1B,,Caught Stealing 2B,542303,Marcell Ozuna,645261,Sandy Alcantara,518595,Travis d'Arnaud,R,Jacob Stallings,607732,1,1,6,True,2022-05-22,Caught,2B,2022,2023,29.4,2023, 82.2, 0.68
+103,103,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,669432,Trevor Rogers,621566,Matt Olson,L,Jacob Stallings,607732,0,4,2,True,2022-05-20,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+104,104,1B,2B,Stolen Base 2B,665742,Juan Soto,667297,Tommy Nance,628450,Yadiel Hernandez,R,Jacob Stallings,607732,2,3,5,True,2022-05-18,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+105,105,1B,2B,Stolen Base 2B,645302,Victor Robles,645261,Sandy Alcantara,514917,César Hernández,R,Jacob Stallings,607732,0,1,2,True,2022-05-16,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+106,106,1B,2B,Stolen Base 2B,621438,Tyrone Taylor,669432,Trevor Rogers,670712,Mike Brosseau,L,Jacob Stallings,607732,0,1,2,True,2022-05-14,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+107,107,1B,2B,Stolen Base 2B,668942,Josh Rojas,645261,Sandy Alcantara,606466,Ketel Marte,R,Jacob Stallings,607732,1,3,4,False,2022-05-11,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+108,108,1B,,Caught Stealing 2B,572233,Christian Walker,547001,Cody Poteet,668942,Josh Rojas,R,Jacob Stallings,607732,6,2,7,False,2022-05-10,Caught,2B,2022,2023,29.4,2023, 82.2, 0.68
+109,109,1B,2B,Stolen Base 2B,662139,Daulton Varsho,622694,Elieser Hernández,656976,Pavin Smith,R,Jacob Stallings,607732,3,2,2,False,2022-05-09,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+110,110,1B,2B,Stolen Base 2B,592518,Manny Machado,645261,Sandy Alcantara,543592,Austin Nola,R,Jacob Stallings,607732,1,0,4,False,2022-05-06,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+111,111,1B,2B,Stolen Base 2B,669450,Cooper Hummel,669432,Trevor Rogers,656669,Jordan Luplow,L,Jacob Stallings,607732,0,2,5,True,2022-05-03,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+112,112,1B,2B,Stolen Base 2B,656669,Jordan Luplow,641154,Pablo López,444482,David Peralta,R,Jacob Stallings,607732,0,4,5,True,2022-05-02,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+113,113,1B,,Caught Stealing 2B,624428,Adam Frazier,645261,Sandy Alcantara,664034,Ty France,R,Jacob Stallings,607732,0,1,3,True,2022-05-01,Caught,2B,2022,2023,29.4,2023, 82.2, 0.68
+114,114,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,547001,Cody Poteet,620443,Luis Torrens,R,Jacob Stallings,607732,8,3,7,True,2022-04-29,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+115,115,1B,2B,Stolen Base 2B,665742,Juan Soto,645261,Sandy Alcantara,443558,Nelson Cruz,R,Jacob Stallings,607732,0,0,1,False,2022-04-26,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+116,116,1B,2B,Stolen Base 2B,514917,César Hernández,645261,Sandy Alcantara,665742,Juan Soto,R,Jacob Stallings,607732,1,3,5,False,2022-04-26,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+117,117,1B,2B,Stolen Base 2B,621020,Dansby Swanson,595345,Steven Okert,645277,Ozzie Albies,L,Jacob Stallings,607732,7,6,6,False,2022-04-23,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+118,118,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,645261,Sandy Alcantara,571448,Nolan Arenado,R,Jacob Stallings,607732,0,0,1,True,2022-04-20,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+119,119,1B,2B,Stolen Base 2B,669242,Tommy Edman,645261,Sandy Alcantara,641933,Tyler O'Neill,R,Jacob Stallings,607732,0,0,3,True,2022-04-20,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+120,120,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,542888,Shawn Armstrong,405395,Albert Pujols,R,Jacob Stallings,607732,0,4,5,True,2022-04-19,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+121,121,1B,2B,Stolen Base 2B,657557,Paul DeJong,595345,Steven Okert,425877,Yadier Molina,L,Jacob Stallings,607732,1,5,8,True,2022-04-19,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+122,122,3B,score,Stolen Base Home,547180,Bryce Harper,669432,Trevor Rogers,622666,Johan Camargo,L,Jacob Stallings,607732,0,2,1,True,2022-04-16,Stolen,Home,2022,2023,29.4,2023, 82.2, 0.68
+123,123,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,645261,Sandy Alcantara,592206,Nick Castellanos,R,Jacob Stallings,607732,0,1,3,True,2022-04-14,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+124,124,1B,2B,Stolen Base 2B,642180,Tyler Wade,669622,Anthony Bender,545358,Max Stassi,R,Jacob Stallings,607732,4,3,9,False,2022-04-12,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+125,125,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,622694,Elieser Hernández,543685,Anthony Rendon,R,Jacob Stallings,607732,0,0,1,False,2022-04-11,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+126,126,1B,,Caught Stealing 2B,642180,Tyler Wade,622694,Elieser Hernández,664058,David Fletcher,R,Jacob Stallings,607732,4,1,4,False,2022-04-11,Caught,2B,2022,2023,29.4,2023, 82.2, 0.68
+127,127,1B,,Caught Stealing 2B,573262,Mike Yastrzemski,645261,Sandy Alcantara,474832,Brandon Belt,R,Jacob Stallings,607732,3,0,5,False,2022-04-08,Caught,2B,2022,2023,29.4,2023, 82.2, 0.68
+128,128,1B,2B,Stolen Base 2B,596103,Austin Slater,545343,Louis Head,543063,Brandon Crawford,R,Jacob Stallings,607732,4,2,8,False,2022-04-08,Stolen,2B,2022,2023,29.4,2023, 82.2, 0.68
+129,129,2B,3B,Stolen Base 3B,516782,Starling Marte,641154,Pablo López,596019,Francisco Lindor,R,Jacob Stallings,607732,1,1,1,False,2022-04-03,Stolen,3B,2022,2023,29.4,2023, 82.2, 0.68

@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1745,1B,,Caught Stealing 2B,451192,James Adduci,612434,Miguel Castro,457708,Justin Upton,R,Welington Castillo,456078,2,7,4,True,2017-08-03,Caught,2B
+3528,1B,2B,Stolen Base 2B,451192,James Adduci,461872,Anthony Swarzak,543308,John Hicks,R,Geovany Soto,434567,3,3,6,False,2017-04-28,Stolen,2B
+3047,1B,2B,Stolen Base 2B,451192,James Adduci,425386,Jeremy Guthrie,455139,Robinson Chirinos,R,Erik Kratz,456124,1,4,5,False,2014-08-23,Stolen,2B
+3164,1B,2B,Stolen Base 2B,451192,James Adduci,501925,Joe Smith,462101,Elvis Andrus,R,Hank Conger,474233,1,2,8,False,2014-08-17,Stolen,2B
+3415,1B,,Caught Stealing 2B,451192,James Adduci,456051,Hector Noesí,455139,Robinson Chirinos,R,Tyler Flowers,452095,3,3,6,True,2014-08-04,Caught,2B
+3574,1B,2B,Stolen Base 2B,451192,James Adduci,543243,Sonny Gray,450317,J.P. Arencibia,R,John Jaso,444379,1,0,4,False,2014-07-26,Stolen,2B
+803,1B,2B,Stolen Base 2B,451192,James Adduci,425386,Jeremy Guthrie,455139,Robinson Chirinos,R,Erik Kratz,456124,1,4,5,False,2014-08-23,Stolen,2B
+920,1B,2B,Stolen Base 2B,451192,James Adduci,501925,Joe Smith,462101,Elvis Andrus,R,Hank Conger,474233,1,2,8,False,2014-08-17,Stolen,2B
+1171,1B,,Caught Stealing 2B,451192,James Adduci,456051,Hector Noesí,455139,Robinson Chirinos,R,Tyler Flowers,452095,3,3,6,True,2014-08-04,Caught,2B
+1330,1B,2B,Stolen Base 2B,451192,James Adduci,543243,Sonny Gray,450317,J.P. Arencibia,R,John Jaso,444379,1,0,4,False,2014-07-26,Stolen,2B
+1117,1B,,Caught Stealing 2B,451192,James Adduci,612434,Miguel Castro,457708,Justin Upton,R,Welington Castillo,456078,2,7,4,True,2017-08-03,Caught,2B
+2900,1B,2B,Stolen Base 2B,451192,James Adduci,461872,Anthony Swarzak,543308,John Hicks,R,Geovany Soto,434567,3,3,6,False,2017-04-28,Stolen,2B

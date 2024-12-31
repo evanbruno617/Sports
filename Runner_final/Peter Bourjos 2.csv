@@ -1,0 +1,84 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3806,1B,2B,Stolen Base 2B,488721,Peter Bourjos,547973,Aroldis Chapman,518960,Jonathan Lucroy,L,Kyle Higashioka,543309,2,3,12,False,2019-04-22,Stolen,2B
+3882,1B,2B,Stolen Base 2B,488721,Peter Bourjos,433587,Félix Hernández,664058,David Fletcher,R,Omar Narváez,553882,2,5,4,False,2019-04-18,Stolen,2B
+6649,1B,2B,Stolen Base 2B,488721,Peter Bourjos,547973,Aroldis Chapman,518960,Jonathan Lucroy,L,Kyle Higashioka,543309,2,3,12,False,2019-04-22,Stolen,2B
+6725,1B,2B,Stolen Base 2B,488721,Peter Bourjos,433587,Félix Hernández,664058,David Fletcher,R,Omar Narváez,553882,2,5,4,False,2019-04-18,Stolen,2B
+8573,1B,2B,Stolen Base 2B,488721,Peter Bourjos,547973,Aroldis Chapman,518960,Jonathan Lucroy,L,Kyle Higashioka,543309,2,3,12,False,2019-04-22,Stolen,2B
+8649,1B,2B,Stolen Base 2B,488721,Peter Bourjos,433587,Félix Hernández,664058,David Fletcher,R,Omar Narváez,553882,2,5,4,False,2019-04-18,Stolen,2B
+998,2B,3B,Caught Stealing 2B,488721,Peter Bourjos,282332,CC Sabathia,446334,Evan Longoria,L,Gary Sánchez,596142,1,0,3,False,2017-09-11,Caught,2B
+1469,1B,2B,Stolen Base 2B,488721,Peter Bourjos,608678,Dominic Leone,543543,Brad Miller,R,Miguel Montero,471083,3,2,8,True,2017-08-17,Stolen,2B
+1781,1B,2B,Stolen Base 2B,488721,Peter Bourjos,502381,Luke Gregerson,605480,Mallex Smith,R,Evan Gattis,594828,4,6,8,True,2017-08-01,Stolen,2B
+1901,1B,,Caught Stealing 2B,488721,Peter Bourjos,612434,Miguel Castro,446334,Evan Longoria,R,Welington Castillo,456078,5,2,7,False,2017-07-25,Caught,2B
+2022,1B,,Caught Stealing 2B,488721,Peter Bourjos,434672,Chris Smith,519306,Steven Souza Jr.,R,Josh Phegley,572033,3,2,5,True,2017-07-18,Caught,2B
+2721,1B,2B,Stolen Base 2B,488721,Peter Bourjos,502706,Derek Holland,572816,Corey Dickerson,L,Kevan Smith,607345,2,0,3,False,2017-06-08,Stolen,2B
+3733,1B,2B,Stolen Base 2B,488721,Peter Bourjos,599683,Warwick Saupold,595281,Kevin Kiermaier,R,Alex Avila,488671,5,1,8,False,2017-04-18,Stolen,2B
+3933,1B,2B,Stolen Base 2B,488721,Peter Bourjos,571901,Aaron Loup,519306,Steven Souza Jr.,L,Jarrod Saltalamacchia,457454,9,7,7,False,2017-04-07,Stolen,2B
+4557,1B,2B,Stolen Base 2B,488721,Peter Bourjos,623395,Brian Ellington,517370,Jimmy Paredes,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Stolen,2B
+5515,1B,2B,Stolen Base 2B,488721,Peter Bourjos,570632,José Ureña,519237,Cameron Rupp,R,J.T. Realmuto,592663,1,1,6,False,2016-07-19,Stolen,2B
+5817,1B,,Caught Stealing 2B,488721,Peter Bourjos,517414,Randall Delgado,596748,Maikel Franco,R,Welington Castillo,456078,1,2,5,True,2016-06-28,Caught,2B
+5973,1B,2B,Stolen Base 2B,488721,Peter Bourjos,571946,Shelby Miller,546318,Odúbel Herrera,R,Welington Castillo,456078,1,3,3,False,2016-06-20,Stolen,2B
+6095,1B,,Caught Stealing 2B,488721,Peter Bourjos,573186,Marcus Stroman,546318,Odúbel Herrera,R,Russell Martin,431145,3,0,3,True,2016-06-14,Caught,2B
+6452,1B,2B,Stolen Base 2B,488721,Peter Bourjos,434671,Aníbal Sánchez,546318,Odúbel Herrera,R,James McCann,543510,0,2,2,True,2016-05-25,Stolen,2B
+6617,1B,2B,Stolen Base 2B,488721,Peter Bourjos,430661,Dustin McGowan,546318,Odúbel Herrera,R,Jeff Mathis,425772,3,0,7,False,2016-05-17,Stolen,2B
+6696,1B,2B,Stolen Base 2B,488721,Peter Bourjos,605232,Brandon Finnegan,546318,Odúbel Herrera,L,Tucker Barnhart,571466,3,2,4,False,2016-05-13,Stolen,2B
+6827,1B,,Caught Stealing 2B,488721,Peter Bourjos,607457,Kyle Barraclough,546318,Odúbel Herrera,R,J.T. Realmuto,592663,4,4,8,True,2016-05-06,Caught,2B
+322,1B,2B,Stolen Base 2B,488721,Peter Bourjos,276542,Joaquín Benoit,502054,Tommy Pham,R,Derek Norris,519083,1,1,8,False,2015-07-03,Stolen,2B
+802,1B,,Caught Stealing 2B,488721,Peter Bourjos,407822,Jorge De La Rosa,608379,Michael Wacha,L,Michael McKenry,502374,0,1,5,True,2015-06-09,Caught,2B
+1103,1B,,Caught Stealing 2B,488721,Peter Bourjos,517414,Randall Delgado,545341,Randal Grichuk,R,Tuffy Gosewisch,488912,2,2,8,False,2015-05-25,Caught,2B
+1503,1B,,Caught Stealing 2B,488721,Peter Bourjos,452657,Jon Lester,572761,Matt Carpenter,L,David Ross,424325,0,2,1,False,2015-05-06,Caught,2B
+1598,2B,,Caught Stealing 3B,488721,Peter Bourjos,453172,Jared Hughes,518902,Pete Kozma,R,Francisco Cervelli,465041,1,1,11,False,2015-05-02,Caught,3B
+1647,1B,,Caught Stealing 2B,488721,Peter Bourjos,421685,Aaron Harang,572761,Matt Carpenter,R,Carlos Ruiz,434563,5,2,6,False,2015-04-29,Caught,2B
+1672,1B,2B,Stolen Base 2B,488721,Peter Bourjos,518603,Justin De Fratus,571431,Matt Adams,R,Carlos Ruiz,434563,10,5,8,False,2015-04-28,Stolen,2B
+1918,1B,2B,Stolen Base 2B,488721,Peter Bourjos,456701,Homer Bailey,571431,Matt Adams,R,Brayan Peña,430910,3,1,5,False,2015-04-18,Stolen,2B
+2074,1B,2B,Stolen Base 2B,488721,Peter Bourjos,488674,Burke Badenhop,425509,Jhonny Peralta,R,Devin Mesoraco,519023,1,3,9,True,2015-04-11,Stolen,2B
+2167,1B,2B,Stolen Base 2B,488721,Peter Bourjos,444468,Héctor Rondón,425509,Jhonny Peralta,R,Miguel Montero,471083,0,3,9,True,2015-04-05,Stolen,2B
+2362,1B,2B,Stolen Base 2B,488721,Peter Bourjos,453562,Jake Arrieta,407793,John Lackey,R,Welington Castillo,456078,2,1,5,True,2014-09-24,Stolen,2B
+2830,1B,,Caught Stealing 2B,488721,Peter Bourjos,458720,John Holdzkom,543939,Kolten Wong,R,Russell Martin,431145,6,4,8,False,2014-09-02,Caught,2B
+3683,1B,2B,Stolen Base 2B,488721,Peter Bourjos,451216,Brian Wilson,407812,Matt Holliday,R,Drew Butera,460077,3,3,8,False,2014-07-20,Stolen,2B
+3684,2B,3B,Stolen Base 3B,488721,Peter Bourjos,434442,J.P. Howell,571431,Matt Adams,L,Drew Butera,460077,3,3,8,False,2014-07-20,Stolen,3B
+3727,1B,2B,Stolen Base 2B,488721,Peter Bourjos,425844,Zack Greinke,571431,Matt Adams,R,A.J. Ellis,454560,4,1,5,False,2014-07-19,Stolen,2B
+4127,1B,,Caught Stealing 2B,488721,Peter Bourjos,445276,Kenley Jansen,425509,Jhonny Peralta,R,Drew Butera,460077,1,0,9,True,2014-06-26,Caught,2B
+4165,1B,2B,Stolen Base 2B,488721,Peter Bourjos,592454,Tommy Kahnle,407885,Mark Ellis,R,Wilin Rosario,501647,5,4,6,True,2014-06-25,Stolen,2B
+4524,1B,,Caught Stealing 2B,488721,Peter Bourjos,445170,Todd Redmond,572761,Matt Carpenter,R,Erik Kratz,456124,0,5,6,True,2014-06-08,Caught,2B
+4598,1B,2B,Stolen Base 2B,488721,Peter Bourjos,516969,Kelvin Herrera,572761,Matt Carpenter,R,Brett Hayes,451109,2,3,11,True,2014-06-04,Stolen,2B
+5017,2B,3B,Stolen Base 3B,488721,Peter Bourjos,453646,Carlos Villanueva,445055,Jon Jay,R,Welington Castillo,456078,1,2,6,False,2014-05-13,Stolen,3B
+5373,1B,2B,Stolen Base 2B,488721,Peter Bourjos,453172,Jared Hughes,445055,Jon Jay,R,Tony Sanchez,506997,1,4,6,False,2014-04-26,Stolen,2B
+5734,1B,2B,Stolen Base 2B,488721,Peter Bourjos,407842,Jose Veras,518614,Daniel Descalso,R,Welington Castillo,456078,2,3,9,False,2014-04-11,Stolen,2B
+118,1B,2B,Stolen Base 2B,488721,Peter Bourjos,453562,Jake Arrieta,407793,John Lackey,R,Welington Castillo,456078,2,1,5,True,2014-09-24,Stolen,2B
+586,1B,,Caught Stealing 2B,488721,Peter Bourjos,458720,John Holdzkom,543939,Kolten Wong,R,Russell Martin,431145,6,4,8,False,2014-09-02,Caught,2B
+1439,1B,2B,Stolen Base 2B,488721,Peter Bourjos,451216,Brian Wilson,407812,Matt Holliday,R,Drew Butera,460077,3,3,8,False,2014-07-20,Stolen,2B
+1440,2B,3B,Stolen Base 3B,488721,Peter Bourjos,434442,J.P. Howell,571431,Matt Adams,L,Drew Butera,460077,3,3,8,False,2014-07-20,Stolen,3B
+1483,1B,2B,Stolen Base 2B,488721,Peter Bourjos,425844,Zack Greinke,571431,Matt Adams,R,A.J. Ellis,454560,4,1,5,False,2014-07-19,Stolen,2B
+1883,1B,,Caught Stealing 2B,488721,Peter Bourjos,445276,Kenley Jansen,425509,Jhonny Peralta,R,Drew Butera,460077,1,0,9,True,2014-06-26,Caught,2B
+1921,1B,2B,Stolen Base 2B,488721,Peter Bourjos,592454,Tommy Kahnle,407885,Mark Ellis,R,Wilin Rosario,501647,5,4,6,True,2014-06-25,Stolen,2B
+2280,1B,,Caught Stealing 2B,488721,Peter Bourjos,445170,Todd Redmond,572761,Matt Carpenter,R,Erik Kratz,456124,0,5,6,True,2014-06-08,Caught,2B
+2354,1B,2B,Stolen Base 2B,488721,Peter Bourjos,516969,Kelvin Herrera,572761,Matt Carpenter,R,Brett Hayes,451109,2,3,11,True,2014-06-04,Stolen,2B
+2773,2B,3B,Stolen Base 3B,488721,Peter Bourjos,453646,Carlos Villanueva,445055,Jon Jay,R,Welington Castillo,456078,1,2,6,False,2014-05-13,Stolen,3B
+3129,1B,2B,Stolen Base 2B,488721,Peter Bourjos,453172,Jared Hughes,445055,Jon Jay,R,Tony Sanchez,506997,1,4,6,False,2014-04-26,Stolen,2B
+3490,1B,2B,Stolen Base 2B,488721,Peter Bourjos,407842,Jose Veras,518614,Daniel Descalso,R,Welington Castillo,456078,2,3,9,False,2014-04-11,Stolen,2B
+522,1B,2B,Stolen Base 2B,488721,Peter Bourjos,623395,Brian Ellington,517370,Jimmy Paredes,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Stolen,2B
+1480,1B,2B,Stolen Base 2B,488721,Peter Bourjos,570632,José Ureña,519237,Cameron Rupp,R,J.T. Realmuto,592663,1,1,6,False,2016-07-19,Stolen,2B
+1782,1B,,Caught Stealing 2B,488721,Peter Bourjos,517414,Randall Delgado,596748,Maikel Franco,R,Welington Castillo,456078,1,2,5,True,2016-06-28,Caught,2B
+1938,1B,2B,Stolen Base 2B,488721,Peter Bourjos,571946,Shelby Miller,546318,Odúbel Herrera,R,Welington Castillo,456078,1,3,3,False,2016-06-20,Stolen,2B
+2060,1B,,Caught Stealing 2B,488721,Peter Bourjos,573186,Marcus Stroman,546318,Odúbel Herrera,R,Russell Martin,431145,3,0,3,True,2016-06-14,Caught,2B
+2417,1B,2B,Stolen Base 2B,488721,Peter Bourjos,434671,Aníbal Sánchez,546318,Odúbel Herrera,R,James McCann,543510,0,2,2,True,2016-05-25,Stolen,2B
+2582,1B,2B,Stolen Base 2B,488721,Peter Bourjos,430661,Dustin McGowan,546318,Odúbel Herrera,R,Jeff Mathis,425772,3,0,7,False,2016-05-17,Stolen,2B
+2661,1B,2B,Stolen Base 2B,488721,Peter Bourjos,605232,Brandon Finnegan,546318,Odúbel Herrera,L,Tucker Barnhart,571466,3,2,4,False,2016-05-13,Stolen,2B
+2792,1B,,Caught Stealing 2B,488721,Peter Bourjos,607457,Kyle Barraclough,546318,Odúbel Herrera,R,J.T. Realmuto,592663,4,4,8,True,2016-05-06,Caught,2B
+370,2B,3B,Caught Stealing 2B,488721,Peter Bourjos,282332,CC Sabathia,446334,Evan Longoria,L,Gary Sánchez,596142,1,0,3,False,2017-09-11,Caught,2B
+841,1B,2B,Stolen Base 2B,488721,Peter Bourjos,608678,Dominic Leone,543543,Brad Miller,R,Miguel Montero,471083,3,2,8,True,2017-08-17,Stolen,2B
+1153,1B,2B,Stolen Base 2B,488721,Peter Bourjos,502381,Luke Gregerson,605480,Mallex Smith,R,Evan Gattis,594828,4,6,8,True,2017-08-01,Stolen,2B
+1273,1B,,Caught Stealing 2B,488721,Peter Bourjos,612434,Miguel Castro,446334,Evan Longoria,R,Welington Castillo,456078,5,2,7,False,2017-07-25,Caught,2B
+1394,1B,,Caught Stealing 2B,488721,Peter Bourjos,434672,Chris Smith,519306,Steven Souza Jr.,R,Josh Phegley,572033,3,2,5,True,2017-07-18,Caught,2B
+2093,1B,2B,Stolen Base 2B,488721,Peter Bourjos,502706,Derek Holland,572816,Corey Dickerson,L,Kevan Smith,607345,2,0,3,False,2017-06-08,Stolen,2B
+3105,1B,2B,Stolen Base 2B,488721,Peter Bourjos,599683,Warwick Saupold,595281,Kevin Kiermaier,R,Alex Avila,488671,5,1,8,False,2017-04-18,Stolen,2B
+3305,1B,2B,Stolen Base 2B,488721,Peter Bourjos,571901,Aaron Loup,519306,Steven Souza Jr.,L,Jarrod Saltalamacchia,457454,9,7,7,False,2017-04-07,Stolen,2B
+3929,1B,2B,Stolen Base 2B,488721,Peter Bourjos,623395,Brian Ellington,517370,Jimmy Paredes,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Stolen,2B
+4887,1B,2B,Stolen Base 2B,488721,Peter Bourjos,570632,José Ureña,519237,Cameron Rupp,R,J.T. Realmuto,592663,1,1,6,False,2016-07-19,Stolen,2B
+5189,1B,,Caught Stealing 2B,488721,Peter Bourjos,517414,Randall Delgado,596748,Maikel Franco,R,Welington Castillo,456078,1,2,5,True,2016-06-28,Caught,2B
+5345,1B,2B,Stolen Base 2B,488721,Peter Bourjos,571946,Shelby Miller,546318,Odúbel Herrera,R,Welington Castillo,456078,1,3,3,False,2016-06-20,Stolen,2B
+5467,1B,,Caught Stealing 2B,488721,Peter Bourjos,573186,Marcus Stroman,546318,Odúbel Herrera,R,Russell Martin,431145,3,0,3,True,2016-06-14,Caught,2B
+5824,1B,2B,Stolen Base 2B,488721,Peter Bourjos,434671,Aníbal Sánchez,546318,Odúbel Herrera,R,James McCann,543510,0,2,2,True,2016-05-25,Stolen,2B
+5989,1B,2B,Stolen Base 2B,488721,Peter Bourjos,430661,Dustin McGowan,546318,Odúbel Herrera,R,Jeff Mathis,425772,3,0,7,False,2016-05-17,Stolen,2B
+6068,1B,2B,Stolen Base 2B,488721,Peter Bourjos,605232,Brandon Finnegan,546318,Odúbel Herrera,L,Tucker Barnhart,571466,3,2,4,False,2016-05-13,Stolen,2B
+6199,1B,,Caught Stealing 2B,488721,Peter Bourjos,607457,Kyle Barraclough,546318,Odúbel Herrera,R,J.T. Realmuto,592663,4,4,8,True,2016-05-06,Caught,2B

@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2036,1B,,Caught Stealing 2B,656448,Stone Garrett,664747,Alexis Díaz,682928,CJ Abrams,R,Tyler Stephenson,663886,2,3,9,False,2023-07-03,Caught,2B
+2229,1B,2B,Stolen Base 2B,656448,Stone Garrett,670970,Adrian Morejon,642086,Dominic Smith,L,Gary Sánchez,596142,0,2,9,True,2023-06-24,Stolen,2B
+2939,1B,2B,Stolen Base 2B,656448,Stone Garrett,621016,Jose Cuas,642086,Dominic Smith,R,Freddy Fermin,666023,8,12,8,True,2023-05-26,Stolen,2B
+3389,1B,2B,Stolen Base 2B,656448,Stone Garrett,674072,Tommy Henry,642086,Dominic Smith,L,Gabriel Moreno,672515,1,2,4,True,2023-05-06,Stolen,2B
+6450,1B,,Caught Stealing 2B,656448,Stone Garrett,664747,Alexis Díaz,682928,CJ Abrams,R,Tyler Stephenson,663886,2,3,9,False,2023-07-03,Caught,2B
+6643,1B,2B,Stolen Base 2B,656448,Stone Garrett,670970,Adrian Morejon,642086,Dominic Smith,L,Gary Sánchez,596142,0,2,9,True,2023-06-24,Stolen,2B
+7353,1B,2B,Stolen Base 2B,656448,Stone Garrett,621016,Jose Cuas,642086,Dominic Smith,R,Freddy Fermin,666023,8,12,8,True,2023-05-26,Stolen,2B
+7803,1B,2B,Stolen Base 2B,656448,Stone Garrett,674072,Tommy Henry,642086,Dominic Smith,L,Gabriel Moreno,672515,1,2,4,True,2023-05-06,Stolen,2B

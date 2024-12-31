@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2640,1B,2B,Stolen Base 2B,421124,Ramon Santiago,458681,Lance Lynn,446359,Zack Cozart,R,A.J. Pierzynski,150229,0,0,3,False,2014-09-11,Stolen,2B
+3522,2B,,Caught Stealing 3B,421124,Ramon Santiago,489119,Wade Miley,519023,Devin Mesoraco,L,Tuffy Gosewisch,488912,0,0,3,False,2014-07-30,Caught,3B
+3712,1B,2B,Stolen Base 2B,421124,Ramon Santiago,476454,Dellin Betances,571740,Billy Hamilton,R,Brian McCann,435263,2,1,7,True,2014-07-20,Stolen,2B
+396,1B,2B,Stolen Base 2B,421124,Ramon Santiago,458681,Lance Lynn,446359,Zack Cozart,R,A.J. Pierzynski,150229,0,0,3,False,2014-09-11,Stolen,2B
+1278,2B,,Caught Stealing 3B,421124,Ramon Santiago,489119,Wade Miley,519023,Devin Mesoraco,L,Tuffy Gosewisch,488912,0,0,3,False,2014-07-30,Caught,3B
+1468,1B,2B,Stolen Base 2B,421124,Ramon Santiago,476454,Dellin Betances,571740,Billy Hamilton,R,Brian McCann,435263,2,1,7,True,2014-07-20,Stolen,2B

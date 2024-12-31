@@ -1,0 +1,30 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3377,1B,,Caught Stealing 2B,459431,Michael Saunders,595918,A.J. Cole,520471,Freddy Galvis,R,Matt Wieters,446308,1,2,4,False,2017-05-06,Caught,2B
+5358,1B,2B,Stolen Base 2B,459431,Michael Saunders,488768,Andrew Cashner,431145,Russell Martin,R,Derek Norris,519083,2,1,4,False,2016-07-26,Stolen,2B
+6740,1B,,Caught Stealing 2B,459431,Michael Saunders,430912,Matt Cain,453064,Troy Tulowitzki,R,Buster Posey,457763,0,1,4,True,2016-05-10,Caught,2B
+7281,1B,,Caught Stealing 2B,459431,Michael Saunders,501381,Michael Pineda,431145,Russell Martin,R,Austin Romine,519222,1,0,4,False,2016-04-13,Caught,2B
+2278,1B,2B,Stolen Base 2B,459431,Michael Saunders,477569,Fernando Salas,621035,Chris Taylor,R,Chris Iannetta,455104,1,1,7,False,2014-09-27,Stolen,2B
+2464,1B,,Caught Stealing 2B,459431,Michael Saunders,501529,Jorge De Leon,572287,Mike Zunino,R,Max Stassi,545358,3,8,7,True,2014-09-19,Caught,2B
+3955,1B,2B,Stolen Base 2B,459431,Michael Saunders,430613,Ronald Belisario,543543,Brad Miller,R,Tyler Flowers,452095,2,3,14,True,2014-07-05,Stolen,2B
+4034,1B,,Caught Stealing 2B,459431,Michael Saunders,543521,Collin McHugh,554429,Dustin Ackley,R,Jason Castro,488771,2,2,2,True,2014-06-30,Caught,2B
+5158,1B,2B,Stolen Base 2B,459431,Michael Saunders,475857,Ryan Cook,552662,Stefen Romero,R,John Jaso,444379,4,4,10,True,2014-05-07,Stolen,2B
+5285,1B,,Caught Stealing 2B,459431,Michael Saunders,476589,Adam Warren,552662,Stefen Romero,R,Brian McCann,435263,2,4,7,True,2014-05-01,Caught,2B
+5463,1B,,Caught Stealing 2B,459431,Michael Saunders,543521,Collin McHugh,572287,Mike Zunino,R,Jason Castro,488771,0,3,5,False,2014-04-22,Caught,2B
+5627,1B,2B,Stolen Base 2B,459431,Michael Saunders,506433,Yu Darvish,545338,Nick Franklin,R,J.P. Arencibia,450317,0,2,5,True,2014-04-16,Stolen,2B
+5676,1B,,Caught Stealing 2B,459431,Michael Saunders,407890,Colby Lewis,572122,Kyle Seager,R,J.P. Arencibia,450317,0,0,4,True,2014-04-14,Caught,2B
+34,1B,2B,Stolen Base 2B,459431,Michael Saunders,477569,Fernando Salas,621035,Chris Taylor,R,Chris Iannetta,455104,1,1,7,False,2014-09-27,Stolen,2B
+220,1B,,Caught Stealing 2B,459431,Michael Saunders,501529,Jorge De Leon,572287,Mike Zunino,R,Max Stassi,545358,3,8,7,True,2014-09-19,Caught,2B
+1711,1B,2B,Stolen Base 2B,459431,Michael Saunders,430613,Ronald Belisario,543543,Brad Miller,R,Tyler Flowers,452095,2,3,14,True,2014-07-05,Stolen,2B
+1790,1B,,Caught Stealing 2B,459431,Michael Saunders,543521,Collin McHugh,554429,Dustin Ackley,R,Jason Castro,488771,2,2,2,True,2014-06-30,Caught,2B
+2914,1B,2B,Stolen Base 2B,459431,Michael Saunders,475857,Ryan Cook,552662,Stefen Romero,R,John Jaso,444379,4,4,10,True,2014-05-07,Stolen,2B
+3041,1B,,Caught Stealing 2B,459431,Michael Saunders,476589,Adam Warren,552662,Stefen Romero,R,Brian McCann,435263,2,4,7,True,2014-05-01,Caught,2B
+3219,1B,,Caught Stealing 2B,459431,Michael Saunders,543521,Collin McHugh,572287,Mike Zunino,R,Jason Castro,488771,0,3,5,False,2014-04-22,Caught,2B
+3383,1B,2B,Stolen Base 2B,459431,Michael Saunders,506433,Yu Darvish,545338,Nick Franklin,R,J.P. Arencibia,450317,0,2,5,True,2014-04-16,Stolen,2B
+3432,1B,,Caught Stealing 2B,459431,Michael Saunders,407890,Colby Lewis,572122,Kyle Seager,R,J.P. Arencibia,450317,0,0,4,True,2014-04-14,Caught,2B
+1323,1B,2B,Stolen Base 2B,459431,Michael Saunders,488768,Andrew Cashner,431145,Russell Martin,R,Derek Norris,519083,2,1,4,False,2016-07-26,Stolen,2B
+2705,1B,,Caught Stealing 2B,459431,Michael Saunders,430912,Matt Cain,453064,Troy Tulowitzki,R,Buster Posey,457763,0,1,4,True,2016-05-10,Caught,2B
+3246,1B,,Caught Stealing 2B,459431,Michael Saunders,501381,Michael Pineda,431145,Russell Martin,R,Austin Romine,519222,1,0,4,False,2016-04-13,Caught,2B
+2749,1B,,Caught Stealing 2B,459431,Michael Saunders,595918,A.J. Cole,520471,Freddy Galvis,R,Matt Wieters,446308,1,2,4,False,2017-05-06,Caught,2B
+4730,1B,2B,Stolen Base 2B,459431,Michael Saunders,488768,Andrew Cashner,431145,Russell Martin,R,Derek Norris,519083,2,1,4,False,2016-07-26,Stolen,2B
+6112,1B,,Caught Stealing 2B,459431,Michael Saunders,430912,Matt Cain,453064,Troy Tulowitzki,R,Buster Posey,457763,0,1,4,True,2016-05-10,Caught,2B
+6653,1B,,Caught Stealing 2B,459431,Michael Saunders,501381,Michael Pineda,431145,Russell Martin,R,Austin Romine,519222,1,0,4,False,2016-04-13,Caught,2B

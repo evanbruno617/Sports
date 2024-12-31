@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+4103,1B,,Caught Stealing 2B,276055,Adam Dunn,573186,Marcus Stroman,457477,Alejandro De Aza,R,Dioner Navarro,425900,2,0,5,True,2014-06-28,Caught,2B
+5538,1B,2B,Stolen Base 2B,276055,Adam Dunn,407890,Colby Lewis,493364,Dayan Viciedo,R,Robinson Chirinos,455139,1,1,4,True,2014-04-19,Stolen,2B
+1859,1B,,Caught Stealing 2B,276055,Adam Dunn,573186,Marcus Stroman,457477,Alejandro De Aza,R,Dioner Navarro,425900,2,0,5,True,2014-06-28,Caught,2B
+3294,1B,2B,Stolen Base 2B,276055,Adam Dunn,407890,Colby Lewis,493364,Dayan Viciedo,R,Robinson Chirinos,455139,1,1,4,True,2014-04-19,Stolen,2B

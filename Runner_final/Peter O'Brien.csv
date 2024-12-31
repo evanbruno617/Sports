@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3561,1B,2B,Stolen Base 2B,598284,Peter O'Brien,506433,Yu Darvish,594011,Rosell Herrera,R,Taylor Davis,543089,2,1,4,True,2019-05-09,Stolen,2B
+6404,1B,2B,Stolen Base 2B,598284,Peter O'Brien,506433,Yu Darvish,594011,Rosell Herrera,R,Taylor Davis,543089,2,1,4,True,2019-05-09,Stolen,2B
+8328,1B,2B,Stolen Base 2B,598284,Peter O'Brien,506433,Yu Darvish,594011,Rosell Herrera,R,Taylor Davis,543089,2,1,4,True,2019-05-09,Stolen,2B

@@ -1,0 +1,213 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+91,1B,,Caught Stealing 2B,570256,Gregory Polanco,621219,Alec Mills,668804,Bryan Reynolds,R,Victor Caratini,605170,2,0,2,False,2020-09-24,Caught,2B
+223,1B,2B,Stolen Base 2B,570256,Gregory Polanco,594965,Daniel Ponce de Leon,570481,Erik González,R,Matt Wieters,446308,0,0,4,True,2020-09-18,Stolen,2B
+718,1B,2B,Stolen Base 2B,570256,Gregory Polanco,669203,Corbin Burnes,591741,José Osuna,R,Omar Narváez,553882,1,0,2,False,2020-08-23,Stolen,2B
+720,1B,2B,Stolen Base 2B,570256,Gregory Polanco,669203,Corbin Burnes,591741,José Osuna,R,Omar Narváez,553882,2,1,4,False,2020-08-23,Stolen,2B
+894,1B,2B,Stolen Base 2B,570256,Gregory Polanco,594965,Daniel Ponce de Leon,570481,Erik González,R,Matt Wieters,446308,0,0,4,True,2020-08-12,Stolen,2B
+3016,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,0,1,2,True,2019-06-10,Stolen,2B
+3118,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,2,1,2,False,2019-06-05,Stolen,2B
+3120,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,7,1,5,False,2019-06-05,Stolen,2B
+3595,1B,,Caught Stealing 2B,570256,Gregory Polanco,592716,Adrian Sampson,605137,Josh Bell,R,Jeff Mathis,425772,0,0,1,False,2019-05-07,Caught,2B
+758,1B,2B,Stolen Base 2B,570256,Gregory Polanco,623437,Justin Topa,621028,Kevin Newman,R,Manny Piña,444489,8,4,5,False,2021-08-14,Stolen,2B
+759,1B,2B,Stolen Base 2B,570256,Gregory Polanco,623437,Justin Topa,621028,Kevin Newman,R,Manny Piña,444489,8,4,5,False,2021-08-13,Stolen,2B
+778,1B,,Caught Stealing 2B,570256,Gregory Polanco,453281,Wade LeBlanc,664141,JT Brubaker,L,Andrew Knizner,668800,3,1,2,False,2021-08-12,Caught,2B
+913,1B,2B,Stolen Base 2B,570256,Gregory Polanco,605288,Adrian Houser,621028,Kevin Newman,R,Omar Narváez,553882,1,0,2,True,2021-08-03,Stolen,2B
+915,1B,2B,Stolen Base 2B,570256,Gregory Polanco,605288,Adrian Houser,621028,Kevin Newman,R,Omar Narváez,553882,3,0,5,True,2021-08-03,Stolen,2B
+1072,1B,2B,Stolen Base 2B,570256,Gregory Polanco,606424,Jarlín García,621028,Kevin Newman,L,Buster Posey,457763,3,6,8,True,2021-07-23,Stolen,2B
+1115,1B,2B,Stolen Base 2B,570256,Gregory Polanco,518516,Madison Bumgarner,621028,Kevin Newman,L,Bryan Holaday,592407,0,0,2,True,2021-07-21,Stolen,2B
+1190,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592836,Taijuan Walker,605421,Michael Pérez,R,Tomás Nido,621512,3,0,1,False,2021-07-18,Stolen,2B
+1458,1B,2B,Stolen Base 2B,570256,Gregory Polanco,607536,Kyle Freeland,621028,Kevin Newman,L,Elias Díaz,553869,1,0,5,True,2021-06-28,Stolen,2B
+1633,1B,2B,Stolen Base 2B,570256,Gregory Polanco,664208,Phil Maton,621028,Kevin Newman,R,René Rivera,425784,11,7,7,False,2021-06-18,Stolen,2B
+1652,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502179,Paolo Espino,595943,Phillip Evans,R,Yan Gomes,543228,1,0,4,True,2021-06-16,Stolen,2B
+1814,1B,2B,Stolen Base 2B,570256,Gregory Polanco,643256,Adam Cimber,607732,Jacob Stallings,R,Jorge Alfaro,595751,3,2,3,False,2021-06-04,Stolen,2B
+2336,1B,2B,Stolen Base 2B,570256,Gregory Polanco,622766,Miguel Díaz,621028,Kevin Newman,R,Austin Nola,543592,0,0,2,True,2021-05-03,Stolen,2B
+2404,1B,2B,Stolen Base 2B,570256,Gregory Polanco,607231,John Gant,621028,Kevin Newman,R,Andrew Knizner,668800,0,1,2,False,2021-04-30,Stolen,2B
+2522,1B,2B,Stolen Base 2B,570256,Gregory Polanco,656638,Alex Lange,607732,Jacob Stallings,R,Wilson Ramos,467092,2,4,9,True,2021-04-22,Stolen,2B
+2637,1B,2B,Stolen Base 2B,570256,Gregory Polanco,605397,Joe Musgrove,605421,Michael Pérez,R,Victor Caratini,605170,1,0,4,False,2021-04-14,Stolen,2B
+2934,1B,,Caught Stealing 2B,570256,Gregory Polanco,621219,Alec Mills,668804,Bryan Reynolds,R,Victor Caratini,605170,2,0,2,False,2020-09-24,Caught,2B
+3066,1B,2B,Stolen Base 2B,570256,Gregory Polanco,594965,Daniel Ponce de Leon,570481,Erik González,R,Matt Wieters,446308,0,0,4,True,2020-09-18,Stolen,2B
+3561,1B,2B,Stolen Base 2B,570256,Gregory Polanco,669203,Corbin Burnes,591741,José Osuna,R,Omar Narváez,553882,1,0,2,False,2020-08-23,Stolen,2B
+3563,1B,2B,Stolen Base 2B,570256,Gregory Polanco,669203,Corbin Burnes,591741,José Osuna,R,Omar Narváez,553882,2,1,4,False,2020-08-23,Stolen,2B
+3737,1B,2B,Stolen Base 2B,570256,Gregory Polanco,594965,Daniel Ponce de Leon,570481,Erik González,R,Matt Wieters,446308,0,0,4,True,2020-08-12,Stolen,2B
+5859,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,0,1,2,True,2019-06-10,Stolen,2B
+5961,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,2,1,2,False,2019-06-05,Stolen,2B
+5963,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,7,1,5,False,2019-06-05,Stolen,2B
+6438,1B,,Caught Stealing 2B,570256,Gregory Polanco,592716,Adrian Sampson,605137,Josh Bell,R,Jeff Mathis,425772,0,0,1,False,2019-05-07,Caught,2B
+2682,1B,2B,Stolen Base 2B,570256,Gregory Polanco,623437,Justin Topa,621028,Kevin Newman,R,Manny Piña,444489,8,4,5,False,2021-08-14,Stolen,2B
+2683,1B,2B,Stolen Base 2B,570256,Gregory Polanco,623437,Justin Topa,621028,Kevin Newman,R,Manny Piña,444489,8,4,5,False,2021-08-13,Stolen,2B
+2702,1B,,Caught Stealing 2B,570256,Gregory Polanco,453281,Wade LeBlanc,664141,JT Brubaker,L,Andrew Knizner,668800,3,1,2,False,2021-08-12,Caught,2B
+2837,1B,2B,Stolen Base 2B,570256,Gregory Polanco,605288,Adrian Houser,621028,Kevin Newman,R,Omar Narváez,553882,1,0,2,True,2021-08-03,Stolen,2B
+2839,1B,2B,Stolen Base 2B,570256,Gregory Polanco,605288,Adrian Houser,621028,Kevin Newman,R,Omar Narváez,553882,3,0,5,True,2021-08-03,Stolen,2B
+2996,1B,2B,Stolen Base 2B,570256,Gregory Polanco,606424,Jarlín García,621028,Kevin Newman,L,Buster Posey,457763,3,6,8,True,2021-07-23,Stolen,2B
+3039,1B,2B,Stolen Base 2B,570256,Gregory Polanco,518516,Madison Bumgarner,621028,Kevin Newman,L,Bryan Holaday,592407,0,0,2,True,2021-07-21,Stolen,2B
+3114,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592836,Taijuan Walker,605421,Michael Pérez,R,Tomás Nido,621512,3,0,1,False,2021-07-18,Stolen,2B
+3382,1B,2B,Stolen Base 2B,570256,Gregory Polanco,607536,Kyle Freeland,621028,Kevin Newman,L,Elias Díaz,553869,1,0,5,True,2021-06-28,Stolen,2B
+3557,1B,2B,Stolen Base 2B,570256,Gregory Polanco,664208,Phil Maton,621028,Kevin Newman,R,René Rivera,425784,11,7,7,False,2021-06-18,Stolen,2B
+3576,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502179,Paolo Espino,595943,Phillip Evans,R,Yan Gomes,543228,1,0,4,True,2021-06-16,Stolen,2B
+3738,1B,2B,Stolen Base 2B,570256,Gregory Polanco,643256,Adam Cimber,607732,Jacob Stallings,R,Jorge Alfaro,595751,3,2,3,False,2021-06-04,Stolen,2B
+4260,1B,2B,Stolen Base 2B,570256,Gregory Polanco,622766,Miguel Díaz,621028,Kevin Newman,R,Austin Nola,543592,0,0,2,True,2021-05-03,Stolen,2B
+4328,1B,2B,Stolen Base 2B,570256,Gregory Polanco,607231,John Gant,621028,Kevin Newman,R,Andrew Knizner,668800,0,1,2,False,2021-04-30,Stolen,2B
+4446,1B,2B,Stolen Base 2B,570256,Gregory Polanco,656638,Alex Lange,607732,Jacob Stallings,R,Wilson Ramos,467092,2,4,9,True,2021-04-22,Stolen,2B
+4561,1B,2B,Stolen Base 2B,570256,Gregory Polanco,605397,Joe Musgrove,605421,Michael Pérez,R,Victor Caratini,605170,1,0,4,False,2021-04-14,Stolen,2B
+4858,1B,,Caught Stealing 2B,570256,Gregory Polanco,621219,Alec Mills,668804,Bryan Reynolds,R,Victor Caratini,605170,2,0,2,False,2020-09-24,Caught,2B
+4990,1B,2B,Stolen Base 2B,570256,Gregory Polanco,594965,Daniel Ponce de Leon,570481,Erik González,R,Matt Wieters,446308,0,0,4,True,2020-09-18,Stolen,2B
+5485,1B,2B,Stolen Base 2B,570256,Gregory Polanco,669203,Corbin Burnes,591741,José Osuna,R,Omar Narváez,553882,1,0,2,False,2020-08-23,Stolen,2B
+5487,1B,2B,Stolen Base 2B,570256,Gregory Polanco,669203,Corbin Burnes,591741,José Osuna,R,Omar Narváez,553882,2,1,4,False,2020-08-23,Stolen,2B
+5661,1B,2B,Stolen Base 2B,570256,Gregory Polanco,594965,Daniel Ponce de Leon,570481,Erik González,R,Matt Wieters,446308,0,0,4,True,2020-08-12,Stolen,2B
+7783,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,0,1,2,True,2019-06-10,Stolen,2B
+7885,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,2,1,2,False,2019-06-05,Stolen,2B
+7887,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592332,Kevin Gausman,553869,Elias Díaz,R,Brian McCann,435263,7,1,5,False,2019-06-05,Stolen,2B
+8362,1B,,Caught Stealing 2B,570256,Gregory Polanco,592716,Adrian Sampson,605137,Josh Bell,R,Jeff Mathis,425772,0,0,1,False,2019-05-07,Caught,2B
+85,1B,,Caught Stealing 2B,570256,Gregory Polanco,543699,Tanner Roark,446481,Sean Rodríguez,R,Matt Wieters,446308,1,0,3,True,2018-04-30,Caught,2B
+2172,1B,2B,Stolen Base 2B,570256,Gregory Polanco,476451,Jeremy Hellickson,553869,Elias Díaz,R,Andrew Knapp,595284,0,0,2,True,2017-07-06,Stolen,2B
+2924,1B,2B,Stolen Base 2B,570256,Gregory Polanco,517414,Randall Delgado,444379,John Jaso,R,Jeff Mathis,425772,1,1,4,False,2017-05-29,Stolen,2B
+3426,1B,2B,Stolen Base 2B,570256,Gregory Polanco,606959,Rookie Davis,605137,Josh Bell,R,Devin Mesoraco,519023,3,0,3,True,2017-05-03,Stolen,2B
+3608,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,465041,Francisco Cervelli,R,Willson Contreras,575929,0,1,6,False,2017-04-25,Stolen,2B
+3806,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,501896,David Freese,R,Miguel Montero,471083,0,1,2,True,2017-04-14,Stolen,2B
+3822,2B,3B,Stolen Base 3B,570256,Gregory Polanco,592390,Heath Hembree,543281,Josh Harrison,R,Christian Vázquez,543877,1,3,6,True,2017-04-13,Stolen,3B
+3856,1B,2B,Stolen Base 2B,570256,Gregory Polanco,606959,Rookie Davis,501896,David Freese,R,Tucker Barnhart,571466,1,1,3,False,2017-04-11,Stolen,2B
+3905,1B,2B,Stolen Base 2B,570256,Gregory Polanco,285079,R.A. Dickey,444379,John Jaso,R,Kurt Suzuki,435559,4,3,5,False,2017-04-08,Stolen,2B
+3944,2B,3B,Stolen Base 3B,570256,Gregory Polanco,592390,Heath Hembree,543281,Josh Harrison,R,Christian Vázquez,543877,1,3,6,True,2017-04-06,Stolen,3B
+4005,1B,,Caught Stealing 2B,570256,Gregory Polanco,519144,Rick Porcello,501896,David Freese,R,Sandy León,506702,0,0,2,True,2017-04-03,Caught,2B
+4043,1B,2B,Stolen Base 2B,570256,Gregory Polanco,593372,Carlos Martinez,457705,Andrew McCutchen,R,Yadier Molina,425877,0,0,1,True,2016-09-30,Stolen,2B
+4122,1B,2B,Stolen Base 2B,570256,Gregory Polanco,407793,John Lackey,457705,Andrew McCutchen,R,Miguel Montero,471083,0,0,1,False,2016-09-27,Stolen,2B
+4234,1B,2B,Stolen Base 2B,570256,Gregory Polanco,519076,Jimmy Nelson,501896,David Freese,R,Manny Piña,444489,0,4,5,True,2016-09-21,Stolen,2B
+4259,1B,2B,Stolen Base 2B,570256,Gregory Polanco,572788,Tyler Cravy,628356,Jung Ho Kang,R,Martín Maldonado,455117,3,6,7,True,2016-09-20,Stolen,2B
+4384,1B,2B,Stolen Base 2B,570256,Gregory Polanco,622097,Jake Thompson,501896,David Freese,R,Cameron Rupp,519237,4,1,4,True,2016-09-14,Stolen,2B
+4675,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,516782,Starling Marte,R,Miguel Montero,471083,3,0,7,True,2016-08-30,Stolen,2B
+5180,1B,2B,Stolen Base 2B,570256,Gregory Polanco,547007,Rob Whalen,628356,Jung Ho Kang,R,Anthony Recker,489232,0,0,1,True,2016-08-03,Stolen,2B
+5362,1B,2B,Stolen Base 2B,570256,Gregory Polanco,433587,Félix Hernández,457705,Andrew McCutchen,R,Mike Zunino,572287,4,7,5,False,2016-07-26,Stolen,2B
+5403,2B,,Caught Stealing 3B,570256,Gregory Polanco,592826,Vince Velasquez,501896,David Freese,R,Carlos Ruiz,434563,2,3,5,False,2016-07-24,Caught,3B
+5975,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,457705,Andrew McCutchen,R,Miguel Montero,471083,2,0,3,True,2016-06-19,Stolen,2B
+6198,2B,3B,Stolen Base 3B,570256,Gregory Polanco,592789,Noah Syndergaard,628356,Jung Ho Kang,R,Kevin Plawecki,608700,2,0,3,False,2016-06-08,Stolen,3B
+6301,1B,,Caught Stealing 2B,570256,Gregory Polanco,450308,Jered Weaver,516782,Starling Marte,R,Carlos Pérez,542208,2,6,3,False,2016-06-03,Caught,2B
+6444,1B,2B,Stolen Base 2B,570256,Gregory Polanco,523989,Rubby De La Rosa,516782,Starling Marte,R,Welington Castillo,456078,0,3,3,False,2016-05-25,Stolen,2B
+6494,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543475,Jordan Lyles,501896,David Freese,R,Tony Wolters,547172,2,0,3,False,2016-05-23,Stolen,2B
+6497,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543475,Jordan Lyles,501896,David Freese,R,Tony Wolters,547172,2,0,3,False,2016-05-22,Stolen,2B
+6631,1B,2B,Stolen Base 2B,570256,Gregory Polanco,468396,Alexi Ogando,501896,David Freese,R,Tyler Flowers,452095,6,2,7,False,2016-05-16,Stolen,2B
+6674,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453562,Jake Arrieta,516782,Starling Marte,R,Miguel Montero,471083,0,0,4,True,2016-05-14,Stolen,2B
+6818,1B,2B,Stolen Base 2B,570256,Gregory Polanco,544928,Tyler Lyons,516782,Starling Marte,L,Yadier Molina,425877,0,1,6,True,2016-05-06,Stolen,2B
+7063,1B,,Caught Stealing 2B,570256,Gregory Polanco,461325,Tyler Clippard,543281,Josh Harrison,R,Chris Herrmann,543302,2,1,7,True,2016-04-23,Caught,2B
+7156,1B,2B,Stolen Base 2B,570256,Gregory Polanco,607067,Colin Rea,543281,Josh Harrison,R,Derek Norris,519083,0,2,4,True,2016-04-19,Stolen,2B
+7322,1B,,Caught Stealing 2B,570256,Gregory Polanco,434378,Justin Verlander,543281,Josh Harrison,R,James McCann,543510,1,4,3,True,2016-04-11,Caught,2B
+7342,1B,2B,Stolen Base 2B,570256,Gregory Polanco,573185,Dan Straily,543281,Josh Harrison,R,Devin Mesoraco,519023,0,1,5,True,2016-04-10,Stolen,2B
+7405,1B,,Caught Stealing 2B,570256,Gregory Polanco,502190,Mike Leake,543281,Josh Harrison,R,Yadier Molina,425877,1,0,4,False,2016-04-06,Caught,2B
+274,1B,,Caught Stealing 2B,570256,Gregory Polanco,276542,Joaquín Benoit,435522,Neil Walker,R,Derek Norris,519083,1,1,8,False,2015-07-06,Caught,2B
+533,1B,,Caught Stealing 2B,570256,Gregory Polanco,595001,Josh A. Smith,516782,Starling Marte,R,Tucker Barnhart,571466,0,3,3,False,2015-06-23,Caught,2B
+535,1B,,Caught Stealing 2B,570256,Gregory Polanco,502264,Nate Adcock,516782,Starling Marte,R,Tucker Barnhart,571466,7,6,6,False,2015-06-23,Caught,2B
+749,1B,2B,Stolen Base 2B,570256,Gregory Polanco,457711,Sean O'Sullivan,516782,Starling Marte,R,Carlos Ruiz,434563,0,1,1,False,2015-06-13,Stolen,2B
+859,1B,,Caught Stealing 2B,570256,Gregory Polanco,527054,Julio Teheran,435522,Neil Walker,R,Christian Bethancourt,542194,0,0,1,True,2015-06-06,Caught,2B
+888,1B,2B,Stolen Base 2B,570256,Gregory Polanco,554234,Williams Pérez,516782,Starling Marte,R,A.J. Pierzynski,150229,2,1,3,True,2015-06-05,Stolen,2B
+889,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502239,Trevor Cahill,516782,Starling Marte,R,A.J. Pierzynski,150229,5,8,8,True,2015-06-05,Stolen,2B
+934,1B,2B,Stolen Base 2B,570256,Gregory Polanco,218596,Tim Hudson,457705,Andrew McCutchen,R,Andrew Susac,572180,1,2,5,True,2015-06-03,Stolen,2B
+1001,1B,2B,Stolen Base 2B,570256,Gregory Polanco,475115,Tyson Ross,457705,Andrew McCutchen,R,Derek Norris,519083,1,2,2,True,2015-05-30,Stolen,2B
+1045,1B,,Caught Stealing 2B,570256,Gregory Polanco,518875,Shawn Kelley,465041,Francisco Cervelli,R,Derek Norris,519083,2,7,5,True,2015-05-28,Caught,2B
+1190,1B,2B,Stolen Base 2B,570256,Gregory Polanco,592789,Noah Syndergaard,455755,Chris Stewart,R,Kevin Plawecki,608700,2,0,2,False,2015-05-22,Stolen,2B
+1328,1B,2B,Stolen Base 2B,570256,Gregory Polanco,429719,Edwin Jackson,474568,Jordy Mercer,R,Welington Castillo,456078,10,10,12,True,2015-05-15,Stolen,2B
+1403,1B,2B,Stolen Base 2B,570256,Gregory Polanco,425532,Jerome Williams,457705,Andrew McCutchen,R,Carlos Ruiz,434563,1,0,3,True,2015-05-11,Stolen,2B
+1438,1B,,Caught Stealing 2B,570256,Gregory Polanco,593372,Carlos Martinez,435522,Neil Walker,R,Yadier Molina,425877,4,5,5,False,2015-05-09,Caught,2B
+1491,1B,,Caught Stealing 2B,570256,Gregory Polanco,543101,Anthony DeSclafani,435522,Neil Walker,R,Brayan Peña,430910,1,0,3,False,2015-05-07,Caught,2B
+1493,1B,2B,Stolen Base 2B,570256,Gregory Polanco,542266,Carlos Contreras,457705,Andrew McCutchen,R,Brayan Peña,430910,7,2,8,False,2015-05-07,Stolen,2B
+1597,1B,2B,Stolen Base 2B,570256,Gregory Polanco,407793,John Lackey,543281,Josh Harrison,R,Yadier Molina,425877,0,1,3,True,2015-05-02,Stolen,2B
+1760,1B,2B,Stolen Base 2B,570256,Gregory Polanco,523989,Rubby De La Rosa,435522,Neil Walker,R,Tuffy Gosewisch,488912,0,0,1,True,2015-04-25,Stolen,2B
+1782,1B,2B,Stolen Base 2B,570256,Gregory Polanco,518567,Josh Collmenter,457705,Andrew McCutchen,R,Tuffy Gosewisch,488912,0,0,1,True,2015-04-24,Stolen,2B
+1814,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,435522,Neil Walker,R,Welington Castillo,456078,0,0,1,False,2015-04-23,Stolen,2B
+1878,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453562,Jake Arrieta,457705,Andrew McCutchen,R,Miguel Montero,471083,1,0,1,False,2015-04-20,Stolen,2B
+1943,1B,2B,Stolen Base 2B,570256,Gregory Polanco,455009,Jonathan Broxton,476883,Pedro Alvarez,R,Jonathan Lucroy,518960,4,2,8,False,2015-04-17,Stolen,2B
+2113,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543101,Anthony DeSclafani,457705,Andrew McCutchen,R,Devin Mesoraco,519023,0,0,4,True,2015-04-09,Stolen,2B
+2130,2B,3B,Stolen Base 3B,570256,Gregory Polanco,547973,Aroldis Chapman,516782,Starling Marte,L,Devin Mesoraco,519023,4,4,9,True,2015-04-08,Stolen,3B
+2223,1B,2B,Stolen Base 2B,570256,Gregory Polanco,501381,Michael Pineda,516782,Starling Marte,R,Brian McCann,435263,0,1,6,True,2015-04-02,Stolen,2B
+2305,1B,2B,Stolen Base 2B,570256,Gregory Polanco,459967,Sam LeCure,457705,Andrew McCutchen,R,Devin Mesoraco,519023,4,5,7,True,2014-09-27,Stolen,2B
+2449,3B,,Caught Stealing Home,570256,Gregory Polanco,519293,Will Smith,467798,Jose Tabata,L,Jonathan Lucroy,518960,0,0,7,False,2014-09-20,Caught,Home
+2636,1B,2B,Stolen Base 2B,570256,Gregory Polanco,150359,A.J. Burnett,477195,Ike Davis,R,Carlos Ruiz,434563,0,4,6,True,2014-09-11,Stolen,2B
+3210,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543699,Tanner Roark,431145,Russell Martin,R,Wilson Ramos,467092,0,0,1,True,2014-08-15,Stolen,2B
+3266,1B,,Caught Stealing 2B,570256,Gregory Polanco,456379,Al Alburquerque,474568,Jordy Mercer,R,Alex Avila,488671,4,2,7,False,2014-08-12,Caught,2B
+3281,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502522,Justin Miller,431145,Russell Martin,R,Alex Avila,488671,6,1,2,False,2014-08-11,Stolen,2B
+3356,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453178,Ian Kennedy,477195,Ike Davis,R,René Rivera,425784,2,1,1,False,2014-08-08,Stolen,2B
+3402,1B,2B,Stolen Base 2B,570256,Gregory Polanco,573109,AJ Ramos,455755,Chris Stewart,R,Jarrod Saltalamacchia,457454,2,1,7,False,2014-08-05,Stolen,2B
+3428,1B,,Caught Stealing 2B,570256,Gregory Polanco,502239,Trevor Cahill,457705,Andrew McCutchen,R,Tuffy Gosewisch,488912,0,1,3,True,2014-08-03,Caught,2B
+3488,1B,2B,Stolen Base 2B,570256,Gregory Polanco,518567,Josh Collmenter,435522,Neil Walker,R,Miguel Montero,471083,0,2,3,True,2014-07-31,Stolen,2B
+3516,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453311,Tim Lincecum,457705,Andrew McCutchen,R,Andrew Susac,572180,0,0,1,True,2014-07-30,Stolen,2B
+3798,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502190,Mike Leake,501983,Travis Snider,R,Devin Mesoraco,519023,0,4,6,True,2014-07-12,Stolen,2B
+3877,1B,2B,Stolen Base 2B,570256,Gregory Polanco,593372,Carlos Martinez,516782,Starling Marte,R,Yadier Molina,425877,0,0,1,True,2014-07-08,Stolen,2B
+3970,1B,,Caught Stealing 2B,570256,Gregory Polanco,433584,Roberto Hernandez,516782,Starling Marte,R,Koyie Hill,425542,4,0,2,False,2014-07-04,Caught,2B
+3985,1B,,Caught Stealing 2B,570256,Gregory Polanco,435221,Brandon McCarthy,435522,Neil Walker,R,Miguel Montero,471083,2,0,5,False,2014-07-03,Caught,2B
+4134,1B,2B,Stolen Base 2B,570256,Gregory Polanco,493137,Daisuke Matsuzaka,457705,Andrew McCutchen,R,Travis d'Arnaud,518595,0,0,1,False,2014-06-26,Stolen,2B
+4193,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502042,Chris Archer,516782,Starling Marte,R,José Molina,150040,0,0,1,True,2014-06-24,Stolen,2B
+4214,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502171,Alex Cobb,516782,Starling Marte,R,Ryan Hanigan,452672,1,6,4,True,2014-06-23,Stolen,2B
+4234,1B,2B,Stolen Base 2B,570256,Gregory Polanco,519166,Neil Ramírez,543281,Josh Harrison,R,John Baker,434633,0,2,8,True,2014-06-22,Stolen,2B
+61,1B,2B,Stolen Base 2B,570256,Gregory Polanco,459967,Sam LeCure,457705,Andrew McCutchen,R,Devin Mesoraco,519023,4,5,7,True,2014-09-27,Stolen,2B
+205,3B,,Caught Stealing Home,570256,Gregory Polanco,519293,Will Smith,467798,Jose Tabata,L,Jonathan Lucroy,518960,0,0,7,False,2014-09-20,Caught,Home
+392,1B,2B,Stolen Base 2B,570256,Gregory Polanco,150359,A.J. Burnett,477195,Ike Davis,R,Carlos Ruiz,434563,0,4,6,True,2014-09-11,Stolen,2B
+966,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543699,Tanner Roark,431145,Russell Martin,R,Wilson Ramos,467092,0,0,1,True,2014-08-15,Stolen,2B
+1022,1B,,Caught Stealing 2B,570256,Gregory Polanco,456379,Al Alburquerque,474568,Jordy Mercer,R,Alex Avila,488671,4,2,7,False,2014-08-12,Caught,2B
+1037,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502522,Justin Miller,431145,Russell Martin,R,Alex Avila,488671,6,1,2,False,2014-08-11,Stolen,2B
+1112,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453178,Ian Kennedy,477195,Ike Davis,R,René Rivera,425784,2,1,1,False,2014-08-08,Stolen,2B
+1158,1B,2B,Stolen Base 2B,570256,Gregory Polanco,573109,AJ Ramos,455755,Chris Stewart,R,Jarrod Saltalamacchia,457454,2,1,7,False,2014-08-05,Stolen,2B
+1184,1B,,Caught Stealing 2B,570256,Gregory Polanco,502239,Trevor Cahill,457705,Andrew McCutchen,R,Tuffy Gosewisch,488912,0,1,3,True,2014-08-03,Caught,2B
+1244,1B,2B,Stolen Base 2B,570256,Gregory Polanco,518567,Josh Collmenter,435522,Neil Walker,R,Miguel Montero,471083,0,2,3,True,2014-07-31,Stolen,2B
+1272,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453311,Tim Lincecum,457705,Andrew McCutchen,R,Andrew Susac,572180,0,0,1,True,2014-07-30,Stolen,2B
+1554,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502190,Mike Leake,501983,Travis Snider,R,Devin Mesoraco,519023,0,4,6,True,2014-07-12,Stolen,2B
+1633,1B,2B,Stolen Base 2B,570256,Gregory Polanco,593372,Carlos Martinez,516782,Starling Marte,R,Yadier Molina,425877,0,0,1,True,2014-07-08,Stolen,2B
+1726,1B,,Caught Stealing 2B,570256,Gregory Polanco,433584,Roberto Hernandez,516782,Starling Marte,R,Koyie Hill,425542,4,0,2,False,2014-07-04,Caught,2B
+1741,1B,,Caught Stealing 2B,570256,Gregory Polanco,435221,Brandon McCarthy,435522,Neil Walker,R,Miguel Montero,471083,2,0,5,False,2014-07-03,Caught,2B
+1890,1B,2B,Stolen Base 2B,570256,Gregory Polanco,493137,Daisuke Matsuzaka,457705,Andrew McCutchen,R,Travis d'Arnaud,518595,0,0,1,False,2014-06-26,Stolen,2B
+1949,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502042,Chris Archer,516782,Starling Marte,R,José Molina,150040,0,0,1,True,2014-06-24,Stolen,2B
+1970,1B,2B,Stolen Base 2B,570256,Gregory Polanco,502171,Alex Cobb,516782,Starling Marte,R,Ryan Hanigan,452672,1,6,4,True,2014-06-23,Stolen,2B
+1990,1B,2B,Stolen Base 2B,570256,Gregory Polanco,519166,Neil Ramírez,543281,Josh Harrison,R,John Baker,434633,0,2,8,True,2014-06-22,Stolen,2B
+8,1B,2B,Stolen Base 2B,570256,Gregory Polanco,593372,Carlos Martinez,457705,Andrew McCutchen,R,Yadier Molina,425877,0,0,1,True,2016-09-30,Stolen,2B
+87,1B,2B,Stolen Base 2B,570256,Gregory Polanco,407793,John Lackey,457705,Andrew McCutchen,R,Miguel Montero,471083,0,0,1,False,2016-09-27,Stolen,2B
+199,1B,2B,Stolen Base 2B,570256,Gregory Polanco,519076,Jimmy Nelson,501896,David Freese,R,Manny Piña,444489,0,4,5,True,2016-09-21,Stolen,2B
+224,1B,2B,Stolen Base 2B,570256,Gregory Polanco,572788,Tyler Cravy,628356,Jung Ho Kang,R,Martín Maldonado,455117,3,6,7,True,2016-09-20,Stolen,2B
+349,1B,2B,Stolen Base 2B,570256,Gregory Polanco,622097,Jake Thompson,501896,David Freese,R,Cameron Rupp,519237,4,1,4,True,2016-09-14,Stolen,2B
+640,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,516782,Starling Marte,R,Miguel Montero,471083,3,0,7,True,2016-08-30,Stolen,2B
+1145,1B,2B,Stolen Base 2B,570256,Gregory Polanco,547007,Rob Whalen,628356,Jung Ho Kang,R,Anthony Recker,489232,0,0,1,True,2016-08-03,Stolen,2B
+1327,1B,2B,Stolen Base 2B,570256,Gregory Polanco,433587,Félix Hernández,457705,Andrew McCutchen,R,Mike Zunino,572287,4,7,5,False,2016-07-26,Stolen,2B
+1368,2B,,Caught Stealing 3B,570256,Gregory Polanco,592826,Vince Velasquez,501896,David Freese,R,Carlos Ruiz,434563,2,3,5,False,2016-07-24,Caught,3B
+1940,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,457705,Andrew McCutchen,R,Miguel Montero,471083,2,0,3,True,2016-06-19,Stolen,2B
+2163,2B,3B,Stolen Base 3B,570256,Gregory Polanco,592789,Noah Syndergaard,628356,Jung Ho Kang,R,Kevin Plawecki,608700,2,0,3,False,2016-06-08,Stolen,3B
+2266,1B,,Caught Stealing 2B,570256,Gregory Polanco,450308,Jered Weaver,516782,Starling Marte,R,Carlos Pérez,542208,2,6,3,False,2016-06-03,Caught,2B
+2409,1B,2B,Stolen Base 2B,570256,Gregory Polanco,523989,Rubby De La Rosa,516782,Starling Marte,R,Welington Castillo,456078,0,3,3,False,2016-05-25,Stolen,2B
+2459,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543475,Jordan Lyles,501896,David Freese,R,Tony Wolters,547172,2,0,3,False,2016-05-23,Stolen,2B
+2462,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543475,Jordan Lyles,501896,David Freese,R,Tony Wolters,547172,2,0,3,False,2016-05-22,Stolen,2B
+2596,1B,2B,Stolen Base 2B,570256,Gregory Polanco,468396,Alexi Ogando,501896,David Freese,R,Tyler Flowers,452095,6,2,7,False,2016-05-16,Stolen,2B
+2639,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453562,Jake Arrieta,516782,Starling Marte,R,Miguel Montero,471083,0,0,4,True,2016-05-14,Stolen,2B
+2783,1B,2B,Stolen Base 2B,570256,Gregory Polanco,544928,Tyler Lyons,516782,Starling Marte,L,Yadier Molina,425877,0,1,6,True,2016-05-06,Stolen,2B
+3028,1B,,Caught Stealing 2B,570256,Gregory Polanco,461325,Tyler Clippard,543281,Josh Harrison,R,Chris Herrmann,543302,2,1,7,True,2016-04-23,Caught,2B
+3121,1B,2B,Stolen Base 2B,570256,Gregory Polanco,607067,Colin Rea,543281,Josh Harrison,R,Derek Norris,519083,0,2,4,True,2016-04-19,Stolen,2B
+3287,1B,,Caught Stealing 2B,570256,Gregory Polanco,434378,Justin Verlander,543281,Josh Harrison,R,James McCann,543510,1,4,3,True,2016-04-11,Caught,2B
+3307,1B,2B,Stolen Base 2B,570256,Gregory Polanco,573185,Dan Straily,543281,Josh Harrison,R,Devin Mesoraco,519023,0,1,5,True,2016-04-10,Stolen,2B
+3370,1B,,Caught Stealing 2B,570256,Gregory Polanco,502190,Mike Leake,543281,Josh Harrison,R,Yadier Molina,425877,1,0,4,False,2016-04-06,Caught,2B
+1544,1B,2B,Stolen Base 2B,570256,Gregory Polanco,476451,Jeremy Hellickson,553869,Elias Díaz,R,Andrew Knapp,595284,0,0,2,True,2017-07-06,Stolen,2B
+2296,1B,2B,Stolen Base 2B,570256,Gregory Polanco,517414,Randall Delgado,444379,John Jaso,R,Jeff Mathis,425772,1,1,4,False,2017-05-29,Stolen,2B
+2798,1B,2B,Stolen Base 2B,570256,Gregory Polanco,606959,Rookie Davis,605137,Josh Bell,R,Devin Mesoraco,519023,3,0,3,True,2017-05-03,Stolen,2B
+2980,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,465041,Francisco Cervelli,R,Willson Contreras,575929,0,1,6,False,2017-04-25,Stolen,2B
+3178,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,501896,David Freese,R,Miguel Montero,471083,0,1,2,True,2017-04-14,Stolen,2B
+3194,2B,3B,Stolen Base 3B,570256,Gregory Polanco,592390,Heath Hembree,543281,Josh Harrison,R,Christian Vázquez,543877,1,3,6,True,2017-04-13,Stolen,3B
+3228,1B,2B,Stolen Base 2B,570256,Gregory Polanco,606959,Rookie Davis,501896,David Freese,R,Tucker Barnhart,571466,1,1,3,False,2017-04-11,Stolen,2B
+3277,1B,2B,Stolen Base 2B,570256,Gregory Polanco,285079,R.A. Dickey,444379,John Jaso,R,Kurt Suzuki,435559,4,3,5,False,2017-04-08,Stolen,2B
+3316,2B,3B,Stolen Base 3B,570256,Gregory Polanco,592390,Heath Hembree,543281,Josh Harrison,R,Christian Vázquez,543877,1,3,6,True,2017-04-06,Stolen,3B
+3377,1B,,Caught Stealing 2B,570256,Gregory Polanco,519144,Rick Porcello,501896,David Freese,R,Sandy León,506702,0,0,2,True,2017-04-03,Caught,2B
+3415,1B,2B,Stolen Base 2B,570256,Gregory Polanco,593372,Carlos Martinez,457705,Andrew McCutchen,R,Yadier Molina,425877,0,0,1,True,2016-09-30,Stolen,2B
+3494,1B,2B,Stolen Base 2B,570256,Gregory Polanco,407793,John Lackey,457705,Andrew McCutchen,R,Miguel Montero,471083,0,0,1,False,2016-09-27,Stolen,2B
+3606,1B,2B,Stolen Base 2B,570256,Gregory Polanco,519076,Jimmy Nelson,501896,David Freese,R,Manny Piña,444489,0,4,5,True,2016-09-21,Stolen,2B
+3631,1B,2B,Stolen Base 2B,570256,Gregory Polanco,572788,Tyler Cravy,628356,Jung Ho Kang,R,Martín Maldonado,455117,3,6,7,True,2016-09-20,Stolen,2B
+3756,1B,2B,Stolen Base 2B,570256,Gregory Polanco,622097,Jake Thompson,501896,David Freese,R,Cameron Rupp,519237,4,1,4,True,2016-09-14,Stolen,2B
+4047,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,516782,Starling Marte,R,Miguel Montero,471083,3,0,7,True,2016-08-30,Stolen,2B
+4552,1B,2B,Stolen Base 2B,570256,Gregory Polanco,547007,Rob Whalen,628356,Jung Ho Kang,R,Anthony Recker,489232,0,0,1,True,2016-08-03,Stolen,2B
+4734,1B,2B,Stolen Base 2B,570256,Gregory Polanco,433587,Félix Hernández,457705,Andrew McCutchen,R,Mike Zunino,572287,4,7,5,False,2016-07-26,Stolen,2B
+4775,2B,,Caught Stealing 3B,570256,Gregory Polanco,592826,Vince Velasquez,501896,David Freese,R,Carlos Ruiz,434563,2,3,5,False,2016-07-24,Caught,3B
+5347,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,457705,Andrew McCutchen,R,Miguel Montero,471083,2,0,3,True,2016-06-19,Stolen,2B
+5570,2B,3B,Stolen Base 3B,570256,Gregory Polanco,592789,Noah Syndergaard,628356,Jung Ho Kang,R,Kevin Plawecki,608700,2,0,3,False,2016-06-08,Stolen,3B
+5673,1B,,Caught Stealing 2B,570256,Gregory Polanco,450308,Jered Weaver,516782,Starling Marte,R,Carlos Pérez,542208,2,6,3,False,2016-06-03,Caught,2B
+5816,1B,2B,Stolen Base 2B,570256,Gregory Polanco,523989,Rubby De La Rosa,516782,Starling Marte,R,Welington Castillo,456078,0,3,3,False,2016-05-25,Stolen,2B
+5866,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543475,Jordan Lyles,501896,David Freese,R,Tony Wolters,547172,2,0,3,False,2016-05-23,Stolen,2B
+5869,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543475,Jordan Lyles,501896,David Freese,R,Tony Wolters,547172,2,0,3,False,2016-05-22,Stolen,2B
+6003,1B,2B,Stolen Base 2B,570256,Gregory Polanco,468396,Alexi Ogando,501896,David Freese,R,Tyler Flowers,452095,6,2,7,False,2016-05-16,Stolen,2B
+6046,1B,2B,Stolen Base 2B,570256,Gregory Polanco,453562,Jake Arrieta,516782,Starling Marte,R,Miguel Montero,471083,0,0,4,True,2016-05-14,Stolen,2B
+6190,1B,2B,Stolen Base 2B,570256,Gregory Polanco,544928,Tyler Lyons,516782,Starling Marte,L,Yadier Molina,425877,0,1,6,True,2016-05-06,Stolen,2B
+6435,1B,,Caught Stealing 2B,570256,Gregory Polanco,461325,Tyler Clippard,543281,Josh Harrison,R,Chris Herrmann,543302,2,1,7,True,2016-04-23,Caught,2B
+6528,1B,2B,Stolen Base 2B,570256,Gregory Polanco,607067,Colin Rea,543281,Josh Harrison,R,Derek Norris,519083,0,2,4,True,2016-04-19,Stolen,2B
+6694,1B,,Caught Stealing 2B,570256,Gregory Polanco,434378,Justin Verlander,543281,Josh Harrison,R,James McCann,543510,1,4,3,True,2016-04-11,Caught,2B
+6714,1B,2B,Stolen Base 2B,570256,Gregory Polanco,573185,Dan Straily,543281,Josh Harrison,R,Devin Mesoraco,519023,0,1,5,True,2016-04-10,Stolen,2B
+6777,1B,,Caught Stealing 2B,570256,Gregory Polanco,502190,Mike Leake,543281,Josh Harrison,R,Yadier Molina,425877,1,0,4,False,2016-04-06,Caught,2B

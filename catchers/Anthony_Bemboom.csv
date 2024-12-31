@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,4,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,642585,Félix Bautista,660766,Juan Yepez,R,Anthony Bemboom,621532,2,3,8,False,2022-05-12,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+1,5,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,669330,Tyler Wells,656811,Ryan O'Hearn,R,Anthony Bemboom,621532,0,1,1,True,2022-05-09,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+2,6,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,669330,Tyler Wells,656811,Ryan O'Hearn,R,Anthony Bemboom,621532,0,1,1,True,2022-05-07,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+3,7,1B,,Caught Stealing 2B,641796,Tim Locastro,657508,Mike Baumann,518934,DJ LeMahieu,R,Anthony Bemboom,621532,5,2,6,False,2022-04-28,Caught,2B,2022,2023,29.4,2023, --, 0.63
+4,8,1B,2B,Stolen Base 2B,641796,Tim Locastro,643316,Paul Fry,503556,Marwin Gonzalez,L,Anthony Bemboom,621532,6,2,8,False,2022-04-28,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+5,9,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,622253,Dillon Tate,545361,Mike Trout,R,Anthony Bemboom,621532,4,5,7,False,2022-04-23,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+6,10,2B,,Caught Stealing 3B,543305,Aaron Hicks,669330,Tyler Wells,519203,Anthony Rizzo,R,Anthony Bemboom,621532,0,0,1,True,2022-04-16,Caught,3B,2022,2023,29.4,2023, --, 0.63
+7,11,1B,2B,Caught Stealing 3B,592450,Aaron Judge,669330,Tyler Wells,519203,Anthony Rizzo,R,Anthony Bemboom,621532,0,0,1,True,2022-04-16,Caught,3B,2022,2023,29.4,2023, --, 0.63

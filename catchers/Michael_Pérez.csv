@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint,Current_Year_y,Arm_Strength,Exchange
+0,0,1B,2B,Stolen Base 2B,542932,Jon Berti,605507,Zach Thompson,500743,Miguel Rojas,R,Michael Pérez,605421,0,0,1,False,2022-07-14,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+1,1,1B,,Caught Stealing 2B,663897,Luke Williams,608328,Chase De Jong,571740,Billy Hamilton,R,Michael Pérez,605421,1,0,7,False,2022-07-14,Caught,2B,2022,2023,29.4,2023, --, 0.63
+2,2,1B,2B,Stolen Base 2B,543939,Kolten Wong,664141,JT Brubaker,649966,Luis Urías,R,Michael Pérez,605421,0,0,2,False,2022-07-08,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+3,3,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,664141,JT Brubaker,543939,Kolten Wong,R,Michael Pérez,605421,3,2,5,False,2022-07-08,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+4,4,1B,,Caught Stealing 2B,457705,Andrew McCutchen,660787,Yerry De Los Santos,649966,Luis Urías,R,Michael Pérez,605421,4,2,7,False,2022-07-08,Caught,2B,2022,2023,29.4,2023, --, 0.63
+5,5,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,656605,Mitch Keller,543309,Kyle Higashioka,R,Michael Pérez,605421,0,0,5,True,2022-07-06,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+6,6,2B,3B,Stolen Base 3B,518934,DJ LeMahieu,595881,Tyler Beede,572761,Matt Carpenter,R,Michael Pérez,605421,0,5,7,True,2022-07-06,Stolen,3B,2022,2023,29.4,2023, --, 0.63
+7,7,1B,2B,Stolen Base 2B,592450,Aaron Judge,595881,Tyler Beede,572761,Matt Carpenter,R,Michael Pérez,605421,0,5,7,True,2022-07-06,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+8,8,1B,2B,Stolen Base 2B,641505,Jonathan Davis,672710,Roansy Contreras,592885,Christian Yelich,R,Michael Pérez,605421,0,4,2,True,2022-07-01,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+9,9,1B,2B,Stolen Base 2B,642715,Willy Adames,672710,Roansy Contreras,642133,Rowdy Tellez,R,Michael Pérez,605421,0,7,2,True,2022-07-01,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+10,10,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,656605,Mitch Keller,628450,Yadiel Hernandez,R,Michael Pérez,605421,2,2,1,False,2022-06-29,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+11,11,1B,2B,Stolen Base 2B,668227,Randy Arozarena,607455,Anthony Banda,596847,Ji Man Choi,L,Michael Pérez,605421,2,1,7,False,2022-06-26,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+12,12,1B,2B,Stolen Base 2B,666139,Josh Lowe,656605,Mitch Keller,670042,Luke Raley,R,Michael Pérez,605421,1,0,2,False,2022-06-24,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+13,13,2B,3B,Stolen Base 3B,660644,Vidal Bruján,660787,Yerry De Los Santos,623912,Harold Ramírez,R,Michael Pérez,605421,4,3,10,False,2022-06-24,Stolen,3B,2022,2023,29.4,2023, --, 0.63
+14,14,1B,,Caught Stealing 2B,664056,Harrison Bader,669060,Bryse Wilson,668800,Andrew Knizner,R,Michael Pérez,605421,7,0,3,False,2022-06-14,Caught,2B,2022,2023,29.4,2023, --, 0.63
+15,15,1B,2B,Stolen Base 2B,671739,Michael Harris II,672710,Roansy Contreras,660670,Ronald Acuña Jr.,R,Michael Pérez,605421,0,0,3,False,2022-06-10,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+16,16,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,672710,Roansy Contreras,621020,Dansby Swanson,R,Michael Pérez,605421,2,0,3,False,2022-06-10,Caught,2B,2022,2023,29.4,2023, --, 0.63
+17,17,1B,2B,Stolen Base 2B,578428,Jose Iglesias,672710,Roansy Contreras,656541,Sam Hilliard,R,Michael Pérez,605421,0,0,4,True,2022-05-24,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+18,18,1B,2B,Stolen Base 2B,542340,Jonathan Villar,607455,Anthony Banda,545121,Ildemaro Vargas,L,Michael Pérez,605421,6,0,6,False,2022-05-17,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+19,19,1B,2B,Stolen Base 2B,670770,TJ Friedl,656605,Mitch Keller,592273,Brandon Drury,R,Michael Pérez,605421,2,5,5,True,2022-05-13,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+20,20,1B,2B,Stolen Base 2B,571980,Tyler Naquin,592390,Heath Hembree,608703,Matt Reynolds,R,Michael Pérez,605421,0,2,7,True,2022-05-12,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+21,21,1B,2B,Stolen Base 2B,670770,TJ Friedl,592390,Heath Hembree,592273,Brandon Drury,R,Michael Pérez,605421,0,2,7,True,2022-05-12,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+22,22,1B,2B,Stolen Base 2B,607208,Trea Turner,669060,Bryse Wilson,571970,Max Muncy,R,Michael Pérez,605421,0,2,3,True,2022-05-10,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+23,23,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,605507,Zach Thompson,608703,Matt Reynolds,R,Michael Pérez,605421,0,2,5,False,2022-05-08,Stolen,2B,2022,2023,29.4,2023, --, 0.63
+24,24,3B,,Caught Stealing Home,681082,Bryson Stott,592866,Trevor Williams,596117,Garrett Stubbs,R,Michael Pérez,605421,0,0,4,False,2022-05-06,Caught,Home,2022,2023,29.4,2023, --, 0.63
+25,25,1B,,Caught Stealing 2B,672018,Dasan Brown,592169,Austin Brice,624512,Reese McGuire,R,Michael Pérez,605421,1,2,7,True,2022-04-01,Caught,2B,2022,2023,29.4,2023, --, 0.63

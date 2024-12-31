@@ -1,0 +1,31 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+148,1B,,Caught Stealing 2B,408299,Omar Infante,543900,Daniel Webb,460077,Drew Butera,R,Geovany Soto,434567,2,4,9,True,2015-07-17,Caught,2B
+463,1B,2B,Stolen Base 2B,408299,Omar Infante,519267,Evan Scribner,444876,Alcides Escobar,R,Stephen Vogt,519390,1,5,7,True,2015-06-26,Stolen,2B
+613,1B,,Caught Stealing 2B,408299,Omar Infante,519076,Jimmy Nelson,444876,Alcides Escobar,R,Jonathan Lucroy,518960,3,0,4,False,2015-06-18,Caught,2B
+1745,1B,,Caught Stealing 2B,408299,Omar Infante,543900,Daniel Webb,460077,Drew Butera,R,Geovany Soto,434567,2,4,9,True,2015-04-25,Caught,2B
+2586,1B,,Caught Stealing 2B,408299,Omar Infante,523989,Rubby De La Rosa,502481,Jarrod Dyson,R,Christian Vázquez,543877,2,0,2,False,2014-09-13,Caught,2B
+2682,1B,2B,Stolen Base 2B,408299,Omar Infante,456379,Al Alburquerque,521692,Salvador Perez,R,Alex Avila,488671,4,1,7,True,2014-09-09,Stolen,2B
+2740,1B,2B,Stolen Base 2B,408299,Omar Infante,518875,Shawn Kelley,521692,Salvador Perez,R,Brian McCann,435263,0,2,8,True,2014-09-07,Stolen,2B
+2915,1B,2B,Stolen Base 2B,408299,Omar Infante,592102,Cody Allen,460086,Alex Gordon,R,Yan Gomes,543228,1,1,9,False,2014-08-30,Stolen,2B
+3363,1B,2B,Stolen Base 2B,408299,Omar Infante,573064,Vidal Nuño,521692,Salvador Perez,L,Miguel Montero,471083,1,4,3,True,2014-08-07,Stolen,2B
+3432,2B,3B,Stolen Base 3B,408299,Omar Infante,431148,Scott Kazmir,521692,Salvador Perez,L,Derek Norris,519083,0,4,5,True,2014-08-03,Stolen,3B
+3607,1B,,Caught Stealing 2B,408299,Omar Infante,446372,Corey Kluber,460086,Alex Gordon,R,Yan Gomes,543228,0,0,7,False,2014-07-24,Caught,2B
+3817,1B,2B,Stolen Base 2B,408299,Omar Infante,150274,Joe Nathan,502481,Jarrod Dyson,R,Bryan Holaday,592407,1,2,9,False,2014-07-11,Stolen,2B
+4152,1B,2B,Stolen Base 2B,408299,Omar Infante,434181,Brandon League,521692,Salvador Perez,R,A.J. Ellis,454560,4,5,8,False,2014-06-25,Stolen,2B
+4205,1B,2B,Stolen Base 2B,408299,Omar Infante,425844,Zack Greinke,444876,Alcides Escobar,R,A.J. Ellis,454560,2,0,4,False,2014-06-23,Stolen,2B
+4511,1B,,Caught Stealing 2B,408299,Omar Infante,493133,Hiroki Kuroda,543333,Eric Hosmer,R,Brian McCann,435263,2,0,3,False,2014-06-08,Caught,2B
+5555,1B,2B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B
+5556,2B,3B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B
+342,1B,,Caught Stealing 2B,408299,Omar Infante,523989,Rubby De La Rosa,502481,Jarrod Dyson,R,Christian Vázquez,543877,2,0,2,False,2014-09-13,Caught,2B
+438,1B,2B,Stolen Base 2B,408299,Omar Infante,456379,Al Alburquerque,521692,Salvador Perez,R,Alex Avila,488671,4,1,7,True,2014-09-09,Stolen,2B
+496,1B,2B,Stolen Base 2B,408299,Omar Infante,518875,Shawn Kelley,521692,Salvador Perez,R,Brian McCann,435263,0,2,8,True,2014-09-07,Stolen,2B
+671,1B,2B,Stolen Base 2B,408299,Omar Infante,592102,Cody Allen,460086,Alex Gordon,R,Yan Gomes,543228,1,1,9,False,2014-08-30,Stolen,2B
+1119,1B,2B,Stolen Base 2B,408299,Omar Infante,573064,Vidal Nuño,521692,Salvador Perez,L,Miguel Montero,471083,1,4,3,True,2014-08-07,Stolen,2B
+1188,2B,3B,Stolen Base 3B,408299,Omar Infante,431148,Scott Kazmir,521692,Salvador Perez,L,Derek Norris,519083,0,4,5,True,2014-08-03,Stolen,3B
+1363,1B,,Caught Stealing 2B,408299,Omar Infante,446372,Corey Kluber,460086,Alex Gordon,R,Yan Gomes,543228,0,0,7,False,2014-07-24,Caught,2B
+1573,1B,2B,Stolen Base 2B,408299,Omar Infante,150274,Joe Nathan,502481,Jarrod Dyson,R,Bryan Holaday,592407,1,2,9,False,2014-07-11,Stolen,2B
+1908,1B,2B,Stolen Base 2B,408299,Omar Infante,434181,Brandon League,521692,Salvador Perez,R,A.J. Ellis,454560,4,5,8,False,2014-06-25,Stolen,2B
+1961,1B,2B,Stolen Base 2B,408299,Omar Infante,425844,Zack Greinke,444876,Alcides Escobar,R,A.J. Ellis,454560,2,0,4,False,2014-06-23,Stolen,2B
+2267,1B,,Caught Stealing 2B,408299,Omar Infante,493133,Hiroki Kuroda,543333,Eric Hosmer,R,Brian McCann,435263,2,0,3,False,2014-06-08,Caught,2B
+3311,1B,2B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B
+3312,2B,3B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B

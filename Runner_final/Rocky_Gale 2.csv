@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,516782,Starling Marte,628711,Julio Urías,500871,Eduardo Escobar,L,Rocky Gale,502570,0,0,1,True,2020-07-20,Stolen,2B,2020,2021,28.5
+1,1B,2B,Stolen Base 2B,516782,Starling Marte,628711,Julio Urías,500871,Eduardo Escobar,L,Rocky Gale,502570,0,0,1,True,2020-07-20,Stolen,2B,2020,2021,28.5
+2,1B,2B,Stolen Base 2B,516782,Starling Marte,628711,Julio Urías,500871,Eduardo Escobar,L,Rocky Gale,502570,0,0,1,True,2020-07-20,Stolen,2B,2020,2021,28.5
+3,1B,,Caught Stealing 2B,595879,Javier Báez,548389,Ross Stripling,518614,Daniel Descalso,R,Rocky Gale,502570,0,0,1,False,2019-04-25,Caught,2B,2019,2020,28.4
+4,1B,2B,Stolen Base 2B,446308,Matt Wieters,520980,Pedro Báez,543939,Kolten Wong,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,28.4
+5,1B,2B,Stolen Base 2B,543939,Kolten Wong,520980,Pedro Báez,502671,Paul Goldschmidt,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,28.4
+6,1B,,Caught Stealing 2B,595879,Javier Báez,548389,Ross Stripling,518614,Daniel Descalso,R,Rocky Gale,502570,0,0,1,False,2019-04-25,Caught,2B,2019,2020,28.4
+7,1B,2B,Stolen Base 2B,446308,Matt Wieters,520980,Pedro Báez,543939,Kolten Wong,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,28.4
+8,1B,2B,Stolen Base 2B,543939,Kolten Wong,520980,Pedro Báez,502671,Paul Goldschmidt,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,28.4
+9,1B,,Caught Stealing 2B,595879,Javier Báez,548389,Ross Stripling,518614,Daniel Descalso,R,Rocky Gale,502570,0,0,1,False,2019-04-25,Caught,2B,2019,2020,28.4
+10,1B,2B,Stolen Base 2B,446308,Matt Wieters,520980,Pedro Báez,543939,Kolten Wong,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,28.4
+11,1B,2B,Stolen Base 2B,543939,Kolten Wong,520980,Pedro Báez,502671,Paul Goldschmidt,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,28.4
+12,1B,2B,Stolen Base 2B,435622,Ian Desmond,606131,Luis Perdomo,596115,Trevor Story,R,Rocky Gale,502570,2,2,2,True,2017-09-24,Stolen,2B,2017,2018,28.6
+13,1B,2B,Stolen Base 2B,596115,Trevor Story,657681,Kyle McGrath,547172,Tony Wolters,L,Rocky Gale,502570,2,4,6,True,2017-09-24,Stolen,2B,2017,2018,28.6
+14,1B,2B,Stolen Base 2B,435622,Ian Desmond,606131,Luis Perdomo,596115,Trevor Story,R,Rocky Gale,502570,2,2,2,True,2017-09-24,Stolen,2B,2017,2018,28.6
+15,1B,2B,Stolen Base 2B,596115,Trevor Story,657681,Kyle McGrath,547172,Tony Wolters,L,Rocky Gale,502570,2,4,6,True,2017-09-24,Stolen,2B,2017,2018,28.6
+16,1B,2B,Stolen Base 2B,594809,Adam Eaton,434564,Zack Segovia,543776,JB Shuck,R,Rocky Gale,502570,1,7,5,False,2015-04-01,Stolen,2B,2015,2016,28.9

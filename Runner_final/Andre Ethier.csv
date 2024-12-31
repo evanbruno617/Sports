@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+829,1B,2B,Stolen Base 2B,444843,Andre Ethier,518771,Mitch Harris,571771,Enrique Hernández,R,Tony Cruz,488810,2,1,6,False,2015-06-07,Stolen,2B
+1580,1B,,Caught Stealing 2B,444843,Andre Ethier,446899,Brad Ziegler,518735,Yasmani Grandal,R,Jordan Pacheco,457574,5,4,8,False,2015-05-02,Caught,2B
+2932,1B,2B,Stolen Base 2B,444843,Andre Ethier,430641,Blaine Boyer,454560,A.J. Ellis,R,René Rivera,425784,2,2,11,True,2014-08-29,Stolen,2B
+4331,1B,,Caught Stealing 2B,444843,Andre Ethier,468504,Jhoulys Chacín,454560,A.J. Ellis,R,Wilin Rosario,501647,3,0,4,False,2014-06-17,Caught,2B
+5040,1B,,Caught Stealing 2B,444843,Andre Ethier,469159,Henry Alberto Rodriguez,457759,Justin Turner,R,Jarrod Saltalamacchia,457454,5,3,5,False,2014-05-12,Caught,2B
+5926,1B,2B,Stolen Base 2B,444843,Andre Ethier,475115,Tyson Ross,454560,A.J. Ellis,R,Nick Hundley,460026,0,3,3,True,2014-04-02,Stolen,2B
+688,1B,2B,Stolen Base 2B,444843,Andre Ethier,430641,Blaine Boyer,454560,A.J. Ellis,R,René Rivera,425784,2,2,11,True,2014-08-29,Stolen,2B
+2087,1B,,Caught Stealing 2B,444843,Andre Ethier,468504,Jhoulys Chacín,454560,A.J. Ellis,R,Wilin Rosario,501647,3,0,4,False,2014-06-17,Caught,2B
+2796,1B,,Caught Stealing 2B,444843,Andre Ethier,469159,Henry Alberto Rodriguez,457759,Justin Turner,R,Jarrod Saltalamacchia,457454,5,3,5,False,2014-05-12,Caught,2B
+3682,1B,2B,Stolen Base 2B,444843,Andre Ethier,475115,Tyson Ross,454560,A.J. Ellis,R,Nick Hundley,460026,0,3,3,True,2014-04-02,Stolen,2B

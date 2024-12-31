@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+590,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B
+635,2B,3B,Stolen Base 3B,676480,Jose Barrero,605288,Adrian Houser,673451,Shogo Akiyama,R,Omar Narváez,553882,0,1,2,True,2020-08-27,Stolen,3B
+1121,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B
+26,1B,2B,Stolen Base 2B,676480,Jose Barrero,607074,Carlos Rodón,606157,Aristides Aquino,L,Yasmani Grandal,518735,0,0,2,True,2021-09-29,Stolen,2B
+3433,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B
+3478,2B,3B,Stolen Base 3B,676480,Jose Barrero,605288,Adrian Houser,673451,Shogo Akiyama,R,Omar Narváez,553882,0,1,2,True,2020-08-27,Stolen,3B
+3964,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B
+3533,1B,2B,Stolen Base 2B,676480,Jose Barrero,686610,Ken Waldichuk,621028,Kevin Newman,L,Shea Langeliers,669127,3,1,5,True,2023-04-30,Stolen,2B
+3758,1B,2B,Stolen Base 2B,676480,Jose Barrero,448179,Rich Hill,592200,Curt Casali,L,Austin Hedges,595978,1,0,2,True,2023-04-22,Stolen,2B
+3902,1B,2B,Stolen Base 2B,676480,Jose Barrero,571479,Andrew Bellatti,592200,Curt Casali,R,Garrett Stubbs,596117,4,0,4,False,2023-04-15,Stolen,2B
+4119,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-07,Caught,2B
+4129,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-06,Caught,2B
+1950,1B,2B,Stolen Base 2B,676480,Jose Barrero,607074,Carlos Rodón,606157,Aristides Aquino,L,Yasmani Grandal,518735,0,0,2,True,2021-09-29,Stolen,2B
+5357,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B
+5402,2B,3B,Stolen Base 3B,676480,Jose Barrero,605288,Adrian Houser,673451,Shogo Akiyama,R,Omar Narváez,553882,0,1,2,True,2020-08-27,Stolen,3B
+5888,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B
+7947,1B,2B,Stolen Base 2B,676480,Jose Barrero,686610,Ken Waldichuk,621028,Kevin Newman,L,Shea Langeliers,669127,3,1,5,True,2023-04-30,Stolen,2B
+8172,1B,2B,Stolen Base 2B,676480,Jose Barrero,448179,Rich Hill,592200,Curt Casali,L,Austin Hedges,595978,1,0,2,True,2023-04-22,Stolen,2B
+8316,1B,2B,Stolen Base 2B,676480,Jose Barrero,571479,Andrew Bellatti,592200,Curt Casali,R,Garrett Stubbs,596117,4,0,4,False,2023-04-15,Stolen,2B
+8533,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-07,Caught,2B
+8543,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-06,Caught,2B

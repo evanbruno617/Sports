@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+429,1B,2B,Stolen Base 2B,150212,Michael Cuddyer,543881,Pedro Villarreal,434158,Curtis Granderson,R,Brayan Peña,430910,7,2,8,False,2015-06-28,Stolen,2B
+4677,1B,2B,Stolen Base 2B,150212,Michael Cuddyer,545333,Trevor Bauer,471865,Carlos González,R,Yan Gomes,543228,4,2,3,True,2014-05-31,Stolen,2B
+4765,1B,2B,Stolen Base 2B,150212,Michael Cuddyer,571786,Mario Hollands,408047,Justin Morneau,L,Carlos Ruiz,434563,2,6,8,True,2014-05-27,Stolen,2B
+5660,1B,2B,Stolen Base 2B,150212,Michael Cuddyer,456776,Alex Torres,471865,Carlos González,L,Nick Hundley,460026,2,3,7,True,2014-04-15,Stolen,2B
+2433,1B,2B,Stolen Base 2B,150212,Michael Cuddyer,545333,Trevor Bauer,471865,Carlos González,R,Yan Gomes,543228,4,2,3,True,2014-05-31,Stolen,2B
+2521,1B,2B,Stolen Base 2B,150212,Michael Cuddyer,571786,Mario Hollands,408047,Justin Morneau,L,Carlos Ruiz,434563,2,6,8,True,2014-05-27,Stolen,2B
+3416,1B,2B,Stolen Base 2B,150212,Michael Cuddyer,456776,Alex Torres,471865,Carlos González,L,Nick Hundley,460026,2,3,7,True,2014-04-15,Stolen,2B

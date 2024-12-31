@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2549,1B,,Caught Stealing 2B,435625,Nate Schierholtz,501593,Luis Avilán,452678,Asdrúbal Cabrera,L,Christian Bethancourt,542194,0,2,7,True,2014-09-15,Caught,2B
+3930,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,461325,Tyler Clippard,434633,John Baker,R,Wilson Ramos,467092,1,1,8,True,2014-07-06,Stolen,2B
+4619,1B,,Caught Stealing 2B,435625,Nate Schierholtz,554430,Zack Wheeler,458085,Chris Coghlan,R,Travis d'Arnaud,518595,0,1,5,False,2014-06-03,Caught,2B
+4665,1B,,Caught Stealing 2B,435625,Nate Schierholtz,503449,Wily Peralta,458085,Chris Coghlan,R,Jonathan Lucroy,518960,0,2,4,True,2014-05-31,Caught,2B
+5067,1B,,Caught Stealing 2B,435625,Nate Schierholtz,421685,Aaron Harang,592609,Mike Olt,R,Evan Gattis,594828,0,0,2,True,2014-05-11,Caught,2B
+5190,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,500779,Jose Quintana,592609,Mike Olt,L,Tyler Flowers,452095,0,1,5,False,2014-05-05,Stolen,2B
+5356,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,503449,Wily Peralta,592609,Mike Olt,R,Jonathan Lucroy,518960,0,1,2,True,2014-04-27,Stolen,2B
+5732,2B,,Caught Stealing 3B,435625,Nate Schierholtz,593372,Carlos Martinez,516770,Starlin Castro,R,Yadier Molina,425877,1,1,7,True,2014-04-11,Caught,3B
+5766,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,543037,Gerrit Cole,516809,Junior Lake,R,Tony Sanchez,506997,1,0,4,False,2014-04-10,Stolen,2B
+305,1B,,Caught Stealing 2B,435625,Nate Schierholtz,501593,Luis Avilán,452678,Asdrúbal Cabrera,L,Christian Bethancourt,542194,0,2,7,True,2014-09-15,Caught,2B
+1686,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,461325,Tyler Clippard,434633,John Baker,R,Wilson Ramos,467092,1,1,8,True,2014-07-06,Stolen,2B
+2375,1B,,Caught Stealing 2B,435625,Nate Schierholtz,554430,Zack Wheeler,458085,Chris Coghlan,R,Travis d'Arnaud,518595,0,1,5,False,2014-06-03,Caught,2B
+2421,1B,,Caught Stealing 2B,435625,Nate Schierholtz,503449,Wily Peralta,458085,Chris Coghlan,R,Jonathan Lucroy,518960,0,2,4,True,2014-05-31,Caught,2B
+2823,1B,,Caught Stealing 2B,435625,Nate Schierholtz,421685,Aaron Harang,592609,Mike Olt,R,Evan Gattis,594828,0,0,2,True,2014-05-11,Caught,2B
+2946,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,500779,Jose Quintana,592609,Mike Olt,L,Tyler Flowers,452095,0,1,5,False,2014-05-05,Stolen,2B
+3112,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,503449,Wily Peralta,592609,Mike Olt,R,Jonathan Lucroy,518960,0,1,2,True,2014-04-27,Stolen,2B
+3488,2B,,Caught Stealing 3B,435625,Nate Schierholtz,593372,Carlos Martinez,516770,Starlin Castro,R,Yadier Molina,425877,1,1,7,True,2014-04-11,Caught,3B
+3522,1B,2B,Stolen Base 2B,435625,Nate Schierholtz,543037,Gerrit Cole,516809,Junior Lake,R,Tony Sanchez,506997,1,0,4,False,2014-04-10,Stolen,2B

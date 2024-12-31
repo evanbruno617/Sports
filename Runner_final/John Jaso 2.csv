@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2787,1B,,Caught Stealing 2B,444379,John Jaso,592332,Kevin Gausman,465041,Francisco Cervelli,R,Caleb Joseph,543376,1,4,7,True,2017-06-06,Caught,2B
+3212,1B,2B,Stolen Base 2B,444379,John Jaso,592836,Taijuan Walker,624428,Adam Frazier,R,Jeff Mathis,425772,1,4,6,True,2017-05-13,Stolen,2B
+5126,1B,,Caught Stealing 2B,444379,John Jaso,456701,Homer Bailey,465041,Francisco Cervelli,R,Tucker Barnhart,571466,1,2,2,False,2016-08-06,Caught,2B
+5464,2B,,Caught Stealing 3B,444379,John Jaso,621107,Zach Eflin,628356,Jung Ho Kang,R,Cameron Rupp,519237,0,0,2,False,2016-07-22,Caught,3B
+5935,1B,,Caught Stealing 2B,444379,John Jaso,433586,Santiago Casilla,570256,Gregory Polanco,R,Buster Posey,457763,6,7,9,False,2016-06-22,Caught,2B
+6618,1B,,Caught Stealing 2B,444379,John Jaso,502032,Bud Norris,457705,Andrew McCutchen,R,A.J. Pierzynski,150229,9,3,3,False,2016-05-17,Caught,2B
+4156,1B,2B,Stolen Base 2B,444379,John Jaso,544727,Jeurys Familia,493316,Yoenis Cespedes,R,Travis d'Arnaud,518595,5,8,9,True,2014-06-25,Stolen,2B
+5490,1B,2B,Stolen Base 2B,444379,John Jaso,506433,Yu Darvish,476704,Jed Lowrie,R,Robinson Chirinos,455139,3,2,4,False,2014-04-21,Stolen,2B
+1912,1B,2B,Stolen Base 2B,444379,John Jaso,544727,Jeurys Familia,493316,Yoenis Cespedes,R,Travis d'Arnaud,518595,5,8,9,True,2014-06-25,Stolen,2B
+3246,1B,2B,Stolen Base 2B,444379,John Jaso,506433,Yu Darvish,476704,Jed Lowrie,R,Robinson Chirinos,455139,3,2,4,False,2014-04-21,Stolen,2B
+1091,1B,,Caught Stealing 2B,444379,John Jaso,456701,Homer Bailey,465041,Francisco Cervelli,R,Tucker Barnhart,571466,1,2,2,False,2016-08-06,Caught,2B
+1429,2B,,Caught Stealing 3B,444379,John Jaso,621107,Zach Eflin,628356,Jung Ho Kang,R,Cameron Rupp,519237,0,0,2,False,2016-07-22,Caught,3B
+1900,1B,,Caught Stealing 2B,444379,John Jaso,433586,Santiago Casilla,570256,Gregory Polanco,R,Buster Posey,457763,6,7,9,False,2016-06-22,Caught,2B
+2583,1B,,Caught Stealing 2B,444379,John Jaso,502032,Bud Norris,457705,Andrew McCutchen,R,A.J. Pierzynski,150229,9,3,3,False,2016-05-17,Caught,2B
+2159,1B,,Caught Stealing 2B,444379,John Jaso,592332,Kevin Gausman,465041,Francisco Cervelli,R,Caleb Joseph,543376,1,4,7,True,2017-06-06,Caught,2B
+2584,1B,2B,Stolen Base 2B,444379,John Jaso,592836,Taijuan Walker,624428,Adam Frazier,R,Jeff Mathis,425772,1,4,6,True,2017-05-13,Stolen,2B
+4498,1B,,Caught Stealing 2B,444379,John Jaso,456701,Homer Bailey,465041,Francisco Cervelli,R,Tucker Barnhart,571466,1,2,2,False,2016-08-06,Caught,2B
+4836,2B,,Caught Stealing 3B,444379,John Jaso,621107,Zach Eflin,628356,Jung Ho Kang,R,Cameron Rupp,519237,0,0,2,False,2016-07-22,Caught,3B
+5307,1B,,Caught Stealing 2B,444379,John Jaso,433586,Santiago Casilla,570256,Gregory Polanco,R,Buster Posey,457763,6,7,9,False,2016-06-22,Caught,2B
+5990,1B,,Caught Stealing 2B,444379,John Jaso,502032,Bud Norris,457705,Andrew McCutchen,R,A.J. Pierzynski,150229,9,3,3,False,2016-05-17,Caught,2B

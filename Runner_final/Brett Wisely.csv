@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1860,1B,,Caught Stealing 2B,689172,Brett Wisely,660787,Yerry De Los Santos,605204,J.D. Davis,R,Jason Delay,641511,4,6,9,True,2023-07-14,Caught,2B
+3413,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,2,2,False,2023-05-05,Stolen,2B
+3416,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,4,5,False,2023-05-05,Stolen,2B
+1696,1B,2B,Stolen Base 2B,689172,Brett Wisely,607192,Tyler Glasnow,624585,Jorge Soler,R,Will Smith,669257,1,0,3,True,2024-07-24,Stolen,2B
+2326,1B,,Caught Stealing 2B,689172,Brett Wisely,543294,Kyle Hendricks,671218,Heliot Ramos,R,Miguel Amaya,665804,2,1,3,False,2024-06-25,Caught,2B
+3135,1B,2B,Stolen Base 2B,689172,Brett Wisely,547973,Aroldis Chapman,682641,Luis Matos,L,Joey Bart,663698,6,7,8,True,2024-05-23,Stolen,2B
+6274,1B,,Caught Stealing 2B,689172,Brett Wisely,660787,Yerry De Los Santos,605204,J.D. Davis,R,Jason Delay,641511,4,6,9,True,2023-07-14,Caught,2B
+7827,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,2,2,False,2023-05-05,Stolen,2B
+7830,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,4,5,False,2023-05-05,Stolen,2B

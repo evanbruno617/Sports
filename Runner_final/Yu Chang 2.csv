@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1954,1B,2B,Stolen Base 2B,644374,Yu Chang,650530,Bryan Garcia,605548,Bradley Zimmer,R,Eric Haase,606992,0,4,6,True,2021-05-27,Stolen,2B
+1439,1B,2B,Stolen Base 2B,644374,Yu Chang,669302,Logan Gilbert,657077,Alex Verdugo,R,Tom Murphy,608596,0,2,5,True,2023-08-02,Stolen,2B
+1591,1B,2B,Stolen Base 2B,644374,Yu Chang,450203,Charlie Morton,680776,Jarren Duran,R,Sean Murphy,669221,3,1,4,False,2023-07-25,Stolen,2B
+1622,1B,2B,Stolen Base 2B,644374,Yu Chang,493603,Adam Ottavino,680776,Jarren Duran,R,Omar Narváez,553882,6,1,8,False,2023-07-23,Stolen,2B
+3733,1B,2B,Stolen Base 2B,644374,Yu Chang,642770,Javy Guerra,657077,Alex Verdugo,R,Victor Caratini,605170,4,7,8,True,2023-04-23,Stolen,2B
+721,1B,,Caught Stealing 2B,644374,Yu Chang,656412,Alex Faedo,663647,Ke'Bryan Hayes,R,Eric Haase,606992,1,1,5,False,2022-06-08,Caught,2B
+3878,1B,2B,Stolen Base 2B,644374,Yu Chang,650530,Bryan Garcia,605548,Bradley Zimmer,R,Eric Haase,606992,0,4,6,True,2021-05-27,Stolen,2B
+5853,1B,2B,Stolen Base 2B,644374,Yu Chang,669302,Logan Gilbert,657077,Alex Verdugo,R,Tom Murphy,608596,0,2,5,True,2023-08-02,Stolen,2B
+6005,1B,2B,Stolen Base 2B,644374,Yu Chang,450203,Charlie Morton,680776,Jarren Duran,R,Sean Murphy,669221,3,1,4,False,2023-07-25,Stolen,2B
+6036,1B,2B,Stolen Base 2B,644374,Yu Chang,493603,Adam Ottavino,680776,Jarren Duran,R,Omar Narváez,553882,6,1,8,False,2023-07-23,Stolen,2B
+8147,1B,2B,Stolen Base 2B,644374,Yu Chang,642770,Javy Guerra,657077,Alex Verdugo,R,Victor Caratini,605170,4,7,8,True,2023-04-23,Stolen,2B

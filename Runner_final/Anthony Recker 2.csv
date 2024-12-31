@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+5534,1B,2B,Stolen Base 2B,489232,Anthony Recker,605232,Brandon Finnegan,493596,Gordon Beckham,L,Tucker Barnhart,571466,5,1,5,True,2016-07-18,Stolen,2B
+1112,1B,2B,Stolen Base 2B,489232,Anthony Recker,491646,Jeanmar Gómez,460055,John Mayberry Jr.,R,Carlos Ruiz,434563,6,3,6,False,2015-05-25,Stolen,2B
+4806,1B,,Caught Stealing 2B,489232,Anthony Recker,502239,Trevor Cahill,455759,Chris Young,R,Tuffy Gosewisch,488912,3,2,7,False,2014-05-25,Caught,2B
+4834,1B,,Caught Stealing 2B,489232,Anthony Recker,502239,Trevor Cahill,455759,Chris Young,R,Tuffy Gosewisch,488912,3,2,7,False,2014-05-23,Caught,2B
+5706,1B,2B,Stolen Base 2B,489232,Anthony Recker,477569,Fernando Salas,435560,Omar Quintanilla,R,Chris Iannetta,455104,3,4,7,True,2014-04-12,Stolen,2B
+2562,1B,,Caught Stealing 2B,489232,Anthony Recker,502239,Trevor Cahill,455759,Chris Young,R,Tuffy Gosewisch,488912,3,2,7,False,2014-05-25,Caught,2B
+2590,1B,,Caught Stealing 2B,489232,Anthony Recker,502239,Trevor Cahill,455759,Chris Young,R,Tuffy Gosewisch,488912,3,2,7,False,2014-05-23,Caught,2B
+3462,1B,2B,Stolen Base 2B,489232,Anthony Recker,477569,Fernando Salas,435560,Omar Quintanilla,R,Chris Iannetta,455104,3,4,7,True,2014-04-12,Stolen,2B
+1499,1B,2B,Stolen Base 2B,489232,Anthony Recker,605232,Brandon Finnegan,493596,Gordon Beckham,L,Tucker Barnhart,571466,5,1,5,True,2016-07-18,Stolen,2B
+4906,1B,2B,Stolen Base 2B,489232,Anthony Recker,605232,Brandon Finnegan,493596,Gordon Beckham,L,Tucker Barnhart,571466,5,1,5,True,2016-07-18,Stolen,2B

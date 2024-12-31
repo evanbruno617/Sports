@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2437,1B,,Caught Stealing 2B,488810,Tony Cruz,547973,Aroldis Chapman,489305,Xavier Scruggs,L,Devin Mesoraco,519023,8,4,8,False,2014-09-20,Caught,2B
+3599,1B,,Caught Stealing 2B,488810,Tony Cruz,475243,Travis Wood,523260,Joe Kelly,L,Welington Castillo,456078,0,3,2,True,2014-07-25,Caught,2B
+193,1B,,Caught Stealing 2B,488810,Tony Cruz,547973,Aroldis Chapman,489305,Xavier Scruggs,L,Devin Mesoraco,519023,8,4,8,False,2014-09-20,Caught,2B
+1355,1B,,Caught Stealing 2B,488810,Tony Cruz,475243,Travis Wood,523260,Joe Kelly,L,Welington Castillo,456078,0,3,2,True,2014-07-25,Caught,2B

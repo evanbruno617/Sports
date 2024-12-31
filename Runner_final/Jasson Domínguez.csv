@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+577,1B,2B,Stolen Base 2B,691176,Jasson Domínguez,682842,Abner Uribe,669224,Austin Wells,R,William Contreras,661388,2,2,6,False,2023-09-08,Stolen,2B
+86,1B,2B,Stolen Base 2B,691176,Jasson Domínguez,641329,Bryan Baker,519203,Anthony Rizzo,R,James McCann,543510,7,0,6,False,2024-09-26,Stolen,2B
+183,1B,2B,Stolen Base 2B,691176,Jasson Domínguez,676664,JP Sears,542932,Jon Berti,L,Shea Langeliers,669127,0,2,1,True,2024-09-21,Stolen,2B
+269,1B,2B,Stolen Base 2B,691176,Jasson Domínguez,682243,Bryce Miller,519203,Anthony Rizzo,R,Cal Raleigh,663728,0,1,2,True,2024-09-18,Stolen,2B
+360,1B,2B,Stolen Base 2B,691176,Jasson Domínguez,676710,Kutter Crawford,683011,Anthony Volpe,R,Danny Jansen,643376,1,0,2,False,2024-09-15,Stolen,2B
+509,2B,3B,Stolen Base 3B,691176,Jasson Domínguez,663903,Brady Singer,665828,Oswaldo Cabrera,R,Salvador Perez,521692,1,2,4,False,2024-09-09,Stolen,3B
+4991,1B,2B,Stolen Base 2B,691176,Jasson Domínguez,682842,Abner Uribe,669224,Austin Wells,R,William Contreras,661388,2,2,6,False,2023-09-08,Stolen,2B

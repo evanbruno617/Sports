@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2134,1B,2B,Stolen Base 2B,665155,Nick Maton,605447,Jordan Romano,457705,Andrew McCutchen,R,Danny Jansen,643376,9,6,8,True,2021-05-16,Stolen,2B
+2190,1B,2B,Stolen Base 2B,665155,Nick Maton,640448,Kyle Finnegan,595284,Andrew Knapp,R,Alex Avila,488671,2,5,10,True,2021-05-12,Stolen,2B
+1543,1B,2B,Stolen Base 2B,665155,Nick Maton,656945,Tanner Scott,682985,Riley Greene,L,Nick Fortes,663743,4,1,7,True,2023-07-28,Stolen,2B
+2224,1B,,Caught Stealing 2B,665155,Nick Maton,641927,Bailey Ober,663837,Matt Vierling,R,Ryan Jeffers,680777,3,2,4,False,2023-06-25,Caught,2B
+2750,1B,,Caught Stealing 2B,665155,Nick Maton,656302,Dylan Cease,670097,Zack Short,R,Yasmani Grandal,518735,0,0,2,True,2023-06-03,Caught,2B
+4058,1B,2B,Stolen Base 2B,665155,Nick Maton,605447,Jordan Romano,457705,Andrew McCutchen,R,Danny Jansen,643376,9,6,8,True,2021-05-16,Stolen,2B
+4114,1B,2B,Stolen Base 2B,665155,Nick Maton,640448,Kyle Finnegan,595284,Andrew Knapp,R,Alex Avila,488671,2,5,10,True,2021-05-12,Stolen,2B
+5957,1B,2B,Stolen Base 2B,665155,Nick Maton,656945,Tanner Scott,682985,Riley Greene,L,Nick Fortes,663743,4,1,7,True,2023-07-28,Stolen,2B
+6638,1B,,Caught Stealing 2B,665155,Nick Maton,641927,Bailey Ober,663837,Matt Vierling,R,Ryan Jeffers,680777,3,2,4,False,2023-06-25,Caught,2B
+7164,1B,,Caught Stealing 2B,665155,Nick Maton,656302,Dylan Cease,670097,Zack Short,R,Yasmani Grandal,518735,0,0,2,True,2023-06-03,Caught,2B

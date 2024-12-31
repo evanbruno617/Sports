@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2985,1B,2B,Stolen Base 2B,571912,Luke Maile,605276,David Hess,624415,Cavan Biggio,R,Pedro Severino,600474,1,0,5,True,2019-06-12,Stolen,2B
+5828,1B,2B,Stolen Base 2B,571912,Luke Maile,605276,David Hess,624415,Cavan Biggio,R,Pedro Severino,600474,1,0,5,True,2019-06-12,Stolen,2B
+131,1B,2B,Stolen Base 2B,571912,Luke Maile,675916,James Karinchak,663697,Jonathan India,R,Bo Naylor,666310,7,8,5,True,2023-09-26,Stolen,2B
+425,1B,,Caught Stealing 2B,571912,Luke Maile,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B
+3072,1B,2B,Stolen Base 2B,571912,Luke Maile,656061,Albert Abreu,663697,Jonathan India,R,Kyle Higashioka,543309,1,2,5,False,2023-05-21,Stolen,2B
+7752,1B,2B,Stolen Base 2B,571912,Luke Maile,605276,David Hess,624415,Cavan Biggio,R,Pedro Severino,600474,1,0,5,True,2019-06-12,Stolen,2B
+3242,1B,2B,Stolen Base 2B,571912,Luke Maile,572021,James Pazos,485567,Ezequiel Carrera,L,Carlos Ruiz,434563,7,2,8,False,2017-05-13,Stolen,2B
+2408,1B,2B,Stolen Base 2B,571912,Luke Maile,601713,Nick Pivetta,666181,Will Benson,R,Connor Wong,657136,2,0,2,False,2024-06-22,Stolen,2B
+2496,1B,2B,Stolen Base 2B,571912,Luke Maile,656605,Mitch Keller,663697,Jonathan India,R,Yasmani Grandal,518735,0,0,3,True,2024-06-19,Stolen,2B
+4545,1B,2B,Stolen Base 2B,571912,Luke Maile,675916,James Karinchak,663697,Jonathan India,R,Bo Naylor,666310,7,8,5,True,2023-09-26,Stolen,2B
+4839,1B,,Caught Stealing 2B,571912,Luke Maile,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B
+7486,1B,2B,Stolen Base 2B,571912,Luke Maile,656061,Albert Abreu,663697,Jonathan India,R,Kyle Higashioka,543309,1,2,5,False,2023-05-21,Stolen,2B
+2614,1B,2B,Stolen Base 2B,571912,Luke Maile,572021,James Pazos,485567,Ezequiel Carrera,L,Carlos Ruiz,434563,7,2,8,False,2017-05-13,Stolen,2B

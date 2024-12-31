@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3108,1B,2B,Stolen Base 2B,447736,Chris Dickerson,445060,Ricky Nolasco,547379,Roberto Pérez,R,Eric Fryer,518700,0,3,7,True,2014-08-20,Stolen,2B
+3514,1B,2B,Stolen Base 2B,447736,Chris Dickerson,433587,Félix Hernández,543401,Jason Kipnis,R,Mike Zunino,572287,2,0,5,False,2014-07-30,Stolen,2B
+3608,1B,2B,Stolen Base 2B,447736,Chris Dickerson,430630,Jason Frasor,543228,Yan Gomes,R,Salvador Perez,521692,1,1,11,True,2014-07-24,Stolen,2B
+864,1B,2B,Stolen Base 2B,447736,Chris Dickerson,445060,Ricky Nolasco,547379,Roberto Pérez,R,Eric Fryer,518700,0,3,7,True,2014-08-20,Stolen,2B
+1270,1B,2B,Stolen Base 2B,447736,Chris Dickerson,433587,Félix Hernández,543401,Jason Kipnis,R,Mike Zunino,572287,2,0,5,False,2014-07-30,Stolen,2B
+1364,1B,2B,Stolen Base 2B,447736,Chris Dickerson,430630,Jason Frasor,543228,Yan Gomes,R,Salvador Perez,521692,1,1,11,True,2014-07-24,Stolen,2B

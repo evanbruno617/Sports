@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+3225,1B,2B,Stolen Base 2B,650391,Eloy Jiménez,607074,Carlos Rodón,657557,Paul DeJong,L,Jose Trevino,624431,2,2,4,True,2024-05-19,Stolen,2B
+3305,1B,2B,Stolen Base 2B,650391,Eloy Jiménez,571578,Patrick Corbin,657557,Paul DeJong,L,Riley Adams,656180,1,0,3,False,2024-05-15,Stolen,2B
+3864,1B,2B,Stolen Base 2B,650391,Eloy Jiménez,543351,Jay Jackson,643217,Andrew Benintendi,R,Christian Vázquez,543877,2,5,8,True,2024-04-23,Stolen,2B

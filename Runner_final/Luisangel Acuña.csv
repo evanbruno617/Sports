@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+149,1B,,Caught Stealing 2B,682668,Luisangel Acuña,554430,Zack Wheeler,578428,Jose Iglesias,R,J.T. Realmuto,592663,1,1,5,False,2024-09-22,Caught,2B

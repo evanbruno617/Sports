@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1868,1B,2B,Stolen Base 2B,691645,Jefrey De Los Santos,672774,Ronny Garcia,608671,Travis Jankowski,R,Martín Maldonado,455117,2,3,8,True,2022-04-04,Stolen,2B

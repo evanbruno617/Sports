@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+6044,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,605538,Matt Wisler,571466,Tucker Barnhart,R,A.J. Pierzynski,150229,3,2,4,True,2016-06-16,Stolen,2B
+6990,1B,2B,Caught Stealing 2B,474443,Iván De Jesús Jr.,518774,Matt Harvey,458015,Joey Votto,R,Kevin Plawecki,608700,0,1,1,True,2016-04-27,Caught,2B
+7027,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,592789,Noah Syndergaard,519023,Devin Mesoraco,R,Kevin Plawecki,608700,3,1,6,True,2016-04-25,Stolen,2B
+7399,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,450203,Charlie Morton,571466,Tucker Barnhart,R,Carlos Ruiz,434563,4,2,4,False,2016-04-07,Stolen,2B
+430,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,458730,Bobby Parnell,553993,Eugenio Suárez,R,Kevin Plawecki,608700,1,1,13,True,2015-06-28,Caught,2B
+444,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,458730,Bobby Parnell,553993,Eugenio Suárez,R,Kevin Plawecki,608700,1,1,13,True,2015-06-27,Caught,2B
+509,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,543037,Gerrit Cole,458015,Joey Votto,R,Chris Stewart,455755,1,4,5,True,2015-06-24,Caught,2B
+2009,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,605538,Matt Wisler,571466,Tucker Barnhart,R,A.J. Pierzynski,150229,3,2,4,True,2016-06-16,Stolen,2B
+2955,1B,2B,Caught Stealing 2B,474443,Iván De Jesús Jr.,518774,Matt Harvey,458015,Joey Votto,R,Kevin Plawecki,608700,0,1,1,True,2016-04-27,Caught,2B
+2992,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,592789,Noah Syndergaard,519023,Devin Mesoraco,R,Kevin Plawecki,608700,3,1,6,True,2016-04-25,Stolen,2B
+3364,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,450203,Charlie Morton,571466,Tucker Barnhart,R,Carlos Ruiz,434563,4,2,4,False,2016-04-07,Stolen,2B
+5416,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,605538,Matt Wisler,571466,Tucker Barnhart,R,A.J. Pierzynski,150229,3,2,4,True,2016-06-16,Stolen,2B
+6362,1B,2B,Caught Stealing 2B,474443,Iván De Jesús Jr.,518774,Matt Harvey,458015,Joey Votto,R,Kevin Plawecki,608700,0,1,1,True,2016-04-27,Caught,2B
+6399,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,592789,Noah Syndergaard,519023,Devin Mesoraco,R,Kevin Plawecki,608700,3,1,6,True,2016-04-25,Stolen,2B
+6771,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,450203,Charlie Morton,571466,Tucker Barnhart,R,Carlos Ruiz,434563,4,2,4,False,2016-04-07,Stolen,2B

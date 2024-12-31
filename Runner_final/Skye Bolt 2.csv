@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+453,1B,2B,Stolen Base 2B,621450,Skye Bolt,656638,Alex Lange,592192,Mark Canha,R,Eric Haase,606992,6,8,9,True,2021-09-02,Stolen,2B
+1333,1B,2B,Stolen Base 2B,621450,Skye Bolt,598264,Matt Barnes,476704,Jed Lowrie,R,Christian Vázquez,543877,0,1,9,False,2021-07-04,Stolen,2B
+102,1B,2B,Stolen Base 2B,621450,Skye Bolt,543606,Jake Odorizzi,669397,Nick Allen,R,Korey Lee,686676,0,2,5,False,2022-07-10,Stolen,2B
+249,2B,3B,Stolen Base 3B,621450,Skye Bolt,592662,Robbie Ray,542194,Christian Bethancourt,L,Cal Raleigh,663728,1,0,3,True,2022-07-03,Stolen,3B
+2377,1B,2B,Stolen Base 2B,621450,Skye Bolt,656638,Alex Lange,592192,Mark Canha,R,Eric Haase,606992,6,8,9,True,2021-09-02,Stolen,2B
+3257,1B,2B,Stolen Base 2B,621450,Skye Bolt,598264,Matt Barnes,476704,Jed Lowrie,R,Christian Vázquez,543877,0,1,9,False,2021-07-04,Stolen,2B

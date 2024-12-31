@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+448,1B,,Caught Stealing 2B,500208,Yangervis Solarte,488768,Andrew Cashner,456665,Steve Pearce,R,Chance Sisco,642082,0,0,6,True,2018-04-10,Caught,2B
+1654,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,534947,Tim Adleman,571976,Wil Myers,R,Tucker Barnhart,571466,3,2,4,True,2017-08-07,Stolen,2B
+3535,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,592836,Taijuan Walker,592669,Hunter Renfroe,R,Chris Herrmann,543302,0,1,1,True,2017-04-27,Stolen,2B
+3666,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,475479,David Phelps,595978,Austin Hedges,R,J.T. Realmuto,592663,5,1,7,False,2017-04-21,Stolen,2B
+4414,1B,,Caught Stealing 2B,500208,Yangervis Solarte,502188,Jeff Samardzija,543105,Alex Dickerson,R,Buster Posey,457763,0,2,5,True,2016-09-12,Caught,2B
+5528,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,502190,Mike Leake,543105,Alex Dickerson,R,Alberto Rosario,451705,2,1,6,True,2016-07-18,Stolen,2B
+1463,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,605177,Andrew Chafin,461416,Will Venable,L,Tuffy Gosewisch,488912,2,5,5,True,2015-05-08,Stolen,2B
+2651,1B,,Caught Stealing 2B,500208,Yangervis Solarte,429717,Dan Haren,576397,Jedd Gyorko,R,A.J. Ellis,454560,0,0,1,True,2014-09-10,Caught,2B
+407,1B,,Caught Stealing 2B,500208,Yangervis Solarte,429717,Dan Haren,576397,Jedd Gyorko,R,A.J. Ellis,454560,0,0,1,True,2014-09-10,Caught,2B
+379,1B,,Caught Stealing 2B,500208,Yangervis Solarte,502188,Jeff Samardzija,543105,Alex Dickerson,R,Buster Posey,457763,0,2,5,True,2016-09-12,Caught,2B
+1493,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,502190,Mike Leake,543105,Alex Dickerson,R,Alberto Rosario,451705,2,1,6,True,2016-07-18,Stolen,2B
+1026,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,534947,Tim Adleman,571976,Wil Myers,R,Tucker Barnhart,571466,3,2,4,True,2017-08-07,Stolen,2B
+2907,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,592836,Taijuan Walker,592669,Hunter Renfroe,R,Chris Herrmann,543302,0,1,1,True,2017-04-27,Stolen,2B
+3038,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,475479,David Phelps,595978,Austin Hedges,R,J.T. Realmuto,592663,5,1,7,False,2017-04-21,Stolen,2B
+3786,1B,,Caught Stealing 2B,500208,Yangervis Solarte,502188,Jeff Samardzija,543105,Alex Dickerson,R,Buster Posey,457763,0,2,5,True,2016-09-12,Caught,2B
+4900,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,502190,Mike Leake,543105,Alex Dickerson,R,Alberto Rosario,451705,2,1,6,True,2016-07-18,Stolen,2B

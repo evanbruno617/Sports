@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+512,1B,,Caught Stealing 2B,605170,Victor Caratini,664141,JT Brubaker,543401,Jason Kipnis,R,John Ryan Murphy,571974,0,1,2,True,2020-09-03,Caught,2B
+1917,1B,2B,Stolen Base 2B,605170,Victor Caratini,656322,Sam Coonrod,506433,Yu Darvish,R,Stephen Vogt,519390,7,4,5,False,2019-08-21,Stolen,2B
+1985,3B,score,Stolen Base Home,605170,Victor Caratini,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,3,True,2021-05-25,Stolen,Home
+2464,1B,2B,Stolen Base 2B,605170,Victor Caratini,519076,Jimmy Nelson,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,7,7,10,True,2021-04-25,Stolen,2B
+3355,1B,,Caught Stealing 2B,605170,Victor Caratini,664141,JT Brubaker,543401,Jason Kipnis,R,John Ryan Murphy,571974,0,1,2,True,2020-09-03,Caught,2B
+4760,1B,2B,Stolen Base 2B,605170,Victor Caratini,656322,Sam Coonrod,506433,Yu Darvish,R,Stephen Vogt,519390,7,4,5,False,2019-08-21,Stolen,2B
+2571,1B,2B,Stolen Base 2B,605170,Victor Caratini,643493,Austin Pruitt,655316,Andruw Monasterio,R,Shea Langeliers,669127,0,1,7,False,2023-06-10,Stolen,2B
+3909,3B,score,Stolen Base Home,605170,Victor Caratini,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,3,True,2021-05-25,Stolen,Home
+4388,1B,2B,Stolen Base 2B,605170,Victor Caratini,519076,Jimmy Nelson,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,7,7,10,True,2021-04-25,Stolen,2B
+5279,1B,,Caught Stealing 2B,605170,Victor Caratini,664141,JT Brubaker,543401,Jason Kipnis,R,John Ryan Murphy,571974,0,1,2,True,2020-09-03,Caught,2B
+6684,1B,2B,Stolen Base 2B,605170,Victor Caratini,656322,Sam Coonrod,506433,Yu Darvish,R,Stephen Vogt,519390,7,4,5,False,2019-08-21,Stolen,2B
+907,1B,,Caught Stealing 2B,605170,Victor Caratini,665152,Dean Kremer,592325,Ben Gamel,R,Adley Rutschman,668939,0,0,2,True,2024-08-25,Caught,2B
+6985,1B,2B,Stolen Base 2B,605170,Victor Caratini,643493,Austin Pruitt,655316,Andruw Monasterio,R,Shea Langeliers,669127,0,1,7,False,2023-06-10,Stolen,2B

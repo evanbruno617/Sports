@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+289,1B,2B,Stolen Base 2B,453400,Chris Johnson,430935,Cole Hamels,150229,A.J. Pierzynski,L,Carlos Ruiz,434563,0,0,6,False,2015-07-05,Stolen,2B
+1635,1B,,Caught Stealing 2B,453400,Chris Johnson,502190,Mike Leake,542194,Christian Bethancourt,R,Tucker Barnhart,571466,0,0,4,False,2015-04-30,Caught,2B
+1713,1B,2B,Stolen Base 2B,453400,Chris Johnson,514669,Rafael Martín,430948,Alberto Callaspo,R,Wilson Ramos,467092,6,2,7,False,2015-04-27,Stolen,2B
+2731,1B,2B,Stolen Base 2B,453400,Chris Johnson,543272,Brad Hand,592743,Andrelton Simmons,L,Jarrod Saltalamacchia,457454,0,0,5,True,2014-09-07,Stolen,2B
+3033,1B,2B,Stolen Base 2B,453400,Chris Johnson,430580,Alfredo Simon,594828,Evan Gattis,R,Devin Mesoraco,519023,0,0,2,True,2014-08-24,Stolen,2B
+3077,1B,2B,Stolen Base 2B,453400,Chris Johnson,547973,Aroldis Chapman,594838,Phil Gosselin,L,Devin Mesoraco,519023,1,1,10,True,2014-08-22,Stolen,2B
+3747,1B,2B,Stolen Base 2B,453400,Chris Johnson,150359,A.J. Burnett,600303,Tommy La Stella,R,Cameron Rupp,519237,4,2,3,False,2014-07-18,Stolen,2B
+4013,1B,2B,Stolen Base 2B,453400,Chris Johnson,493137,Daisuke Matsuzaka,600303,Tommy La Stella,R,Travis d'Arnaud,518595,0,0,2,False,2014-07-01,Stolen,2B
+5115,1B,2B,Stolen Base 2B,453400,Chris Johnson,444468,Héctor Rondón,425834,B.J. Upton,R,John Baker,434633,2,1,8,False,2014-05-09,Stolen,2B
+487,1B,2B,Stolen Base 2B,453400,Chris Johnson,543272,Brad Hand,592743,Andrelton Simmons,L,Jarrod Saltalamacchia,457454,0,0,5,True,2014-09-07,Stolen,2B
+789,1B,2B,Stolen Base 2B,453400,Chris Johnson,430580,Alfredo Simon,594828,Evan Gattis,R,Devin Mesoraco,519023,0,0,2,True,2014-08-24,Stolen,2B
+833,1B,2B,Stolen Base 2B,453400,Chris Johnson,547973,Aroldis Chapman,594838,Phil Gosselin,L,Devin Mesoraco,519023,1,1,10,True,2014-08-22,Stolen,2B
+1503,1B,2B,Stolen Base 2B,453400,Chris Johnson,150359,A.J. Burnett,600303,Tommy La Stella,R,Cameron Rupp,519237,4,2,3,False,2014-07-18,Stolen,2B
+1769,1B,2B,Stolen Base 2B,453400,Chris Johnson,493137,Daisuke Matsuzaka,600303,Tommy La Stella,R,Travis d'Arnaud,518595,0,0,2,False,2014-07-01,Stolen,2B
+2871,1B,2B,Stolen Base 2B,453400,Chris Johnson,444468,Héctor Rondón,425834,B.J. Upton,R,John Baker,434633,2,1,8,False,2014-05-09,Stolen,2B

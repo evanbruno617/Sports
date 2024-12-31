@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+216,1B,2B,Stolen Base 2B,656847,DJ Peters,518886,Craig Kimbrel,641680,Jonah Heim,R,Yasmani Grandal,518735,2,1,8,False,2021-09-18,Stolen,2B
+900,1B,2B,Stolen Base 2B,656847,DJ Peters,681810,Austin Warren,571788,Brock Holt,R,Kurt Suzuki,435559,1,2,7,False,2021-08-04,Stolen,2B
+2140,1B,2B,Stolen Base 2B,656847,DJ Peters,518886,Craig Kimbrel,641680,Jonah Heim,R,Yasmani Grandal,518735,2,1,8,False,2021-09-18,Stolen,2B
+2824,1B,2B,Stolen Base 2B,656847,DJ Peters,681810,Austin Warren,571788,Brock Holt,R,Kurt Suzuki,435559,1,2,7,False,2021-08-04,Stolen,2B
+4019,1B,2B,Stolen Base 2B,656847,DJ Peters,457732,Andrew Bailey,605131,Austin Barnes,R,Martín Maldonado,455117,4,3,6,False,2017-04-01,Stolen,2B
+3391,1B,2B,Stolen Base 2B,656847,DJ Peters,457732,Andrew Bailey,605131,Austin Barnes,R,Martín Maldonado,455117,4,3,6,False,2017-04-01,Stolen,2B

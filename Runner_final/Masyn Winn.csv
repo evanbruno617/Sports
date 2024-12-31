@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+536,1B,2B,Stolen Base 2B,691026,Masyn Winn,594580,Sam Moll,663457,Lars Nootbaar,L,Tyler Stephenson,663886,3,4,4,True,2023-09-09,Stolen,2B
+977,1B,2B,Stolen Base 2B,691026,Masyn Winn,669796,Jose E. Hernandez,669242,Tommy Edman,L,Jason Delay,641511,3,5,7,True,2023-08-23,Stolen,2B
+455,1B,2B,Stolen Base 2B,691026,Masyn Winn,682227,Brandon Williamson,502671,Paul Goldschmidt,L,Luke Maile,571912,0,0,1,False,2024-09-11,Stolen,2B
+1139,1B,,Caught Stealing 2B,691026,Masyn Winn,680736,Justin Wrobleski,502054,Tommy Pham,L,Will Smith,669257,0,0,1,False,2024-08-16,Caught,2B
+1423,1B,2B,Stolen Base 2B,691026,Masyn Winn,640455,Sean Manaea,502054,Tommy Pham,L,Francisco Alvarez,682626,0,5,5,False,2024-08-05,Stolen,2B
+1510,1B,,Caught Stealing 2B,691026,Masyn Winn,665871,Javier Assad,575929,Willson Contreras,R,Christian Bethancourt,542194,0,0,1,True,2024-08-02,Caught,2B
+2119,2B,3B,Stolen Base 3B,691026,Masyn Winn,571882,Derek Law,575929,Willson Contreras,R,Keibert Ruiz,660688,5,3,7,True,2024-07-05,Stolen,3B
+2844,1B,2B,Stolen Base 2B,691026,Masyn Winn,650556,Bryan Abreu,666185,Dylan Carlson,R,Victor Caratini,605170,7,5,7,True,2024-06-04,Stolen,2B
+2984,1B,,Caught Stealing 2B,691026,Masyn Winn,593423,Frankie Montas,680977,Brendan Donovan,R,Tyler Stephenson,663886,0,1,3,True,2024-05-29,Caught,2B
+2986,1B,,Caught Stealing 2B,691026,Masyn Winn,571656,Buck Farmer,672279,Michael Siani,R,Tyler Stephenson,663886,2,4,9,True,2024-05-29,Caught,2B
+3319,1B,2B,Stolen Base 2B,691026,Masyn Winn,519326,Hunter Strickland,680977,Brendan Donovan,R,Logan O'Hoppe,681351,5,5,6,True,2024-05-14,Stolen,2B
+3448,1B,2B,Stolen Base 2B,691026,Masyn Winn,688107,Robert Gasser,672279,Michael Siani,L,William Contreras,661388,0,0,3,True,2024-05-10,Stolen,2B
+3483,1B,2B,Stolen Base 2B,691026,Masyn Winn,640455,Sean Manaea,502054,Tommy Pham,L,Francisco Alvarez,682626,0,5,5,False,2024-05-08,Stolen,2B
+3599,1B,2B,Stolen Base 2B,691026,Masyn Winn,641745,Brad Keller,669357,Nolan Gorman,R,Martín Maldonado,455117,2,0,4,False,2024-05-03,Stolen,2B
+3890,1B,2B,Stolen Base 2B,691026,Masyn Winn,543518,Scott McGough,672279,Michael Siani,R,Gabriel Moreno,672515,3,3,7,False,2024-04-22,Stolen,2B
+4027,1B,2B,Stolen Base 2B,691026,Masyn Winn,676664,JP Sears,691023,Jordan Walker,L,Kyle McCann,668832,1,0,3,True,2024-04-16,Stolen,2B
+4132,1B,2B,Stolen Base 2B,691026,Masyn Winn,669194,Ryne Nelson,680977,Brendan Donovan,R,Gabriel Moreno,672515,1,1,5,True,2024-04-13,Stolen,2B
+4321,1B,,Caught Stealing 2B,691026,Masyn Winn,656945,Tanner Scott,687363,Victor Scott II,L,Nick Fortes,663743,3,1,8,False,2024-04-06,Caught,2B
+4389,1B,2B,Stolen Base 2B,691026,Masyn Winn,666745,Jhony Brito,680977,Brendan Donovan,R,Luis Campusano,669134,1,6,6,True,2024-04-01,Stolen,2B
+4950,1B,2B,Stolen Base 2B,691026,Masyn Winn,594580,Sam Moll,663457,Lars Nootbaar,L,Tyler Stephenson,663886,3,4,4,True,2023-09-09,Stolen,2B
+5391,1B,2B,Stolen Base 2B,691026,Masyn Winn,669796,Jose E. Hernandez,669242,Tommy Edman,L,Jason Delay,641511,3,5,7,True,2023-08-23,Stolen,2B

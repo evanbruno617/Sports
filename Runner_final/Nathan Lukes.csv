@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+468,1B,2B,Stolen Base 2B,664770,Nathan Lukes,640455,Sean Manaea,665489,Vladimir Guerrero Jr.,L,Francisco Alvarez,682626,0,0,1,False,2024-09-11,Stolen,2B

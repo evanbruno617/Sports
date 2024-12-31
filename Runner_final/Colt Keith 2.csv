@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+957,1B,2B,Stolen Base 2B,690993,Colt Keith,605121,Justin Anderson,679529,Spencer Torkelson,R,Korey Lee,686676,2,4,7,True,2024-08-23,Stolen,2B
+1307,1B,2B,Stolen Base 2B,690993,Colt Keith,592662,Robbie Ray,668670,Jake Rogers,L,Curt Casali,592200,0,0,1,True,2024-08-09,Stolen,2B
+2062,1B,2B,Stolen Base 2B,690993,Colt Keith,594580,Sam Moll,682985,Riley Greene,L,Austin Wynns,642851,0,1,5,True,2024-07-07,Stolen,2B
+2436,1B,2B,Stolen Base 2B,690993,Colt Keith,607200,Erick Fedde,592192,Mark Canha,R,Korey Lee,686676,0,0,1,False,2024-06-21,Stolen,2B
+3399,1B,,Caught Stealing 2B,690993,Colt Keith,434378,Justin Verlander,679529,Spencer Torkelson,R,Yainer Diaz,673237,0,0,5,False,2024-05-12,Caught,2B
+3426,1B,2B,Stolen Base 2B,690993,Colt Keith,664299,Cristian Javier,679529,Spencer Torkelson,R,Yainer Diaz,673237,0,0,2,False,2024-05-11,Stolen,2B
+3700,1B,2B,Stolen Base 2B,690993,Colt Keith,502043,Kyle Gibson,656716,Zach McKinstry,R,Iván Herrera,671056,1,0,7,False,2024-04-30,Stolen,2B
+4348,1B,2B,Stolen Base 2B,690993,Colt Keith,676130,José Buttó,628451,Andy Ibáñez,R,Omar Narváez,553882,0,0,2,True,2024-04-04,Stolen,2B
+4352,1B,2B,Stolen Base 2B,690993,Colt Keith,676130,José Buttó,628451,Andy Ibáñez,R,Omar Narváez,553882,0,0,2,True,2024-04-03,Stolen,2B

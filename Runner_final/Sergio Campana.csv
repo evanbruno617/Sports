@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1867,1B,,Caught Stealing 2B,682656,Sergio Campana,657093,Spenser Watkins,669363,Jacob Gonzalez,R,Robinson Chirinos,455139,2,8,7,True,2022-04-04,Caught,2B

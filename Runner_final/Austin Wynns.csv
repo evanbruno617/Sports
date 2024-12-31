@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+332,1B,2B,Stolen Base 2B,642851,Austin Wynns,592662,Robbie Ray,663624,Ryan Mountcastle,L,Alejandro Kirk,672386,3,0,2,False,2021-09-10,Stolen,2B
+2973,1B,2B,Stolen Base 2B,642851,Austin Wynns,608638,JT Chargois,592178,Kris Bryant,R,Nick Fortes,663743,2,2,7,False,2023-05-25,Stolen,2B
+2256,1B,2B,Stolen Base 2B,642851,Austin Wynns,592662,Robbie Ray,663624,Ryan Mountcastle,L,Alejandro Kirk,672386,3,0,2,False,2021-09-10,Stolen,2B
+7387,1B,2B,Stolen Base 2B,642851,Austin Wynns,608638,JT Chargois,592178,Kris Bryant,R,Nick Fortes,663743,2,2,7,False,2023-05-25,Stolen,2B

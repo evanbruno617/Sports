@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,543305,Aaron Hicks,656529,Sam Hentges,608336,Joey Gallo,L,Bryan Lavastida,681526,6,0,5,False,2022-04-24,Stolen,2B,2022,2023,27.3
+1,1B,2B,Stolen Base 2B,592626,Joc Pederson,669212,Eli Morgan,527038,Wilmer Flores,R,Bryan Lavastida,681526,0,4,6,True,2022-04-17,Stolen,2B,2022,2023,27.3
+2,1B,2B,Stolen Base 2B,621453,Steven Duggar,669212,Eli Morgan,592200,Curt Casali,R,Bryan Lavastida,681526,0,6,6,True,2022-04-17,Stolen,2B,2022,2023,27.3
+3,1B,2B,Stolen Base 2B,621453,Steven Duggar,615698,Cal Quantrill,663698,Joey Bart,R,Bryan Lavastida,681526,1,0,3,True,2022-04-16,Stolen,2B,2022,2023,27.3
+4,1B,2B,Stolen Base 2B,663698,Joey Bart,656529,Sam Hentges,573262,Mike Yastrzemski,L,Bryan Lavastida,681526,2,4,9,True,2022-04-16,Stolen,2B,2022,2023,27.3
+5,1B,2B,Stolen Base 2B,662139,Daulton Varsho,650644,Aaron Civale,606466,Ketel Marte,R,Bryan Lavastida,681526,0,0,1,False,2022-04-05,Stolen,2B,2022,2023,27.3

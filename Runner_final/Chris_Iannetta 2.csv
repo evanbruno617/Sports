@@ -1,0 +1,132 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y
+0,0,0,0,1B,,Caught Stealing 2B,657077,Alex Verdugo,607536,Kyle Freeland,502117,Kristopher Negrón,L,Chris Iannetta,455104,0,3,1,True,2019-07-30,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+1,1,1,1,1B,2B,Stolen Base 2B,607208,Trea Turner,623184,Scott Oberg,594809,Adam Eaton,R,Chris Iannetta,455104,2,0,7,False,2019-07-24,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+2,2,2,2,1B,2B,Stolen Base 2B,594809,Adam Eaton,663567,Peter Lambert,571431,Matt Adams,R,Chris Iannetta,455104,2,0,5,False,2019-07-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+3,3,3,3,1B,2B,Stolen Base 2B,645302,Victor Robles,545064,Jairo Díaz,543228,Yan Gomes,R,Chris Iannetta,455104,5,0,7,False,2019-07-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+4,4,4,4,1B,2B,Stolen Base 2B,643565,Mike Tauchman,622075,Yency Almonte,518934,DJ LeMahieu,R,Chris Iannetta,455104,6,2,6,False,2019-07-19,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+5,5,5,5,1B,2B,Stolen Base 2B,640447,Phillip Ervin,608032,Carlos Estévez,606299,José Peraza,R,Chris Iannetta,455104,9,15,7,True,2019-07-13,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+6,6,6,6,1B,2B,Stolen Base 2B,430945,Adam Jones,608032,Carlos Estévez,500871,Eduardo Escobar,R,Chris Iannetta,455104,4,3,6,False,2019-06-20,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+7,7,7,7,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,663567,Peter Lambert,543333,Eric Hosmer,R,Chris Iannetta,455104,0,1,1,True,2019-06-16,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+8,8,8,8,1B,2B,Stolen Base 2B,588751,Adeiny Hechavarría,656546,Jeff Hoffman,460576,Carlos Gómez,R,Chris Iannetta,455104,4,0,4,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+9,9,9,9,1B,2B,Stolen Base 2B,460576,Carlos Gómez,656546,Jeff Hoffman,621512,Tomás Nido,R,Chris Iannetta,455104,4,0,4,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+10,10,10,10,1B,2B,Stolen Base 2B,642708,Amed Rosario,656546,Jeff Hoffman,624424,Michael Conforto,R,Chris Iannetta,455104,4,0,5,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+11,11,11,11,2B,3B,Stolen Base 3B,656941,Kyle Schwarber,545064,Jairo Díaz,595879,Javier Báez,R,Chris Iannetta,455104,1,3,8,False,2019-06-06,Stolen,3B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+12,12,12,12,1B,,Caught Stealing 2B,502481,Jarrod Dyson,543766,Bryan Shaw,488671,Alex Avila,R,Chris Iannetta,455104,5,4,8,True,2019-05-29,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+13,13,13,13,1B,2B,Stolen Base 2B,488671,Alex Avila,622608,Antonio Senzatela,518876,Merrill Kelly,R,Chris Iannetta,455104,0,0,2,True,2019-05-28,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+14,14,14,14,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,608032,Carlos Estévez,621006,Richie Martin,R,Chris Iannetta,455104,6,9,9,True,2019-05-25,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+15,15,15,15,1B,2B,Stolen Base 2B,516782,Starling Marte,622608,Antonio Senzatela,570256,Gregory Polanco,R,Chris Iannetta,455104,2,0,1,False,2019-05-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+16,16,16,16,1B,2B,Stolen Base 2B,664068,Scott Kingery,622075,Yency Almonte,595284,Andrew Knapp,R,Chris Iannetta,455104,7,5,7,False,2019-05-19,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+17,17,17,17,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,607536,Kyle Freeland,506702,Sandy León,L,Chris Iannetta,455104,3,0,6,False,2019-05-14,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+18,18,18,18,1B,2B,Stolen Base 2B,605412,Joe Panik,451584,Wade Davis,519390,Stephen Vogt,R,Chris Iannetta,455104,12,11,9,True,2019-05-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+19,19,19,19,1B,2B,Stolen Base 2B,502054,Tommy Pham,543766,Bryan Shaw,664040,Brandon Lowe,R,Chris Iannetta,455104,4,0,8,False,2019-04-02,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+20,20,20,20,1B,,Caught Stealing 2B,657077,Alex Verdugo,607536,Kyle Freeland,502117,Kristopher Negrón,L,Chris Iannetta,455104,0,3,1,True,2019-07-30,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+21,21,21,21,1B,2B,Stolen Base 2B,607208,Trea Turner,623184,Scott Oberg,594809,Adam Eaton,R,Chris Iannetta,455104,2,0,7,False,2019-07-24,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+22,22,22,22,1B,2B,Stolen Base 2B,594809,Adam Eaton,663567,Peter Lambert,571431,Matt Adams,R,Chris Iannetta,455104,2,0,5,False,2019-07-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+23,23,23,23,1B,2B,Stolen Base 2B,645302,Victor Robles,545064,Jairo Díaz,543228,Yan Gomes,R,Chris Iannetta,455104,5,0,7,False,2019-07-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+24,24,24,24,1B,2B,Stolen Base 2B,643565,Mike Tauchman,622075,Yency Almonte,518934,DJ LeMahieu,R,Chris Iannetta,455104,6,2,6,False,2019-07-19,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+25,25,25,25,1B,2B,Stolen Base 2B,640447,Phillip Ervin,608032,Carlos Estévez,606299,José Peraza,R,Chris Iannetta,455104,9,15,7,True,2019-07-13,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+26,26,26,26,1B,2B,Stolen Base 2B,430945,Adam Jones,608032,Carlos Estévez,500871,Eduardo Escobar,R,Chris Iannetta,455104,4,3,6,False,2019-06-20,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+27,27,27,27,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,663567,Peter Lambert,543333,Eric Hosmer,R,Chris Iannetta,455104,0,1,1,True,2019-06-16,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+28,28,28,28,1B,2B,Stolen Base 2B,588751,Adeiny Hechavarría,656546,Jeff Hoffman,460576,Carlos Gómez,R,Chris Iannetta,455104,4,0,4,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+29,29,29,29,1B,2B,Stolen Base 2B,460576,Carlos Gómez,656546,Jeff Hoffman,621512,Tomás Nido,R,Chris Iannetta,455104,4,0,4,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+30,30,30,30,1B,2B,Stolen Base 2B,642708,Amed Rosario,656546,Jeff Hoffman,624424,Michael Conforto,R,Chris Iannetta,455104,4,0,5,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+31,31,31,31,2B,3B,Stolen Base 3B,656941,Kyle Schwarber,545064,Jairo Díaz,595879,Javier Báez,R,Chris Iannetta,455104,1,3,8,False,2019-06-06,Stolen,3B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+32,32,32,32,1B,,Caught Stealing 2B,502481,Jarrod Dyson,543766,Bryan Shaw,488671,Alex Avila,R,Chris Iannetta,455104,5,4,8,True,2019-05-29,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+33,33,33,33,1B,2B,Stolen Base 2B,488671,Alex Avila,622608,Antonio Senzatela,518876,Merrill Kelly,R,Chris Iannetta,455104,0,0,2,True,2019-05-28,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+34,34,34,34,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,608032,Carlos Estévez,621006,Richie Martin,R,Chris Iannetta,455104,6,9,9,True,2019-05-25,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+35,35,35,35,1B,2B,Stolen Base 2B,516782,Starling Marte,622608,Antonio Senzatela,570256,Gregory Polanco,R,Chris Iannetta,455104,2,0,1,False,2019-05-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+36,36,36,36,1B,2B,Stolen Base 2B,664068,Scott Kingery,622075,Yency Almonte,595284,Andrew Knapp,R,Chris Iannetta,455104,7,5,7,False,2019-05-19,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+37,37,37,37,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,607536,Kyle Freeland,506702,Sandy León,L,Chris Iannetta,455104,3,0,6,False,2019-05-14,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+38,38,38,38,1B,2B,Stolen Base 2B,605412,Joe Panik,451584,Wade Davis,519390,Stephen Vogt,R,Chris Iannetta,455104,12,11,9,True,2019-05-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+39,39,39,39,1B,2B,Stolen Base 2B,502054,Tommy Pham,543766,Bryan Shaw,664040,Brandon Lowe,R,Chris Iannetta,455104,4,0,8,False,2019-04-02,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+40,40,40,40,1B,,Caught Stealing 2B,657077,Alex Verdugo,607536,Kyle Freeland,502117,Kristopher Negrón,L,Chris Iannetta,455104,0,3,1,True,2019-07-30,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+41,41,41,41,1B,2B,Stolen Base 2B,607208,Trea Turner,623184,Scott Oberg,594809,Adam Eaton,R,Chris Iannetta,455104,2,0,7,False,2019-07-24,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+42,42,42,42,1B,2B,Stolen Base 2B,594809,Adam Eaton,663567,Peter Lambert,571431,Matt Adams,R,Chris Iannetta,455104,2,0,5,False,2019-07-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+43,43,43,43,1B,2B,Stolen Base 2B,645302,Victor Robles,545064,Jairo Díaz,543228,Yan Gomes,R,Chris Iannetta,455104,5,0,7,False,2019-07-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+44,44,44,44,1B,2B,Stolen Base 2B,643565,Mike Tauchman,622075,Yency Almonte,518934,DJ LeMahieu,R,Chris Iannetta,455104,6,2,6,False,2019-07-19,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+45,45,45,45,1B,2B,Stolen Base 2B,640447,Phillip Ervin,608032,Carlos Estévez,606299,José Peraza,R,Chris Iannetta,455104,9,15,7,True,2019-07-13,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+46,46,46,46,1B,2B,Stolen Base 2B,430945,Adam Jones,608032,Carlos Estévez,500871,Eduardo Escobar,R,Chris Iannetta,455104,4,3,6,False,2019-06-20,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+47,47,47,47,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,663567,Peter Lambert,543333,Eric Hosmer,R,Chris Iannetta,455104,0,1,1,True,2019-06-16,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+48,48,48,48,1B,2B,Stolen Base 2B,588751,Adeiny Hechavarría,656546,Jeff Hoffman,460576,Carlos Gómez,R,Chris Iannetta,455104,4,0,4,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+49,49,49,49,1B,2B,Stolen Base 2B,460576,Carlos Gómez,656546,Jeff Hoffman,621512,Tomás Nido,R,Chris Iannetta,455104,4,0,4,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+50,50,50,50,1B,2B,Stolen Base 2B,642708,Amed Rosario,656546,Jeff Hoffman,624424,Michael Conforto,R,Chris Iannetta,455104,4,0,5,False,2019-06-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+51,51,51,51,2B,3B,Stolen Base 3B,656941,Kyle Schwarber,545064,Jairo Díaz,595879,Javier Báez,R,Chris Iannetta,455104,1,3,8,False,2019-06-06,Stolen,3B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+52,52,52,52,1B,,Caught Stealing 2B,502481,Jarrod Dyson,543766,Bryan Shaw,488671,Alex Avila,R,Chris Iannetta,455104,5,4,8,True,2019-05-29,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+53,53,53,53,1B,2B,Stolen Base 2B,488671,Alex Avila,622608,Antonio Senzatela,518876,Merrill Kelly,R,Chris Iannetta,455104,0,0,2,True,2019-05-28,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+54,54,54,54,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,608032,Carlos Estévez,621006,Richie Martin,R,Chris Iannetta,455104,6,9,9,True,2019-05-25,Caught,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+55,55,55,55,1B,2B,Stolen Base 2B,516782,Starling Marte,622608,Antonio Senzatela,570256,Gregory Polanco,R,Chris Iannetta,455104,2,0,1,False,2019-05-23,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+56,56,56,56,1B,2B,Stolen Base 2B,664068,Scott Kingery,622075,Yency Almonte,595284,Andrew Knapp,R,Chris Iannetta,455104,7,5,7,False,2019-05-19,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+57,57,57,57,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,607536,Kyle Freeland,506702,Sandy León,L,Chris Iannetta,455104,3,0,6,False,2019-05-14,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+58,58,58,58,1B,2B,Stolen Base 2B,605412,Joe Panik,451584,Wade Davis,519390,Stephen Vogt,R,Chris Iannetta,455104,12,11,9,True,2019-05-09,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+59,59,59,59,1B,2B,Stolen Base 2B,502054,Tommy Pham,543766,Bryan Shaw,664040,Brandon Lowe,R,Chris Iannetta,455104,4,0,8,False,2019-04-02,Stolen,2B,2019,2020,27.6,2020,27.6,2020,27.6,2020,27.6
+60,60,60,60,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,608566,Germán Márquez,516770,Starlin Castro,R,Chris Iannetta,455104,0,0,1,False,2018-04-28,Stolen,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+61,61,61,61,1B,2B,Stolen Base 2B,516782,Starling Marte,608566,Germán Márquez,605137,Josh Bell,R,Chris Iannetta,455104,0,2,1,False,2018-04-16,Stolen,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+62,62,62,62,1B,,Caught Stealing 2B,446308,Matt Wieters,493603,Adam Ottavino,501213,Moisés Sierra,R,Chris Iannetta,455104,4,5,8,False,2018-04-15,Caught,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+63,63,63,63,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,493603,Adam Ottavino,571718,Brian Goodwin,R,Chris Iannetta,455104,5,5,8,False,2018-04-15,Stolen,3B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+64,64,64,64,1B,2B,Stolen Base 2B,622534,Manuel Margot,543766,Bryan Shaw,592669,Hunter Renfroe,R,Chris Iannetta,455104,6,7,8,True,2018-04-09,Stolen,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+65,65,65,65,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607536,Kyle Freeland,645277,Ozzie Albies,L,Chris Iannetta,455104,0,1,5,True,2018-04-08,Stolen,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+66,66,66,66,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,608566,Germán Márquez,435221,Brandon McCarthy,R,Chris Iannetta,455104,3,7,5,True,2018-04-06,Stolen,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+67,67,67,67,1B,,Caught Stealing 2B,520471,Freddy Galvis,493603,Adam Ottavino,641319,Carlos Asuaje,R,Chris Iannetta,455104,0,0,7,False,2018-04-05,Caught,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+68,68,68,68,1B,2B,Stolen Base 2B,517369,José Pirela,622608,Antonio Senzatela,592669,Hunter Renfroe,R,Chris Iannetta,455104,5,3,7,False,2018-04-03,Stolen,2B,2018,2019,27.3,2019,27.3,2019,27.3,2019,27.3
+69,69,69,69,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,605151,Archie Bradley,519317,Giancarlo Stanton,R,Chris Iannetta,455104,12,10,8,True,2017-09-22,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+70,70,70,70,1B,2B,Stolen Base 2B,622534,Manuel Margot,643327,Zack Godley,641319,Carlos Asuaje,R,Chris Iannetta,455104,0,1,1,False,2017-09-19,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+71,71,71,71,1B,,Caught Stealing 2B,624577,Yasiel Puig,592836,Taijuan Walker,400284,Chase Utley,R,Chris Iannetta,455104,1,1,4,False,2017-09-06,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+72,72,72,72,1B,,Caught Stealing 2B,641355,Cody Bellinger,425844,Zack Greinke,408236,Adrián González,R,Chris Iannetta,455104,1,1,7,False,2017-09-05,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+73,73,73,73,2B,,Caught Stealing 3B,543063,Brandon Crawford,425844,Zack Greinke,460026,Nick Hundley,R,Chris Iannetta,455104,0,1,2,True,2017-08-25,Caught,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+74,74,74,74,1B,2B,Stolen Base 2B,621439,Byron Buxton,640463,Braden Shipley,500871,Eduardo Escobar,R,Chris Iannetta,455104,12,4,5,False,2017-08-20,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+75,75,75,75,1B,2B,Stolen Base 2B,593871,Jorge Polanco,407822,Jorge De La Rosa,488771,Jason Castro,L,Chris Iannetta,455104,4,3,6,False,2017-08-18,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+76,76,76,76,1B,2B,Stolen Base 2B,608324,Alex Bregman,592836,Taijuan Walker,518542,Juan Centeno,R,Chris Iannetta,455104,1,0,2,False,2017-08-16,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+77,77,77,77,1B,2B,Stolen Base 2B,605233,Derek Fisher,592836,Taijuan Walker,543807,George Springer,R,Chris Iannetta,455104,3,1,4,False,2017-08-16,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+78,78,78,78,1B,2B,Stolen Base 2B,445055,Jon Jay,592836,Taijuan Walker,592178,Kris Bryant,R,Chris Iannetta,455104,0,3,2,True,2017-08-11,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+79,79,79,79,1B,2B,Stolen Base 2B,523253,Logan Forsythe,545332,Jake Barrett,605131,Austin Barnes,R,Chris Iannetta,455104,2,6,5,True,2017-08-10,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+80,80,80,80,1B,2B,Stolen Base 2B,571718,Brian Goodwin,605177,Andrew Chafin,547180,Bryce Harper,L,Chris Iannetta,455104,2,4,9,True,2017-07-22,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+81,81,81,81,2B,,Caught Stealing 3B,571740,Billy Hamilton,571578,Patrick Corbin,458015,Joey Votto,L,Chris Iannetta,455104,0,3,1,False,2017-07-20,Caught,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+82,82,82,82,1B,2B,Stolen Base 2B,571740,Billy Hamilton,571578,Patrick Corbin,458015,Joey Votto,L,Chris Iannetta,455104,0,1,3,True,2017-07-09,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+83,83,83,83,1B,,Caught Stealing 2B,523253,Logan Forsythe,592662,Robbie Ray,621035,Chris Taylor,L,Chris Iannetta,455104,0,0,3,False,2017-07-06,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+84,84,84,84,2B,3B,Stolen Base 3B,621035,Chris Taylor,407822,Jorge De La Rosa,518735,Yasmani Grandal,L,Chris Iannetta,455104,4,0,8,False,2017-07-04,Stolen,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+85,85,85,85,1B,2B,Stolen Base 2B,596115,Trevor Story,592836,Taijuan Walker,452672,Ryan Hanigan,R,Chris Iannetta,455104,2,2,6,True,2017-07-02,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+86,86,86,86,1B,2B,Stolen Base 2B,502054,Tommy Pham,517414,Randall Delgado,572761,Matt Carpenter,R,Chris Iannetta,455104,3,7,8,True,2017-06-29,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+87,87,87,87,1B,2B,Stolen Base 2B,502054,Tommy Pham,592836,Taijuan Walker,576397,Jedd Gyorko,R,Chris Iannetta,455104,0,1,1,True,2017-06-27,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+88,88,88,88,2B,3B,Stolen Base 3B,572039,Stephen Piscotty,592836,Taijuan Walker,425877,Yadier Molina,R,Chris Iannetta,455104,0,1,6,True,2017-06-27,Stolen,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+89,89,89,89,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,592836,Taijuan Walker,425877,Yadier Molina,R,Chris Iannetta,455104,0,1,6,True,2017-06-27,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+90,90,90,90,1B,,Caught Stealing 2B,570267,Domingo Santana,407845,Fernando Rodney,542583,Jesús Aguilar,R,Chris Iannetta,455104,3,2,9,True,2017-06-10,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+91,91,91,91,1B,2B,Stolen Base 2B,488818,Chase d'Arnaud,543331,J.J. Hoover,517369,José Pirela,R,Chris Iannetta,455104,4,3,6,True,2017-06-08,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+92,92,92,92,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,640463,Braden Shipley,519317,Giancarlo Stanton,R,Chris Iannetta,455104,3,1,2,False,2017-06-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+93,93,93,93,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,517414,Randall Delgado,446653,Jose Lobaton,R,Chris Iannetta,455104,3,0,5,False,2017-05-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+94,94,94,94,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,517414,Randall Delgado,446653,Jose Lobaton,R,Chris Iannetta,455104,3,1,7,False,2017-05-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+95,95,95,95,2B,3B,Stolen Base 3B,607208,Trea Turner,452666,Tom Wilhelmsen,502317,Chris Heisey,R,Chris Iannetta,455104,4,1,8,False,2017-05-04,Stolen,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+96,96,96,96,1B,2B,Stolen Base 2B,150029,Jayson Werth,452666,Tom Wilhelmsen,502317,Chris Heisey,R,Chris Iannetta,455104,4,1,8,False,2017-05-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+97,97,97,97,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,407845,Fernando Rodney,543063,Brandon Crawford,R,Chris Iannetta,455104,3,4,9,False,2017-04-11,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+98,98,98,98,1B,2B,Stolen Base 2B,488726,Michael Brantley,571946,Shelby Miller,429665,Edwin Encarnación,R,Chris Iannetta,455104,2,3,5,True,2017-04-07,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+99,99,99,99,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,592836,Taijuan Walker,592620,Jarrett Parker,R,Chris Iannetta,455104,0,0,2,True,2017-04-05,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+100,100,100,100,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,605151,Archie Bradley,519317,Giancarlo Stanton,R,Chris Iannetta,455104,12,10,8,True,2017-09-22,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+101,101,101,101,1B,2B,Stolen Base 2B,622534,Manuel Margot,643327,Zack Godley,641319,Carlos Asuaje,R,Chris Iannetta,455104,0,1,1,False,2017-09-19,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+102,102,102,102,1B,,Caught Stealing 2B,624577,Yasiel Puig,592836,Taijuan Walker,400284,Chase Utley,R,Chris Iannetta,455104,1,1,4,False,2017-09-06,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+103,103,103,103,1B,,Caught Stealing 2B,641355,Cody Bellinger,425844,Zack Greinke,408236,Adrián González,R,Chris Iannetta,455104,1,1,7,False,2017-09-05,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+104,104,104,104,2B,,Caught Stealing 3B,543063,Brandon Crawford,425844,Zack Greinke,460026,Nick Hundley,R,Chris Iannetta,455104,0,1,2,True,2017-08-25,Caught,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+105,105,105,105,1B,2B,Stolen Base 2B,621439,Byron Buxton,640463,Braden Shipley,500871,Eduardo Escobar,R,Chris Iannetta,455104,12,4,5,False,2017-08-20,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+106,106,106,106,1B,2B,Stolen Base 2B,593871,Jorge Polanco,407822,Jorge De La Rosa,488771,Jason Castro,L,Chris Iannetta,455104,4,3,6,False,2017-08-18,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+107,107,107,107,1B,2B,Stolen Base 2B,608324,Alex Bregman,592836,Taijuan Walker,518542,Juan Centeno,R,Chris Iannetta,455104,1,0,2,False,2017-08-16,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+108,108,108,108,1B,2B,Stolen Base 2B,605233,Derek Fisher,592836,Taijuan Walker,543807,George Springer,R,Chris Iannetta,455104,3,1,4,False,2017-08-16,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+109,109,109,109,1B,2B,Stolen Base 2B,445055,Jon Jay,592836,Taijuan Walker,592178,Kris Bryant,R,Chris Iannetta,455104,0,3,2,True,2017-08-11,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+110,110,110,110,1B,2B,Stolen Base 2B,523253,Logan Forsythe,545332,Jake Barrett,605131,Austin Barnes,R,Chris Iannetta,455104,2,6,5,True,2017-08-10,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+111,111,111,111,1B,2B,Stolen Base 2B,571718,Brian Goodwin,605177,Andrew Chafin,547180,Bryce Harper,L,Chris Iannetta,455104,2,4,9,True,2017-07-22,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+112,112,112,112,2B,,Caught Stealing 3B,571740,Billy Hamilton,571578,Patrick Corbin,458015,Joey Votto,L,Chris Iannetta,455104,0,3,1,False,2017-07-20,Caught,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+113,113,113,113,1B,2B,Stolen Base 2B,571740,Billy Hamilton,571578,Patrick Corbin,458015,Joey Votto,L,Chris Iannetta,455104,0,1,3,True,2017-07-09,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+114,114,114,114,1B,,Caught Stealing 2B,523253,Logan Forsythe,592662,Robbie Ray,621035,Chris Taylor,L,Chris Iannetta,455104,0,0,3,False,2017-07-06,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+115,115,115,115,2B,3B,Stolen Base 3B,621035,Chris Taylor,407822,Jorge De La Rosa,518735,Yasmani Grandal,L,Chris Iannetta,455104,4,0,8,False,2017-07-04,Stolen,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+116,116,116,116,1B,2B,Stolen Base 2B,596115,Trevor Story,592836,Taijuan Walker,452672,Ryan Hanigan,R,Chris Iannetta,455104,2,2,6,True,2017-07-02,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+117,117,117,117,1B,2B,Stolen Base 2B,502054,Tommy Pham,517414,Randall Delgado,572761,Matt Carpenter,R,Chris Iannetta,455104,3,7,8,True,2017-06-29,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+118,118,118,118,1B,2B,Stolen Base 2B,502054,Tommy Pham,592836,Taijuan Walker,576397,Jedd Gyorko,R,Chris Iannetta,455104,0,1,1,True,2017-06-27,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+119,119,119,119,2B,3B,Stolen Base 3B,572039,Stephen Piscotty,592836,Taijuan Walker,425877,Yadier Molina,R,Chris Iannetta,455104,0,1,6,True,2017-06-27,Stolen,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+120,120,120,120,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,592836,Taijuan Walker,425877,Yadier Molina,R,Chris Iannetta,455104,0,1,6,True,2017-06-27,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+121,121,121,121,1B,,Caught Stealing 2B,570267,Domingo Santana,407845,Fernando Rodney,542583,Jesús Aguilar,R,Chris Iannetta,455104,3,2,9,True,2017-06-10,Caught,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+122,122,122,122,1B,2B,Stolen Base 2B,488818,Chase d'Arnaud,543331,J.J. Hoover,517369,José Pirela,R,Chris Iannetta,455104,4,3,6,True,2017-06-08,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+123,123,123,123,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,640463,Braden Shipley,519317,Giancarlo Stanton,R,Chris Iannetta,455104,3,1,2,False,2017-06-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+124,124,124,124,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,517414,Randall Delgado,446653,Jose Lobaton,R,Chris Iannetta,455104,3,0,5,False,2017-05-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+125,125,125,125,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,517414,Randall Delgado,446653,Jose Lobaton,R,Chris Iannetta,455104,3,1,7,False,2017-05-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+126,126,126,126,2B,3B,Stolen Base 3B,607208,Trea Turner,452666,Tom Wilhelmsen,502317,Chris Heisey,R,Chris Iannetta,455104,4,1,8,False,2017-05-04,Stolen,3B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+127,127,127,127,1B,2B,Stolen Base 2B,150029,Jayson Werth,452666,Tom Wilhelmsen,502317,Chris Heisey,R,Chris Iannetta,455104,4,1,8,False,2017-05-04,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+128,128,128,128,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,407845,Fernando Rodney,543063,Brandon Crawford,R,Chris Iannetta,455104,3,4,9,False,2017-04-11,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+129,129,129,129,1B,2B,Stolen Base 2B,488726,Michael Brantley,571946,Shelby Miller,429665,Edwin Encarnación,R,Chris Iannetta,455104,2,3,5,True,2017-04-07,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3
+130,130,130,130,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,592836,Taijuan Walker,592620,Jarrett Parker,R,Chris Iannetta,455104,0,0,2,True,2017-04-05,Stolen,2B,2017,2018,27.3,2018,27.3,2018,27.3,2018,27.3

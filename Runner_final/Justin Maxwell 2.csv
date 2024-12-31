@@ -1,0 +1,2 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1548,1B,2B,Stolen Base 2B,452239,Justin Maxwell,475115,Tyson Ross,431171,Casey McGehee,R,Derek Norris,519083,0,0,2,False,2015-05-04,Stolen,2B

@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,674444,Steven Cruz,650402,Gleyber Torres,R,Logan Porter,682515,0,0,1,True,2023-09-30,Stolen,2B,2023,2024,26.1
+1,1B,2B,Stolen Base 2B,665926,Andrés Giménez,679525,Alec Marsh,672356,Gabriel Arias,R,Logan Porter,682515,7,2,6,True,2023-09-19,Stolen,2B,2023,2024,26.1
+2,1B,2B,Stolen Base 2B,608070,José Ramírez,663903,Brady Singer,647304,Josh Naylor,R,Logan Porter,682515,0,2,3,True,2023-09-18,Stolen,2B,2023,2024,26.1
+3,1B,,Caught Stealing 2B,665926,Andrés Giménez,663903,Brady Singer,686823,Will Brennan,R,Logan Porter,682515,1,4,6,True,2023-09-18,Caught,2B,2023,2024,26.1
+4,1B,2B,Stolen Base 2B,666310,Bo Naylor,656353,Tucker Davidson,664702,Myles Straw,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B,2023,2024,26.1
+5,1B,2B,Stolen Base 2B,664702,Myles Straw,656353,Tucker Davidson,680757,Steven Kwan,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B,2023,2024,26.1
+6,1B,2B,Stolen Base 2B,665926,Andrés Giménez,663804,Jackson Kowar,672356,Gabriel Arias,R,Logan Porter,682515,2,4,8,True,2023-09-18,Stolen,2B,2023,2024,26.1
+7,1B,2B,Stolen Base 2B,676801,Chas McCormick,543475,Jordan Lyles,665161,Jeremy Peña,R,Logan Porter,682515,0,0,2,True,2023-09-17,Stolen,2B,2023,2024,26.1
+8,1B,2B,Stolen Base 2B,676801,Chas McCormick,656353,Tucker Davidson,665161,Jeremy Peña,L,Logan Porter,682515,1,4,8,True,2023-09-17,Stolen,2B,2023,2024,26.1
+9,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,674444,Steven Cruz,650402,Gleyber Torres,R,Logan Porter,682515,0,0,1,True,2023-09-30,Stolen,2B,2023,2024,26.1
+10,1B,2B,Stolen Base 2B,665926,Andrés Giménez,679525,Alec Marsh,672356,Gabriel Arias,R,Logan Porter,682515,7,2,6,True,2023-09-19,Stolen,2B,2023,2024,26.1
+11,1B,2B,Stolen Base 2B,608070,José Ramírez,663903,Brady Singer,647304,Josh Naylor,R,Logan Porter,682515,0,2,3,True,2023-09-18,Stolen,2B,2023,2024,26.1
+12,1B,,Caught Stealing 2B,665926,Andrés Giménez,663903,Brady Singer,686823,Will Brennan,R,Logan Porter,682515,1,4,6,True,2023-09-18,Caught,2B,2023,2024,26.1
+13,1B,2B,Stolen Base 2B,666310,Bo Naylor,656353,Tucker Davidson,664702,Myles Straw,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B,2023,2024,26.1
+14,1B,2B,Stolen Base 2B,664702,Myles Straw,656353,Tucker Davidson,680757,Steven Kwan,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B,2023,2024,26.1
+15,1B,2B,Stolen Base 2B,665926,Andrés Giménez,663804,Jackson Kowar,672356,Gabriel Arias,R,Logan Porter,682515,2,4,8,True,2023-09-18,Stolen,2B,2023,2024,26.1
+16,1B,2B,Stolen Base 2B,676801,Chas McCormick,543475,Jordan Lyles,665161,Jeremy Peña,R,Logan Porter,682515,0,0,2,True,2023-09-17,Stolen,2B,2023,2024,26.1
+17,1B,2B,Stolen Base 2B,676801,Chas McCormick,656353,Tucker Davidson,665161,Jeremy Peña,L,Logan Porter,682515,1,4,8,True,2023-09-17,Stolen,2B,2023,2024,26.1
+18,1B,2B,Stolen Base 2B,669222,Nick Senzel,641745,Brad Keller,641584,Jake Fraley,R,Logan Porter,682515,7,4,4,False,2022-04-04,Stolen,2B,2022,2023,25.7
+19,1B,2B,Stolen Base 2B,663697,Jonathan India,641745,Brad Keller,571980,Tyler Naquin,R,Logan Porter,682515,7,4,4,False,2022-04-04,Stolen,2B,2022,2023,25.7
+20,2B,,Caught Stealing 3B,699115,Carlos Jorge,669395,Dylan Coleman,694200,Ariel Almonte,R,Logan Porter,682515,10,6,8,False,2022-04-04,Caught,3B,2022,2023,25.7

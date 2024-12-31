@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1806,1B,2B,Stolen Base 2B,668670,Jake Rogers,608337,Lucas Giolito,543257,Robbie Grossman,R,Yermín Mercedes,606213,1,2,2,True,2021-06-05,Stolen,2B
+925,1B,2B,Stolen Base 2B,668670,Jake Rogers,664285,Framber Valdez,682985,Riley Greene,L,Martín Maldonado,455117,0,0,2,False,2023-08-25,Stolen,2B
+3730,1B,2B,Stolen Base 2B,668670,Jake Rogers,608337,Lucas Giolito,543257,Robbie Grossman,R,Yermín Mercedes,606213,1,2,2,True,2021-06-05,Stolen,2B
+2063,1B,2B,Stolen Base 2B,668670,Jake Rogers,664747,Alexis Díaz,678009,Parker Meadows,R,Austin Wynns,642851,1,5,8,True,2024-07-07,Stolen,2B
+5339,1B,2B,Stolen Base 2B,668670,Jake Rogers,664285,Framber Valdez,682985,Riley Greene,L,Martín Maldonado,455117,0,0,2,False,2023-08-25,Stolen,2B

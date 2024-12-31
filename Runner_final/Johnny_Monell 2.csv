@@ -1,0 +1,5 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y,Current_Year_x,Sprint_x,Current_Year_y,Sprint_y
+0,0,0,0,2B,3B,Stolen Base 3B,518792,Jason Heyward,112526,Bartolo Colon,448602,Mark Reynolds,R,Johnny Monell,476192,6,0,5,False,2015-07-18,Stolen,3B,2015,2016,27.7,2016,27.7,2016,27.7,2016,27.7
+1,1,1,1,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,571927,Steven Matz,592626,Joc Pederson,L,Johnny Monell,476192,0,1,2,False,2015-07-05,Stolen,2B,2015,2016,27.7,2016,27.7,2016,27.7,2016,27.7
+2,2,2,2,1B,2B,Stolen Base 2B,458085,Chris Coghlan,548337,Logan Verrett,456121,Chris Denorfia,R,Johnny Monell,476192,1,4,8,True,2015-07-02,Stolen,2B,2015,2016,27.7,2016,27.7,2016,27.7,2016,27.7
+3,3,3,3,1B,,Caught Stealing 2B,572039,Stephen Piscotty,592340,Erik Goeddel,571841,Ty Kelly,R,Johnny Monell,476192,0,0,8,False,2015-04-02,Caught,2B,2015,2016,27.7,2016,27.7,2016,27.7,2016,27.7

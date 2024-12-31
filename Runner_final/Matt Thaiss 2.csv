@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2054,1B,2B,Stolen Base 2B,642136,Matt Thaiss,668678,Zac Gallen,500871,Eduardo Escobar,R,Carson Kelly,608348,4,2,7,False,2023-07-02,Stolen,2B
+2861,1B,2B,Stolen Base 2B,642136,Matt Thaiss,521230,Liam Hendriks,570482,Gio Urshela,R,Seby Zavala,664874,3,4,8,True,2023-05-29,Stolen,2B
+1275,1B,2B,Stolen Base 2B,642136,Matt Thaiss,669022,MacKenzie Gore,694384,Nolan Schanuel,L,Riley Adams,656180,0,0,2,True,2024-08-11,Stolen,2B
+1545,1B,2B,Stolen Base 2B,642136,Matt Thaiss,663567,Peter Lambert,666176,Jo Adell,R,Elias Díaz,553869,7,6,4,False,2024-07-30,Stolen,2B
+1547,1B,2B,Stolen Base 2B,642136,Matt Thaiss,664875,Justin Lawrence,666176,Jo Adell,R,Elias Díaz,553869,10,7,8,False,2024-07-30,Stolen,2B
+6468,1B,2B,Stolen Base 2B,642136,Matt Thaiss,668678,Zac Gallen,500871,Eduardo Escobar,R,Carson Kelly,608348,4,2,7,False,2023-07-02,Stolen,2B
+7275,1B,2B,Stolen Base 2B,642136,Matt Thaiss,521230,Liam Hendriks,570482,Gio Urshela,R,Seby Zavala,664874,3,4,8,True,2023-05-29,Stolen,2B
