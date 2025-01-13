@@ -1,0 +1,281 @@
+,Outcome,Inplay,Event,Pitch,Description,Start_speed,End_speed,breakAngle,breakLength,breakY,breakVertical,breakHorizontal,breakVerticalInduced,spinRate,location,batter_name,batter_side,batter_split,pitcher_id,pitcher_name,pitcher_hand,pitcher_split,Date
+0,C,False,,Sinker,Called Strike,90.3,82.8,24.0,6.0,24.0,,,,1638,,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+1,B,False,,Cutter,Ball,89.7,82.8,15.6,6.0,24.0,,,,1401,,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+2,C,False,,Cutter,Called Strike,90.2,84.0,15.6,6.0,24.0,,,,1307,,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+3,X,True,,Changeup,"In play, out(s)",83.9,78.1,22.8,8.4,24.0,,,,1659,8,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+4,C,False,,Sinker,Called Strike,91.4,84.9,32.4,7.2,24.0,,,,2189,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+5,C,False,,Cutter,Called Strike,90.5,84.1,12.0,4.8,24.0,,,,1372,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+6,B,False,,Cutter,Ball,91.0,83.7,15.6,4.8,24.0,,,,1685,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+7,F,False,,Cutter,Foul,90.6,84.2,10.8,4.8,24.0,,,,1288,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+8,C,False,,Curveball,Called Strike,77.7,72.8,12.0,10.8,24.0,,,,1019,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+9,S,False,,Cutter,Swinging Strike,91.5,84.7,7.2,4.8,24.0,,,,1233,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+10,F,False,,Changeup,Foul,84.8,79.8,15.6,9.6,24.0,,,,1333,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+11,B,False,,Curveball,Ball,79.7,74.6,3.6,9.6,24.0,,,,186,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+12,F,False,,Cutter,Foul,90.4,83.9,6.0,6.0,24.0,,,,932,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+13,B,False,,Sinker,Ball,92.1,85.6,34.8,6.0,24.0,,,,2056,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+14,S,False,,Sinker,Swinging Strike,91.9,84.4,34.8,6.0,24.0,,,,2182,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+15,C,False,,Changeup,Called Strike,84.6,77.8,27.6,7.2,24.0,,,,1965,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+16,X,True,,Slider,"In play, out(s)",81.7,76.5,10.8,8.4,24.0,,,,679,9,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+17,B,False,,Four-Seam Fastball,Ball,87.9,80.7,1.2,4.8,24.0,,,,1858,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+18,B,False,,Cutter,Ball,87.1,80.6,6.0,3.6,24.0,,,,1961,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+19,X,True,,Cutter,"In play, out(s)",86.9,80.3,3.6,4.8,24.0,,,,1556,4,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+20,X,True,,Sinker,"In play, out(s)",87.7,82.0,20.4,7.2,24.0,,,,1359,4,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+21,C,False,,Sinker,Called Strike,91.9,85.0,30.0,7.2,24.0,,,,1892,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+22,B,False,,Sinker,Ball,92.1,85.1,34.8,8.4,24.0,,,,2607,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+23,F,False,,Cutter,Foul,90.3,84.6,7.2,4.8,24.0,,,,1273,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+24,S,False,,Sinker,Swinging Strike,92.6,86.5,34.8,7.2,24.0,,,,2359,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+25,C,False,,Cutter,Called Strike,90.9,84.4,8.4,4.8,24.0,,,,1247,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+26,X,True,,Changeup,"In play, out(s)",86.1,80.1,18.0,9.6,24.0,,,,1654,6,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+27,S,False,,Cutter,Swinging Strike,90.7,84.6,8.4,4.8,24.0,,,,1142,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+28,B,False,,Sinker,Ball,91.9,83.9,34.8,7.2,24.0,,,,2348,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+29,S,False,,Curveball,Swinging Strike,77.8,72.9,12.0,9.6,24.0,,,,788,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+30,S,False,,Curveball,Swinging Strike,78.0,72.7,13.2,9.6,24.0,,,,868,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+31,D,True,,Sinker,"In play, no out",85.8,79.2,20.4,7.2,24.0,,,,1396,8,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+32,C,False,,Four-Seam Fastball,Called Strike,85.8,78.5,14.4,7.2,24.0,,,,1250,,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+33,B,False,,Curveball,Ball,73.1,66.8,10.8,16.8,24.0,,,,2124,,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+34,B,False,,Curveball,Ball,72.8,66.6,8.4,16.8,24.0,,,,2255,,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+35,B,False,,Sinker,Ball,86.8,79.5,33.6,7.2,24.0,,,,2325,,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+36,X,True,,Four-Seam Fastball,"In play, out(s)",86.3,78.9,9.6,6.0,24.0,,,,1077,4,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+37,C,False,,Slider,Called Strike,82.1,77.0,8.4,9.6,24.0,,,,648,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+38,B,False,,Four-Seam Fastball,Ball,89.0,82.6,22.8,4.8,24.0,,,,1873,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+39,X,True,,Four-Seam Fastball,"In play, out(s)",88.4,82.5,18.0,6.0,24.0,,,,1397,4,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+40,B,False,,Cutter,Ball,89.9,83.0,16.8,4.8,24.0,,,,1740,,Brett Wallace,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+41,F,False,,Cutter,Foul,90.1,84.2,15.6,6.0,24.0,,,,1218,,Brett Wallace,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+42,B,False,,Cutter,Ball,89.6,83.4,6.0,6.0,24.0,,,,1116,,Brett Wallace,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+43,S,False,,Cutter,Swinging Strike,89.0,83.0,7.2,6.0,24.0,,,,1153,,Brett Wallace,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+44,X,True,,Sinker,"In play, out(s)",91.4,84.4,26.4,6.0,24.0,,,,1728,5,Brett Wallace,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+45,B,False,,Sinker,Ball,92.1,85.8,24.0,7.2,24.0,,,,1531,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+46,B,False,,Cutter,Ball,89.6,84.1,0.0,6.0,24.0,,,,974,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+47,B,False,,Cutter,Ball,89.6,83.1,9.6,6.0,24.0,,,,881,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+48,C,False,,Sinker,Called Strike,90.5,83.7,26.4,7.2,24.0,,,,1733,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+49,F,False,,Sinker,Foul,90.4,83.1,27.6,8.4,24.0,,,,1976,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+50,T,False,,Cutter,Foul Tip,89.5,83.1,3.6,6.0,24.0,,,,873,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+51,B,False,,Cutter,Ball,91.0,84.4,4.8,4.8,24.0,,,,1322,,Brett Myers,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+52,C,False,,Cutter,Called Strike,90.3,83.5,7.2,6.0,24.0,,,,1128,,Brett Myers,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+53,S,False,,Cutter,Swinging Strike,90.3,84.0,14.4,4.8,24.0,,,,1685,,Brett Myers,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+54,D,True,,Curveball,"In play, no out",78.2,73.7,3.6,9.6,24.0,,,,185,8,Brett Myers,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+55,C,False,,Cutter,Called Strike,90.5,83.9,7.2,6.0,24.0,,,,891,,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+56,X,True,,Sinker,"In play, out(s)",91.5,84.2,26.4,6.0,24.0,,,,1785,3,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+57,C,False,,Slider,Called Strike,80.0,72.9,6.0,9.6,24.0,,,,308,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+58,B,False,,Four-Seam Fastball,Ball,86.8,79.9,8.4,6.0,24.0,,,,1103,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+59,X,True,,Slider,"In play, out(s)",81.8,75.3,3.6,9.6,24.0,,,,408,5,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+60,B,False,,Four-Seam Fastball,Ball,88.9,82.0,13.2,4.8,24.0,,,,1587,,Wilson Valdez,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+61,D,True,,Slider,"In play, no out",80.4,75.3,8.4,9.6,24.0,,,,528,7,Wilson Valdez,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+62,B,False,,Four-Seam Fastball,Ball,88.5,81.3,10.8,3.6,24.0,,,,2224,,Roy Halladay,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+63,X,True,,Four-Seam Fastball,"In play, out(s)",89.0,82.0,27.6,3.6,24.0,,,,2403,6,Roy Halladay,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+64,B,False,,Curveball,Ball,75.5,69.2,8.4,14.4,24.0,,,,1580,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+65,B,False,,Curveball,Ball,72.3,65.8,8.4,18.0,24.0,,,,2448,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+66,C,False,,Sinker,Called Strike,87.0,79.6,27.6,6.0,24.0,,,,2078,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+67,B,False,,Four-Seam Fastball,Ball,86.8,80.2,18.0,4.8,24.0,,,,1913,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+68,X,True,,Sinker,"In play, out(s)",85.9,79.7,24.0,6.0,24.0,,,,1762,8,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+69,S,False,,Cutter,Swinging Strike,89.0,82.7,18.0,4.8,24.0,,,,1699,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+70,B,False,,Sinker,Ball,90.7,83.4,34.8,8.4,24.0,,,,2369,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+71,B,False,,Curveball,Ball,77.5,71.9,0.0,9.6,24.0,,,,288,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+72,F,False,,Cutter,Foul,90.4,83.3,6.0,4.8,24.0,,,,1237,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+73,F,False,,Cutter,Foul,90.6,83.6,9.6,6.0,24.0,,,,1072,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+74,B,False,,Cutter,Ball,88.1,82.5,3.6,6.0,24.0,,,,612,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+75,D,True,,Sinker,"In play, no out",90.9,84.1,28.8,7.2,24.0,,,,1919,1,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+76,X,True,,Sinker,"In play, out(s)",91.1,84.1,36.0,8.4,24.0,,,,2472,6,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+77,F,False,,Cutter,Foul,89.5,81.9,9.6,6.0,24.0,,,,1069,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+78,F,False,,Sinker,Foul,91.4,83.7,25.2,7.2,24.0,,,,1642,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+79,X,True,,Cutter,"In play, out(s)",90.6,84.2,8.4,4.8,24.0,,,,1202,8,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+80,B,False,,Curveball,Ball,75.8,70.9,12.0,13.2,24.0,,,,1377,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+81,S,False,,Cutter,Swinging Strike,90.0,83.7,13.2,4.8,24.0,,,,1329,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+82,B,False,,Cutter,Ball,89.6,82.9,8.4,6.0,24.0,,,,1139,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+83,X,True,,Curveball,"In play, out(s)",78.1,72.8,8.4,9.6,24.0,,,,557,7,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+84,B,False,,Four-Seam Fastball,Ball,86.9,80.1,7.2,4.8,24.0,,,,1529,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+85,X,True,,Slider,"In play, out(s)",80.5,74.9,7.2,9.6,24.0,,,,485,9,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+86,C,False,,Sinker,Called Strike,86.5,80.4,21.6,6.0,24.0,,,,1601,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+87,C,False,,Curveball,Called Strike,73.2,67.8,10.8,15.6,24.0,,,,2165,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+88,B,False,,Curveball,Ball,76.5,70.5,8.4,14.4,24.0,,,,1616,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+89,B,False,,Sinker,Ball,88.7,81.8,26.4,6.0,24.0,,,,1939,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+90,B,False,,Curveball,Ball,75.3,70.1,6.0,15.6,24.0,,,,1747,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+91,X,True,,Changeup,"In play, out(s)",80.7,75.2,22.8,8.4,24.0,,,,1605,5,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+92,X,True,,Sinker,"In play, out(s)",87.4,80.0,22.8,6.0,24.0,,,,1651,3,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+93,B,False,,Sinker,Ball,89.4,82.3,27.6,6.0,24.0,,,,1751,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+94,S,False,,Cutter,Swinging Strike,89.1,82.3,12.0,4.8,24.0,,,,1533,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+95,F,False,,Sinker,Foul,90.1,82.8,36.0,7.2,24.0,,,,2393,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+96,B,False,,Sinker,Ball,92.1,84.2,38.4,9.6,24.0,,,,3010,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+97,F,False,,Cutter,Foul,89.7,82.6,10.8,4.8,24.0,,,,1324,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+98,B,False,,Sinker,Ball,92.1,84.6,39.6,7.2,24.0,,,,2598,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+99,F,False,,Cutter,Foul,92.0,84.2,16.8,6.0,24.0,,,,1357,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+100,S,False,,Cutter,Swinging Strike,90.7,84.4,10.8,4.8,24.0,,,,1268,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+101,B,False,,Sinker,Ball,92.0,85.1,32.4,7.2,24.0,,,,2148,,Brett Wallace,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+102,X,True,,Cutter,"In play, out(s)",89.4,81.4,10.8,6.0,24.0,,,,1236,4,Brett Wallace,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+103,B,False,,Sinker,Ball,91.1,82.8,33.6,7.2,24.0,,,,2291,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+104,S,False,,Cutter,Swinging Strike,90.3,83.4,3.6,4.8,24.0,,,,1452,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+105,B,False,,Sinker,Ball,90.6,84.2,27.6,8.4,24.0,,,,1918,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+106,S,False,,Cutter,Swinging Strike,91.2,84.7,12.0,4.8,24.0,,,,1407,,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+107,D,True,,Cutter,"In play, no out",90.7,84.4,14.4,6.0,24.0,,,,1149,9,Humberto Quintero,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+108,B,False,,Cutter,Ball,90.8,83.9,3.6,6.0,24.0,,,,963,,Brett Myers,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+109,F,False,,Cutter,Foul,90.6,83.7,13.2,4.8,24.0,,,,1389,,Brett Myers,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+110,D,True,,Cutter,"In play, no out",90.6,83.7,7.2,6.0,24.0,,,,1056,9,Brett Myers,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+111,B,False,,Cutter,Ball,90.2,83.4,19.2,6.0,24.0,,,,1331,,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+112,B,False,,Cutter,Ball,89.6,82.6,13.2,6.0,24.0,,,,1179,,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+113,C,False,,Cutter,Called Strike,90.5,83.5,18.0,6.0,24.0,,,,1342,,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+114,X,True,,Cutter,"In play, out(s)",90.1,83.7,2.4,4.8,24.0,,,,1041,9,Michael Bourn,L,vs_RHP,136880,Roy Halladay,R,vs_LHB,2011-04-01
+115,C,False,,Sinker,Called Strike,86.6,79.9,26.4,6.0,24.0,,,,1816,,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+116,B,False,,Slider,Ball,81.0,75.2,7.2,8.4,24.0,,,,454,,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+117,X,True,,Changeup,"In play, out(s)",80.6,74.4,32.4,9.6,24.0,,,,2364,4,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+118,B,False,,Four-Seam Fastball,Ball,87.7,80.6,26.4,3.6,24.0,,,,2403,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+119,X,True,,Sinker,"In play, out(s)",87.2,80.1,34.8,7.2,24.0,,,,2317,5,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+120,B,False,,Slider,Ball,82.5,77.0,4.8,8.4,24.0,,,,411,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+121,B,False,,Slider,Ball,81.3,75.4,4.8,8.4,24.0,,,,306,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+122,C,False,,Changeup,Called Strike,80.0,73.7,2.4,9.6,24.0,,,,129,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+123,T,False,,Four-Seam Fastball,Foul Tip,88.2,81.2,9.6,4.8,24.0,,,,1422,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+124,X,True,,Four-Seam Fastball,"In play, out(s)",88.8,81.5,10.8,4.8,24.0,,,,1362,8,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+125,C,False,,Sinker,Called Strike,88.0,80.1,22.8,6.0,24.0,,,,1812,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+126,F,False,,Sinker,Foul,88.1,80.8,27.6,6.0,24.0,,,,1939,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+127,F,False,,Changeup,Foul,82.3,77.3,20.4,8.4,24.0,,,,1551,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+128,B,False,,Changeup,Ball,81.8,76.6,27.6,9.6,24.0,,,,2122,,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+129,D,True,,Curveball,"In play, no out",76.8,71.6,12.0,10.8,24.0,,,,857,4,Angel Sanchez,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+130,F,False,,Cutter,Foul,88.6,82.6,10.8,6.0,24.0,,,,1120,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+131,B,False,,Sinker,Ball,90.8,83.1,32.4,7.2,24.0,,,,2182,,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+132,D,True,,Cutter,"In play, no out",88.7,81.5,6.0,6.0,24.0,,,,824,9,Hunter Pence,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+133,B,False,,Sinker,Ball,90.3,83.4,30.0,8.4,24.0,,,,2128,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+134,B,False,,Sinker,Ball,89.8,83.4,27.6,8.4,24.0,,,,2045,,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+135,X,True,,Curveball,"In play, out(s)",76.9,71.7,8.4,12.0,24.0,,,,802,4,Carlos Lee,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+136,F,False,,Cutter,Foul,89.2,82.4,10.8,6.0,24.0,,,,1031,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+137,F,False,,Cutter,Foul,89.7,83.3,10.8,6.0,24.0,,,,1136,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+138,B,False,,Cutter,Ball,90.4,83.7,15.6,4.8,24.0,,,,1685,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+139,F,False,,Sinker,Foul,90.4,82.5,33.6,6.0,24.0,,,,2100,,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+140,E,True,Groundout,Sinker,"In play, run(s)",90.7,82.5,30.0,8.4,24.0,,,,2243,4,Bill Hall,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+141,B,False,,Curveball,Ball,77.1,70.9,6.0,10.8,24.0,,,,355,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+142,C,False,,Curveball,Called Strike,76.7,69.7,7.2,10.8,24.0,,,,420,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+143,T,False,,Cutter,Foul Tip,89.8,81.8,18.0,6.0,24.0,,,,1523,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+144,*B,False,,Changeup,Ball In Dirt,84.0,79.1,15.6,8.4,24.0,,,,1243,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+145,F,False,,Cutter,Foul,89.0,82.2,7.2,4.8,24.0,,,,1296,,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+146,X,True,,Curveball,"In play, out(s)",75.9,70.0,9.6,10.8,24.0,,,,649,7,Chris Johnson,R,vs_RHP,136880,Roy Halladay,R,vs_RHB,2011-04-01
+147,C,False,,Changeup,Called Strike,85.3,78.9,4.8,6.0,24.0,,,,1135,,Wilson Valdez,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+148,X,True,,Changeup,"In play, out(s)",78.7,73.0,25.2,7.2,24.0,,,,2018,7,Wilson Valdez,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+149,B,False,,Changeup,Ball,83.6,75.3,19.2,6.0,24.0,,,,1888,,Pete Orr,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+150,C,False,,Changeup,Called Strike,79.4,74.0,1.2,9.6,24.0,,,,96,,Pete Orr,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+151,X,True,,Changeup,"In play, out(s)",80.7,74.5,24.0,7.2,24.0,,,,1777,3,Pete Orr,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+152,B,False,,Sinker,Ball,86.0,80.0,24.0,7.2,24.0,,,,1668,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+153,B,False,,Sinker,Ball,87.3,81.7,24.0,7.2,24.0,,,,1614,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+154,B,False,,Sinker,Ball,86.3,79.3,24.0,6.0,24.0,,,,1630,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+155,C,False,,Sinker,Called Strike,86.1,78.8,26.4,7.2,24.0,,,,1849,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+156,B,False,,Sinker,Ball,86.0,79.8,27.6,7.2,24.0,,,,1844,,Shane Victorino,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+157,B,False,,Slider,Ball,81.7,76.0,7.2,9.6,24.0,,,,500,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+158,C,False,,Four-Seam Fastball,Called Strike,86.8,80.4,6.0,4.8,24.0,,,,1787,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+159,B,False,,Sinker,Ball,85.9,78.9,28.8,7.2,24.0,,,,2100,,Brett Wallace,L,vs_LHP,240694,J.C. Romero,L,vs_LHB,2011-04-01
+160,F,False,,Four-Seam Fastball,Foul,86.4,77.9,25.2,4.8,24.0,,,,2103,,Brett Wallace,L,vs_LHP,240694,J.C. Romero,L,vs_LHB,2011-04-01
+161,D,True,,Sinker,"In play, no out",87.6,80.3,27.6,7.2,24.0,,,,1925,7,Brett Wallace,L,vs_LHP,240694,J.C. Romero,L,vs_LHB,2011-04-01
+162,B,False,,Sinker,Ball,88.9,80.9,38.4,7.2,24.0,,,,2542,,Humberto Quintero,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+163,D,True,,Sinker,"In play, no out",89.9,82.2,38.4,8.4,24.0,,,,2611,9,Humberto Quintero,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+164,M,False,,Sinker,Missed Bunt,87.5,81.2,30.0,7.2,24.0,,,,2039,,Brett Myers,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+165,B,False,,Sinker,Ball,88.3,80.9,42.0,7.2,24.0,,,,2867,,Brett Myers,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+166,L,False,,Sinker,Foul Bunt,88.9,81.7,42.0,7.2,24.0,,,,2747,,Brett Myers,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+167,B,False,,Sinker,Ball,90.3,83.8,40.8,7.2,24.0,,,,2697,,Brett Myers,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+168,X,True,,Sinker,"In play, out(s)",90.1,83.0,37.2,7.2,24.0,,,,2532,3,Brett Myers,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+169,B,False,,Sinker,Ball,90.5,83.8,28.8,7.2,24.0,,,,1886,,Michael Bourn,L,vs_RHP,458589,David Herndon,R,vs_LHB,2011-04-01
+170,E,True,Triple,Sinker,"In play, run(s)",89.5,83.0,31.2,7.2,24.0,,,,2118,8,Michael Bourn,L,vs_RHP,458589,David Herndon,R,vs_LHB,2011-04-01
+171,E,True,Sac Fly,Sinker,"In play, run(s)",90.8,85.0,34.8,7.2,24.0,,,,2259,9,Angel Sanchez,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+172,B,False,,Slider,Ball,81.6,75.9,1.2,9.6,24.0,,,,183,,Hunter Pence,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+173,C,False,,Slider,Called Strike,81.6,75.5,0.0,9.6,24.0,,,,484,,Hunter Pence,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+174,B,False,,Sinker,Ball,90.7,83.3,36.0,7.2,24.0,,,,2414,,Hunter Pence,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+175,X,True,,Sinker,"In play, out(s)",89.3,83.3,30.0,7.2,24.0,,,,2043,3,Hunter Pence,R,vs_RHP,458589,David Herndon,R,vs_RHB,2011-04-01
+176,B,False,,Four-Seam Fastball,Ball,85.9,79.2,20.4,4.8,24.0,,,,2092,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+177,C,False,,Four-Seam Fastball,Called Strike,85.6,79.6,14.4,4.8,24.0,,,,1855,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+178,B,False,,Sinker,Ball,85.6,79.2,22.8,6.0,24.0,,,,1819,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+179,B,False,,Changeup,Ball,84.5,79.5,2.4,6.0,24.0,,,,1005,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+180,B,False,,Changeup,Ball,85.0,79.7,0.0,7.2,24.0,,,,539,,Placido Polanco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+181,C,False,,Changeup,Called Strike,82.7,76.6,18.0,8.4,24.0,,,,1287,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+182,B,False,,Curveball,Ball,71.5,65.8,7.2,16.8,24.0,,,,2163,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+183,F,False,,Changeup,Foul,83.6,76.6,16.8,7.2,24.0,,,,1340,,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+184,D,True,,Curveball,"In play, no out",73.8,67.8,8.4,16.8,24.0,,,,2245,9,Jimmy Rollins,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+185,C,False,,Four-Seam Fastball,Called Strike,85.5,78.8,13.2,6.0,24.0,,,,1376,,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+186,F,False,,Slider,Foul,82.2,76.6,3.6,9.6,24.0,,,,420,,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+187,B,False,,Four-Seam Fastball,Ball,87.2,81.3,4.8,4.8,24.0,,,,1201,,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+188,F,False,,Curveball,Foul,75.7,69.9,7.2,15.6,24.0,,,,2131,,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+189,B,False,,Curveball,Ball,78.5,73.4,7.2,12.0,24.0,,,,1293,,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+190,E,True,Sac Fly,Curveball,"In play, run(s)",74.5,68.1,7.2,15.6,24.0,,,,1640,8,Ryan Howard,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+191,F,False,,Changeup,Foul,80.2,73.7,25.2,10.8,24.0,,,,1954,,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+192,E,True,Groundout,Slider,"In play, run(s)",81.4,74.5,6.0,8.4,24.0,,,,480,3,Raul Ibanez,L,vs_RHP,408206,Brett Myers,R,vs_LHB,2011-04-01
+193,B,False,,Slider,Ball,82.1,76.2,2.4,9.6,24.0,,,,61,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+194,B,False,,Slider,Ball,80.9,76.5,6.0,9.6,24.0,,,,559,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+195,F,False,,Four-Seam Fastball,Foul,88.1,80.6,1.2,3.6,24.0,,,,1968,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+196,B,False,,Four-Seam Fastball,Ball,88.7,81.5,1.2,4.8,24.0,,,,1779,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+197,S,False,,Four-Seam Fastball,Swinging Strike,88.7,81.3,25.2,3.6,24.0,,,,2270,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+198,F,False,,Four-Seam Fastball,Foul,88.8,83.0,12.0,3.6,24.0,,,,1852,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+199,B,False,,Four-Seam Fastball,Ball,87.6,81.6,18.0,4.8,24.0,,,,1664,,Ben Francisco,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+200,C,False,,Changeup,Called Strike,80.5,74.9,1.2,9.6,24.0,,,,300,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+201,B,False,,Curveball,Ball,73.7,67.8,8.4,15.6,24.0,,,,1766,,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+202,X,True,,Slider,"In play, out(s)",80.4,74.2,7.2,10.8,24.0,,,,719,8,Carlos Ruiz,R,vs_RHP,408206,Brett Myers,R,vs_RHB,2011-04-01
+203,F,False,,Four-Seam Fastball,Foul,92.6,84.6,46.8,6.0,24.0,,,,2789,,Carlos Lee,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+204,X,True,,Sinker,"In play, out(s)",91.7,85.1,36.0,7.2,24.0,,,,2343,6,Carlos Lee,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+205,B,False,,Four-Seam Fastball,Ball,90.4,83.7,14.4,6.0,24.0,,,,1135,,Bill Hall,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+206,B,False,,Four-Seam Fastball,Ball,90.0,82.5,19.2,4.8,24.0,,,,1791,,Bill Hall,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+207,C,False,,Sinker,Called Strike,90.4,82.8,37.2,8.4,24.0,,,,2544,,Bill Hall,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+208,F,False,,Four-Seam Fastball,Foul,92.3,84.6,40.8,6.0,24.0,,,,2475,,Bill Hall,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+209,W,False,,Changeup,Swinging Strike (Blocked),82.3,76.1,31.2,9.6,24.0,,,,2443,,Bill Hall,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+210,B,False,,Four-Seam Fastball,Ball,90.3,84.2,16.8,4.8,24.0,,,,1490,,Chris Johnson,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+211,F,False,,Four-Seam Fastball,Foul,92.5,85.0,43.2,4.8,24.0,,,,2697,,Chris Johnson,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+212,F,False,,Cutter,Foul,89.8,82.6,8.4,6.0,24.0,,,,1166,,Chris Johnson,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+213,F,False,,Changeup,Foul,82.0,75.0,36.0,8.4,24.0,,,,2566,,Chris Johnson,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+214,W,False,,Changeup,Swinging Strike (Blocked),82.2,75.2,28.8,9.6,24.0,,,,2212,,Chris Johnson,R,vs_RHP,425492,Ryan Madson,R,vs_RHB,2011-04-01
+215,C,False,,Sinker,Called Strike,89.0,80.4,40.8,6.0,24.0,,,,2529,,Wilson Valdez,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+216,X,True,,Sinker,"In play, out(s)",90.4,82.3,43.2,6.0,24.0,,,,2645,4,Wilson Valdez,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+217,C,False,,Sinker,Called Strike,88.2,79.7,34.8,8.4,24.0,,,,2260,,Ross Gload,L,vs_RHP,446641,Wilton Lopez,R,vs_LHB,2011-04-01
+218,B,False,,Splitter,Ball,82.0,75.5,25.2,9.6,24.0,,,,1809,,Ross Gload,L,vs_RHP,446641,Wilton Lopez,R,vs_LHB,2011-04-01
+219,D,True,,Sinker,"In play, no out",87.2,82.5,26.4,7.2,24.0,,,,1759,7,Ross Gload,L,vs_RHP,446641,Wilton Lopez,R,vs_LHB,2011-04-01
+220,F,False,,Sinker,Foul,88.1,80.4,32.4,7.2,24.0,,,,2090,,Shane Victorino,L,vs_RHP,446641,Wilton Lopez,R,vs_LHB,2011-04-01
+221,F,False,,Sinker,Foul,88.5,82.0,37.2,9.6,24.0,,,,2659,,Shane Victorino,L,vs_RHP,446641,Wilton Lopez,R,vs_LHB,2011-04-01
+222,B,False,,Sinker,Ball,88.0,82.5,39.6,8.4,24.0,,,,2688,,Shane Victorino,L,vs_RHP,446641,Wilton Lopez,R,vs_LHB,2011-04-01
+223,X,True,,Sinker,"In play, out(s)",88.9,81.4,34.8,8.4,24.0,,,,2507,4,Shane Victorino,L,vs_RHP,446641,Wilton Lopez,R,vs_LHB,2011-04-01
+224,C,False,,Sinker,Called Strike,90.2,82.5,46.8,6.0,24.0,,,,2827,,Placido Polanco,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+225,F,False,,Sinker,Foul,87.8,81.3,33.6,8.4,24.0,,,,2260,,Placido Polanco,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+226,*B,False,,Sinker,Ball In Dirt,89.4,82.2,42.0,7.2,24.0,,,,2781,,Placido Polanco,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+227,B,False,,Sinker,Ball,89.9,82.2,33.6,4.8,24.0,,,,2312,,Placido Polanco,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+228,F,False,,Sinker,Foul,89.9,82.6,34.8,6.0,24.0,,,,2207,,Placido Polanco,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+229,X,True,,Splitter,"In play, out(s)",80.9,74.9,24.0,8.4,24.0,,,,1642,7,Placido Polanco,R,vs_RHP,446641,Wilton Lopez,R,vs_RHB,2011-04-01
+230,C,False,,Curveball,Called Strike,72.2,66.6,8.4,13.2,24.0,,,,862,,Brett Wallace,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+231,B,False,,Curveball,Ball,74.7,68.6,9.6,12.0,24.0,,,,912,,Brett Wallace,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+232,B,False,,Sinker,Ball,92.0,84.6,45.6,6.0,24.0,,,,2738,,Brett Wallace,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+233,X,True,,Sinker,"In play, out(s)",90.2,84.0,31.2,6.0,24.0,,,,1996,7,Brett Wallace,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+234,M,False,,Sinker,Missed Bunt,90.3,83.4,33.6,8.4,24.0,,,,2214,,Humberto Quintero,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+235,B,False,,Sinker,Ball,88.8,82.5,31.2,7.2,24.0,,,,1939,,Humberto Quintero,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+236,C,False,,Sinker,Called Strike,90.1,83.4,36.0,7.2,24.0,,,,2318,,Humberto Quintero,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+237,B,False,,Curveball,Ball,74.5,69.3,8.4,13.2,24.0,,,,1296,,Humberto Quintero,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+238,X,True,,Sinker,"In play, out(s)",90.6,84.3,40.8,6.0,24.0,,,,2470,6,Humberto Quintero,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+239,F,False,,Sinker,Foul,91.1,84.5,36.0,6.0,24.0,,,,2225,,Jason Bourgeois,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+240,B,False,,Sinker,Ball,90.8,83.9,37.2,7.2,24.0,,,,2277,,Jason Bourgeois,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+241,F,False,,Sinker,Foul,91.1,83.4,32.4,4.8,24.0,,,,2153,,Jason Bourgeois,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+242,F,False,,Curveball,Foul,72.6,66.9,8.4,14.4,24.0,,,,1400,,Jason Bourgeois,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+243,F,False,,Sinker,Foul,91.8,85.0,44.4,4.8,24.0,,,,2641,,Jason Bourgeois,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+244,D,True,,Sinker,"In play, no out",91.1,84.8,31.2,6.0,24.0,,,,1966,6,Jason Bourgeois,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+245,B,False,,Sinker,Ball,90.5,83.3,33.6,4.8,24.0,,,,2260,,Michael Bourn,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+246,B,False,,Sinker,Ball,89.8,83.5,28.8,4.8,24.0,,,,2121,,Michael Bourn,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+247,I,False,,Intentional Ball,Intent Ball,70.9,65.0,13.2,9.6,24.0,,,,1086,,Michael Bourn,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+248,I,False,,Intentional Ball,Intent Ball,69.1,63.7,14.4,10.8,24.0,,,,1232,,Michael Bourn,L,vs_RHP,276056,Danys Baez,R,vs_LHB,2011-04-01
+249,X,True,,Sinker,"In play, out(s)",89.3,82.1,33.6,6.0,24.0,,,,2117,1,Angel Sanchez,R,vs_RHP,276056,Danys Baez,R,vs_RHB,2011-04-01
+250,C,False,,Sinker,Called Strike,89.3,82.0,37.2,6.0,24.0,,,,2390,,Jimmy Rollins,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+251,B,False,,Sinker,Ball,90.3,82.4,36.0,6.0,24.0,,,,2251,,Jimmy Rollins,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+252,D,True,,Cutter,"In play, no out",87.9,82.3,12.0,6.0,24.0,,,,1118,9,Jimmy Rollins,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+253,C,False,,Four-Seam Fastball,Called Strike,87.2,79.9,14.4,6.0,24.0,,,,1302,,Ryan Howard,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+254,B,False,,Four-Seam Fastball,Ball,88.6,81.2,2.4,3.6,24.0,,,,1849,,Ryan Howard,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+255,B,False,,Sinker,Ball,89.5,82.6,30.0,7.2,24.0,,,,2014,,Ryan Howard,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+256,F,False,,Four-Seam Fastball,Foul,89.0,82.2,4.8,4.8,24.0,,,,1389,,Ryan Howard,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+257,B,False,,Four-Seam Fastball,Ball,88.9,80.9,2.4,4.8,24.0,,,,1430,,Ryan Howard,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+258,F,False,,Cutter,Foul,87.7,82.1,9.6,6.0,24.0,,,,1142,,Ryan Howard,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+259,D,True,,Four-Seam Fastball,"In play, no out",89.1,83.4,3.6,6.0,24.0,,,,780,8,Ryan Howard,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+260,B,False,,Four-Seam Fastball,Ball,89.5,81.3,6.0,4.8,24.0,,,,1712,,Raul Ibanez,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+261,S,False,,Sinker,Swinging Strike,90.2,83.1,28.8,6.0,24.0,,,,1895,,Raul Ibanez,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+262,C,False,,Sinker,Called Strike,90.6,82.8,49.2,6.0,24.0,,,,2986,,Raul Ibanez,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+263,X,True,,Four-Seam Fastball,"In play, out(s)",89.0,82.1,2.4,4.8,24.0,,,,1503,4,Raul Ibanez,L,vs_RHP,407193,Brandon Lyon,R,vs_LHB,2011-04-01
+264,C,False,,Four-Seam Fastball,Called Strike,88.7,81.1,7.2,4.8,24.0,,,,1694,,Ben Francisco,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+265,B,False,,Four-Seam Fastball,Ball,89.2,81.4,3.6,3.6,24.0,,,,1942,,Ben Francisco,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+266,B,False,,Four-Seam Fastball,Ball,88.3,82.5,1.2,4.8,24.0,,,,1196,,Ben Francisco,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+267,F,False,,Four-Seam Fastball,Foul,88.9,82.4,4.8,4.8,24.0,,,,1697,,Ben Francisco,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+268,E,True,Single,Curveball,"In play, run(s)",75.8,69.2,10.8,13.2,24.0,,,,1150,7,Ben Francisco,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+269,C,False,,Four-Seam Fastball,Called Strike,88.7,81.2,3.6,4.8,24.0,,,,1572,,Carlos Ruiz,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+270,F,False,,Four-Seam Fastball,Foul,88.2,81.6,6.0,6.0,24.0,,,,1105,,Carlos Ruiz,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+271,B,False,,Four-Seam Fastball,Ball,89.5,81.9,3.6,4.8,24.0,,,,1686,,Carlos Ruiz,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+272,F,False,,Curveball,Foul,77.3,71.4,14.4,12.0,24.0,,,,1300,,Carlos Ruiz,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+273,D,True,,Four-Seam Fastball,"In play, no out",87.8,81.9,1.2,6.0,24.0,,,,772,7,Carlos Ruiz,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+274,E,True,Single,Cutter,"In play, run(s)",87.3,80.8,13.2,4.8,24.0,,,,1418,7,Wilson Valdez,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+275,B,False,,Sinker,Ball,88.8,81.2,37.2,7.2,24.0,,,,2356,,John Mayberry Jr.,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+276,F,False,,Sinker,Foul,88.5,80.7,37.2,6.0,24.0,,,,2389,,John Mayberry Jr.,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+277,B,False,,Four-Seam Fastball,Ball,87.6,80.9,3.6,4.8,24.0,,,,1633,,John Mayberry Jr.,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+278,F,False,,Sinker,Foul,89.0,80.6,40.8,7.2,24.0,,,,2529,,John Mayberry Jr.,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
+279,E,True,Single,Four-Seam Fastball,"In play, run(s)",87.1,81.5,0.0,6.0,24.0,,,,895,8,John Mayberry Jr.,R,vs_RHP,407193,Brandon Lyon,R,vs_RHB,2011-04-01
